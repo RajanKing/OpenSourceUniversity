@@ -65,3 +65,4 @@ With his curiosity piqued, Luffy decides to embark on a journey of discovery, ex
 technology. He wants to learn about computers, programming, and all the amazing things they can do.
 
 And that's where we'll start our adventure together!
+[[Variables]]

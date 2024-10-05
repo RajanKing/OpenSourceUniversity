@@ -45,11 +45,14 @@ A comprehensive learning path for mastering data science skills. This curriculum
 
 ## Curriculum
 
-- [ ] Level 0 - Introduction to Computer Science and Mathematics:
-  - [ ] Introduction to Computer Science:
+- [ ] [[Introduction to Computer Science and Mathematics]] - Introduction to Computer Science and Mathematics:
+  - [x] [[Introduction to Computer Science]]:
+    - [ ] 
+    - [ ] [[Variables]]
+    - [ ] [[Comments, Indentation, and Statements]]
+    - [ ] [[Operators]]
+    - [ ] [[Loops and Conditionals]]
     - [ ] Programming logic and flow
-    - [ ] Variables and data types
-    - [ ] Loops and conditionals
   - [ ] Introduction to Mathematics:
     - [ ] Arithmetic operations
     - [ ] Fractions, ratios, proportions
