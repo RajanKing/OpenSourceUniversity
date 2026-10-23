@@ -1,0 +1,2948 @@
+[
+    {
+        "id":  "4u53an-SHGNCAh87GTd7C",
+        "label":  "OpenClaw vs Claude Code",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@4u53an-SHGNCAh87GTd7C.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Open Claw vs Claude Code",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/help/faq#what-are-the-advantages-vs-claude-code-for-web-development"
+                          },
+                          {
+                              "title":  "OpenClaw vs. Claude Code: Which AI agent fits your workflow?",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/vs-claude-code"
+                          },
+                          {
+                              "title":  "OpenClaw vs Claude explained simply in 8 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=b773XfpS7fw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6VS0lRVk60w49FvRiCRWK",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@6VS0lRVk60w49FvRiCRWK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Open Claw Docs",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/"
+                          },
+                          {
+                              "title":  "What Is OpenClaw? The Open-Source AI Agent That Actually Does Things",
+                              "type":  "article",
+                              "url":  "https://www.mindstudio.ai/blog/what-is-openclaw-ai-agent"
+                          },
+                          {
+                              "title":  "The wild rise of OpenClaw...",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ssYt09bCgUY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EggP8_uXPbgQeNKQFP4JJ",
+        "label":  "How OpenClaw Works",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@EggP8_uXPbgQeNKQFP4JJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenClaw Overview",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/"
+                          },
+                          {
+                              "title":  "Gateway Architecture",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/architecture"
+                          },
+                          {
+                              "title":  "OpenClaw Architecture, Explained: How It Works",
+                              "type":  "article",
+                              "url":  "https://ppaolo.substack.com/p/openclaw-system-architecture-overview"
+                          },
+                          {
+                              "title":  "How OpenClaw Works: The Architecture Behind the \u0027Magic\u0027",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CAbrRTu5xcw\u0026t=75s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "u9hCwPYZucGkb_zChmpzj",
+        "label":  "Setting up OpenClaw",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@u9hCwPYZucGkb_zChmpzj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/getting-started"
+                          },
+                          {
+                              "title":  "Onboarding Overview",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/onboarding-overview"
+                          },
+                          {
+                              "title":  "How to Install OpenClaw: A Complete Setup Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/installation-guide"
+                          },
+                          {
+                              "title":  "OpenClaw Full Tutorial for Beginners – How to Set Up and Use OpenClaw (ClawdBot / MoltBot)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=n1sfrc-RjyM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WeEz693z_j7kIL39uFyHF",
+        "label":  "Usage Best Practices",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@WeEz693z_j7kIL39uFyHF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CLI Reference",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli"
+                          },
+                          {
+                              "title":  "Vibe Coding Best Practices: How To Get Consistent Results",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/vibe-coding/best-practices"
+                          },
+                          {
+                              "title":  "OpenClaw Cheatsheet",
+                              "type":  "article",
+                              "url":  "https://moltfounders.com/openclaw-mega-cheatsheet"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "SOUL.md",
+                                "type":  "inline",
+                                "url":  "http://SOUL.md"
+                            },
+                            {
+                                "title":  "USER.md",
+                                "type":  "inline",
+                                "url":  "http://USER.md"
+                            },
+                            {
+                                "title":  "MEMORY.md",
+                                "type":  "inline",
+                                "url":  "http://MEMORY.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bmvpZKVx3YgUBEC3WfrWA",
+        "label":  "channels list",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@bmvpZKVx3YgUBEC3WfrWA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Common Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/channels#add-/-remove-accounts"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GUlO2ZchQ4EFcvDWpVQVV",
+        "label":  "channels login",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@GUlO2ZchQ4EFcvDWpVQVV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Login / logout (interactive)",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/channels#add-/-remove-accounts"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7pTIsu7dh8ue2Aju270Ec",
+        "label":  "channels add --channel",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@7pTIsu7dh8ue2Aju270Ec.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Add / remove accounts",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/channels#add-/-remove-accounts"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rjTLUR9vhsyqmHV4xRPyv",
+        "label":  "channels status --probe",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@rjTLUR9vhsyqmHV4xRPyv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Status / capabilities / resolve / logs",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/channels#status-/-capabilities-/-resolve-/-logs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YS-u4nfgmr9pOq_NLrdCA",
+        "label":  "models list | set | status",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@YS-u4nfgmr9pOq_NLrdCA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "model list",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/models#models-list"
+                          },
+                          {
+                              "title":  "models status",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/models#models-status"
+                          },
+                          {
+                              "title":  "Common commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/models?search=openclaw+models+set"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OJb7PnYnN2RW4fqLV-vnl",
+        "label":  "models auth setup-token",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@OJb7PnYnN2RW4fqLV-vnl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Model Providers",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/model-providers#model-providers"
+                          },
+                          {
+                              "title":  "Auth Providers",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/models#auth-profiles"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ce3e7IMiN-n3wX9PvJXoW",
+        "label":  "models auth add",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@ce3e7IMiN-n3wX9PvJXoW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Model Providers",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/model-providers#model-providers"
+                          },
+                          {
+                              "title":  "Auth Providers",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/models#auth-profiles"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0NpspxLPvMqvmeIq8hdd1",
+        "label":  "cron list",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@0NpspxLPvMqvmeIq8hdd1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scheduled Tasks",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/cron-jobs"
+                          },
+                          {
+                              "title":  "Cron",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lHePFHLUR1BKK9mC0HWLU",
+        "label":  "cron add",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@lHePFHLUR1BKK9mC0HWLU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scheduled Tasks",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/cron-jobs"
+                          },
+                          {
+                              "title":  "Cron",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D79q0eP_HbXBGWgDB6XgW",
+        "label":  "/status",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@D79q0eP_HbXBGWgDB6XgW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5ah4uCTo83YTFtn3kkH-l",
+        "label":  "/new",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@5ah4uCTo83YTFtn3kkH-l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-sFXMyN-4VvXdJCaU8qiK",
+        "label":  "/model",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@-sFXMyN-4VvXdJCaU8qiK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Model selection (/model)",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands#model-selection-/model"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kotkvs1mJRlHaEZA5NyDp",
+        "label":  "/context",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@kotkvs1mJRlHaEZA5NyDp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands#command-list"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nNM3q26rXk3_HoxyOYxcV",
+        "label":  "/compact",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@nNM3q26rXk3_HoxyOYxcV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          },
+                          {
+                              "title":  "Compaction",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/compaction"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Bz_gfPslArn4PH1clLiWl",
+        "label":  "memory index --all",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@Bz_gfPslArn4PH1clLiWl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory overview",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/memory#memory-overview"
+                          },
+                          {
+                              "title":  "memory",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eEXTZXgd2F51OAQQ6jELC",
+        "label":  "memory search \"\u003cquery\u003e\"",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@eEXTZXgd2F51OAQQ6jELC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bH9ebjEofXA3mwnmqRzW1",
+        "label":  "gateway",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@bH9ebjEofXA3mwnmqRzW1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway Runbook",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway"
+                          },
+                          {
+                              "title":  "gateway",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/gateway#gateway"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZCY_hUhVIMLPoXnRXVpkN",
+        "label":  "gateway start | stop | restart ",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@ZCY_hUhVIMLPoXnRXVpkN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway Runbook",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway"
+                          },
+                          {
+                              "title":  "Manage the Gateway service",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/gateway#manage-the-gateway-service"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qAL663Fl50skXD_zd1I7c",
+        "label":  "doctor --deep",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@qAL663Fl50skXD_zd1I7c.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Doctor",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/doctor"
+                          },
+                          {
+                              "title":  "doctor",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/doctor"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zqeuYyqd5pMPQLFfPnskC",
+        "label":  "security audit",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@zqeuYyqd5pMPQLFfPnskC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Quick check: openclaw security audit",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/security#quick-check-openclaw-security-audit"
+                          },
+                          {
+                              "title":  "security",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/security"
+                          },
+                          {
+                              "title":  "OpenClaw Security: 12 Best Practices Our Experts Recommend",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/security-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Phj_imdYA3Fr4HTcfyidD",
+        "label":  "doctor",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@Phj_imdYA3Fr4HTcfyidD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Doctor",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/doctor"
+                          },
+                          {
+                              "title":  "doctor",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/doctor"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jQwU2VQFmjyWQHn5PpViF",
+        "label":  "/help",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@jQwU2VQFmjyWQHn5PpViF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BJ3iFyZjmakxbeh4IsXkw",
+        "label":  "/reset",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@BJ3iFyZjmakxbeh4IsXkw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jhDkMmSD6bMZoTNOjZUnr",
+        "label":  "/stop",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@jhDkMmSD6bMZoTNOjZUnr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7_QUsiC57I4xcaySZYAoc",
+        "label":  "Skills",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@7_QUsiC57I4xcaySZYAoc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Skills",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/skills"
+                          },
+                          {
+                              "title":  "Skills Config",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/skills-config"
+                          },
+                          {
+                              "title":  "What are OpenClaw Skills? A 2026 Developer’s Guide",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/resources/articles/what-are-openclaw-skills"
+                          },
+                          {
+                              "title":  "Everything You Need to Know About OpenClaw Skills (Beginner to Pro)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kvTYp6uB_zQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fSHA8tY7RmDbD8zn3DDhu",
+        "label":  " Multi-Agents",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@fSHA8tY7RmDbD8zn3DDhu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Multi-Agent Routing",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/multi-agent"
+                          },
+                          {
+                              "title":  "Sub-Agents",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/subagents"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rEUJIhqOUyLORy6cnlAAj",
+        "label":  "Installing from ClawHub",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@rEUJIhqOUyLORy6cnlAAj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ClawHub",
+                              "type":  "official",
+                              "url":  "https://clawhub.ai/"
+                          },
+                          {
+                              "title":  "What is ClawHub?",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/clawhub"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xRDXMh4n8LghBX5TH0LIu",
+        "label":  "Creating Skills",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@xRDXMh4n8LghBX5TH0LIu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Creating Skills",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/creating-skills"
+                          },
+                          {
+                              "title":  "Create Unlimited OpenClaw Skills | Full Tutorial (Upstage Studio Skill)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=aYsPTu7VzEs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9wAYWJQBiWy_RF2AfQsqn",
+        "label":  "Security Risks",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@9wAYWJQBiWy_RF2AfQsqn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security and moderation",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/clawhub#security-and-moderation"
+                          },
+                          {
+                              "title":  "OpenClaw Security: 12 Best Practices Our Experts Recommend",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/security-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_tmV2qJyrkBBZdCL_xWh1",
+        "label":  "Routing Rules",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@_tmV2qJyrkBBZdCL_xWh1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Multi-Agent Routing",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/multi-agent"
+                          },
+                          {
+                              "title":  "Channel Routing",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels/channel-routing"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B4SyJwbv0HnI34BW81Ong",
+        "label":  "Auth \u0026 Model Providers",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@B4SyJwbv0HnI34BW81Ong.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Provider Directory",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/providers"
+                          },
+                          {
+                              "title":  "Provider Quickstart",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/providers/models"
+                          },
+                          {
+                              "title":  "OpenClaw Model Selection \u0026 API Providers",
+                              "type":  "article",
+                              "url":  "https://www.meta-intelligence.tech/en/insight-openclaw-model-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MbZFK1Q6ndoaDMsrf15Xi",
+        "label":  "Adding First Channel",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@MbZFK1Q6ndoaDMsrf15Xi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Channels",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wGp4nsoZNTbM4wgAmrqjj",
+        "label":  "Adding Daemon",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@wGp4nsoZNTbM4wgAmrqjj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run OpenClaw 24/7: Complete Setup Guide for Local, AWS \u0026 Ubuntu (2026)",
+                              "type":  "article",
+                              "url":  "https://dextralabs.com/blog/how-to-run-openclaw/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wp7wX-xbOKG5Aemo-rl4g",
+        "label":  "Workspace Settings",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@wp7wX-xbOKG5Aemo-rl4g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agent Workspace",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/agent-workspace"
+                          },
+                          {
+                              "title":  "How to Build and Secure a Personal AI Agent with OpenClaw",
+                              "type":  "article",
+                              "url":  "https://www.freecodecamp.org/news/how-to-build-and-secure-a-personal-ai-agent-with-openclaw/#heading-step-2-write-the-agents-operating-manual"
+                          },
+                          {
+                              "title":  "AI Agents 003 — OpenClaw Workspace Files Explained: SOUL.md, AGENTS.md, HEARTBEAT.md and More",
+                              "type":  "article",
+                              "url":  "https://capodieci.medium.com/ai-agents-003-openclaw-workspace-files-explained-soul-md-agents-md-heartbeat-md-and-more-5bdfbee4827a"
+                          },
+                          {
+                              "title":  "OpenClaw Workspace Files Tutorial (AI Agent\u0027s Brain)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XhtjVvlOO3U"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3bSTQ3nt5GdvKOder9J5R",
+        "label":  "Anthropic",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@3bSTQ3nt5GdvKOder9J5R.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Anthropic Provider",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/providers/anthropic"
+                          },
+                          {
+                              "title":  "Anthropic just blocked OpenClaw. Here’s what you need to do immediately",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cNALFf9R4t4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vLQ7hJJS3yXgbi0b-RAlb",
+        "label":  "OpenAI",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@vLQ7hJJS3yXgbi0b-RAlb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenAI Provider",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/providers/openai"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Le0uptRoIlwTZ7crU3rMQ",
+        "label":  "Gemini",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@Le0uptRoIlwTZ7crU3rMQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Google (Gemini) Provider",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/providers/google"
+                          },
+                          {
+                              "title":  "Gemini 3.1 Pro + OpenClaw Tested!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=es16_Icm_PM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2qAGs1j1MDaoQFCDpF37Z",
+        "label":  "Ollama",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@2qAGs1j1MDaoQFCDpF37Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ollama Provider",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/providers/ollama"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NhAOeGOqfUjkXth5DntKA",
+        "label":  "Why and Why not?",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@NhAOeGOqfUjkXth5DntKA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/getting-started"
+                          },
+                          {
+                              "title":  "The only OpenClaw tutorial you’ll ever need (March 2026 edition)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CxErCGVo-oo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EzEJOUOwLlVfA4q5NXC88",
+        "label":  "Use cases",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@EzEJOUOwLlVfA4q5NXC88.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Showcase - OpenClaw",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/showcase"
+                          },
+                          {
+                              "title":  "awesome-openclaw-usecases",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/README.md"
+                          },
+                          {
+                              "title":  "OpenClaw Use Cases that are actually helpful...",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Q7r--i9lLck"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nU3pnqImGhRO3QwK4CLeM",
+        "label":  "Gateway Settings",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@nU3pnqImGhRO3QwK4CLeM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway Configuration",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/configuration"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7bgIwJ5S-b6DXdLe-pWlI",
+        "label":  "Context Window",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@7bgIwJ5S-b6DXdLe-pWlI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Context",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/context"
+                          },
+                          {
+                              "title":  "Context Engine",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/context-engine"
+                          },
+                          {
+                              "title":  "OpenClaw Memory Masterclass: The complete guide to agent memory that survives • VelvetShark",
+                              "type":  "article",
+                              "url":  "https://velvetshark.com/openclaw-memory-masterclass"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "c9fsU9OeThY79MYbpzbA0",
+        "label":  "Memory System",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@c9fsU9OeThY79MYbpzbA0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/memory"
+                          },
+                          {
+                              "title":  "Compaction",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/compaction"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w8Vwf1Ak_gNdvgXOgU1Fo",
+        "label":  "Gateway",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@w8Vwf1Ak_gNdvgXOgU1Fo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway Runbook",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway"
+                          },
+                          {
+                              "title":  "OpenClaw Gateway: Setup, Start/Stop Commands \u0026 Remote Mode",
+                              "type":  "article",
+                              "url":  "https://www.meta-intelligence.tech/en/insight-openclaw-gateway"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-K12VwV2QQiQNjjjr-ENW",
+        "label":  "Channels",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@-K12VwV2QQiQNjjjr-ENW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Chat Channels",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "H4EXzyftWkvdFlMfU7ydG",
+        "label":  "Skills",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@H4EXzyftWkvdFlMfU7ydG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Skills",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/skills"
+                          },
+                          {
+                              "title":  "Agent Skills",
+                              "type":  "official",
+                              "url":  "https://agentskills.io/home"
+                          },
+                          {
+                              "title":  "What are OpenClaw Skills? A 2026 Developer’s Guide | DigitalOcean",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/resources/articles/what-are-openclaw-skills"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qzVRzcGnImdqVDw0W-Z7H",
+        "label":  "Proactive Core",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@qzVRzcGnImdqVDw0W-Z7H.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Automation \u0026 Tasks",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation"
+                          },
+                          {
+                              "title":  "How OpenClaw Works: Understanding AI Agents Through a Real Architecture",
+                              "type":  "article",
+                              "url":  "https://bibek-poudel.medium.com/how-openclaw-works-understanding-ai-agents-through-a-real-architecture-5d59cc7a4764"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i5pSML-UG6dqXETubMEs6",
+        "label":  "Agents",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@i5pSML-UG6dqXETubMEs6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agent Runtime",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/agent"
+                          },
+                          {
+                              "title":  "🦞 Awesome OpenClaw Agents",
+                              "type":  "opensource",
+                              "url":  "https://github.com/mergisi/awesome-openclaw-agents"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HebyE2mjSdCLBEbiJAbsC",
+        "label":  "MEMORY.md",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@HebyE2mjSdCLBEbiJAbsC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory Overview",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/memory#memory-overview"
+                          },
+                          {
+                              "title":  "MEMORY.md - Your Long-Term Memory",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/reference/templates/AGENTS#-memory-md-your-long-term-memory"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "MEMORY.md",
+                                "type":  "inline",
+                                "url":  "http://MEMORY.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4CT2VNLkpdqeartj2z0lt",
+        "label":  "AGENTS.md",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@4CT2VNLkpdqeartj2z0lt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Default AGENTS.md",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/reference/AGENTS.default#default-agents-md"
+                          },
+                          {
+                              "title":  "AGENTS.md Template",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/reference/templates/AGENTS"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "AGENTS.md",
+                                "type":  "inline",
+                                "url":  "http://AGENTS.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M1zIUsUO6qKhIXzxE9sho",
+        "label":  "SOUL.md",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@M1zIUsUO6qKhIXzxE9sho.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SOUL.md Personality Guide",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/soul#soul-md-personality-guide"
+                          },
+                          {
+                              "title":  "SOUL.md Template",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/reference/templates/SOUL#soul-md-template"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "SOUL.md",
+                                "type":  "inline",
+                                "url":  "http://SOUL.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "S7qSTFNATTfamM6XMnm-O",
+        "label":  "USER.md",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@S7qSTFNATTfamM6XMnm-O.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "USER Template",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/reference/templates/USER#user-md-about-your-human"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "USER.md",
+                                "type":  "inline",
+                                "url":  "http://USER.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7Nvwyi3YFerTpDKkA0Uzo",
+        "label":  "Other Workspace Files",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@7Nvwyi3YFerTpDKkA0Uzo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agent Workspace",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/agent-workspace"
+                          },
+                          {
+                              "title":  "AI Agents 003 — OpenClaw Workspace Files Explained: SOUL.md, AGENTS.md, HEARTBEAT.md and More",
+                              "type":  "article",
+                              "url":  "https://capodieci.medium.com/ai-agents-003-openclaw-workspace-files-explained-soul-md-agents-md-heartbeat-md-and-more-5bdfbee4827a"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "BOOT.md",
+                                "type":  "inline",
+                                "url":  "http://BOOT.md"
+                            },
+                            {
+                                "title":  "TOOLS.md",
+                                "type":  "inline",
+                                "url":  "http://TOOLS.md"
+                            },
+                            {
+                                "title":  "IDENTITY.md",
+                                "type":  "inline",
+                                "url":  "http://IDENTITY.md"
+                            },
+                            {
+                                "title":  "SOUL.md",
+                                "type":  "inline",
+                                "url":  "http://SOUL.md"
+                            },
+                            {
+                                "title":  "BOOTSTRAP.md",
+                                "type":  "inline",
+                                "url":  "http://BOOTSTRAP.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U1W-s3E2Iu74sFyf4U-vQ",
+        "label":  "memory/YYYY-MM-DD.md",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@U1W-s3E2Iu74sFyf4U-vQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory Overview",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/memory"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oaXblhElJYZoLT4OS-7TQ",
+        "label":  "Agent Loop",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@oaXblhElJYZoLT4OS-7TQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agent Loop",
+                              "type":  "article",
+                              "url":  "https://docs.openclaw.ai/concepts/agent-loop"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ouy9TRfFrXcsTKh_E2qjq",
+        "label":  "iMessage",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@ouy9TRfFrXcsTKh_E2qjq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BlueBubbles Channel",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels/bluebubbles"
+                          },
+                          {
+                              "title":  "OpenClaw SMS and iMessage setup guide (Twilio, BlueBubbles, imsg)",
+                              "type":  "article",
+                              "url":  "https://lumadock.com/tutorials/openclaw-sms-imessage-setup-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gFGGZE4AUBm8PxKHrF8_g",
+        "label":  "Telegram",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@gFGGZE4AUBm8PxKHrF8_g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Telegram Channel",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels/telegram"
+                          },
+                          {
+                              "title":  "How to Set Up OpenClaw with Telegram (So Your AI Can Text You Back)",
+                              "type":  "article",
+                              "url":  "https://blog.mohitnagaraj.in/blog/202602/openclaw-telegram-setup"
+                          },
+                          {
+                              "title":  "How to Connect OpenClaw to Telegram (Step-by-Step)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=U4wxi3tt7JU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4XYMS1wQa3ZwWCQNBnwpd",
+        "label":  "Slack",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@4XYMS1wQa3ZwWCQNBnwpd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slack Channel",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels/slack"
+                          },
+                          {
+                              "title":  "Connect OpenClaw to Slack in 5 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gOUbJA9YFiE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y6qWd-k0SiMhLFexkyQb5",
+        "label":  "WhatsApp",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@y6qWd-k0SiMhLFexkyQb5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "WhatsApp Channel",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels/whatsapp"
+                          },
+                          {
+                              "title":  "Connect OpenClaw to WhatsApp in 5 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cQ6diPGtwAY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ghi0M5P_JMm7D_JhIwJXC",
+        "label":  "Discord",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@ghi0M5P_JMm7D_JhIwJXC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Discord Channel",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels/discord"
+                          },
+                          {
+                              "title":  "Set Up OpenClaw + Discord Fast (Step-by-Step)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=uy_wmsEwW6U"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0a08Q6vTfqbG94tcJYxN2",
+        "label":  "Signal",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@0a08Q6vTfqbG94tcJYxN2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Signal Channel",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/channels/signal"
+                          },
+                          {
+                              "title":  "OpenClaw Signal Setup - How To Connect Signal With OpenClaw (Signal integration)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fbdT7akVm2I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QbcsFFPpZt7k_R_70jLxe",
+        "label":  "Plugins",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@QbcsFFPpZt7k_R_70jLxe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tools and Plugins",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools"
+                          },
+                          {
+                              "title":  "Plugins",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/plugin"
+                          },
+                          {
+                              "title":  "Create OpenClaw AI Plugin for Extra Features and Skills | Step-by-Step Guide for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=baHEUzqatK4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uX7uZBFzUyVJ4aKjyjBHq",
+        "label":  "Automating Tasks",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@uX7uZBFzUyVJ4aKjyjBHq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Automation Overview",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation"
+                          },
+                          {
+                              "title":  "OpenClaw (Clawdbot) use cases: 9 automations + 4 wild builds that actually work",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=52kOmSQGt_E"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KJ_Y5N8D-FWZIz52ajcO8",
+        "label":  "Hooks",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@KJ_Y5N8D-FWZIz52ajcO8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/hooks"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "F0jyMHHjeAbftNw2BjrUi",
+        "label":  "Webhooks",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@F0jyMHHjeAbftNw2BjrUi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Webhooks",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/cron-jobs#webhooks"
+                          },
+                          {
+                              "title":  "OpenClaw webhooks explained: A complete guide",
+                              "type":  "article",
+                              "url":  "https://lumadock.com/tutorials/openclaw-webhooks-explained"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XCpfUKOalyeNAx6Z5DPVG",
+        "label":  "Heartbeats",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@XCpfUKOalyeNAx6Z5DPVG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scheduled Tasks (Cron) vs Heartbeat",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation#scheduled-tasks-cron-vs-heartbeat"
+                          },
+                          {
+                              "title":  "Heartbeat",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/heartbeat"
+                          },
+                          {
+                              "title":  "OpenClaw Cron Jobs vs Heartbeat Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KtNZ1twkc7o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3v3VJETUQ1x1eKWUo8jhf",
+        "label":  "Cron Jobs",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@3v3VJETUQ1x1eKWUo8jhf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scheduled Tasks",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/cron-jobs"
+                          },
+                          {
+                              "title":  "OpenClaw Cron Jobs vs Heartbeat Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KtNZ1twkc7o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aezBZ3XK1cXgMn1QTvBMs",
+        "label":  "Managing \u0026 Disabling Jobs",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@aezBZ3XK1cXgMn1QTvBMs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Managing jobs",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/cron-jobs#managing-jobs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HnF_CCNL3pssicFlGNta3",
+        "label":  "Event Types",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@HnF_CCNL3pssicFlGNta3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Event Types",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/hooks#event-types"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yxty1gRUtcy-GoPFV4ybO",
+        "label":  "Hook Structure",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@yxty1gRUtcy-GoPFV4ybO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hook Structure",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/automation/hooks#hook-structure"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "abWTw0gTCO4R3VygeDqsL",
+        "label":  "Securing Webhooks",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@abWTw0gTCO4R3VygeDqsL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Webhooks Plugin",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/plugins/webhooks"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eXo_Wxhg-i7v6lx12NqAu",
+        "label":  "HEARTBEAT.md",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@eXo_Wxhg-i7v6lx12NqAu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HEARTBEAT.md",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/heartbeat#heartbeat-md-optional"
+                          },
+                          {
+                              "title":  "HEARTBEAT.md Template",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/reference/templates/HEARTBEAT"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "HEARTBEAT.md",
+                                "type":  "inline",
+                                "url":  "http://HEARTBEAT.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D8VJRcsVLzwCLSZX5TkoR",
+        "label":  "Interval \u0026 Active Hours",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@D8VJRcsVLzwCLSZX5TkoR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Heartbeat",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/heartbeat#heartbeat-gateway"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vFjddVdOJvkTDptambYt0",
+        "label":  "MCP",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@vFjddVdOJvkTDptambYt0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "mcp",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/mcp#mcp"
+                          },
+                          {
+                              "title":  "How to Set Up OpenClaw MCP Server",
+                              "type":  "article",
+                              "url":  "https://fast.io/resources/openclaw-mcp-setup/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l4jRfrWA0ATEsywdoZQyv",
+        "label":  "Creating Plugins",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@l4jRfrWA0ATEsywdoZQyv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Building Plugins",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/plugins/building-plugins"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "reIkqx-GGIq31cv2cHXbZ",
+        "label":  "Installing Plugins",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@reIkqx-GGIq31cv2cHXbZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Install and Configure",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/plugin"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BczmS7SR1jk9FJqlQmqVb",
+        "label":  "channels remove --channel",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@BczmS7SR1jk9FJqlQmqVb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Add / remove accounts",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/channels#add-/-remove-accounts"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WblCEWQzvYDzVdn3XEIa8",
+        "label":  "onboard",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@WblCEWQzvYDzVdn3XEIa8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Onboarding: CLI",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/wizard"
+                          },
+                          {
+                              "title":  "onboard",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/onboard"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "f8WQ8qOiCFpW3sTJbIc2D",
+        "label":  "backup create",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@f8WQ8qOiCFpW3sTJbIc2D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "backup",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/backup#backup"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1qsX8SiXVlpVrOXZE-5mg",
+        "label":  "/usage",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@1qsX8SiXVlpVrOXZE-5mg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xBl2Xgvbi6f_zwl4uPJhu",
+        "label":  "/think",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@xBl2Xgvbi6f_zwl4uPJhu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          },
+                          {
+                              "title":  "Thinking Levels",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/thinking"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RZ2afehxi2PlKAFp9WY_3",
+        "label":  "/fast",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@RZ2afehxi2PlKAFp9WY_3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fast mode (/fast)",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/thinking#fast-mode-/fast"
+                          },
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M6sqVDIh4d4lYNefJqKX5",
+        "label":  "/reasoning",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@M6sqVDIh4d4lYNefJqKX5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          },
+                          {
+                              "title":  "Reasoning visibility (/reasoning)",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/thinking#reasoning-visibility-%2Freasoning"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v4nwaFwHjh2UQ8rsBiTOo",
+        "label":  "/allowlist",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@v4nwaFwHjh2UQ8rsBiTOo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          },
+                          {
+                              "title":  "Allowlists (DM + groups) - terminology",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/security#allowlists-dm-+-groups-terminology"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "T8qUFenL-CKPWnwOEe8lS",
+        "label":  "/config",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@T8qUFenL-CKPWnwOEe8lS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Config updates",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands#config-updates"
+                          },
+                          {
+                              "title":  "Gateway Configuration",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/configuration"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kPrB8vWCQkXdiEm42TVel",
+        "label":  "/mcp",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@kPrB8vWCQkXdiEm42TVel.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MCP Updates",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands#mcp-updates"
+                          },
+                          {
+                              "title":  "mcp",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/cli/mcp#mcp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MeNsZrMsNU_xZR9hmLkQz",
+        "label":  "/plugins",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@MeNsZrMsNU_xZR9hmLkQz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slash Commands",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/slash-commands"
+                          },
+                          {
+                              "title":  "Install and Configure",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/plugin"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gN2oNDE7FXPyBh_5ZOu_Z",
+        "label":  "Security Risks",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@gN2oNDE7FXPyBh_5ZOu_Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Install and Configure",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/tools/plugin"
+                          },
+                          {
+                              "title":  "Threat Model",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/security/THREAT-MODEL-ATLAS"
+                          },
+                          {
+                              "title":  "OpenClaw Security: 12 Best Practices Our Experts Recommend",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/security-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "02A7y4sZ-qg3-dx1wmxwj",
+        "label":  "Local Machine",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@02A7y4sZ-qg3-dx1wmxwj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/getting-started"
+                          },
+                          {
+                              "title":  "How to Install OpenClaw: A Complete Setup Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/installation-guide"
+                          },
+                          {
+                              "title":  "OpenClaw Full Tutorial for Beginners – How to Set Up and Use OpenClaw (ClawdBot / MoltBot)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=n1sfrc-RjyM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y29FvjAzA1KhzlC49XPfh",
+        "label":  "Security Best Practices",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@y29FvjAzA1KhzlC49XPfh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/security"
+                          },
+                          {
+                              "title":  "Gateway Runbook",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway"
+                          },
+                          {
+                              "title":  "OpenClaw Security: 12 Best Practices Our Experts Recommend",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/security-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bnyEeJVvaysPBkIevTCBa",
+        "label":  "VPS/Cloud",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@bnyEeJVvaysPBkIevTCBa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Remote Access",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/remote#macos-persistent-ssh-tunnel-via-launchagent"
+                          },
+                          {
+                              "title":  "How to Install OpenClaw: A Complete Setup Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/installation-guide"
+                          },
+                          {
+                              "title":  "Self-Host OpenClaw on a Free VPS — Step by Step",
+                              "type":  "article",
+                              "url":  "https://cognio.so/clawdbot/self-hosting"
+                          },
+                          {
+                              "title":  "OpenClaw Tutorial for Beginners - Full Setup Guide",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=WDHgibiZ9S8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y8n10TL6_mWldqclw1Dcz",
+        "label":  "Dedicated Hardware",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@y8n10TL6_mWldqclw1Dcz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Install OpenClaw: A Complete Setup Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/installation-guide"
+                          },
+                          {
+                              "title":  "OpenClaw: The complete guide to building, training, and living with your personal AI agent",
+                              "type":  "article",
+                              "url":  "https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building?hide_intro_popup=true"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CE3p60gkIzzHBh69kKiIw",
+        "label":  "Raspberry Pi",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@CE3p60gkIzzHBh69kKiIw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Raspberry Pi Hosting",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/install/raspberry-pi#raspberry-pi"
+                          },
+                          {
+                              "title":  "OpenClaw on Raspberry Pi 5: Full Setup Guide + AI Agent Demo (Step-by-Step)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NqY0wF4YKXo"
+                          },
+                          {
+                              "title":  "OpenClaw on Raspberry Pi",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fMtQy9msLz0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oEAIlEf0PqO8TWl-w2NUC",
+        "label":  "Mac Mini",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@oEAIlEf0PqO8TWl-w2NUC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to set up OpenClaw on Mac mini (full tutorial)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dKRJQeGIj_E"
+                          },
+                          {
+                              "title":  "OpenClaw Installation Guide: The Setup That Actually Works!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9xnWCeLhRow"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nVzj2P826S2LjUCpdYGVo",
+        "label":  "Docker",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@nVzj2P826S2LjUCpdYGVo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Docker Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/docker"
+                          },
+                          {
+                              "title":  "Docker Install",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/install/docker"
+                          },
+                          {
+                              "title":  "Use OpenClaw to Make a Personal AI Assistant",
+                              "type":  "article",
+                              "url":  "https://towardsdatascience.com/use-openclaw-to-make-a-personal-ai-assistant/?utm_source=roadmap\u0026utm_medium=Referral\u0026utm_campaign=TDS+roadmap+integration"
+                          },
+                          {
+                              "title":  "How To Install and Setup OpenClaw With Docker | OpenClaw AI Docker Setup | Clawdbot, Moltbot",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Ql4nm0FW_MA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2JiT8CS9PSVSfIeao29hq",
+        "label":  "Installation",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@2JiT8CS9PSVSfIeao29hq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/getting-started"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sI6wvGO8kZN8M_RIjQ7FN",
+        "label":  "Onboarding",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@sI6wvGO8kZN8M_RIjQ7FN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Onboarding Overview",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/onboarding-overview"
+                          },
+                          {
+                              "title":  "Onboarding CLI",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/start/wizard"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4XsdBdveBxrTIg3WdzzOO",
+        "label":  "Sessions",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@4XsdBdveBxrTIg3WdzzOO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Session Management",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/session"
+                          },
+                          {
+                              "title":  "Session Pruning",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/concepts/session-pruning"
+                          },
+                          {
+                              "title":  "OpenClaw Session Management Explained",
+                              "type":  "article",
+                              "url":  "https://www.dench.com/blog/openclaw-session-management"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v2fsulkH_nGktwcdk8QWR",
+        "label":  "Why and Why not?",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@v2fsulkH_nGktwcdk8QWR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Remote Access",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/remote#macos-persistent-ssh-tunnel-via-launchagent"
+                          },
+                          {
+                              "title":  "DO NOT use a VPS for OpenClaw (major warning)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ev4iiGXlnh0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qDidhG0fztZ38BSMv76YI",
+        "label":  "Security Best Practices",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@qDidhG0fztZ38BSMv76YI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/security"
+                          },
+                          {
+                              "title":  "Threat Model",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/security/THREAT-MODEL-ATLAS"
+                          },
+                          {
+                              "title":  "OpenClaw Security: 12 Best Practices Our Experts Recommend",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/openclaw/security-best-practices"
+                          },
+                          {
+                              "title":  "DO NOT use a VPS for OpenClaw (major warning)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ev4iiGXlnh0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "htT_HpzKKNXSbxhWf4dCJ",
+        "label":  "Why and Why not?",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@htT_HpzKKNXSbxhWf4dCJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Remote Access",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/gateway/remote"
+                          },
+                          {
+                              "title":  "OpenClaw Tutorial for Beginners: How to Use \u0026 Set up OpenClaw (ClawdBot)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CxErCGVo-oo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HgvUjBAWLLmT_QBYeSyli",
+        "label":  "Pick a Provider",
+        "endpoint":  "https://roadmap.sh/openclaw/topic@HgvUjBAWLLmT_QBYeSyli.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hosting and Deployment",
+                              "type":  "official",
+                              "url":  "https://docs.openclaw.ai/install#hosting-and-deployment"
+                          },
+                          {
+                              "title":  "Best VPS hosts for OpenClaw ?",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/VPS/comments/1reuehc/best_vps_hosts_for_openclaw/#:~:text=Comments%20Section,a%20script%20for%20the%20setup"
+                          },
+                          {
+                              "title":  "Run OpenClaw for $0/Month — 5 Free VPS That Actually Work in 2026",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=EfmIl0_Naj8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "Fly.io",
+                                "type":  "inline",
+                                "url":  "http://Fly.io"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

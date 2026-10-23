@@ -1,0 +1,398 @@
+[
+    {
+        "slug":  "ai-agents",
+        "source":  "https://roadmap.sh/ai-agents",
+        "title":  "AI Agents",
+        "status":  "retrieved",
+        "nodes":  189,
+        "edges":  25,
+        "topics":  101
+    },
+    {
+        "slug":  "ai-engineer",
+        "source":  "https://roadmap.sh/ai-engineer",
+        "title":  "AI Engineer",
+        "status":  "retrieved",
+        "nodes":  280,
+        "edges":  41,
+        "topics":  190
+    },
+    {
+        "slug":  "ai-product-builder",
+        "source":  "https://roadmap.sh/ai-product-builder",
+        "title":  "AI Product Builder",
+        "status":  "retrieved",
+        "nodes":  93,
+        "edges":  15,
+        "topics":  52
+    },
+    {
+        "slug":  "api-design",
+        "source":  "https://roadmap.sh/api-design",
+        "title":  "API Design",
+        "status":  "retrieved",
+        "nodes":  123,
+        "edges":  55,
+        "topics":  97
+    },
+    {
+        "slug":  "aws",
+        "source":  "https://roadmap.sh/aws",
+        "title":  "AWS Roadmap",
+        "status":  "retrieved",
+        "nodes":  131,
+        "edges":  52,
+        "topics":  101
+    },
+    {
+        "slug":  "backend",
+        "source":  "https://roadmap.sh/backend",
+        "title":  "Backend Developer",
+        "status":  "retrieved",
+        "nodes":  225,
+        "edges":  60,
+        "topics":  155
+    },
+    {
+        "slug":  "claude-code",
+        "source":  "https://roadmap.sh/claude-code",
+        "title":  "Claude Code",
+        "status":  "retrieved",
+        "nodes":  145,
+        "edges":  46,
+        "topics":  113
+    },
+    {
+        "slug":  "cpp",
+        "source":  "https://roadmap.sh/cpp",
+        "title":  "C++ Developer Roadmap",
+        "status":  "retrieved",
+        "nodes":  164,
+        "edges":  39,
+        "topics":  127
+    },
+    {
+        "slug":  "css",
+        "source":  "https://roadmap.sh/css",
+        "title":  "CSS",
+        "status":  "retrieved",
+        "nodes":  147,
+        "edges":  42,
+        "topics":  104
+    },
+    {
+        "slug":  "cyber-security",
+        "source":  "https://roadmap.sh/cyber-security",
+        "title":  "Cyber Security Expert",
+        "status":  "retrieved",
+        "nodes":  373,
+        "edges":  18,
+        "topics":  301
+    },
+    {
+        "slug":  "data-engineer",
+        "source":  "https://roadmap.sh/data-engineer",
+        "title":  "Data Engineer Roadmap",
+        "status":  "retrieved",
+        "nodes":  258,
+        "edges":  73,
+        "topics":  184
+    },
+    {
+        "slug":  "datastructures-and-algorithms",
+        "source":  "https://roadmap.sh/datastructures-and-algorithms",
+        "title":  "Data Structures \u0026 Algorithms",
+        "status":  "retrieved",
+        "nodes":  134,
+        "edges":  42,
+        "topics":  107
+    },
+    {
+        "slug":  "devops",
+        "source":  "https://roadmap.sh/devops",
+        "title":  "DevOps Roadmap",
+        "status":  "retrieved",
+        "nodes":  171,
+        "edges":  60,
+        "topics":  139
+    },
+    {
+        "slug":  "devsecops",
+        "source":  "https://roadmap.sh/devsecops",
+        "title":  "DevSecOps",
+        "status":  "retrieved",
+        "nodes":  131,
+        "edges":  33,
+        "topics":  93
+    },
+    {
+        "slug":  "docker",
+        "source":  "https://roadmap.sh/docker",
+        "title":  "Docker Roadmap",
+        "status":  "retrieved",
+        "nodes":  79,
+        "edges":  30,
+        "topics":  57
+    },
+    {
+        "slug":  "frontend",
+        "source":  "https://roadmap.sh/frontend",
+        "title":  "Frontend Developer",
+        "status":  "retrieved",
+        "nodes":  156,
+        "edges":  69,
+        "topics":  120
+    },
+    {
+        "slug":  "full-stack",
+        "source":  "https://roadmap.sh/full-stack",
+        "title":  "Full Stack Developer",
+        "status":  "retrieved",
+        "nodes":  79,
+        "edges":  21,
+        "topics":  37
+    },
+    {
+        "slug":  "git-github",
+        "source":  "https://roadmap.sh/git-github",
+        "title":  "Learn Git and GitHub",
+        "status":  "retrieved",
+        "nodes":  201,
+        "edges":  77,
+        "topics":  156
+    },
+    {
+        "slug":  "golang",
+        "source":  "https://roadmap.sh/golang",
+        "title":  "Go Developer",
+        "status":  "retrieved",
+        "nodes":  231,
+        "edges":  77,
+        "topics":  172
+    },
+    {
+        "slug":  "graphql",
+        "source":  "https://roadmap.sh/graphql",
+        "title":  "GraphQL",
+        "status":  "retrieved",
+        "nodes":  104,
+        "edges":  32,
+        "topics":  66
+    },
+    {
+        "slug":  "html",
+        "source":  "https://roadmap.sh/html",
+        "title":  "HTML",
+        "status":  "retrieved",
+        "nodes":  111,
+        "edges":  53,
+        "topics":  88
+    },
+    {
+        "slug":  "inference-engineering",
+        "source":  "https://roadmap.sh/inference-engineering",
+        "title":  "Inference Engineering",
+        "status":  "retrieved",
+        "nodes":  175,
+        "edges":  113,
+        "topics":  138
+    },
+    {
+        "slug":  "java",
+        "source":  "https://roadmap.sh/java",
+        "title":  "Java Developer",
+        "status":  "retrieved",
+        "nodes":  125,
+        "edges":  29,
+        "topics":  88
+    },
+    {
+        "slug":  "javascript",
+        "source":  "https://roadmap.sh/javascript",
+        "title":  "JavaScript Roadmap",
+        "status":  "retrieved",
+        "nodes":  165,
+        "edges":  76,
+        "topics":  126
+    },
+    {
+        "slug":  "kubernetes",
+        "source":  "https://roadmap.sh/kubernetes",
+        "title":  "Kubernetes Roadmap",
+        "status":  "retrieved",
+        "nodes":  86,
+        "edges":  29,
+        "topics":  67
+    },
+    {
+        "slug":  "linux",
+        "source":  "https://roadmap.sh/linux",
+        "title":  "Linux Roadmap",
+        "status":  "retrieved",
+        "nodes":  121,
+        "edges":  51,
+        "topics":  102
+    },
+    {
+        "slug":  "mlops",
+        "source":  "https://roadmap.sh/mlops",
+        "title":  "MLOps Roadmap",
+        "status":  "retrieved",
+        "nodes":  80,
+        "edges":  40,
+        "topics":  62
+    },
+    {
+        "slug":  "mongodb",
+        "source":  "https://roadmap.sh/mongodb",
+        "title":  "MongoDB",
+        "status":  "retrieved",
+        "nodes":  138,
+        "edges":  42,
+        "topics":  106
+    },
+    {
+        "slug":  "nodejs",
+        "source":  "https://roadmap.sh/nodejs",
+        "title":  "Node.js Developer",
+        "status":  "retrieved",
+        "nodes":  160,
+        "edges":  40,
+        "topics":  113
+    },
+    {
+        "slug":  "openclaw",
+        "source":  "https://roadmap.sh/openclaw",
+        "title":  "OpenClaw",
+        "status":  "retrieved",
+        "nodes":  154,
+        "edges":  28,
+        "topics":  107
+    },
+    {
+        "slug":  "postgresql-dba",
+        "source":  "https://roadmap.sh/postgresql-dba",
+        "title":  "PostgreSQL DBA",
+        "status":  "retrieved",
+        "nodes":  233,
+        "edges":  35,
+        "topics":  170
+    },
+    {
+        "slug":  "prompt-engineering",
+        "source":  "https://roadmap.sh/prompt-engineering",
+        "title":  "Prompt Engineering Roadmap",
+        "status":  "retrieved",
+        "nodes":  94,
+        "edges":  12,
+        "topics":  47
+    },
+    {
+        "slug":  "python",
+        "source":  "https://roadmap.sh/python",
+        "title":  "Python Developer",
+        "status":  "retrieved",
+        "nodes":  124,
+        "edges":  31,
+        "topics":  87
+    },
+    {
+        "slug":  "react",
+        "source":  "https://roadmap.sh/react",
+        "title":  "React Developer",
+        "status":  "retrieved",
+        "nodes":  112,
+        "edges":  50,
+        "topics":  82
+    },
+    {
+        "slug":  "redis",
+        "source":  "https://roadmap.sh/redis",
+        "title":  "Redis Roadmap",
+        "status":  "retrieved",
+        "nodes":  246,
+        "edges":  46,
+        "topics":  162
+    },
+    {
+        "slug":  "rust",
+        "source":  "https://roadmap.sh/rust",
+        "title":  "Rust Developer",
+        "status":  "retrieved",
+        "nodes":  176,
+        "edges":  39,
+        "topics":  122
+    },
+    {
+        "slug":  "scala",
+        "source":  "https://roadmap.sh/scala",
+        "title":  "Scala",
+        "status":  "retrieved",
+        "nodes":  231,
+        "edges":  75,
+        "topics":  166
+    },
+    {
+        "slug":  "shell-bash",
+        "source":  "https://roadmap.sh/shell-bash",
+        "title":  "Shell / Bash Roadmap",
+        "status":  "retrieved",
+        "nodes":  237,
+        "edges":  46,
+        "topics":  174
+    },
+    {
+        "slug":  "sql",
+        "source":  "https://roadmap.sh/sql",
+        "title":  "SQL Roadmap",
+        "status":  "retrieved",
+        "nodes":  158,
+        "edges":  33,
+        "topics":  113
+    },
+    {
+        "slug":  "system-design",
+        "source":  "https://roadmap.sh/system-design",
+        "title":  "System Design Roadmap",
+        "status":  "retrieved",
+        "nodes":  201,
+        "edges":  42,
+        "topics":  147
+    },
+    {
+        "slug":  "technical-writer",
+        "source":  "https://roadmap.sh/technical-writer",
+        "title":  "Technical Writer",
+        "status":  "retrieved",
+        "nodes":  103,
+        "edges":  41,
+        "topics":  84
+    },
+    {
+        "slug":  "terraform",
+        "source":  "https://roadmap.sh/terraform",
+        "title":  "Terraform Roadmap",
+        "status":  "retrieved",
+        "nodes":  128,
+        "edges":  79,
+        "topics":  110
+    },
+    {
+        "slug":  "typescript",
+        "source":  "https://roadmap.sh/typescript",
+        "title":  "TypeScript",
+        "status":  "retrieved",
+        "nodes":  120,
+        "edges":  44,
+        "topics":  93
+    },
+    {
+        "slug":  "vibe-coding",
+        "source":  "https://roadmap.sh/vibe-coding",
+        "title":  "Vibe Coding",
+        "status":  "retrieved",
+        "nodes":  93,
+        "edges":  2,
+        "topics":  18
+    }
+]

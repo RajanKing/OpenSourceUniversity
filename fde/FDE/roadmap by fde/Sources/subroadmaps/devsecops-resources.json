@@ -1,0 +1,3114 @@
+[
+    {
+        "id":  "-X3GTFpg3kzm0cELAngjb",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@-X3GTFpg3kzm0cELAngjb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DevSecOps",
+                              "type":  "course",
+                              "url":  "https://www.skills.google/paths/76"
+                          },
+                          {
+                              "title":  "What is DevSecOps? - Red Hat",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/devops/what-is-devsecops"
+                          },
+                          {
+                              "title":  "What is DevSecOps? - AWS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/devsecops/"
+                          },
+                          {
+                              "title":  "DevSecOps Course for Beginners – API Security",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=JfiWi8RjN-8"
+                          },
+                          {
+                              "title":  "Everything you NEED to know about DevSecOps in 5 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DTEaw2-Sa7I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "k7AtVkkVavHjCVo1hqCc0",
+        "label":  "CIA Triad",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@k7AtVkkVavHjCVo1hqCc0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The CIA Triad",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/cia-triad"
+                          },
+                          {
+                              "title":  "The CIA Triad - Professor Messer",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=SBcDGb9l6yo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iiOWJ7KXyHp_ovVWNmDoc",
+        "label":  "Authentication",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@iiOWJ7KXyHp_ovVWNmDoc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Basic Authentication",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/guides/basic-authentication"
+                          },
+                          {
+                              "title":  "Session Based Authentication",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/guides/session-based-authentication"
+                          },
+                          {
+                              "title":  "Token Based Authentication",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/guides/token-authentication"
+                          },
+                          {
+                              "title":  "JWT Authentication",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/guides/jwt-authentication"
+                          },
+                          {
+                              "title":  "Auth - Open Authorization",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/guides/oauth"
+                          },
+                          {
+                              "title":  "SSO - Single Sign On",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/guides/sso"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "igGASa7AknApWtq57v2Qx",
+        "label":  "OWASP Top 10",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@igGASa7AknApWtq57v2Qx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OWASP Top 10",
+                              "type":  "article",
+                              "url":  "https://owasp.org/www-project-top-ten/"
+                          },
+                          {
+                              "title":  "What is the OWASP Top 10?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/security/threats/owasp-top-10/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mT1cKWZcKXwvopW6BeX-A",
+        "label":  "Symmetric",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@mT1cKWZcKXwvopW6BeX-A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is symmetric encryption?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/symmetric-encryption"
+                          },
+                          {
+                              "title":  "What is Symmetric Encryption? Simply Explained | CyberArk",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Wh9iC6uMv9s"
+                          },
+                          {
+                              "title":  "What is symmetric encryption?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=8Ov4HyncJUU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hz0WFG5ksaBFMpq7ypLgF",
+        "label":  "Asymmetric",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@hz0WFG5ksaBFMpq7ypLgF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is asymmetric encryption?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/asymmetric-encryption"
+                          },
+                          {
+                              "title":  "Asymmetric Encryption - Simply explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=AQDCe585Lnc"
+                          },
+                          {
+                              "title":  "Symmetric vs. Asymmetric Encryption - CompTIA Security+ SY0-401: 6.1",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=z2aueocJE8Q"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0ey7Spq4DoZ-AfXOsMtag",
+        "label":  "Encryption",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@0ey7Spq4DoZ-AfXOsMtag.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Encryption?",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/learn/what-is-encryption"
+                          },
+                          {
+                              "title":  "What is Encryption?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9chKCUQ8_VQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LV_uiNRdUi9OrmxQCdeGw",
+        "label":  "Firewalls",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@LV_uiNRdUi9OrmxQCdeGw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Firewall?",
+                              "type":  "article",
+                              "url":  "https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/"
+                          },
+                          {
+                              "title":  "Types of Firewall",
+                              "type":  "article",
+                              "url":  "https://www.cisco.com/c/en_in/products/security/firewalls/what-is-a-firewall.html"
+                          },
+                          {
+                              "title":  "Uncomplicated Firewall (UFW)",
+                              "type":  "article",
+                              "url":  "https://dev.to/coder7475/uncomplicated-firewall-ufw-1638"
+                          },
+                          {
+                              "title":  "Why do we need Firewalls?",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/what-is-a-firewall-and-why-do-you-need-one"
+                          },
+                          {
+                              "title":  "Firewalls and Network Security - SimpliLearn",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9GZlVOafYTg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TnDsOr1iJX3hY7vJRpp7S",
+        "label":  "DNS",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@TnDsOr1iJX3hY7vJRpp7S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is DNS?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+                          },
+                          {
+                              "title":  "Mess with DNS - DNS Playground",
+                              "type":  "article",
+                              "url":  "https://messwithdns.net/"
+                          },
+                          {
+                              "title":  "How DNS works (comic)",
+                              "type":  "article",
+                              "url":  "https://howdns.works/"
+                          },
+                          {
+                              "title":  "DNS and How does it Work?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "example.com",
+                                "type":  "inline",
+                                "url":  "http://example.com"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lLWQhvzXn3EpeCf9Mhgyj",
+        "label":  "ACLs",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@lLWQhvzXn3EpeCf9Mhgyj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Access Control List: Definition, Types \u0026 Usages",
+                              "type":  "article",
+                              "url":  "https://www.okta.com/uk/identity-101/access-control-list/"
+                          },
+                          {
+                              "title":  "Access Control Lists",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IwLyr0mKK1w"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WamX-UieM8NxhK6P_bDCB",
+        "label":  "HTTP",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@WamX-UieM8NxhK6P_bDCB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Everything you need to know about HTTP",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/http-in-depth"
+                          },
+                          {
+                              "title":  "What is HTTP?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+                          },
+                          {
+                              "title":  "An overview of HTTP",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+                          },
+                          {
+                              "title":  "HTTP/1 to HTTP/2 to HTTP/3",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=a-sBfyiXysI"
+                          },
+                          {
+                              "title":  "HTTP Crash Course \u0026 Exploration",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GPVN-nDitsY1bF_3huqnh",
+        "label":  "VLANs",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@GPVN-nDitsY1bF_3huqnh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a VLAN?",
+                              "type":  "article",
+                              "url":  "https://www.solarwinds.com/resources/it-glossary/vlan"
+                          },
+                          {
+                              "title":  "VLAN Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jC6MJTh9fRE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FvU310TuexCsp8QkvxJib",
+        "label":  "TLS",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@FvU310TuexCsp8QkvxJib.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is TLS \u0026 How Does it Work? - Internet Society",
+                              "type":  "article",
+                              "url":  "https://www.internetsociety.org/deploy360/tls/basics/"
+                          },
+                          {
+                              "title":  "What is TLS (Transport Layer Security)? - Cloudflare",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/"
+                          },
+                          {
+                              "title":  "SSL and HTTPS",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=S2iBR2ZlZf0"
+                          },
+                          {
+                              "title":  "SSL/TLS - Cristina Formaini",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Rp3iZUvXWlM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Cr0VAtdu0ZYPOkUU_7vjR",
+        "label":  "Network Segmentation",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@Cr0VAtdu0ZYPOkUU_7vjR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is Network Segmentation? - Cisco",
+                              "type":  "article",
+                              "url":  "https://www.cisco.com/site/us/en/learn/topics/security/what-is-network-segmentation.html"
+                          },
+                          {
+                              "title":  "What Is Network Segmentation?",
+                              "type":  "article",
+                              "url":  "https://www.paloaltonetworks.com/cyberpedia/what-is-network-segmentation"
+                          },
+                          {
+                              "title":  "What is Network Segmentation?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ouvqTP3RajU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "84HlHz8bHCDtAPGpq7LpX",
+        "label":  "Networking Basics",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@84HlHz8bHCDtAPGpq7LpX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Khan Academy - Networking",
+                              "type":  "article",
+                              "url":  "ttps://www.khanacademy.org/computing/code-org/computers-and-the-internet"
+                          },
+                          {
+                              "title":  "Computer Networking Course - Network Engineering",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qiQR5rTSshw"
+                          },
+                          {
+                              "title":  "Networking Video Series (21 videos)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VPBQh3CSsNA-esuvEHT3X",
+        "label":  "SQL Injection Prevention",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@VPBQh3CSsNA-esuvEHT3X.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Injection: How it Works and How to Prevent it",
+                              "type":  "article",
+                              "url":  "https://www.datacamp.com/tutorial/sql-injection"
+                          },
+                          {
+                              "title":  "PortSwigger - SQL Injection",
+                              "type":  "article",
+                              "url":  "https://portswigger.net/web-security/sql-injection"
+                          },
+                          {
+                              "title":  "SQL Injections are scary",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2OPVViV-GQk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lq4nTMBniaxxwPvH5M77Z",
+        "label":  "Input Validation Patterns",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@lq4nTMBniaxxwPvH5M77Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Input Validation Cheat Sheet¶",
+                              "type":  "article",
+                              "url":  "https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html"
+                          },
+                          {
+                              "title":  "Input Validation Using Design Patterns",
+                              "type":  "article",
+                              "url":  "https://medium.com/henrydchan/input-validation-using-design-patterns-9d7b96f87702"
+                          },
+                          {
+                              "title":  "Regular Expressions and Input Validation",
+                              "type":  "article",
+                              "url":  "https://blog.openreplay.com/regular-expressions-and-input-validations/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ph7rFQFJffi_di133vm3Z",
+        "label":  "XSS Prevention",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@ph7rFQFJffi_di133vm3Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cross Site Scripting Prevention Cheat Sheet¶",
+                              "type":  "article",
+                              "url":  "https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html"
+                          },
+                          {
+                              "title":  "Cross-site scripting",
+                              "type":  "article",
+                              "url":  "https://portswigger.net/web-security/cross-site-scripting"
+                          },
+                          {
+                              "title":  "Cross-site scripting (XSS)",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/Security/Attacks/XSS"
+                          },
+                          {
+                              "title":  "Cross-Site Scripting: A 25-Year Threat That Is Still Going Strong",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=z4LhLJnmoZ0"
+                          },
+                          {
+                              "title":  "Cross-Site Scripting (XSS) Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=EoaDgUgS6QA\u0026t=341s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-RORxEsNvIPSlnM2TWB3j",
+        "label":  "IAM",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@-RORxEsNvIPSlnM2TWB3j.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Identity and Access Management (IAM)",
+                              "type":  "article",
+                              "url":  "https://auth0.com/docs/get-started/identity-fundamentals/identity-and-access-management"
+                          },
+                          {
+                              "title":  "What is identity and access management (IAM)?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/identity-access-management"
+                          },
+                          {
+                              "title":  "How to build an effective IAM architecture",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchsecurity/feature/How-to-build-an-identity-and-access-management-architecture"
+                          },
+                          {
+                              "title":  "Identity \u0026 Access Management (IAM)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=aNj36g7fSsU"
+                          },
+                          {
+                              "title":  "Cybersecurity Architecture: Who Are You? Identity and Access Management",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5uNifnVlBy4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9Tea1ge_l1fls0fyPxMPG",
+        "label":  "Role Based Access",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@9Tea1ge_l1fls0fyPxMPG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Role-Based Access Control",
+                              "type":  "article",
+                              "url":  "https://auth0.com/docs/manage-users/access-control/rbac"
+                          },
+                          {
+                              "title":  "What is Role-based Access Control (RBAC)?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/security/what-is-role-based-access-control"
+                          },
+                          {
+                              "title":  "Role-based Access Control (RBAC) vs. Attribute-based Access Control (ABAC)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rvZ35YW4t5k"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rK-RToN5JRcclYl23TyYz",
+        "label":  "Least Privilege",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@rK-RToN5JRcclYl23TyYz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is the Principle of Least Privilege?",
+                              "type":  "article",
+                              "url":  "https://www.aquasec.com/cloud-native-academy/application-security/the-principle-of-least-privilege-polp/"
+                          },
+                          {
+                              "title":  "Intro to The Principle of Least Privilege (POLP)",
+                              "type":  "article",
+                              "url":  "https://www.crowdstrike.com/en-us/cybersecurity-101/identity-protection/principle-of-least-privilege-polp/"
+                          },
+                          {
+                              "title":  "Six ways to apply the principle of least privilege to your Active Directory",
+                              "type":  "article",
+                              "url":  "https://specopssoft.com/blog/six-ways-to-apply-the-principle-of-least-privilege-to-your-active-directory/"
+                          },
+                          {
+                              "title":  "What is the Principle of Least Privilege?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=8GZ6516Kao4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_Kr2_N8021tsZfa0wZ3Vu",
+        "label":  "Log Analysis",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@_Kr2_N8021tsZfa0wZ3Vu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is log analysis?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/log-analysis"
+                          },
+                          {
+                              "title":  "Log Analysis: A Complete Introduction",
+                              "type":  "article",
+                              "url":  "https://www.splunk.com/en_us/blog/learn/log-analysis.html"
+                          },
+                          {
+                              "title":  "Log Management: What DevOps Teams Need to Know",
+                              "type":  "article",
+                              "url":  "https://devops.com/log-management-what-devops-teams-need-to-know/"
+                          },
+                          {
+                              "title":  "Introduction to Logs Management",
+                              "type":  "article",
+                              "url":  "https://sematext.com/guides/log-management"
+                          },
+                          {
+                              "title":  "How to MASTER Logs as a BEGINNER in Cybersecurity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GpG19jOYQVo\u0026t=66s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-j1PH9_z-Eq3jxX6e8VmQ",
+        "label":  "Alert Types",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@-j1PH9_z-Eq3jxX6e8VmQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monitoring 101: Alerting on what matters",
+                              "type":  "article",
+                              "url":  "https://www.datadoghq.com/blog/monitoring-101-alerting/"
+                          },
+                          {
+                              "title":  "Introduction to Metrics, Monitoring and Alerting",
+                              "type":  "article",
+                              "url":  "https://sematext.com/blog/monitoring-alerting/"
+                          },
+                          {
+                              "title":  "Observability vs Monitoring vs APM vs Logging vs Alerting",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=TYE2u7QZNVA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hnroE_riXvw6BqYdirWBX",
+        "label":  "SIEM",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@hnroE_riXvw6BqYdirWBX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security 101: What is a SIEM? - Microsoft",
+                              "type":  "article",
+                              "url":  "https://www.microsoft.com/security/business/security-101/what-is-siem"
+                          },
+                          {
+                              "title":  "SIEM Explained - Professor Messer",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=JEcETdy5WxU"
+                          },
+                          {
+                              "title":  "Wazuh | Open source SIEM",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=3CaG2GI1kn0"
+                          },
+                          {
+                              "title":  "Splunk | The Complete Beginner Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLY2f3p7xyMiTUbUo0A_lBFEwj6KdH0nFy"
+                          },
+                          {
+                              "title":  "Elastic Security | Build a powerful home SIEM",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2XLzMb9oZBI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uAUg6mDDDq7ZyR0IEDxg5",
+        "label":  "Burp Suite",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@uAUg6mDDDq7ZyR0IEDxg5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Burp",
+                              "type":  "official",
+                              "url":  "https://portswigger.net/burp"
+                          },
+                          {
+                              "title":  "Getting started with Burp Suite",
+                              "type":  "official",
+                              "url":  "https://portswigger.net/burp/documentation/desktop/getting-started"
+                          },
+                          {
+                              "title":  "What is Burp Suite?",
+                              "type":  "article",
+                              "url":  "https://www.scaler.com/topics/cyber-security/burp-suite/"
+                          },
+                          {
+                              "title":  "How to use Burp Suite for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GxvFqgCBW-8"
+                          },
+                          {
+                              "title":  "Master Burp Suite Like A Pro In Just 1 Hour",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QiNLNDSLuJY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iHhitN8zToXm4nK1m0OeR",
+        "label":  "Wireshark basics",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@iHhitN8zToXm4nK1m0OeR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Wireshark",
+                              "type":  "official",
+                              "url":  "https://www.wireshark.org/"
+                          },
+                          {
+                              "title":  "How to Use Wireshark: Comprehensive Tutorial + Tips",
+                              "type":  "article",
+                              "url":  "https://www.varonis.com/blog/how-to-use-wireshark"
+                          },
+                          {
+                              "title":  "How to use Wireshark",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zWoHJ3oGRGY"
+                          },
+                          {
+                              "title":  "Wireshark Tutorial for BEGINNERS || How to Capture Network Traffic || Skilled Inspirational Academy",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=byL8VMEMC0M\u0026list=PL_o0Qzu-8MKhg6co37kssx6lRdQ4o1YpX"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JyXv5vPHCjSBc0J-PpUEV",
+        "label":  "Nmap basics",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@JyXv5vPHCjSBc0J-PpUEV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "NMAP",
+                              "type":  "official",
+                              "url":  "https://nmap.org/"
+                          },
+                          {
+                              "title":  "NMAP Cheat Sheet",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/nmap-cheat-sheet"
+                          },
+                          {
+                              "title":  "Nmap Tutorial to find Network Vulnerabilities",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4t4kBkMsDbQ"
+                          },
+                          {
+                              "title":  "NMAP Full Guide (You will never ask about NMAP again)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=JHAMj2vN2oU\u0026t=33s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eTOjfNSzlvbWsyX5an_5w",
+        "label":  "CSPM",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@eTOjfNSzlvbWsyX5an_5w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is cloud security posture management (CSPM)?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/cspm"
+                          },
+                          {
+                              "title":  "What is CSPM?",
+                              "type":  "article",
+                              "url":  "https://www.microsoft.com/en-us/security/business/security-101/what-is-cspm"
+                          },
+                          {
+                              "title":  "What is CSPM (Cloud Security Posture Management)?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=V4wmb5KVmKM"
+                          },
+                          {
+                              "title":  "What is Cloud Security Posture Management (CSPM)?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dZLEngVpKME"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l76yFl4lSXnxg5DBbnnID",
+        "label":  "Key Management Service",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@l76yFl4lSXnxg5DBbnnID.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Key Management Service",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html"
+                          },
+                          {
+                              "title":  "Cloud Key Management",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/security/products/security-key-management?hl=en"
+                          },
+                          {
+                              "title":  "What is AWS Key Management Service? | Amazon Web Services",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=8Z0wsE2HoSo"
+                          },
+                          {
+                              "title":  "Encryption with Cloud KMS Keys - GCP",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=WKZC93y-aWI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JDglIowCyRjSoqCcNfkZr",
+        "label":  "IAM",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@JDglIowCyRjSoqCcNfkZr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Identity and Access Management",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/es/iam/"
+                          },
+                          {
+                              "title":  "What is IAM? - AWS",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html"
+                          },
+                          {
+                              "title":  "Identity and Access Management documentation - GCP",
+                              "type":  "article",
+                              "url":  "https://docs.cloud.google.com/iam/docs"
+                          },
+                          {
+                              "title":  "AWS IAM Core Concepts You NEED to Know",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_ZCTvmaPgao"
+                          },
+                          {
+                              "title":  "IAM Explained in Google Cloud: Manage Access and Permissions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=iTY64is1-qk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ou2-KKBNyOxH_IW9s3eE9",
+        "label":  "Cloud Security",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@ou2-KKBNyOxH_IW9s3eE9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is cloud security?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/cloud-security"
+                          },
+                          {
+                              "title":  "What is Cloud Security? Essential Tools, Best Practices and Strategies",
+                              "type":  "article",
+                              "url":  "https://www.crowdstrike.com/en-us/cybersecurity-101/cloud-security/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "a4dYHrx1KzhKRtarZT1iy",
+        "label":  "Defense in Depth Concepts",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@a4dYHrx1KzhKRtarZT1iy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Defense in Depth?",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/defense-in-depth"
+                          },
+                          {
+                              "title":  "What is Defense in Depth? Best Practices for Layered Security",
+                              "type":  "article",
+                              "url":  "https://www.wiz.io/academy/cloud-security/defense-in-depth"
+                          },
+                          {
+                              "title":  "Defense-in-Depth - CompTIA Security+",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=HLQ4wX8NxQY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aMu0e6xQ3Rak44F_I7Ish",
+        "label":  "Secure API Design",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@aMu0e6xQ3Rak44F_I7Ish.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated API Design Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/api-design"
+                          },
+                          {
+                              "title":  "API Security Best Practices",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/api-security-best-practices"
+                          },
+                          {
+                              "title":  "OWASP Project API Security",
+                              "type":  "article",
+                              "url":  "https://owasp.org/API-Security/editions/2023/en/0x00-toc/"
+                          },
+                          {
+                              "title":  "API Security Fundamentals – Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=R-4_DbV1Su4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3UAH70FkQlv5_VbYon4U9",
+        "label":  "Zero Trust Concepts",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@3UAH70FkQlv5_VbYon4U9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a Zero Trust Network?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-zero-trust/"
+                          },
+                          {
+                              "title":  "ero Trust Explained in 4 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yn6CPQ9RioA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "X-pvSQnfB2W4992_3eOEy",
+        "label":  "IR Lifecycle",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@X-pvSQnfB2W4992_3eOEy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get to know the incident response lifecycle",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/incident-management/incident-response/lifecycle#incident-response-lifecycle"
+                          },
+                          {
+                              "title":  "What is incident response?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/incident-response"
+                          },
+                          {
+                              "title":  "Incident Response Life Cycle",
+                              "type":  "article",
+                              "url":  "https://www.devo.com/threat-hunting-guide/incident-response-life-cycle/"
+                          },
+                          {
+                              "title":  "Incident Response Lifecycle | IR Plan | NIST SP 800-61 Security Incident Handling| Cybersecurity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IRSQEO0koYY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "h_kjdN5uGNKLtJ3puQ9RH",
+        "label":  "Forensics",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@h_kjdN5uGNKLtJ3puQ9RH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Digital Forensics (TryHackMe)",
+                              "type":  "article",
+                              "url":  "https://tryhackme.com/room/introdigitalforensics"
+                          },
+                          {
+                              "title":  "Digital Forensics",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UtDWApdO8Zk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CUjGVwPvQytVYqy2zEPuw",
+        "label":  "Containment",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@CUjGVwPvQytVYqy2zEPuw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Microsoft Security Incident Management: Containment, Eradication, and Recovery",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/compliance/assurance/assurance-sim-containment-eradication-recovery"
+                          },
+                          {
+                              "title":  "Containment - AWS",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/containment.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VyzLkdcLgxfSSFuUS0xO_",
+        "label":  "Root Cause Analysis",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@VyzLkdcLgxfSSFuUS0xO_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is root cause analysis (RCA) in software development?",
+                              "type":  "article",
+                              "url":  "https://www.elastic.co/what-is/root-cause-analysis"
+                          },
+                          {
+                              "title":  "hat is Root Cause Analysis (RCA)?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7t3lTYEd_PM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V5eQcby9FNcGv68KPj5rH",
+        "label":  "Incident Response",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@V5eQcby9FNcGv68KPj5rH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is incident response?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/incident-response"
+                          },
+                          {
+                              "title":  "What is Incident Response? Process, Frameworks, and Tools",
+                              "type":  "article",
+                              "url":  "https://www.bluevoyant.com/knowledge-center/what-is-incident-response-process-frameworks-and-tools"
+                          },
+                          {
+                              "title":  "Cybersecurity IDR: Incident Detection \u0026 Response | Google Cybersecurity Certificate",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=MsGl6lX-YaI"
+                          },
+                          {
+                              "title":  "3 LEVELS of Cybersecurity Incident Response You NEED To Know",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vhCCo7ioDhA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eALB73XbtnFF3-PYcLcZq",
+        "label":  "Multi Region Security Planning",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@eALB73XbtnFF3-PYcLcZq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "7 Reasons to Have a Multi-Region Application Architecture",
+                              "type":  "article",
+                              "url":  "https://controlplane.com/community-blog/post/multi-region-application-architecture"
+                          },
+                          {
+                              "title":  "Day 9 : System Design concept : Multi-Region Deployment",
+                              "type":  "article",
+                              "url":  "https://medium.com/@shivanimutke2501/multi-region-deployments-3ea97c59d326"
+                          },
+                          {
+                              "title":  "How to build a multi-Region AWS Security Hub analytic pipeline and visualize Security Hub data",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/"
+                          },
+                          {
+                              "title":  "AWS re:Invent 2022 - Global security at maximum velocity: Multi-Region and hybrid DevSecOps (PRT090)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=l3jLJq8bt1E"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XRnxOPVChkGLQSXX-kUmi",
+        "label":  "Large Scale Identity Strategy",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@XRnxOPVChkGLQSXX-kUmi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Securing Identities in 2025 – The Future of Identity Governance",
+                              "type":  "article",
+                              "url":  "https://www.lumos.com/blog/future-of-identity-governance"
+                          },
+                          {
+                              "title":  "How modern identity strategies shape enterprise security",
+                              "type":  "article",
+                              "url":  "https://www.okta.com/blog/industry-insights/how-modern-identity-strategies-shape-enterprise-security/"
+                          },
+                          {
+                              "title":  "Identity Governance and Identity Management",
+                              "type":  "article",
+                              "url":  "https://identitymanagementinstitute.org/identity-governance-and-identity-management/"
+                          },
+                          {
+                              "title":  "What is Identity Governance and Administration (IGA)?",
+                              "type":  "article",
+                              "url":  "https://www.sailpoint.com/identity-library/identity-governance"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "quUzTCnBnmJoSmIPBGjxk",
+        "label":  "Certificate Lifecycle",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@quUzTCnBnmJoSmIPBGjxk.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nEYMyTKfRDqA2Uc1tCwxv",
+        "label":  "PKI Design and Failover",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@nEYMyTKfRDqA2Uc1tCwxv.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EqfPoveYajk61VH-ii_uE",
+        "label":  "Cryptographic Hashing",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@EqfPoveYajk61VH-ii_uE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is hashing and how does it work?",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchdatamanagement/definition/hashing"
+                          },
+                          {
+                              "title":  "Hashing Algorithm Overview: Types, Methodologies \u0026 Usage",
+                              "type":  "article",
+                              "url":  "https://www.okta.com/identity-101/hashing-algorithms/"
+                          },
+                          {
+                              "title":  "Understanding Cryptography Types",
+                              "type":  "article",
+                              "url":  "https://geekflare.com/cybersecurity/cryptography-types/"
+                          },
+                          {
+                              "title":  "Hashing Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=EOe1XUykdP4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L3Mu6rCIu58VyhtxeyLXq",
+        "label":  "IDS",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@L3Mu6rCIu58VyhtxeyLXq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Intrusion Detection Systems (IDS)",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/intrusion-detection-system"
+                          },
+                          {
+                              "title":  "What Is Intrusion Detection System? | Intrusion Detection System (IDS) | Cyber Security |Simplilearn",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dfVAi87BSEs"
+                          },
+                          {
+                              "title":  "Intrusion Detection and Intrusion Prevention Systems",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_gHMkEKGwBM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MF8AYjKun5SHtumTyuurJ",
+        "label":  "SBOMS",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@MF8AYjKun5SHtumTyuurJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Software Bill of Materials (SBOM)",
+                              "type":  "article",
+                              "url":  "https://www.cisa.gov/sbom"
+                          },
+                          {
+                              "title":  "The ultimate guide to SBOMs",
+                              "type":  "article",
+                              "url":  "https://about.gitlab.com/blog/the-ultimate-guide-to-sboms/"
+                          },
+                          {
+                              "title":  "What Is a Software Bill of Materials (SBOM)?",
+                              "type":  "article",
+                              "url":  "https://www.paloaltonetworks.com/cyberpedia/what-is-software-bill-materials-sbom"
+                          },
+                          {
+                              "title":  "Thinking Elixir Podcast 245: Supply Chain Security and SBoMs",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jYkV9n4WW-Y"
+                          },
+                          {
+                              "title":  "The Rise of Software Bill of Materials (SBOMs) – A Growing Necessity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Vqn9P6gEM5I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ltpquwL_YEvbgMZ2OyNS4",
+        "label":  "DDoS Miligation Strategy",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@ltpquwL_YEvbgMZ2OyNS4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "10 Best Practices to Prevent DDoS Attacks",
+                              "type":  "article",
+                              "url":  "https://securityscorecard.com/blog/best-practices-to-prevent-ddos-attacks/"
+                          },
+                          {
+                              "title":  "How to prevent DDoS attacks | Methods and tools",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ddos/how-to-prevent-ddos-attacks/"
+                          },
+                          {
+                              "title":  "DoS vs DDoS",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/dos-vs-ddos"
+                          },
+                          {
+                              "title":  "hat is Denial-of-Service attack?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Z7xG3b0aL_I"
+                          },
+                          {
+                              "title":  "What is a DDoS attack?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=z503nLsfe5s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nkPrYgpM5Mn6C_9u9yAyQ",
+        "label":  "Build Pipeline Hardening",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@nkPrYgpM5Mn6C_9u9yAyQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Harden Your CI/CD Pipelines",
+                              "type":  "article",
+                              "url":  "https://www.paloaltonetworks.com/resources/datasheets/tip-sheet-ci-cd-security"
+                          },
+                          {
+                              "title":  "Hardening - CI/CD Recommendations",
+                              "type":  "article",
+                              "url":  "https://docs.gitlab.com/security/hardening_cicd_recommendations/"
+                          },
+                          {
+                              "title":  "Hardening Your CI/CD Pipelines with GitOps and Continuous Security",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=OHly5mGdhNY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ixiKWBp8m4tP55dBYFzRL",
+        "label":  "Secure Network Zoning",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@ixiKWBp8m4tP55dBYFzRL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security zones",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/docs/en/storage-ceph/8.0.0?topic=management-security-zones"
+                          },
+                          {
+                              "title":  "Network Segmentation: Secure Your Network, Contain Attacks",
+                              "type":  "article",
+                              "url":  "https://www.tufin.com/blog/network-segmentation-secure-your-network"
+                          },
+                          {
+                              "title":  "Security Zoning in Network Architecture",
+                              "type":  "article",
+                              "url":  "https://medium.com/@aman.bansal93/security-zoning-in-network-architecture-ff7693b91556"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AAd_X7gI-WA7Jh9FKsuE_",
+        "label":  "Dependency Risk Management",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@AAd_X7gI-WA7Jh9FKsuE_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dependency Risk Analysis",
+                              "type":  "article",
+                              "url":  "https://www.launchnotes.com/glossary/dependency-risk-analysis-in-product-management-and-operations"
+                          },
+                          {
+                              "title":  "OWASP Dependency-Track",
+                              "type":  "article",
+                              "url":  "https://owasp.org/www-project-dependency-track/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qKHb2e9g_Xuo-nHepICTR",
+        "label":  "Supply Chain Security",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@qKHb2e9g_Xuo-nHepICTR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Software Supply Chain Security¶",
+                              "type":  "article",
+                              "url":  "https://cheatsheetseries.owasp.org/cheatsheets/Software_Supply_Chain_Security_Cheat_Sheet.html"
+                          },
+                          {
+                              "title":  "What is supply chain security?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/supply-chain-security"
+                          },
+                          {
+                              "title":  "The Ultimate Guide to Software Supply Chain Security",
+                              "type":  "article",
+                              "url":  "https://www.gitguardian.com/nhi-hub/software-supply-chain-security"
+                          },
+                          {
+                              "title":  "Understanding software supply chain threats | Security Detail",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BqpWvESLW78"
+                          },
+                          {
+                              "title":  "Securing your software supply chain",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Dg-hD4HHKT8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "E2jGo4HeKaeuXYa9-f-vy",
+        "label":  "Endpoint Detection",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@E2jGo4HeKaeuXYa9-f-vy.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rXS1CIZHu7TA_o7L-vMtV",
+        "label":  "SOAR Automation",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@rXS1CIZHu7TA_o7L-vMtV.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6Q2VIdeSuBZzo7c1qnYLG",
+        "label":  "Response Strategy",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@6Q2VIdeSuBZzo7c1qnYLG.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "68qVLExPlVrKJweTjd_S5",
+        "label":  "Enterprise Operations",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@68qVLExPlVrKJweTjd_S5.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "04_UcLELHkqjBCwliCw7H",
+        "label":  "Audit \u0026 Compliance Mapping",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@04_UcLELHkqjBCwliCw7H.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V97S_0PrVw3jjHnmcxDgJ",
+        "label":  "Risk Quantification",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@V97S_0PrVw3jjHnmcxDgJ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SJa6UcRcgT08lF8Phnh0X",
+        "label":  "DevSecOps vs DevOps",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@SJa6UcRcgT08lF8Phnh0X.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DevOps vs DevSecOps: Key Differences and Best Fit",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/devops/vs-devsecops"
+                          },
+                          {
+                              "title":  "DevOps vs DevSecOps: Differences and Similarities",
+                              "type":  "article",
+                              "url":  "https://www.browserstack.com/guide/what-is-the-difference-between-devops-and-devsecops"
+                          },
+                          {
+                              "title":  "What is DevSecOps? | DevOps vs DevSecOps | KodeKloud",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1XpUDV7PBFo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v5FGKQc-_7NYEsWjmTEuq",
+        "label":  "Learn a Programming Language",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@v5FGKQc-_7NYEsWjmTEuq.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wjJPzrFJBNYOD3SJLzW2M",
+        "label":  "Scripting Knowledge",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@wjJPzrFJBNYOD3SJLzW2M.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scripting language - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Scripting_language"
+                          },
+                          {
+                              "title":  "What is scripting?",
+                              "type":  "article",
+                              "url":  "https://coralogix.com/blog/what-is-scripting/"
+                          },
+                          {
+                              "title":  "What\u0027s the difference between Programming and Scripting?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7-0iBZxNq74"
+                          },
+                          {
+                              "title":  "ash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"
+                          },
+                          {
+                              "title":  "Bash Scripting on Linux",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "txcfATz3k89CedFrSZMWj",
+        "label":  "Python",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@txcfATz3k89CedFrSZMWj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Python Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/python"
+                          },
+                          {
+                              "title":  "Python Website",
+                              "type":  "official",
+                              "url":  "https://www.python.org/"
+                          },
+                          {
+                              "title":  "Python - Wiki",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Python_%28programming_language%29"
+                          },
+                          {
+                              "title":  "Tutorial Series: How to Code in Python",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program"
+                          },
+                          {
+                              "title":  "Google\u0027s Python Class",
+                              "type":  "article",
+                              "url":  "https://developers.google.com/edu/python"
+                          },
+                          {
+                              "title":  "Learn Python - Full Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4M87qBgpafk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nKthK-OsFO0TGwptD-Dme",
+        "label":  "Ruby",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@nKthK-OsFO0TGwptD-Dme.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ruby",
+                              "type":  "official",
+                              "url":  "https://www.ruby-lang.org/en/"
+                          },
+                          {
+                              "title":  "Ruby Lang",
+                              "type":  "opensource",
+                              "url":  "https://github.com/ruby/ruby"
+                          },
+                          {
+                              "title":  "Ruby Programming Language - Full Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?app=desktop\u0026v=t_ispmWmdjY\u0026t=0s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V_-gY34XcyIqPcLKtDJZr",
+        "label":  "Rust",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@V_-gY34XcyIqPcLKtDJZr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit de Dedicated Rust Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/rust"
+                          },
+                          {
+                              "title":  "Rust Programming Language",
+                              "type":  "official",
+                              "url":  "https://rust-lang.org/"
+                          },
+                          {
+                              "title":  "Rust by Example",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/stable/rust-by-example/index.html#rust-by-example"
+                          },
+                          {
+                              "title":  "Rust Book",
+                              "type":  "opensource",
+                              "url":  "https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf"
+                          },
+                          {
+                              "title":  "Rust Book Interactive",
+                              "type":  "opensource",
+                              "url":  "https://rust-book.cs.brown.edu/experiment-intro.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UcBt4BsvLDlsnVy3KKJ1y",
+        "label":  "Go",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@UcBt4BsvLDlsnVy3KKJ1y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit de Dedicated Rust Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/golang"
+                          },
+                          {
+                              "title":  "Go",
+                              "type":  "official",
+                              "url":  "https://go.dev/"
+                          },
+                          {
+                              "title":  "Go Docs",
+                              "type":  "official",
+                              "url":  "https://go.dev/doc/"
+                          },
+                          {
+                              "title":  "Getting Started with Go",
+                              "type":  "official",
+                              "url":  "https://go.dev/doc/tutorial/getting-started"
+                          },
+                          {
+                              "title":  "Getting Started with Go and the Web",
+                              "type":  "article",
+                              "url":  "https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal"
+                          },
+                          {
+                              "title":  "Golang 101 Crash Course: Learn Go Programming Fundamentals!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=S65k7Tubbck"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BeUiBY18JHqCKVNtYAHH3",
+        "label":  "JavaScript / Node.js",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@BeUiBY18JHqCKVNtYAHH3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated JavaScript Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/javascript"
+                          },
+                          {
+                              "title":  "Visit Dedicated Node.js Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/nodejs"
+                          },
+                          {
+                              "title":  "Eloquent JavaScript textbook",
+                              "type":  "book",
+                              "url":  "https://eloquentjavascript.net/"
+                          },
+                          {
+                              "title":  "Introduction to Node.js",
+                              "type":  "official",
+                              "url":  "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"
+                          },
+                          {
+                              "title":  "You Don\u0027t Know JS Yet (book series)",
+                              "type":  "opensource",
+                              "url":  "https://github.com/getify/You-Dont-Know-JS"
+                          },
+                          {
+                              "title":  "The Modern JavaScript Tutorial",
+                              "type":  "article",
+                              "url":  "https://javascript.info/"
+                          },
+                          {
+                              "title":  "JavaScript MDN Docs",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                          },
+                          {
+                              "title":  "JavaScript Crash Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hdI2bqOjy3c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r3XBfcNtxSraF11YK_5d5",
+        "label":  "Bash",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@r3XBfcNtxSraF11YK_5d5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Bash Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/shell-bash"
+                          },
+                          {
+                              "title":  "Interactive Shell Scripting Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.learnshell.org/en/Welcome"
+                          },
+                          {
+                              "title":  "Bash Scripting Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tK9Oc6AEnR4"
+                          },
+                          {
+                              "title":  "Bash in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=I4EWvMFj37g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "91lxZEOZ6KF3tY9id2Au8",
+        "label":  "PowerShell",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@91lxZEOZ6KF3tY9id2Au8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is PowerShell?",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5"
+                          },
+                          {
+                              "title":  "PowerShell Docs",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/powershell/"
+                          },
+                          {
+                              "title":  "Powershell",
+                              "type":  "opensource",
+                              "url":  "https://github.com/PowerShell/PowerShell"
+                          },
+                          {
+                              "title":  "Learn PowerShell in Less Than 2 Hours",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZOoCaWyifmI"
+                          },
+                          {
+                              "title":  "PowerShell Made Easy",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=b7SGPchYRn0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7MavDAydyrt0tOJ6a6xRQ",
+        "label":  "Vim / Nano / Emacs",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@7MavDAydyrt0tOJ6a6xRQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Practical Vim 2nd Edition",
+                              "type":  "book",
+                              "url":  "https://dokumen.pub/practical-vim-2nd-edition-2nd-edition-9781680501278.html"
+                          },
+                          {
+                              "title":  "Vim",
+                              "type":  "official",
+                              "url":  "https://www.vim.org"
+                          },
+                          {
+                              "title":  "GNU Nano",
+                              "type":  "official",
+                              "url":  "https://www.nano-editor.org/"
+                          },
+                          {
+                              "title":  "GNU Emacs",
+                              "type":  "official",
+                              "url":  "https://www.gnu.org/software/emacs/"
+                          },
+                          {
+                              "title":  "Vim Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RZ4p-saaQkc"
+                          },
+                          {
+                              "title":  "Linux Crash Course - nano",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DLeATFgGM-A"
+                          },
+                          {
+                              "title":  "The Absolute Beginner\u0027s Guide to Emacs",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=48JlgiBpw_I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DYmh1MkmAuXUJOFqnFzWc",
+        "label":  "Authorization",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@DYmh1MkmAuXUJOFqnFzWc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is Authorization and How Does It Work?",
+                              "type":  "article",
+                              "url":  "https://www.descope.com/learn/post/authorization"
+                          },
+                          {
+                              "title":  "Authentication vs Authorization Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7ijBiXddB7w"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iHd6XNAUGXn3_d-I_YtTM",
+        "label":  "Secure Coding",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@iHd6XNAUGXn3_d-I_YtTM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is Secure Coding? Best Practices and Techniques to Apply",
+                              "type":  "article",
+                              "url":  "https://www.legitsecurity.com/aspm-knowledge-base/what-is-secure-coding"
+                          },
+                          {
+                              "title":  "What Is Secure Coding? Best Practices and Techniques to Apply",
+                              "type":  "article",
+                              "url":  "https://www.securecoding.org/"
+                          },
+                          {
+                              "title":  "Secure Coding Techniques - SY0-601 CompTIA Security+ : 2.3",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IEIGEjy-W4Q"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iONpD135a4kd3zR5ufoTx",
+        "label":  "Identity Basics",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@iONpD135a4kd3zR5ufoTx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is identity and access management (IAM)?",
+                              "type":  "article",
+                              "url":  "https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MMTCo21ap15MrPV64vKka",
+        "label":  "Monitoring",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@MMTCo21ap15MrPV64vKka.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What’s IT Monitoring? IT Systems Monitoring Explained",
+                              "type":  "article",
+                              "url":  "https://www.splunk.com/en_us/blog/learn/it-monitoring.html"
+                          },
+                          {
+                              "title":  "IT Monitoring: An Introductory Guide With 5 Monitoring Strategies",
+                              "type":  "article",
+                              "url":  "https://www.suse.com/c/observability-it-monitoring-an-introductory-guide-with-5-monitoring-strategies/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6A_3p3CzwxFVjJaXahEVr",
+        "label":  "PASTA",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@6A_3p3CzwxFVjJaXahEVr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PASTA Threat Modeling",
+                              "type":  "article",
+                              "url":  "https://threat-modeling.com/pasta-threat-modeling/"
+                          },
+                          {
+                              "title":  "Process for Attack Simulation \u0026 Threat Analysis",
+                              "type":  "article",
+                              "url":  "https://cdn2.hubspot.net/hubfs/4598121/Content%20PDFs/VerSprite-PASTA-Threat-Modeling-Process-for-Attack-Simulation-Threat-Analysis.pdf"
+                          },
+                          {
+                              "title":  "PASTA Threat Modeling for Cybersecurity | Threat Modeling Example",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=s21aI-jqIVM\u0026t=144s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EZZsZHxu7__yM2l9tr95-",
+        "label":  "STRIDE",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@EZZsZHxu7__yM2l9tr95-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "STRIDE",
+                              "type":  "article",
+                              "url":  "https://owasp.org/www-community/Threat_Modeling_Process#stride"
+                          },
+                          {
+                              "title":  "What Is the STRIDE Threat Model? Beginner’s Guide – 2025",
+                              "type":  "article",
+                              "url":  "https://www.practical-devsecops.com/what-is-stride-threat-model/"
+                          },
+                          {
+                              "title":  "STRIDE: A Guide to Threat Modeling and Secure Implementation",
+                              "type":  "article",
+                              "url":  "https://dzone.com/articles/stride-threat-modeling-guide-secure-implementation"
+                          },
+                          {
+                              "title":  "Using the STRIDE Threat Model: Tutorial \u0026 Best Practices",
+                              "type":  "article",
+                              "url":  "https://drata.com/grc-central/risk/guide-stride-threat-model"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qfhpMprVX562UuktYN9BZ",
+        "label":  "Threat Modeling Workflows",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@qfhpMprVX562UuktYN9BZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Threat Modeling Process",
+                              "type":  "article",
+                              "url":  "https://owasp.org/www-community/Threat_Modeling_Process"
+                          },
+                          {
+                              "title":  "Top 12 Threat Modeling Methodologies and Techniques",
+                              "type":  "article",
+                              "url":  "https://www.securitycompass.com/blog/top-12-threat-modeling-methodologies-techniques/"
+                          },
+                          {
+                              "title":  "Best Practices in the Threat Modeling Process",
+                              "type":  "article",
+                              "url":  "https://blog.secureflag.com/2025/04/03/threat-modeling-process/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XA7JUF00B1locP0xY3T95",
+        "label":  "Threat Modeling",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@XA7JUF00B1locP0xY3T95.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is Threat Modeling?",
+                              "type":  "article",
+                              "url":  "https://www.cisco.com/site/us/en/learn/topics/security/what-is-threat-modeling.html"
+                          },
+                          {
+                              "title":  "Threat Modeling",
+                              "type":  "article",
+                              "url":  "https://owasp.org/www-community/Threat_Modeling"
+                          },
+                          {
+                              "title":  "Threat Modeling Process",
+                              "type":  "article",
+                              "url":  "https://owasp.org/www-community/Threat_Modeling_Process"
+                          },
+                          {
+                              "title":  "1. Introduction, Threat Models",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GqmQg-cszw4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bPmjX9IPL9Da0XUApY5UF",
+        "label":  "Image Scanning",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@bPmjX9IPL9Da0XUApY5UF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "12 container image scanning best practices",
+                              "type":  "article",
+                              "url":  "https://www.sysdig.com/learn-cloud-native/12-container-image-scanning-best-practices"
+                          },
+                          {
+                              "title":  "OWASP DevSecOps Guideline - v-0.2",
+                              "type":  "article",
+                              "url":  "https://owasp.org/www-project-devsecops-guideline/latest/02f-Container-Vulnerability-Scanning"
+                          },
+                          {
+                              "title":  "Top 10 Container Scanning Tools for 2026",
+                              "type":  "article",
+                              "url":  "https://www.jit.io/resources/appsec-tools/container-scanning-tools-for-2023"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YveqgdX6eNRFC1zU_q7r1",
+        "label":  "Kubernetes",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@YveqgdX6eNRFC1zU_q7r1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Kubernetes Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/kubernetes"
+                          },
+                          {
+                              "title":  "Security",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/security/"
+                          },
+                          {
+                              "title":  "Kubernetes Security Cheat Sheet¶",
+                              "type":  "article",
+                              "url":  "https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html"
+                          },
+                          {
+                              "title":  "7 Kubernetes Security Scanners to Use in Your DevSecOps Pipeline",
+                              "type":  "article",
+                              "url":  "https://thechief.io/c/editorial/7-kubernetes-security-scanners-to-use-in-your-devsecops-pipeline/"
+                          },
+                          {
+                              "title":  "Starboard: Putting all the Kubernetes Security Pieces into One Place",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/starboard-putting-all-the-kubernetes-security-pieces-into-one-place/"
+                          },
+                          {
+                              "title":  "Improve Security With Automated Image Scanning Through CI/CD",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/improve-security-with-automated-image-scanning-through-ci-cd/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-OWtiqx4YbcOVhtYU0D69",
+        "label":  "Docker",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@-OWtiqx4YbcOVhtYU0D69.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Docker Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/docker"
+                          },
+                          {
+                              "title":  "Docker Security",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/security/"
+                          },
+                          {
+                              "title":  "Kubernetes Security Best Practices",
+                              "type":  "article",
+                              "url":  "https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EnDqfr07RzNZmPIth6wSq",
+        "label":  "Container Security",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@EnDqfr07RzNZmPIth6wSq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Container Security? [Securing Containers 101]",
+                              "type":  "article",
+                              "url":  "https://www.wiz.io/academy/container-security/what-is-container-security"
+                          },
+                          {
+                              "title":  "What Is Container Security?",
+                              "type":  "article",
+                              "url":  "https://www.paloaltonetworks.com/cyberpedia/what-is-container-security"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O0aVW37VhZInw9Z9Mghcg",
+        "label":  "SOAR Concepts",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@O0aVW37VhZInw9Z9Mghcg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is SOAR?",
+                              "type":  "article",
+                              "url":  "https://www.paloaltonetworks.co.uk/cyberpedia/what-is-soar"
+                          },
+                          {
+                              "title":  "What is SOAR (Security, Orchestration, Automation \u0026 Response",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=k7ju95jDxFA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HahTEhITEAGaoys1psZqV",
+        "label":  "Automated Patching",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@HahTEhITEAGaoys1psZqV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is automated patch management?",
+                              "type":  "article",
+                              "url":  "https://www.pdq.com/blog/what-is-automated-patch-management/"
+                          },
+                          {
+                              "title":  "What is Patch Management Automation and Why It Matters",
+                              "type":  "article",
+                              "url":  "https://blog.qualys.com/product-tech/patch-management/2025/11/18/what-is-patch-management-automation-guide"
+                          },
+                          {
+                              "title":  "What is Patch Management?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/topics/patch-management"
+                          },
+                          {
+                              "title":  "What Is Patch Management, and Why Does Your Company Need It?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=O5XXlJear0w"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EqbzAy56Tu8asKNFzuti_",
+        "label":  "Nessus",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@EqbzAy56Tu8asKNFzuti_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Nessus",
+                              "type":  "official",
+                              "url":  "https://www.tenable.com/products/nessus"
+                          },
+                          {
+                              "title":  "Get Started with Tenable Nessus",
+                              "type":  "article",
+                              "url":  "https://docs.tenable.com/nessus/Content/GetStarted.htm"
+                          },
+                          {
+                              "title":  "Nessus vulnerability scanner: Beginner’s guide",
+                              "type":  "article",
+                              "url":  "https://www.hackercoolmagazine.com/nessus-vulnerability-scanner-beginners-guide/?srsltid=AfmBOooPg3-kiYjXCcYQ3uyz0AwmLHnUpJ4Bs2u77HmhoDrA4EJKe7Nz"
+                          },
+                          {
+                              "title":  "Vulnerability Scanning with Nessus: A Practical Guide",
+                              "type":  "article",
+                              "url":  "https://www.infosectrain.com/blog/vulnerability-scanning-with-nessus-a-practical-guide/"
+                          },
+                          {
+                              "title":  "Nessus Vulnerability Scanner Tutorial (Cyber Security Tools)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=x87gbgQD4eg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0Tci_Ks8jXisin90VqB_D",
+        "label":  "Nmap",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@0Tci_Ks8jXisin90VqB_D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "NMAP",
+                              "type":  "official",
+                              "url":  "https://nmap.org/"
+                          },
+                          {
+                              "title":  "NMAP Cheat Sheet",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/nmap-cheat-sheet"
+                          },
+                          {
+                              "title":  "Nmap Tutorial to find Network Vulnerabilities",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4t4kBkMsDbQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mIcs0fp3T9IwwAvgYyKnY",
+        "label":  "OpenVAS",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@mIcs0fp3T9IwwAvgYyKnY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenVAS",
+                              "type":  "official",
+                              "url":  "https://www.openvas.org/"
+                          },
+                          {
+                              "title":  "openvas",
+                              "type":  "opensource",
+                              "url":  "https://github.com/greenbone/openvas-scanner"
+                          },
+                          {
+                              "title":  "OpenVAS Tutorial and Tips",
+                              "type":  "article",
+                              "url":  "https://hackertarget.com/openvas-tutorial-tips/"
+                          },
+                          {
+                              "title":  "Complete Beginner OpenVAS Vulnerability Scanning Tutorial - Cyber Security // Kali Linux",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=LGh2SetiKaY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Pkud7rAzdV5asF5aGAq7z",
+        "label":  "Qualys",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@Pkud7rAzdV5asF5aGAq7z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Qualys",
+                              "type":  "official",
+                              "url":  "https://www.qualys.com/"
+                          },
+                          {
+                              "title":  "Qualys VMDR Getting Started Guide",
+                              "type":  "official",
+                              "url":  "https://docs.qualys.com/en/vmdr/getting-started-guide/vmdr/getting_started_guide.htm"
+                          },
+                          {
+                              "title":  "Training Videos",
+                              "type":  "official",
+                              "url":  "https://docs.qualys.com/en/pm/latest/other_resources/training_videos.htm"
+                          },
+                          {
+                              "title":  "Learn Qualys Vulnerability Management (Home Lab)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=l5At5WDj7v0\u0026t=90s"
+                          },
+                          {
+                              "title":  "Qualys File Integrity Monitoring (FIM) Overview",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=533YWyWk8X8\u0026list=PL86wiCAX5vmQIninZod7FzuGBWVbb0vFv"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PYH_nc4bktIJoCJA6OC5E",
+        "label":  "IPS",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@PYH_nc4bktIJoCJA6OC5E.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is an Intrusion Prevention System?",
+                              "type":  "article",
+                              "url":  "https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-prevention-system-ips"
+                          },
+                          {
+                              "title":  "Intrusion Prevention System (IPS)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7QuYupuic3Q"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TqmbGC_Q_b3BkU7UkvE-S",
+        "label":  "bcrypt",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@TqmbGC_Q_b3BkU7UkvE-S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hashing in Action: Understanding bcrypt",
+                              "type":  "article",
+                              "url":  "https://auth0.com/blog/hashing-in-action-understanding-bcrypt/"
+                          },
+                          {
+                              "title":  "Password Hashing using bcrypt",
+                              "type":  "article",
+                              "url":  "https://medium.com/@bhupendra_Maurya/password-hashing-using-bcrypt-e36f5c655e09"
+                          },
+                          {
+                              "title":  "BCrypt Explained",
+                              "type":  "article",
+                              "url":  "https://dev.to/sylviapap/bcrypt-explained-4k5c"
+                          },
+                          {
+                              "title":  "Password Storage Tier List: encryption, hashing, salting, bcrypt, and beyond",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qgpsIBLvrGY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LKMBv-M9k71yrR2WzN4bK",
+        "label":  "SHA 256",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@LKMBv-M9k71yrR2WzN4bK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "A Definitive Guide to Learn The SHA-256 (Secure Hash Algorithms)",
+                              "type":  "article",
+                              "url":  "https://www.simplilearn.com/tutorials/cyber-security-tutorial/sha-256-algorithm"
+                          },
+                          {
+                              "title":  "What is the SHA-256 algorithm, and how does it work?",
+                              "type":  "article",
+                              "url":  "https://nordvpn.com/blog/sha-256/?srsltid=AfmBOoox3HKIBWzAYqvIp1Eio9jDh7ntzKnfEuJw79zF_h2NfuI2MsyA"
+                          },
+                          {
+                              "title":  "Use cases for hash functions or what is SHA-256?",
+                              "type":  "article",
+                              "url":  "https://medium.com/@makhmud.islamov/use-cases-for-hash-functions-or-what-is-sha-256-83036de048b4"
+                          },
+                          {
+                              "title":  "How secure is 256 bit security?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=S9JGmA5_unY"
+                          },
+                          {
+                              "title":  "SHA-256 | COMPLETE Step-By-Step Explanation (W/ Example)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=orIgy2MjqrA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VmDslOmZANHpHmAInFa_j",
+        "label":  "SOC 2",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@VmDslOmZANHpHmAInFa_j.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JBNiSzYD8DSnKfHoKRjMg",
+        "label":  "ISO 27001",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@JBNiSzYD8DSnKfHoKRjMg.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yMb0-A55r1KEsLntOmp5F",
+        "label":  "NIST",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@yMb0-A55r1KEsLntOmp5F.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JztcgG94qZ5trdhfDcRa6",
+        "label":  "Attack Surface Mapping",
+        "endpoint":  "https://roadmap.sh/devsecops/topic@JztcgG94qZ5trdhfDcRa6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Attack Surface Analysis Cheat Sheet¶",
+                              "type":  "article",
+                              "url":  "https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html"
+                          },
+                          {
+                              "title":  "What is Attack Surface Mapping \u0026 Analysis in Cybersecurity?",
+                              "type":  "article",
+                              "url":  "https://jetpack.com/resources/attack-surface-mapping-and-analysis/"
+                          },
+                          {
+                              "title":  "Attack Surface Mapping with Jeff Foley from OWASP Amass",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Ui35-YEbBiA"
+                          },
+                          {
+                              "title":  "ASM and Vulnerability Management: Why you need both",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=oMx9lgTtJnM"
+                          },
+                          {
+                              "title":  "What is ASM (Attack Surface Management)?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NqKid53v5x8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

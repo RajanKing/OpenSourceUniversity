@@ -1,0 +1,2210 @@
+[
+    {
+        "id":  "Py9nst2FDJ1_hoXeX_qSF",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/docker/topic@Py9nst2FDJ1_hoXeX_qSF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker",
+                              "type":  "official",
+                              "url":  "https://www.docker.com/"
+                          },
+                          {
+                              "title":  "Docker Docs",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "74JxgfJ_1qmVNZ_QRp9Ne",
+        "label":  "What are Containers?",
+        "endpoint":  "https://roadmap.sh/docker/topic@74JxgfJ_1qmVNZ_QRp9Ne.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Containers - AWS Skill Builder",
+                              "type":  "course",
+                              "url":  "https://explore.skillbuilder.aws/learn/course/106/introduction-to-containers"
+                          },
+                          {
+                              "title":  "What is a Container?",
+                              "type":  "official",
+                              "url":  "https://www.docker.com/resources/what-container/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i4ijY3T5gLgNz0XqRipXe",
+        "label":  "Why do we need Containers?",
+        "endpoint":  "https://roadmap.sh/docker/topic@i4ijY3T5gLgNz0XqRipXe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Need for Containers",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/containers"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3hatcMVLDbMuz73uTx-9P",
+        "label":  "Bare Metal vs VMs vs Containers",
+        "endpoint":  "https://roadmap.sh/docker/topic@3hatcMVLDbMuz73uTx-9P.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "History of Virtualization",
+                              "type":  "article",
+                              "url":  "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/01-history-and-motivation/03-history-of-virtualization"
+                          },
+                          {
+                              "title":  "Bare Metal Machine",
+                              "type":  "article",
+                              "url":  "https://glossary.cncf.io/bare-metal-machine/"
+                          },
+                          {
+                              "title":  "What is a Virtual Machine?",
+                              "type":  "article",
+                              "url":  "https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "43drPbTwPqJQPyzwYUdBT",
+        "label":  "Docker and OCI",
+        "endpoint":  "https://roadmap.sh/docker/topic@43drPbTwPqJQPyzwYUdBT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Open Container Initiative",
+                              "type":  "official",
+                              "url":  "https://opencontainers.org/"
+                          },
+                          {
+                              "title":  "OCI - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Open_Container_Initiative"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mw-weCutd2ECKlx2DE_ZJ",
+        "label":  "Package Managers",
+        "endpoint":  "https://roadmap.sh/docker/topic@mw-weCutd2ECKlx2DE_ZJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "APT Package Manager Guide",
+                              "type":  "article",
+                              "url":  "https://ubuntu.com/server/docs/package-management"
+                          },
+                          {
+                              "title":  "Alpine Linux Package Management",
+                              "type":  "article",
+                              "url":  "https://wiki.alpinelinux.org/wiki/Alpine_Package_Keeper"
+                          },
+                          {
+                              "title":  "Linux Package Managers Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-iSMFoPPbKU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uKjB2qntFTpPuYUT9sdxd",
+        "label":  "Users / Groups Permissions",
+        "endpoint":  "https://roadmap.sh/docker/topic@uKjB2qntFTpPuYUT9sdxd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dockerfile USER Instruction",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/reference/dockerfile/#user"
+                          },
+                          {
+                              "title":  "Linux File Permissions Explained",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/blog/linux-file-permissions-explained"
+                          },
+                          {
+                              "title":  "Users and Groups in Linux",
+                              "type":  "article",
+                              "url":  "https://wiki.archlinux.org/title/Users_and_groups"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W5kX5jn49hghRgkEw6_S3",
+        "label":  "Shell Commands",
+        "endpoint":  "https://roadmap.sh/docker/topic@W5kX5jn49hghRgkEw6_S3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Linux Command Line Basics",
+                              "type":  "article",
+                              "url":  "https://www.freecodecamp.org/news/the-linux-commands-handbook/"
+                          },
+                          {
+                              "title":  "Shell Commands Every Developer Should Know",
+                              "type":  "article",
+                              "url":  "https://www.codecademy.com/article/command-line-commands"
+                          },
+                          {
+                              "title":  "Linux Commands for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZtqBQ68cfJc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "InlMtuaUJ9EXO-OD9x1jj",
+        "label":  "Shell Scripting",
+        "endpoint":  "https://roadmap.sh/docker/topic@InlMtuaUJ9EXO-OD9x1jj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Shell Scripting Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.shellscript.sh/"
+                          },
+                          {
+                              "title":  "Bash Scripting Tutorial for Beginners",
+                              "type":  "article",
+                              "url":  "https://linuxconfig.org/bash-scripting-tutorial-for-beginners"
+                          },
+                          {
+                              "title":  "Bash Scripting Full Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tK9Oc6AEnR4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XxT9UUjbKW1ARyERSLH_W",
+        "label":  "Programming Languages",
+        "endpoint":  "https://roadmap.sh/docker/topic@XxT9UUjbKW1ARyERSLH_W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/python"
+                          },
+                          {
+                              "title":  "JavaScript Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/javascript"
+                          },
+                          {
+                              "title":  "Java Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/java"
+                          },
+                          {
+                              "title":  "Go Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/golang"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EqYWfBL5l5OOquok_OvOW",
+        "label":  "Application Architecture",
+        "endpoint":  "https://roadmap.sh/docker/topic@EqYWfBL5l5OOquok_OvOW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Application Design Patterns",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/get-started/docker-concepts/building-images/"
+                          },
+                          {
+                              "title":  "Microservices Architecture",
+                              "type":  "article",
+                              "url":  "https://microservices.io/"
+                          },
+                          {
+                              "title":  "Container Design Patterns",
+                              "type":  "article",
+                              "url":  "https://kubernetes.io/blog/2016/06/container-design-patterns/"
+                          },
+                          {
+                              "title":  "Twelve-Factor App Methodology",
+                              "type":  "article",
+                              "url":  "https://12factor.net/"
+                          },
+                          {
+                              "title":  "Microservices vs Monolith Architecture",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GBTdnfD6s5Q"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jrH1qE6EnFXL4fTyYU8gR",
+        "label":  "Underlying Technologies",
+        "endpoint":  "https://roadmap.sh/docker/topic@jrH1qE6EnFXL4fTyYU8gR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Underlying Technologies",
+                              "type":  "official",
+                              "url":  "https://www.docker.com/resources/what-container/#underlying-technologies"
+                          },
+                          {
+                              "title":  "Underlying Technologies - Medium",
+                              "type":  "article",
+                              "url":  "https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422"
+                          },
+                          {
+                              "title":  "Containers - Namespaces, Cgroups and Overlay Filesystem",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=wJdDWc6zO4U"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BvV8VCX39wRB-g8WvGF1g",
+        "label":  "Namespaces",
+        "endpoint":  "https://roadmap.sh/docker/topic@BvV8VCX39wRB-g8WvGF1g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Namespaces",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/security/userns-remap/"
+                          },
+                          {
+                              "title":  "Linux Namespaces",
+                              "type":  "article",
+                              "url":  "https://man7.org/linux/man-pages/man7/namespaces.7.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fRl4EfNwlBiidzn3IV34-",
+        "label":  "cgroups",
+        "endpoint":  "https://roadmap.sh/docker/topic@fRl4EfNwlBiidzn3IV34-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Control Groups",
+                              "type":  "official",
+                              "url":  "https://www.docker.com/resources/what-container/#control-groups"
+                          },
+                          {
+                              "title":  "Control Groups - Medium",
+                              "type":  "article",
+                              "url":  "https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422"
+                          },
+                          {
+                              "title":  "An introduction to cgroups, runc \u0026 containerD",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=u1LeMndEk70"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vEUfw_vobshuZI0-q8RZo",
+        "label":  "Union Filesystems",
+        "endpoint":  "https://roadmap.sh/docker/topic@vEUfw_vobshuZI0-q8RZo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AUFS (Advanced Multi-Layered Unification Filesystem)",
+                              "type":  "article",
+                              "url":  "http://aufs.sourceforge.net/"
+                          },
+                          {
+                              "title":  "OverlayFS (Overlay Filesystem)",
+                              "type":  "article",
+                              "url":  "https://www.kernel.org/doc/html/latest/filesystems/overlayfs.html"
+                          },
+                          {
+                              "title":  "Btrfs (B-Tree Filesystem)",
+                              "type":  "article",
+                              "url":  "https://btrfs.readthedocs.io/en/stable/"
+                          },
+                          {
+                              "title":  "ZFS (Z File System)",
+                              "type":  "article",
+                              "url":  "https://zfsonlinux.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "01nDXqxVdMv4SeXc0nYHH",
+        "label":  "Installation / Setup",
+        "endpoint":  "https://roadmap.sh/docker/topic@01nDXqxVdMv4SeXc0nYHH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Desktop website",
+                              "type":  "official",
+                              "url":  "https://www.docker.com/products/docker-desktop"
+                          },
+                          {
+                              "title":  "Docker Engine",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/install/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NCdsPRhJy7UtQFNLo1J1f",
+        "label":  "Docker Desktop (Win/Mac/Linux)",
+        "endpoint":  "https://roadmap.sh/docker/topic@NCdsPRhJy7UtQFNLo1J1f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Desktop Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/desktop/"
+                          },
+                          {
+                              "title":  "Docker Get Started Guide",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/get-started/"
+                          },
+                          {
+                              "title":  "Docker Hub",
+                              "type":  "official",
+                              "url":  "https://hub.docker.com/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0NKqLUWtJMlXn-m6wpA6f",
+        "label":  "Docker Engine ( Linux )",
+        "endpoint":  "https://roadmap.sh/docker/topic@0NKqLUWtJMlXn-m6wpA6f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Engine Installation Guide",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/install/"
+                          },
+                          {
+                              "title":  "Docker Engine - Docker Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/"
+                          },
+                          {
+                              "title":  "Docker Engine for Linux Servers Setup and Tips",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=YeF7ObTnDwc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kIqx7Inf50mE9W0juwNBz",
+        "label":  "Basics of Docker",
+        "endpoint":  "https://roadmap.sh/docker/topic@kIqx7Inf50mE9W0juwNBz.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uUPYXmwu27SBPqKZx6U_q",
+        "label":  "Data Persistence",
+        "endpoint":  "https://roadmap.sh/docker/topic@uUPYXmwu27SBPqKZx6U_q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Persistence - Docker Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "086zZYjtzdCaDHm-MkSqg",
+        "label":  "Ephemeral Container Filesystem",
+        "endpoint":  "https://roadmap.sh/docker/topic@086zZYjtzdCaDHm-MkSqg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Persistence - Docker Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/"
+                          },
+                          {
+                              "title":  "Docker Concepts - Persisting container data",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=10_2BjqB_Ls"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "woemCQmWTR-hIoWAci3d5",
+        "label":  "Volume Mounts",
+        "endpoint":  "https://roadmap.sh/docker/topic@woemCQmWTR-hIoWAci3d5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Volumes",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/storage/volumes/"
+                          },
+                          {
+                              "title":  "Docker Volume Flags",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/storage/bind-mounts/#choose-the--v-or---mount-flag"
+                          },
+                          {
+                              "title":  "Docker Volumes explained in 6 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=p2PH_YPCsis"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wZcCW1ojGzUakHCv2AaI1",
+        "label":  "Bind Mounts",
+        "endpoint":  "https://roadmap.sh/docker/topic@wZcCW1ojGzUakHCv2AaI1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Bind Mounts",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/storage/bind-mounts/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LShK3-1EGGuXnEvdScFR7",
+        "label":  "Using 3rd Party Container Images",
+        "endpoint":  "https://roadmap.sh/docker/topic@LShK3-1EGGuXnEvdScFR7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Malicious Base Images: Hands-on Exercise",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/malicious-base-images/"
+                          },
+                          {
+                              "title":  "Docker Hub Registry",
+                              "type":  "official",
+                              "url":  "https://hub.docker.com/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jKSE_wKYf4P9wnSh_LkMi",
+        "label":  "Databases",
+        "endpoint":  "https://roadmap.sh/docker/topic@jKSE_wKYf4P9wnSh_LkMi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Containerized Databases",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/guides/use-case/databases/"
+                          },
+                          {
+                              "title":  "How to Setup MySQL Database with Docker",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=igc2zsOKPJs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YzpB7rgSR4ueQRLa0bRWa",
+        "label":  "Command Line Utilities",
+        "endpoint":  "https://roadmap.sh/docker/topic@YzpB7rgSR4ueQRLa0bRWa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Images",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/images/"
+                          },
+                          {
+                              "title":  "Docker Run",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/reference/cli/docker/container/run/"
+                          },
+                          {
+                              "title":  "Docker Pull",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/pull/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5OEfBQaYNOCi999x6QUqW",
+        "label":  "Building Container Images",
+        "endpoint":  "https://roadmap.sh/docker/topic@5OEfBQaYNOCi999x6QUqW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Build Overview",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/build/concepts/overview"
+                          },
+                          {
+                              "title":  "Docker Image Builder",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/reference/cli/docker/buildx/build/"
+                          },
+                          {
+                              "title":  "Dockerfile Reference",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/builder/"
+                          },
+                          {
+                              "title":  "Dockerfile Examples",
+                              "type":  "opensource",
+                              "url":  "https://github.com/dockersamples"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yGRQcx64S-yBGEoOeMc55",
+        "label":  "Dockerfiles",
+        "endpoint":  "https://roadmap.sh/docker/topic@yGRQcx64S-yBGEoOeMc55.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dockerfile Reference",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/builder/"
+                          },
+                          {
+                              "title":  "Dockerfile Best Practices",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/develop/develop-images/dockerfile_best-practices/"
+                          },
+                          {
+                              "title":  "Dockerfile Examples",
+                              "type":  "opensource",
+                              "url":  "https://github.com/dockersamples"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "frshJqVMP8D7o_7tMZMPI",
+        "label":  "Efficient Layer Caching",
+        "endpoint":  "https://roadmap.sh/docker/topic@frshJqVMP8D7o_7tMZMPI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Layer Caching",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/build/cache/"
+                          },
+                          {
+                              "title":  "Layer Caching",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_nMpndIyaBU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-8wAzF6_3gruiM3VYMvB0",
+        "label":  "Image Size and Security",
+        "endpoint":  "https://roadmap.sh/docker/topic@-8wAzF6_3gruiM3VYMvB0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Multi-stage builds",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/build/building/multi-stage/"
+                          },
+                          {
+                              "title":  "Docker Best Practices",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/develop/develop-images/dockerfile_best-practices/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3VKPiMfbGBxv9m_SljIQV",
+        "label":  "Container Registries",
+        "endpoint":  "https://roadmap.sh/docker/topic@3VKPiMfbGBxv9m_SljIQV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Registry",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/registry/"
+                          },
+                          {
+                              "title":  "Docker Hub",
+                              "type":  "official",
+                              "url":  "https://hub.docker.com/"
+                          },
+                          {
+                              "title":  "Artifact Registry",
+                              "type":  "official",
+                              "url":  "https://cloud.google.com/artifact-registry"
+                          },
+                          {
+                              "title":  "Amazon ECR",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ecr/"
+                          },
+                          {
+                              "title":  "Azure Container Registry",
+                              "type":  "official",
+                              "url":  "https://azure.microsoft.com/en-in/products/container-registry"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rxVR62_yXIjc-L4GFSV6u",
+        "label":  "Dockerhub",
+        "endpoint":  "https://roadmap.sh/docker/topic@rxVR62_yXIjc-L4GFSV6u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DockerHub",
+                              "type":  "official",
+                              "url":  "https://hub.docker.com/"
+                          },
+                          {
+                              "title":  "DockerHub Repositories",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/docker-hub/repos/"
+                          },
+                          {
+                              "title":  "DockerHub Webhooks",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/docker-hub/webhooks/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Vs4WQwgJFhA63U9Gf2ym0",
+        "label":  "Image Tagging Best Practices",
+        "endpoint":  "https://roadmap.sh/docker/topic@Vs4WQwgJFhA63U9Gf2ym0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Tags",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/get-started/docker-concepts/building-images/build-tag-and-publish-an-image/"
+                          },
+                          {
+                              "title":  "Docker Image Tagging Best Practices",
+                              "type":  "article",
+                              "url":  "https://medium.com/@nirmalkushwah08/docker-image-tagging-strategy-4aa886fb4fcc"
+                          },
+                          {
+                              "title":  "Semantic Versioning",
+                              "type":  "article",
+                              "url":  "https://semver.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fh5aERX7c-lY9FPsmftoF",
+        "label":  "Others (ghcr, ecr, gcr, acr, etc)",
+        "endpoint":  "https://roadmap.sh/docker/topic@fh5aERX7c-lY9FPsmftoF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DockerHub",
+                              "type":  "official",
+                              "url":  "https://hub.docker.com/"
+                          },
+                          {
+                              "title":  "Artifact Registry",
+                              "type":  "official",
+                              "url":  "https://cloud.google.com/artifact-registry"
+                          },
+                          {
+                              "title":  "Amazon ECR",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ecr/"
+                          },
+                          {
+                              "title":  "Azure Container Registry",
+                              "type":  "official",
+                              "url":  "https://azure.microsoft.com/en-in/products/container-registry"
+                          },
+                          {
+                              "title":  "GitHub Container Registry",
+                              "type":  "official",
+                              "url":  "https://docs.github.com/en/packages/guides/about-github-container-registry"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z2eeBXPzo-diQ67Fcfyhc",
+        "label":  "Running Containers",
+        "endpoint":  "https://roadmap.sh/docker/topic@z2eeBXPzo-diQ67Fcfyhc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Run",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/run/"
+                          },
+                          {
+                              "title":  "Docker Containers",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/container/"
+                          },
+                          {
+                              "title":  "Docker Exec",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/exec/"
+                          },
+                          {
+                              "title":  "Docker Stop",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/stop/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6eu5NRA1sJuaHTlHtNurc",
+        "label":  "docker run",
+        "endpoint":  "https://roadmap.sh/docker/topic@6eu5NRA1sJuaHTlHtNurc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Run",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/run/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jjA9E0J8N2frfeJCNtA1m",
+        "label":  "docker compose",
+        "endpoint":  "https://roadmap.sh/docker/topic@jjA9E0J8N2frfeJCNtA1m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Compose documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/compose/"
+                          },
+                          {
+                              "title":  "Curated Docker Compose Samples",
+                              "type":  "opensource",
+                              "url":  "https://github.com/docker/awesome-compose?tab=readme-ov-file"
+                          },
+                          {
+                              "title":  "Docker Compose Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DM65_JyGxCo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mAaEz-bwB5DLaBbOSYGMn",
+        "label":  "Runtime Configuration Options",
+        "endpoint":  "https://roadmap.sh/docker/topic@mAaEz-bwB5DLaBbOSYGMn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/run/"
+                          },
+                          {
+                              "title":  "Docker Runtime Arguments",
+                              "type":  "article",
+                              "url":  "https://galea.medium.com/docker-runtime-arguments-604593479f45"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "78YFahP3Fg-c27reLkuK4",
+        "label":  "Container Security",
+        "endpoint":  "https://roadmap.sh/docker/topic@78YFahP3Fg-c27reLkuK4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Container Security Labs: Privileged Containers, Daemon Exposure, Image Layers",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/catalogue/cloud-security/"
+                          },
+                          {
+                              "title":  "Docker Security",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/security/"
+                          },
+                          {
+                              "title":  "Kubernetes Security Best Practices",
+                              "type":  "article",
+                              "url":  "https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vYug8kcwrMoWf8ft4UDNI",
+        "label":  "Runtime Security",
+        "endpoint":  "https://roadmap.sh/docker/topic@vYug8kcwrMoWf8ft4UDNI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Privileged Containers: Hands-on Escape Exercise",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/privileged-containers/"
+                          },
+                          {
+                              "title":  "Docker Security",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/security/"
+                          },
+                          {
+                              "title":  "Docker Security Best Practices",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/build/building/best-practices/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M5UG-ZcyhBPbksZd0ZdNt",
+        "label":  "Image Security",
+        "endpoint":  "https://roadmap.sh/docker/topic@M5UG-ZcyhBPbksZd0ZdNt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Secrets in Image Layers: Hands-on Exercise",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/secrets-in-image-layers/"
+                          },
+                          {
+                              "title":  "Docker Content Trust",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/security/trust/content_trust/"
+                          },
+                          {
+                              "title":  "Docker Hub",
+                              "type":  "official",
+                              "url":  "https://hub.docker.com/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b-LwyYiegbF0jIrn7HYRv",
+        "label":  "Docker CLI",
+        "endpoint":  "https://roadmap.sh/docker/topic@b-LwyYiegbF0jIrn7HYRv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker CLI",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/reference/cli/docker/"
+                          },
+                          {
+                              "title":  "Docker Compose",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/compose/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3Nsg-F3wMKEzEsXw1MBZv",
+        "label":  "Images",
+        "endpoint":  "https://roadmap.sh/docker/topic@3Nsg-F3wMKEzEsXw1MBZv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What\u0027s the Difference Between Docker Images and Containers?",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/compare/the-difference-between-docker-images-and-containers/"
+                          },
+                          {
+                              "title":  "What is an image?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NyvT9REqLe4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jhwe-xfVc-C7qy8YuS5dZ",
+        "label":  "Containers",
+        "endpoint":  "https://roadmap.sh/docker/topic@jhwe-xfVc-C7qy8YuS5dZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker CLI Commands",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/cli/"
+                          },
+                          {
+                              "title":  "Docker CLI Commands Cheat Sheet",
+                              "type":  "article",
+                              "url":  "https://docs.docker.com/get-started/docker_cheatsheet.pdf"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eHtVLB6v3h7hatJb-9cZK",
+        "label":  "Volumes",
+        "endpoint":  "https://roadmap.sh/docker/topic@eHtVLB6v3h7hatJb-9cZK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Volumes",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/storage/volumes/"
+                          },
+                          {
+                              "title":  "Docker Volume Commands",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/volume/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w5QjzvOaciK2rotOkjvjQ",
+        "label":  "Networks",
+        "endpoint":  "https://roadmap.sh/docker/topic@w5QjzvOaciK2rotOkjvjQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Networks",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/network/"
+                          },
+                          {
+                              "title":  "Docker Network Commands",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/reference/commandline/network/"
+                          },
+                          {
+                              "title":  "Docker Networking",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bKFMS5C4CG0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hHXTth0ZP8O-iMGR9xfu9",
+        "label":  "Developer Experience",
+        "endpoint":  "https://roadmap.sh/docker/topic@hHXTth0ZP8O-iMGR9xfu9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Developer Experience",
+                              "type":  "official",
+                              "url":  "https://www.docker.com/blog/cto-chat-overcoming-the-developer-experience-gap-feat-redmonk-flow-io/"
+                          },
+                          {
+                              "title":  "Developer Experience Wishlist - Docker",
+                              "type":  "article",
+                              "url":  "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/00-devx-wishlist#key-devx-features"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4p5d3rzCHy4vjg2PRX-2k",
+        "label":  "Hot Reloading",
+        "endpoint":  "https://roadmap.sh/docker/topic@4p5d3rzCHy4vjg2PRX-2k.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hot Reloading - Docker",
+                              "type":  "article",
+                              "url":  "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/01-hot-reloading"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LiAV9crrTHhLqeZhD25a2",
+        "label":  "Debuggers",
+        "endpoint":  "https://roadmap.sh/docker/topic@LiAV9crrTHhLqeZhD25a2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Buildx Debug",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/reference/cli/docker/buildx/debug/"
+                          },
+                          {
+                              "title":  "Debuggers in Docker",
+                              "type":  "article",
+                              "url":  "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/02-debug-and-test"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Kmyo1_Mor9WHLkRhNShRZ",
+        "label":  "Tests",
+        "endpoint":  "https://roadmap.sh/docker/topic@Kmyo1_Mor9WHLkRhNShRZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Running Tests - Docker",
+                              "type":  "article",
+                              "url":  "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/03-tests"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oyqw4tr-taZcxt5kREh1g",
+        "label":  "Continuous Integration",
+        "endpoint":  "https://roadmap.sh/docker/topic@oyqw4tr-taZcxt5kREh1g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Continuous Integration - Docker",
+                              "type":  "article",
+                              "url":  "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/04-continuous-integration-github-actions"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qXOGqORi3EdqwsP9Uhi9m",
+        "label":  "Deploying Containers",
+        "endpoint":  "https://roadmap.sh/docker/topic@qXOGqORi3EdqwsP9Uhi9m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Deployment",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/guides/orchestration/"
+                          },
+                          {
+                              "title":  "Docker Compose",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/compose/"
+                          },
+                          {
+                              "title":  "Docker Swarm",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/swarm/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PP_RRBo_pThe2mgf6xzMP",
+        "label":  "PaaS Options",
+        "endpoint":  "https://roadmap.sh/docker/topic@PP_RRBo_pThe2mgf6xzMP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PaaS Options for Deploying Containers",
+                              "type":  "official",
+                              "url":  "https://www.docker.com/resources/what-container/#paas-options"
+                          },
+                          {
+                              "title":  "Azure Container Instances",
+                              "type":  "official",
+                              "url":  "https://azure.microsoft.com/en-us/services/container-instances/"
+                          },
+                          {
+                              "title":  "Google Cloud Run",
+                              "type":  "official",
+                              "url":  "https://cloud.google.com/run"
+                          },
+                          {
+                              "title":  "IBM Cloud Code Engine",
+                              "type":  "official",
+                              "url":  "https://www.ibm.com/cloud/code-engine"
+                          },
+                          {
+                              "title":  "Amazon Elastic Container Service",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ecs/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RqXpX2XabtHYVjgg1EZR_",
+        "label":  "Kubernetes",
+        "endpoint":  "https://roadmap.sh/docker/topic@RqXpX2XabtHYVjgg1EZR_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/"
+                          },
+                          {
+                              "title":  "Docker Swarm",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/swarm/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r1eJZDZYouUjnGwAtRbyU",
+        "label":  "Nomad",
+        "endpoint":  "https://roadmap.sh/docker/topic@r1eJZDZYouUjnGwAtRbyU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Nomad Documentation",
+                              "type":  "official",
+                              "url":  "https://www.nomadproject.io/docs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ks6PFN-0Z9zH7gtWaWgxz",
+        "label":  "Docker Swarm",
+        "endpoint":  "https://roadmap.sh/docker/topic@ks6PFN-0Z9zH7gtWaWgxz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Swarm",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/swarm/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9NuHwfytnUTpeVmnMpZZC",
+        "label":  "Networking",
+        "endpoint":  "https://roadmap.sh/docker/topic@9NuHwfytnUTpeVmnMpZZC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Networking overview",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/network/"
+                          },
+                          {
+                              "title":  "Docker Networking – Basics, Network Types \u0026 Examples",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/docker-networking"
+                          },
+                          {
+                              "title":  "Docker networking is CRAZY!! (you NEED to learn it)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bKFMS5C4CG0"
+                          },
+                          {
+                              "title":  "Docker Networking Tutorial, ALL Network Types explained!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5grbXvV_DSk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Docker",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/zzDy1W"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbEdZ2"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "open-ontologies",
+  "name": "Open Ontologies",
+  "version": "0.1.4",
+  "minAppVersion": "1.7.2",
+  "description": "Validate, reason over, SHACL-check and SPARQL-query ontology files and your vault as RDF, powered by the full Open Ontologies engine.",
+  "author": "Fabio Rovai",
+  "authorUrl": "https://github.com/fabio-rovai",
+  "isDesktopOnly": true
+}

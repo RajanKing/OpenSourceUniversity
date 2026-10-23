@@ -1,0 +1,1619 @@
+{
+    "slug":  "html",
+    "source":  "https://roadmap.sh/html",
+    "title":  "HTML",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-02-26T08:54:20.306Z",
+    "nodes":  [
+                  {
+                      "id":  "DMXMZPWZlKgJAfhL2yDck",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -705.6465659078484,
+                                       "y":  1526.3454609580529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "a4f50XLbGV1_MSEZliclS",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -705.6465659078484,
+                                       "y":  1747.8617220313795
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aUAiNsYjmlsdGmlfzL_rv",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -705.6465659078484,
+                                       "y":  1410.8176862318387
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e5X1XwnKsTgfJG9o2Prdm",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  175.19240658581404,
+                                       "y":  707.8904823482779
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WDltGpnZCkJcNlipmPAKa",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  76.19240658581404,
+                                       "y":  707.8904823482779
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W3fyV8zyFf-lJkGqkogtl",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -494.56501689023344,
+                                       "y":  156.60774675227296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hZ3W43ceuUonvuG8M1NR9",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -592.5845481402334,
+                                       "y":  156.60774675227296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-62DkJGOnzTK21RT48ojG",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -677.0532981402334,
+                                       "y":  156.60774675227296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-oXkzllb88bN17OY5LQrP",
+                      "type":  "title",
+                      "label":  "HTML",
+                      "position":  {
+                                       "x":  -268.75642314023344,
+                                       "y":  -38.29485328259341
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4gst44L8-ps9YFMHzucfN",
+                      "type":  "subtopic",
+                      "label":  "What are markup languages?",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  54.60774675227296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xy15NSxlS0QXYNzEvgocK",
+                      "type":  "subtopic",
+                      "label":  "Frontend Development",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  107.60774675227296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JkLec2vSBMFAUc1Dzra-L",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -303.28767314023344,
+                                       "y":  108.60774675227296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nXRjahYSDqfEqY26yfLEt",
+                      "type":  "subtopic",
+                      "label":  "What is HTTP?",
+                      "position":  {
+                                       "x":  37.69240658581407,
+                                       "y":  76.22770550705798
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0Q41Bm_TZqsC7X-MH8uFe",
+                      "type":  "subtopic",
+                      "label":  "DNS",
+                      "position":  {
+                                       "x":  37.69240658581407,
+                                       "y":  235.22770550705798
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oRjacb1OqAlsP-YB16Nuy",
+                      "type":  "subtopic",
+                      "label":  "Domain names",
+                      "position":  {
+                                       "x":  37.69240658581407,
+                                       "y":  129.22770550705798
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4gvPprSH7hRS4gtXNMcCF",
+                      "type":  "subtopic",
+                      "label":  "Browsers",
+                      "position":  {
+                                       "x":  37.69240658581407,
+                                       "y":  288.227705507058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t9KmPbRh6pkfouPi1mBqJ",
+                      "type":  "subtopic",
+                      "label":  "Hosting",
+                      "position":  {
+                                       "x":  37.69240658581407,
+                                       "y":  182.22770550705798
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6vGbvRsmQgOpRh8JJ3RF_",
+                      "type":  "subtopic",
+                      "label":  "What is SEO?",
+                      "position":  {
+                                       "x":  37.69240658581407,
+                                       "y":  341.227705507058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0CHn_ubTBRWgrYGy0moZh",
+                      "type":  "topic",
+                      "label":  "How the web works",
+                      "position":  {
+                                       "x":  -303.28767314023344,
+                                       "y":  235.29409510784598
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nOIijMH-3TvcO1KL6qzwf",
+                      "type":  "subtopic",
+                      "label":  "Tags and Attributes",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  283.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-ME4w8Bm5krSH14Yno4E5",
+                      "type":  "subtopic",
+                      "label":  "HTML Comments",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  442.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qXcn_AGcGWjT8GgjaW5WN",
+                      "type":  "subtopic",
+                      "label":  "Case Insensitivity",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  336.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IUsaaRxiuOn3y9uYbpsJ0",
+                      "type":  "subtopic",
+                      "label":  "Whitespaces",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  495.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VscH3rVqpX29vaKmdCMop",
+                      "type":  "subtopic",
+                      "label":  "!DOCTYPE",
+                      "position":  {
+                                       "x":  38.69240658581404,
+                                       "y":  484.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "93tSk4RwWfkfOyaA7I9Gn",
+                      "type":  "subtopic",
+                      "label":  "body",
+                      "position":  {
+                                       "x":  137.69240658581404,
+                                       "y":  537.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fP2cPskF9KzppZUhfyB8U",
+                      "type":  "subtopic",
+                      "label":  "html",
+                      "position":  {
+                                       "x":  38.69240658581404,
+                                       "y":  537.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ceAHMWQeaqURKWy628QBH",
+                      "type":  "subtopic",
+                      "label":  "meta",
+                      "position":  {
+                                       "x":  137.69240658581404,
+                                       "y":  590.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ufgy4-kC2drCov4MqEhjy",
+                      "type":  "subtopic",
+                      "label":  "head",
+                      "position":  {
+                                       "x":  38.69240658581404,
+                                       "y":  590.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MjGfRzhVZRxu545TbJ1AJ",
+                      "type":  "topic",
+                      "label":  "Basic Tags",
+                      "position":  {
+                                       "x":  -303.28767314023344,
+                                       "y":  538.1586507539203
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AmIRWclu6IYViWHXnGA8U",
+                      "type":  "subtopic",
+                      "label":  "h1 to h6",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  589.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "efddQv5AZqvGmIyuYuCr7",
+                      "type":  "subtopic",
+                      "label":  "b / strong",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  748.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SS7JmTrySRmRlzInvRJxw",
+                      "type":  "subtopic",
+                      "label":  "title",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  642.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9EGwQalXfVGpVcMpTeD4V",
+                      "type":  "subtopic",
+                      "label":  "i / em",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  801.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "czmIvZYONFDxB2UNpT8U1",
+                      "type":  "subtopic",
+                      "label":  "p",
+                      "position":  {
+                                       "x":  -583.9579568300146,
+                                       "y":  642.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9S2IUUWVv_Q7ZfD7VqfhH",
+                      "type":  "subtopic",
+                      "label":  "mark",
+                      "position":  {
+                                       "x":  -583.9579568300146,
+                                       "y":  801.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Bdu0_AcAADs7YiCaHte1g",
+                      "type":  "subtopic",
+                      "label":  "hr",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  695.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JU8Ff3DSCn_db0K7-P-Op",
+                      "type":  "subtopic",
+                      "label":  "sub",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  854.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cBKw3jiAvdXVwUryV1aJl",
+                      "type":  "subtopic",
+                      "label":  "br",
+                      "position":  {
+                                       "x":  -583.9579568300146,
+                                       "y":  695.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o1rSXBsjhD-sN0FdOK_dm",
+                      "type":  "subtopic",
+                      "label":  "sup",
+                      "position":  {
+                                       "x":  -583.9579568300146,
+                                       "y":  854.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-2BvwJsqa5K8Tb8oSDUC8",
+                      "type":  "subtopic",
+                      "label":  "pre",
+                      "position":  {
+                                       "x":  -583.9579568300146,
+                                       "y":  748.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wmAps9IeAvOxcqBqgUAXN",
+                      "type":  "subtopic",
+                      "label":  "Links",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  907.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ksKI4TDz4_9IcmNORczWo",
+                      "type":  "topic",
+                      "label":  "Textual Tags",
+                      "position":  {
+                                       "x":  -303.28767314023344,
+                                       "y":  749.8509646934533
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ihP3FIRMr8iQTdOja_CxV",
+                      "type":  "subtopic",
+                      "label":  "div",
+                      "position":  {
+                                       "x":  38.69240658581407,
+                                       "y":  668.8904823482779
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f7-umBvAzDZxHtHgJMCj6",
+                      "type":  "subtopic",
+                      "label":  "span",
+                      "position":  {
+                                       "x":  137.69240658581407,
+                                       "y":  668.8904823482779
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wu3oW_gnjKTYV8QJHdNxi",
+                      "type":  "topic",
+                      "label":  "Grouping text",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  749.8509646934533
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PikSDs0EZ93RauZc_GDEw",
+                      "type":  "subtopic",
+                      "label":  "id",
+                      "position":  {
+                                       "x":  -305.30759341418593,
+                                       "y":  851.7999384702566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GpaI2IDHDOZjyT3AZMbYD",
+                      "type":  "subtopic",
+                      "label":  "style",
+                      "position":  {
+                                       "x":  -305.30759341418593,
+                                       "y":  956.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R0mDuO5V5NJI8Yupc_i8i",
+                      "type":  "subtopic",
+                      "label":  "class",
+                      "position":  {
+                                       "x":  -206.30759341418593,
+                                       "y":  851.7999384702566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7iDMmYQ-2Q6hrrFnUgRuP",
+                      "type":  "subtopic",
+                      "label":  "Data Attributes",
+                      "position":  {
+                                       "x":  -305.30759341418593,
+                                       "y":  903.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xgw2ux-2Poml1fjWxjFsu",
+                      "type":  "topic",
+                      "label":  "Standard attributes",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  903.7042252018592
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ePOzN3Sh5tCYlAbsweWU0",
+                      "type":  "subtopic",
+                      "label":  "Ordered lists",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1149.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pEcxDj3dSgAwxydwKWU7d",
+                      "type":  "subtopic",
+                      "label":  "Definition lists",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1255.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LKn40uz56vYrPnLG3I-CY",
+                      "type":  "subtopic",
+                      "label":  "Unordered lists",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1202.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wDBnbKni0SamOqNhnp87B",
+                      "type":  "subtopic",
+                      "label":  "Nested lists",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1308.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B-Bv4aY_tGgWakyT8TgEe",
+                      "type":  "subtopic",
+                      "label":  "blockquote",
+                      "position":  {
+                                       "x":  -684.0489181315744,
+                                       "y":  1687.4446554680808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PE_WoH4nbGAJSJT14Qli0",
+                      "type":  "subtopic",
+                      "label":  "cite",
+                      "position":  {
+                                       "x":  -582.0489181315744,
+                                       "y":  1580.4446554680808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xprekf2SY1fevcR2P5gRw",
+                      "type":  "subtopic",
+                      "label":  "q",
+                      "position":  {
+                                       "x":  -551.0801681315744,
+                                       "y":  1687.4446554680808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jfC0Og9340AK7b3Fhp4WI",
+                      "type":  "subtopic",
+                      "label":  "dfn",
+                      "position":  {
+                                       "x":  -684.0489181315744,
+                                       "y":  1633.4446554680808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aeovzlUV4oWwZCMcAoRVC",
+                      "type":  "subtopic",
+                      "label":  "abbr",
+                      "position":  {
+                                       "x":  -684.0489181315744,
+                                       "y":  1580.4446554680808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PGKWhfXEd3Iv0AIhL7y4_",
+                      "type":  "subtopic",
+                      "label":  "address",
+                      "position":  {
+                                       "x":  -582.0489181315744,
+                                       "y":  1633.4446554680808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v3Uf4LTfCbyasNJ-2Vfj9",
+                      "type":  "subtopic",
+                      "label":  "del",
+                      "position":  {
+                                       "x":  -680.3760939705636,
+                                       "y":  1466.6043984023954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Hx8mfbfkvRrBqLypE_NL3",
+                      "type":  "subtopic",
+                      "label":  "s",
+                      "position":  {
+                                       "x":  -616.3760939705636,
+                                       "y":  1466.6043984023954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "G_hZBbIGOLn1-sh1jROL3",
+                      "type":  "subtopic",
+                      "label":  "ins",
+                      "position":  {
+                                       "x":  -552.3760939705636,
+                                       "y":  1466.6043984023954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0AF0Xs2nWVZav9t5Eh9NX",
+                      "type":  "subtopic",
+                      "label":  "header",
+                      "position":  {
+                                       "x":  -689.3619067685847,
+                                       "y":  1804.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "99wo0cNHe0sU63_aDBrxY",
+                      "type":  "subtopic",
+                      "label":  "article",
+                      "position":  {
+                                       "x":  -581.3619067685847,
+                                       "y":  1857.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4uKQubirOgXz9ZvfR9cWa",
+                      "type":  "subtopic",
+                      "label":  "nav",
+                      "position":  {
+                                       "x":  -600.3619067685847,
+                                       "y":  1804.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VahoGEC6I3jX1916MsmUY",
+                      "type":  "subtopic",
+                      "label":  "aside",
+                      "position":  {
+                                       "x":  -688.3619067685847,
+                                       "y":  1910.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "InNY2DPYlnZaeBG9X_sMI",
+                      "type":  "subtopic",
+                      "label":  "main",
+                      "position":  {
+                                       "x":  -531.3619067685847,
+                                       "y":  1804.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rjE1yjFZ6KBWXgXDRIZc1",
+                      "type":  "subtopic",
+                      "label":  "footer",
+                      "position":  {
+                                       "x":  -581.3619067685847,
+                                       "y":  1910.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1WvHjkclwT-LUGdeuygzV",
+                      "type":  "subtopic",
+                      "label":  "section",
+                      "position":  {
+                                       "x":  -689.3619067685847,
+                                       "y":  1857.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ievbuvgPKo261hM-9F117",
+                      "type":  "subtopic",
+                      "label":  "Inline CSS",
+                      "position":  {
+                                       "x":  -317.04542189126374,
+                                       "y":  1856.662368322
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PhC4amuHcgxujOJisNsIr",
+                      "type":  "subtopic",
+                      "label":  "External CSS",
+                      "position":  {
+                                       "x":  -317.04542189126374,
+                                       "y":  1962.662368322
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1uhThwxjHgXPu_i1__1eE",
+                      "type":  "subtopic",
+                      "label":  "Internal CSS",
+                      "position":  {
+                                       "x":  -317.04542189126374,
+                                       "y":  1909.662368322
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YHoag7UR40OeIVUjfhQg_",
+                      "type":  "topic",
+                      "label":  "Accessibility",
+                      "position":  {
+                                       "x":  32.80178158581407,
+                                       "y":  1857.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yEl77JIN5-ixN5Ay247qp",
+                      "type":  "topic",
+                      "label":  "Basics of SEO",
+                      "position":  {
+                                       "x":  32.80178158581407,
+                                       "y":  1959.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uqyE79OItPOX33E5FoGel",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -217.47517314023344,
+                                       "y":  -114.29485328259341
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w_rUaBorHFOY74S0JiEwM",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  -128.2948532825934
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "JwIifMJGmRamELLZw5_WD",
+                                        "label":  "Frontend Roadmap",
+                                        "url":  "https://roadmap.sh/frontend"
+                                    },
+                                    {
+                                        "id":  "WG7MZMaslI5PjZ6RIvSIK",
+                                        "label":  "CSS Roadmap",
+                                        "url":  "https://roadmap.sh/css"
+                                    },
+                                    {
+                                        "id":  "LGLdnS22ptfeP-frfb6-j",
+                                        "label":  "JavaScript Roadmap",
+                                        "url":  "https://roadmap.sh/javascript"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -67.92055764917387,
+                                       "y":  -122.25580831641463
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  -54.29604543593075,
+                                       "y":  -40.64224644082691
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "b83npHc-R9M03hEGzA9Ha",
+                      "type":  "subtopic",
+                      "label":  "HTML",
+                      "position":  {
+                                       "x":  -707.2876731402334,
+                                       "y":  186.29409510784598
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fX71CXA26cUxY5WX_zABi",
+                      "type":  "subtopic",
+                      "label":  "CSS",
+                      "position":  {
+                                       "x":  -622.8189231402334,
+                                       "y":  186.29409510784598
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "F-9uI39S9oYVGA8hi7aZI",
+                      "type":  "subtopic",
+                      "label":  "JavaScript",
+                      "position":  {
+                                       "x":  -538.3501731402334,
+                                       "y":  186.29409510784598
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LKNBSvhAfu655yOvr_fcm",
+                      "type":  "paragraph",
+                      "label":  "Your First HTML FIle",
+                      "position":  {
+                                       "x":  -323.47517314023344,
+                                       "y":  382.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ego3XwBDgqlXOj6jSNvpy",
+                      "type":  "subtopic",
+                      "label":  "HTML Entities",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  389.0718298386647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "94HB2gvHgcEIeFQTlbVDu",
+                      "type":  "subtopic",
+                      "label":  "Images",
+                      "position":  {
+                                       "x":  -709.9579568300146,
+                                       "y":  1153.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mWc4HuNQACXGpJjEPa79j",
+                      "type":  "subtopic",
+                      "label":  "Video",
+                      "position":  {
+                                       "x":  -591.3619067685847,
+                                       "y":  1206.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k8FZPxFcDPVnXBONWUhME",
+                      "type":  "subtopic",
+                      "label":  "Audio",
+                      "position":  {
+                                       "x":  -710.3760939705636,
+                                       "y":  1206.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W0pWVr4cdxSan9Ceu5t7i",
+                      "type":  "subtopic",
+                      "label":  "iframe",
+                      "position":  {
+                                       "x":  -591.3619067685847,
+                                       "y":  1259.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vfpUh0dcYCyRzsGfJynqn",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  133.69240658581404,
+                                       "y":  2193.5410594320156
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O5dely89N5UCMBeUfh8ud",
+                      "type":  "paragraph",
+                      "label":  "Visit the following roadmaps to keep learning",
+                      "position":  {
+                                       "x":  -434.8749037099574,
+                                       "y":  2086.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eZp8Vlgy8Dyrcwszi2r_h",
+                      "type":  "button",
+                      "label":  "CSS",
+                      "position":  {
+                                       "x":  -199.37490370995735,
+                                       "y":  2144.5410594320156
+                                   },
+                      "href":  "https://roadmap.sh/css",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZU36zvbYT-R3anWJVIqAq",
+                      "type":  "button",
+                      "label":  "JavaScript",
+                      "position":  {
+                                       "x":  9.618755205030709,
+                                       "y":  2144.5410594320156
+                                   },
+                      "href":  "https://roadmap.sh/javascript",
+                      "links":  null
+                  },
+                  {
+                      "id":  "oHbzYpFInyr5aKCe-NWkC",
+                      "type":  "topic",
+                      "label":  "Lists and Types",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1054.717801515647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3P9p18a9EjbjjMtzpoVRN",
+                      "type":  "topic",
+                      "label":  "Table Tag",
+                      "position":  {
+                                       "x":  -322.54542189126374,
+                                       "y":  1056.1653646015204
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UevJNi2HHNzpCAx7Icd0k",
+                      "type":  "topic",
+                      "label":  "Embedding Media",
+                      "position":  {
+                                       "x":  -317.04542189126374,
+                                       "y":  1202.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f5O_U9dt0b73ZhLrWWz2L",
+                      "type":  "subtopic",
+                      "label":  "img vs figure",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  1056.1653646015204
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "znqYy9Tgfpe-qakjRr7KU",
+                      "type":  "subtopic",
+                      "label":  "Priority Hints",
+                      "position":  {
+                                       "x":  -707.9579568300146,
+                                       "y":  1002.1653646015204
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P_wR4dwto2NKrvTRbdBIX",
+                      "type":  "topic",
+                      "label":  "Using Forms",
+                      "position":  {
+                                       "x":  -317.04542189126374,
+                                       "y":  1459.5123618759412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9R5WYPxlChmz6bevJUwsT",
+                      "type":  "subtopic",
+                      "label":  "Labels and Inputs",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1406.5123618759412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6NvYDlYYLZzf4IHXu0dWs",
+                      "type":  "subtopic",
+                      "label":  "Form Validation",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1512.5123618759412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HxgDw9gh1vHiMIMyZW8H2",
+                      "type":  "subtopic",
+                      "label":  "Limitations",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1565.5123618759412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-UlDLjC8VsrKB9yexMtlr",
+                      "type":  "subtopic",
+                      "label":  "File Uploads",
+                      "position":  {
+                                       "x":  33.69240658581407,
+                                       "y":  1459.5123618759412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aJTXstcrsINdov7yrH8cE",
+                      "type":  "topic",
+                      "label":  "Semantic Markup",
+                      "position":  {
+                                       "x":  -317.04542189126374,
+                                       "y":  1614.3454609580529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PMqaaII6I26AftVo-Vm5-",
+                      "type":  "label",
+                      "label":  "Highlighting Changes",
+                      "position":  {
+                                       "x":  -665.6465659078484,
+                                       "y":  1422.8076392968403
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "6eMHNUld9NIpsy53o0ZQJ",
+                      "type":  "label",
+                      "label":  "Qutotation / Citation",
+                      "position":  {
+                                       "x":  -661.1465659078484,
+                                       "y":  1539.5079448533459
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "wGtowDPBVHaCj7APCKYv0",
+                      "type":  "label",
+                      "label":  "Layout tags",
+                      "position":  {
+                                       "x":  -627.3501329009872,
+                                       "y":  1758.1865427310183
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "9FAlTHlRj_DVjbpuiGRzD",
+                      "type":  "subtopic",
+                      "label":  "CSP",
+                      "position":  {
+                                       "x":  -710.3760939705636,
+                                       "y":  1259.6919021162566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "51NlCt5pvWNfa70WaE2M4",
+                      "type":  "topic",
+                      "label":  "Styling Basics",
+                      "position":  {
+                                       "x":  -317.04542189126374,
+                                       "y":  1755.0634143054344
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5Ze6iqSnZLpQWnhUSGQOE",
+                      "type":  "topic",
+                      "label":  "Including JavaScript",
+                      "position":  {
+                                       "x":  32.80178158581407,
+                                       "y":  1755.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QaWH-1EplhGtLCrM_rwUE",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  126.69240658581407,
+                                       "y":  2008.9685484800357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cyCi36GIPZkvXKc6hxDN1",
+                      "type":  "button",
+                      "label":  "Frontend",
+                      "position":  {
+                                       "x":  -408.3685626249454,
+                                       "y":  2144.5410594320156
+                                   },
+                      "href":  "https://roadmap.sh/frontend",
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "tC13Xz7K5kOsxhU4asWny",
+                      "source":  "-oXkzllb88bN17OY5LQrP",
+                      "target":  "JkLec2vSBMFAUc1Dzra-L",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "IKsz9MdHPqscKWiVJo5wm",
+                      "source":  "JkLec2vSBMFAUc1Dzra-L",
+                      "target":  "0CHn_ubTBRWgrYGy0moZh",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "hDl9yuOps8CRy44DKlf8O",
+                      "source":  "MjGfRzhVZRxu545TbJ1AJ",
+                      "target":  "ksKI4TDz4_9IcmNORczWo",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__JkLec2vSBMFAUc1Dzra-Ly2-4gst44L8-ps9YFMHzucfNz2",
+                      "source":  "JkLec2vSBMFAUc1Dzra-L",
+                      "target":  "4gst44L8-ps9YFMHzucfN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__JkLec2vSBMFAUc1Dzra-Ly2-Xy15NSxlS0QXYNzEvgocKz1",
+                      "source":  "JkLec2vSBMFAUc1Dzra-L",
+                      "target":  "Xy15NSxlS0QXYNzEvgocK",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__0CHn_ubTBRWgrYGy0moZhz2-nXRjahYSDqfEqY26yfLEty1",
+                      "source":  "0CHn_ubTBRWgrYGy0moZh",
+                      "target":  "nXRjahYSDqfEqY26yfLEt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__0CHn_ubTBRWgrYGy0moZhz2-oRjacb1OqAlsP-YB16Nuyy2",
+                      "source":  "0CHn_ubTBRWgrYGy0moZh",
+                      "target":  "oRjacb1OqAlsP-YB16Nuy",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__0CHn_ubTBRWgrYGy0moZhz2-t9KmPbRh6pkfouPi1mBqJy1",
+                      "source":  "0CHn_ubTBRWgrYGy0moZh",
+                      "target":  "t9KmPbRh6pkfouPi1mBqJ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__0CHn_ubTBRWgrYGy0moZhz2-0Q41Bm_TZqsC7X-MH8uFey1",
+                      "source":  "0CHn_ubTBRWgrYGy0moZh",
+                      "target":  "0Q41Bm_TZqsC7X-MH8uFe",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__0CHn_ubTBRWgrYGy0moZhz2-4gvPprSH7hRS4gtXNMcCFy2",
+                      "source":  "0CHn_ubTBRWgrYGy0moZh",
+                      "target":  "4gvPprSH7hRS4gtXNMcCF",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__0CHn_ubTBRWgrYGy0moZhz2-6vGbvRsmQgOpRh8JJ3RF_y1",
+                      "source":  "0CHn_ubTBRWgrYGy0moZh",
+                      "target":  "6vGbvRsmQgOpRh8JJ3RF_",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__0CHn_ubTBRWgrYGy0moZhx2-YJTEeRG1CdhLrHaAcDqrlw1",
+                      "source":  "0CHn_ubTBRWgrYGy0moZh",
+                      "target":  "LKNBSvhAfu655yOvr_fcm",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__YJTEeRG1CdhLrHaAcDqrly2-nOIijMH-3TvcO1KL6qzwfz2",
+                      "source":  "LKNBSvhAfu655yOvr_fcm",
+                      "target":  "nOIijMH-3TvcO1KL6qzwf",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__YJTEeRG1CdhLrHaAcDqrly2-Ego3XwBDgqlXOj6jSNvpyz2",
+                      "source":  "LKNBSvhAfu655yOvr_fcm",
+                      "target":  "qXcn_AGcGWjT8GgjaW5WN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__YJTEeRG1CdhLrHaAcDqrly2--ME4w8Bm5krSH14Yno4E5z1",
+                      "source":  "LKNBSvhAfu655yOvr_fcm",
+                      "target":  "-ME4w8Bm5krSH14Yno4E5",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__YJTEeRG1CdhLrHaAcDqrly2-IUsaaRxiuOn3y9uYbpsJ0z1",
+                      "source":  "LKNBSvhAfu655yOvr_fcm",
+                      "target":  "IUsaaRxiuOn3y9uYbpsJ0",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__YJTEeRG1CdhLrHaAcDqrlx2-MjGfRzhVZRxu545TbJ1AJw2",
+                      "source":  "LKNBSvhAfu655yOvr_fcm",
+                      "target":  "MjGfRzhVZRxu545TbJ1AJ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__MjGfRzhVZRxu545TbJ1AJz2-VscH3rVqpX29vaKmdCMopy1",
+                      "source":  "MjGfRzhVZRxu545TbJ1AJ",
+                      "target":  "VscH3rVqpX29vaKmdCMop",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__MjGfRzhVZRxu545TbJ1AJz2-fP2cPskF9KzppZUhfyB8Uy1",
+                      "source":  "MjGfRzhVZRxu545TbJ1AJ",
+                      "target":  "fP2cPskF9KzppZUhfyB8U",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__MjGfRzhVZRxu545TbJ1AJz2-Ufgy4-kC2drCov4MqEhjyy1",
+                      "source":  "MjGfRzhVZRxu545TbJ1AJ",
+                      "target":  "Ufgy4-kC2drCov4MqEhjy",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoy2-AmIRWclu6IYViWHXnGA8Uz1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "AmIRWclu6IYViWHXnGA8U",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoy2-czmIvZYONFDxB2UNpT8U1z1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "czmIvZYONFDxB2UNpT8U1",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoy2-cBKw3jiAvdXVwUryV1aJlz1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "cBKw3jiAvdXVwUryV1aJl",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoy2--2BvwJsqa5K8Tb8oSDUC8z1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "-2BvwJsqa5K8Tb8oSDUC8",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoy2-9S2IUUWVv_Q7ZfD7VqfhHz1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "9S2IUUWVv_Q7ZfD7VqfhH",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoy2-o1rSXBsjhD-sN0FdOK_dmz1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "o1rSXBsjhD-sN0FdOK_dm",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoy2-wmAps9IeAvOxcqBqgUAXNz1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "wmAps9IeAvOxcqBqgUAXN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ksKI4TDz4_9IcmNORczWoz2-Wu3oW_gnjKTYV8QJHdNxiy1",
+                      "source":  "ksKI4TDz4_9IcmNORczWo",
+                      "target":  "Wu3oW_gnjKTYV8QJHdNxi",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__YJTEeRG1CdhLrHaAcDqrly2-Ego3XwBDgqlXOj6jSNvpyz1",
+                      "source":  "LKNBSvhAfu655yOvr_fcm",
+                      "target":  "Ego3XwBDgqlXOj6jSNvpy",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__Wu3oW_gnjKTYV8QJHdNxix2-izO7oHOn9soZTC241JjD6w1",
+                      "source":  "Wu3oW_gnjKTYV8QJHdNxi",
+                      "target":  "xgw2ux-2Poml1fjWxjFsu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEy2-7iDMmYQ-2Q6hrrFnUgRuPz2",
+                      "source":  "xgw2ux-2Poml1fjWxjFsu",
+                      "target":  "7iDMmYQ-2Q6hrrFnUgRuP",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEy2-GpaI2IDHDOZjyT3AZMbYDz1",
+                      "source":  "xgw2ux-2Poml1fjWxjFsu",
+                      "target":  "GpaI2IDHDOZjyT3AZMbYD",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEy2-R0mDuO5V5NJI8Yupc_i8iz1",
+                      "source":  "xgw2ux-2Poml1fjWxjFsu",
+                      "target":  "R0mDuO5V5NJI8Yupc_i8i",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__xgw2ux-2Poml1fjWxjFsux2-5Ze6iqSnZLpQWnhUSGQOEw2",
+                      "source":  "xgw2ux-2Poml1fjWxjFsu",
+                      "target":  "oHbzYpFInyr5aKCe-NWkC",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEx2-ePOzN3Sh5tCYlAbsweWU0w1",
+                      "source":  "oHbzYpFInyr5aKCe-NWkC",
+                      "target":  "ePOzN3Sh5tCYlAbsweWU0",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__oHbzYpFInyr5aKCe-NWkCy2-5Ze6iqSnZLpQWnhUSGQOEz2",
+                      "source":  "oHbzYpFInyr5aKCe-NWkC",
+                      "target":  "3P9p18a9EjbjjMtzpoVRN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__3P9p18a9EjbjjMtzpoVRNx2-5Ze6iqSnZLpQWnhUSGQOEw1",
+                      "source":  "3P9p18a9EjbjjMtzpoVRN",
+                      "target":  "UevJNi2HHNzpCAx7Icd0k",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEy2-mWc4HuNQACXGpJjEPa79jz1",
+                      "source":  "UevJNi2HHNzpCAx7Icd0k",
+                      "target":  "mWc4HuNQACXGpJjEPa79j",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEy2-znqYy9Tgfpe-qakjRr7KUz2",
+                      "source":  "UevJNi2HHNzpCAx7Icd0k",
+                      "target":  "94HB2gvHgcEIeFQTlbVDu",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__94HB2gvHgcEIeFQTlbVDuw2-f5O_U9dt0b73ZhLrWWz2Lx1",
+                      "source":  "94HB2gvHgcEIeFQTlbVDu",
+                      "target":  "f5O_U9dt0b73ZhLrWWz2L",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__UevJNi2HHNzpCAx7Icd0kx2-5Ze6iqSnZLpQWnhUSGQOEw2",
+                      "source":  "UevJNi2HHNzpCAx7Icd0k",
+                      "target":  "P_wR4dwto2NKrvTRbdBIX",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__UevJNi2HHNzpCAx7Icd0ky2-9FAlTHlRj_DVjbpuiGRzDz1",
+                      "source":  "UevJNi2HHNzpCAx7Icd0k",
+                      "target":  "W0pWVr4cdxSan9Ceu5t7i",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__P_wR4dwto2NKrvTRbdBIXz2-9R5WYPxlChmz6bevJUwsTy1",
+                      "source":  "P_wR4dwto2NKrvTRbdBIX",
+                      "target":  "9R5WYPxlChmz6bevJUwsT",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__P_wR4dwto2NKrvTRbdBIXz2--UlDLjC8VsrKB9yexMtlry1",
+                      "source":  "P_wR4dwto2NKrvTRbdBIX",
+                      "target":  "-UlDLjC8VsrKB9yexMtlr",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__P_wR4dwto2NKrvTRbdBIXz2-6NvYDlYYLZzf4IHXu0dWsy1",
+                      "source":  "P_wR4dwto2NKrvTRbdBIX",
+                      "target":  "6NvYDlYYLZzf4IHXu0dWs",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__P_wR4dwto2NKrvTRbdBIXz2-HxgDw9gh1vHiMIMyZW8H2y1",
+                      "source":  "P_wR4dwto2NKrvTRbdBIX",
+                      "target":  "HxgDw9gh1vHiMIMyZW8H2",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__P_wR4dwto2NKrvTRbdBIXx2-5Ze6iqSnZLpQWnhUSGQOEw2",
+                      "source":  "P_wR4dwto2NKrvTRbdBIX",
+                      "target":  "aJTXstcrsINdov7yrH8cE",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEy2-DMXMZPWZlKgJAfhL2yDckz1",
+                      "source":  "aJTXstcrsINdov7yrH8cE",
+                      "target":  "DMXMZPWZlKgJAfhL2yDck",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__aJTXstcrsINdov7yrH8cEx2-5Ze6iqSnZLpQWnhUSGQOEw2",
+                      "source":  "aJTXstcrsINdov7yrH8cE",
+                      "target":  "51NlCt5pvWNfa70WaE2M4",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEx2-ievbuvgPKo261hM-9F117w2",
+                      "source":  "51NlCt5pvWNfa70WaE2M4",
+                      "target":  "ievbuvgPKo261hM-9F117",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__51NlCt5pvWNfa70WaE2M4z2-5Ze6iqSnZLpQWnhUSGQOEy1",
+                      "source":  "51NlCt5pvWNfa70WaE2M4",
+                      "target":  "5Ze6iqSnZLpQWnhUSGQOE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__5Ze6iqSnZLpQWnhUSGQOEx2-YHoag7UR40OeIVUjfhQg_w1",
+                      "source":  "5Ze6iqSnZLpQWnhUSGQOE",
+                      "target":  "YHoag7UR40OeIVUjfhQg_",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__YHoag7UR40OeIVUjfhQg_x2-yEl77JIN5-ixN5Ay247qpw1",
+                      "source":  "YHoag7UR40OeIVUjfhQg_",
+                      "target":  "yEl77JIN5-ixN5Ay247qp",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

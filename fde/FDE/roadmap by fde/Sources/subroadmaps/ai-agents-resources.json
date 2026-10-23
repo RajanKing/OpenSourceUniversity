@@ -1,0 +1,3552 @@
+[
+    {
+        "id":  "VPI89s-m885r2YrXjYxdd",
+        "label":  "Basic Backend Development",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@VPI89s-m885r2YrXjYxdd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to the server-side",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction"
+                          },
+                          {
+                              "title":  "What is a REST API? - Red Hat",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/api/what-is-a-rest-api"
+                          },
+                          {
+                              "title":  "What is a Database? - Oracle",
+                              "type":  "article",
+                              "url":  "https://www.oracle.com/database/what-is-database/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "McREk2zHOlIrqbGSKbX-J",
+        "label":  "Git and Terminal Usage",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@McREk2zHOlIrqbGSKbX-J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Git Basics",
+                              "type":  "official",
+                              "url":  "https://git-scm.com/doc"
+                          },
+                          {
+                              "title":  "Introduction to the Terminal",
+                              "type":  "official",
+                              "url":  "https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"
+                          },
+                          {
+                              "title":  "Git and Terminal Basics Crash Course (YouTube)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=HVsySz-h9r4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "QtTwecLdvQa8pgELJ6i80",
+        "label":  "REST API Knowledge",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@QtTwecLdvQa8pgELJ6i80.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is RESTful API? - RESTful API Explained - AWS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/restful-api/"
+                          },
+                          {
+                              "title":  "What Is a REST API? Examples, Uses \u0026 Challenges",
+                              "type":  "article",
+                              "url":  "https://blog.postman.com/rest-api-examples/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZF5_5Y5zqa75Ov22JACX6",
+        "label":  "Transformer Models and LLMs",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@ZF5_5Y5zqa75Ov22JACX6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Exploring Open Source AI Models: LLMs and Transformer Architectures",
+                              "type":  "article",
+                              "url":  "https://llmmodels.org/blog/exploring-open-source-ai-models-llms-and-transformer-architectures/"
+                          },
+                          {
+                              "title":  "How Transformer LLMs Work",
+                              "type":  "article",
+                              "url":  "https://www.deeplearning.ai/short-courses/how-transformer-llms-work/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GAjuWyJl9CI1nqXBp6XCf",
+        "label":  "Tokenization",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@GAjuWyJl9CI1nqXBp6XCf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Explaining Tokens — the Language and Currency of AI",
+                              "type":  "article",
+                              "url":  "https://blogs.nvidia.com/blog/ai-tokens-explained/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dyn1LSioema-Bf9lLTgUZ",
+        "label":  "Context Windows",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@dyn1LSioema-Bf9lLTgUZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a Context Window in AI?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/context-window"
+                          },
+                          {
+                              "title":  "Scaling Language Models with Retrieval-Augmented Generation (RAG)",
+                              "type":  "article",
+                              "url":  "https://arxiv.org/abs/2005.11401"
+                          },
+                          {
+                              "title":  "Long Context in Language Models - Anthropic\u0027s Claude 3",
+                              "type":  "article",
+                              "url":  "https://www.anthropic.com/news/claude-3-family"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1fiWPBV99E2YncqdCgUw2",
+        "label":  "Token Based Pricing",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@1fiWPBV99E2YncqdCgUw2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Explaining Tokens — the Language and Currency of AI",
+                              "type":  "article",
+                              "url":  "https://blogs.nvidia.com/blog/ai-tokens-explained/"
+                          },
+                          {
+                              "title":  "What Are AI Tokens?",
+                              "type":  "article",
+                              "url":  "https://methodshop.com/what-are-ai-tokens/"
+                          },
+                          {
+                              "title":  "Pricing - OpenAI",
+                              "type":  "article",
+                              "url":  "https://openai.com/api/pricing/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L1zL1GzqjSAjF06pIIXhy",
+        "label":  "Temperature",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@L1zL1GzqjSAjF06pIIXhy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Temperature Means in Natural Language Processing and AI",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/what-temperature-means-in-natural-language-processing-and-ai/"
+                          },
+                          {
+                              "title":  "LLM Temperature: How It Works and When You Should Use It",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/temperature"
+                          },
+                          {
+                              "title":  "What is LLM Temperature? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/llm-temperature"
+                          },
+                          {
+                              "title":  "How Temperature Settings Transform Your AI Agent\u0027s Responses",
+                              "type":  "article",
+                              "url":  "https://docsbot.ai/article/how-temperature-settings-transform-your-ai-agents-responses"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z_N-Y0zGkv8_qHPuVtimL",
+        "label":  "Frequency Penalty",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@z_N-Y0zGkv8_qHPuVtimL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Frequency Penalty and Presence Penalty",
+                              "type":  "article",
+                              "url":  "https://medium.com/@the_tori_report/understanding-frequency-penalty-and-presence-penalty-how-to-fine-tune-ai-generated-text-e5e4f5e779cd"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Vd8ycw8pW-ZKvg5WYFtoh",
+        "label":  "Presence Penalty",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Vd8ycw8pW-ZKvg5WYFtoh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Presence Penalty and Frequency Penalty",
+                              "type":  "article",
+                              "url":  "https://medium.com/@pushparajgenai2025/understanding-presence-penalty-and-frequency-penalty-in-openai-chat-completion-api-calls-2e3a22547b48"
+                          },
+                          {
+                              "title":  "Difference between Frequency and Presence Penalties?",
+                              "type":  "article",
+                              "url":  "https://community.openai.com/t/difference-between-frequency-and-presence-penalties/2777"
+                          },
+                          {
+                              "title":  "LLM Parameters Explained: A Practical Guide with Examples",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/blog/llm-parameters"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "icbp1NjurQfdM0dHnz6v2",
+        "label":  "Top-p",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@icbp1NjurQfdM0dHnz6v2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Nucleus Sampling",
+                              "type":  "article",
+                              "url":  "https://nn.labml.ai/sampling/nucleus.html"
+                          },
+                          {
+                              "title":  "Sampling Techniques in Large Language Models (LLMs)",
+                              "type":  "article",
+                              "url":  "https://medium.com/@shashankag14/understanding-sampling-techniques-in-large-language-models-llms-dfc28b93f518"
+                          },
+                          {
+                              "title":  "Temperature, top_p and top_k for chatbot responses",
+                              "type":  "article",
+                              "url":  "https://community.openai.com/t/temperature-top-p-and-top-k-for-chatbot-responses/295542"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K0G-Lw069jXUJwZqHtybd",
+        "label":  "Stopping Criteria",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@K0G-Lw069jXUJwZqHtybd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Defining Stopping Criteria in Large Language Models",
+                              "type":  "article",
+                              "url":  "https://www.metriccoders.com/post/defining-stopping-criteria-in-large-language-models-a-practical-guide"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DSJAhQhc1dQmBHQ8ZkTau",
+        "label":  "Open Weight Models",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@DSJAhQhc1dQmBHQ8ZkTau.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Falcon LLM – Technology Innovation Institute (TII)",
+                              "type":  "official",
+                              "url":  "https://falconllm.tii.ae/"
+                          },
+                          {
+                              "title":  "Hugging Face – Open LLM Leaderboard (Top Open Models)",
+                              "type":  "official",
+                              "url":  "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard"
+                          },
+                          {
+                              "title":  "EleutherAI – Open Research Collective (GPT-Neo, GPT-J, etc.)",
+                              "type":  "official",
+                              "url":  "https://www.eleuther.ai/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tJYmEDDwK0LtEux-kwp9B",
+        "label":  "Closed Weight Models",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@tJYmEDDwK0LtEux-kwp9B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Open AI\u0027s GPT-4",
+                              "type":  "official",
+                              "url":  "https://openai.com/gpt-4"
+                          },
+                          {
+                              "title":  "Claude",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/claude"
+                          },
+                          {
+                              "title":  "Gemini",
+                              "type":  "official",
+                              "url":  "https://deepmind.google/technologies/gemini/"
+                          },
+                          {
+                              "title":  "Open-Source LLMs vs Closed LLMs",
+                              "type":  "article",
+                              "url":  "https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i2NE6haX9-7mdoV5LQ3Ah",
+        "label":  "Streamed vs Unstreamed Responses",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@i2NE6haX9-7mdoV5LQ3Ah.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Streaming Responses in AI: How AI Outputs Are Generated in Real Time",
+                              "type":  "article",
+                              "url":  "https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb"
+                          },
+                          {
+                              "title":  "AI for Web Devs: Faster Responses with HTTP Streaming",
+                              "type":  "article",
+                              "url":  "https://austingil.com/ai-for-web-devs-streaming/"
+                          },
+                          {
+                              "title":  "Master the OpenAI API: Stream Responses",
+                              "type":  "article",
+                              "url":  "https://www.toolify.ai/gpts/master-the-openai-api-stream-responses-139447"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N3yZfUxphxjiupqGpyaS9",
+        "label":  "Reasoning vs Standard Models",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@N3yZfUxphxjiupqGpyaS9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ReAct: Synergizing Reasoning and Acting in Language Models",
+                              "type":  "official",
+                              "url":  "https://react-lm.github.io/"
+                          },
+                          {
+                              "title":  "ReAct Systems: Enhancing LLMs with Reasoning and Action",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/agents/react"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5OW_6o286mj470ElFyJ_5",
+        "label":  "Fine-tuning vs Prompt Engineering",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@5OW_6o286mj470ElFyJ_5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenAI Fine Tuning",
+                              "type":  "article",
+                              "url":  "https://platform.openai.com/docs/guides/fine-tuning"
+                          },
+                          {
+                              "title":  "Prompt Engineering Guide",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/"
+                          },
+                          {
+                              "title":  "Prompt Engineering vs Prompt Tuning: A Detailed Explanation",
+                              "type":  "article",
+                              "url":  "https://medium.com/@aabhi02/prompt-engineering-vs-prompt-tuning-a-detailed-explanation-19ea8ce62ac4"
+                          },
+                          {
+                              "title":  "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
+                              "type":  "video",
+                              "url":  "https://youtu.be/zYGDpG-pTho?si=pFeWqbjSN1RM4WiZ"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UIm54UmICKgep6s8Itcyv",
+        "label":  "Embeddings and Vector Search",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@UIm54UmICKgep6s8Itcyv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenAI Embeddings API Documentation",
+                              "type":  "official",
+                              "url":  "https://platform.openai.com/docs/guides/embeddings/what-are-embeddings"
+                          },
+                          {
+                              "title":  "Understanding Embeddings and Vector Search (Pinecone Blog)",
+                              "type":  "article",
+                              "url":  "https://www.pinecone.io/learn/vector-embeddings/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qwVQOwBTLA2yUgRISzC8k",
+        "label":  "Understand the Basics of RAG",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@qwVQOwBTLA2yUgRISzC8k.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is RAG in AI and How to Use It?",
+                              "type":  "article",
+                              "url":  "https://www.v7labs.com/blog/what-is-rag"
+                          },
+                          {
+                              "title":  "An Introduction to RAG and Simple \u0026 Complex RAG",
+                              "type":  "article",
+                              "url":  "https://medium.com/enterprise-rag/an-introduction-to-rag-and-simple-complex-rag-9c3aa9bd017b"
+                          },
+                          {
+                              "title":  "Learn RAG From Scratch",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sVcwVQRHIc8"
+                          },
+                          {
+                              "title":  "What is Retrieval-Augmented Generation (RAG)?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=T-D1OfcDW1M"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B8dzg61TGaknuruBgkEJd",
+        "label":  "Pricing of Common Models",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@B8dzg61TGaknuruBgkEJd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenAI Pricing",
+                              "type":  "official",
+                              "url":  "https://openai.com/api/pricing/"
+                          },
+                          {
+                              "title":  "Executive Guide To AI Agent Pricing",
+                              "type":  "article",
+                              "url":  "https://www.forbes.com/councils/forbesbusinesscouncil/2025/01/28/executive-guide-to-ai-agent-pricing-winning-strategies-and-models-to-drive-growth/"
+                          },
+                          {
+                              "title":  "AI Pricing: How Much Does Artificial Intelligence Cost In 2025?",
+                              "type":  "article",
+                              "url":  "https://www.internetsearchinc.com/ai-pricing-how-much-does-artificial-intelligence-cost/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aFZAm44nP5NefX_9TpT0A",
+        "label":  "What are AI Agents?",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@aFZAm44nP5NefX_9TpT0A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are AI Agents? - Agents in Artificial Intelligence Explained",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/ai-agents/"
+                          },
+                          {
+                              "title":  "AI Agents Explained in Simple Terms for Beginners",
+                              "type":  "article",
+                              "url":  "https://www.geeky-gadgets.com/ai-agents-explained-for-beginners/"
+                          },
+                          {
+                              "title":  "What are AI Agents?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=F8NKVhkZZWI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2zsOUWJQ8e7wnoHmq1icG",
+        "label":  "What are Tools?",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@2zsOUWJQ8e7wnoHmq1icG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Compare 50+ AI Agent Tools in 2025 - AIMultiple",
+                              "type":  "article",
+                              "url":  "https://research.aimultiple.com/ai-agent-tools/"
+                          },
+                          {
+                              "title":  "AI Agents Explained in Simple Terms for Beginners",
+                              "type":  "article",
+                              "url":  "https://www.geeky-gadgets.com/ai-agents-explained-for-beginners/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Eih4eybuYB3C2So8K0AT3",
+        "label":  "Agent Loop",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Eih4eybuYB3C2So8K0AT3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is an Agent Loop?",
+                              "type":  "article",
+                              "url":  "https://huggingface.co/learn/agents-course/en/unit1/agent-steps-and-structure"
+                          },
+                          {
+                              "title":  "Let\u0027s Build your Own Agentic Loop",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/AI_Agents/comments/1js1xjz/lets_build_our_own_agentic_loop_running_in_our/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LU76AhCYDjxdBhpMQ4eMU",
+        "label":  "Perception / User Input",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@LU76AhCYDjxdBhpMQ4eMU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Perception in AI: Understanding Its Types and Importance",
+                              "type":  "article",
+                              "url":  "https://marktalks.com/perception-in-ai-understanding-its-types-and-importance/"
+                          },
+                          {
+                              "title":  "What Is AI Agent Perception? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/ai-agent-perception"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ycPRgRYR4lEBQr_xxHKnM",
+        "label":  "Reason and Plan",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@ycPRgRYR4lEBQr_xxHKnM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ReAct: Synergizing Reasoning and Acting in Language Models",
+                              "type":  "official",
+                              "url":  "https://react-lm.github.io/"
+                          },
+                          {
+                              "title":  "ReAct Systems: Enhancing LLMs with Reasoning and Action",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/agents/react"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sHYd4KsKlmw5Im3nQ19W8",
+        "label":  "Acting / Tool Invocation",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@sHYd4KsKlmw5Im3nQ19W8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Tools in AI Agents?",
+                              "type":  "article",
+                              "url":  "https://huggingface.co/learn/agents-course/en/unit1/tools"
+                          },
+                          {
+                              "title":  "What is Tool Calling in Agents?",
+                              "type":  "article",
+                              "url":  "https://www.useparagon.com/blog/ai-building-blocks-what-is-tool-calling-a-guide-for-pms"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZJTrun3jK3zBGOTm1jdMI",
+        "label":  "Observation \u0026 Reflection",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@ZJTrun3jK3zBGOTm1jdMI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Best Practices for Prompting and Self-checking",
+                              "type":  "official",
+                              "url":  "https://platform.openai.com/docs/guides/prompt-engineering"
+                          },
+                          {
+                              "title":  "Self-Reflective AI: Building Agents That Learn by Observing Themselves",
+                              "type":  "article",
+                              "url":  "https://arxiv.org/abs/2302.14045"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PPdAutqJF5G60Eg9lYBND",
+        "label":  "Personal assistant",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@PPdAutqJF5G60Eg9lYBND.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "A Complete Guide on AI-powered Personal Assistants",
+                              "type":  "article",
+                              "url":  "https://medium.com/@alexander_clifford/a-complete-guide-on-ai-powered-personal-assistants-with-examples-2f5cd894d566"
+                          },
+                          {
+                              "title":  "9 Best AI Personal Assistants for Work, Chat and Home",
+                              "type":  "article",
+                              "url":  "https://saner.ai/best-ai-personal-assistants/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PK8w31GlvtmAuU92sHaqr",
+        "label":  "Code generation",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@PK8w31GlvtmAuU92sHaqr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub Copilot",
+                              "type":  "official",
+                              "url":  "https://github.com/features/copilot"
+                          },
+                          {
+                              "title":  "Multi-Agent-based Code Generation",
+                              "type":  "article",
+                              "url":  "https://arxiv.org/abs/2312.13010"
+                          },
+                          {
+                              "title":  "From Prompt to Production: GitHub Blog",
+                              "type":  "article",
+                              "url":  "https://github.blog/ai-and-ml/github-copilot/from-prompt-to-production-building-a-landing-page-with-copilot-agent-mode/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wKYEaPWNsR30TIpHaxSsq",
+        "label":  "Data analysis",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@wKYEaPWNsR30TIpHaxSsq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How AI Will Transform Data Analysis in 2025",
+                              "type":  "article",
+                              "url":  "https://www.devfi.com/ai-transform-data-analysis-2025/"
+                          },
+                          {
+                              "title":  "How AI Has Changed The World Of Analytics And Data Science",
+                              "type":  "article",
+                              "url":  "https://www.forbes.com/councils/forbestechcouncil/2025/01/28/how-ai-has-changed-the-world-of-analytics-and-data-science/k"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5oLc-235bvKhApxzYFkEc",
+        "label":  "Web Scraping / Crawling",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@5oLc-235bvKhApxzYFkEc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AI-Powered Web Scraper with Crawl4AI and DeepSeek",
+                              "type":  "article",
+                              "url":  "https://brightdata.com/blog/web-data/crawl4ai-and-deepseek-web-scraping"
+                          },
+                          {
+                              "title":  "Best Web Scraping Tools for AI Applications",
+                              "type":  "article",
+                              "url":  "https://www.thetoolnerd.com/p/best-web-scraping-tools-for-ai-applications"
+                          },
+                          {
+                              "title":  "8 Best AI Web Scraping Tools I Tried - HubSpot Blog",
+                              "type":  "article",
+                              "url":  "https://blog.hubspot.com/website/ai-web-scraping"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ok8vN7VtCgyef5x6aoQaL",
+        "label":  "NPC / Game AI",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@ok8vN7VtCgyef5x6aoQaL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Unity – AI for NPCs",
+                              "type":  "official",
+                              "url":  "https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3"
+                          },
+                          {
+                              "title":  "AI-Driven NPCs: The Future of Gaming Explained",
+                              "type":  "article",
+                              "url":  "https://www.capermint.com/blog/everything-you-need-to-know-about-non-player-character-npc/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Bn_BkthrVX_vOuwQzvPZa",
+        "label":  "Max Length",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Bn_BkthrVX_vOuwQzvPZa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Utilising Max Token Context Window of Anthropic Claude",
+                              "type":  "article",
+                              "url":  "https://medium.com/@nampreetsingh/utilising-max-token-context-window-of-anthropic-claude-on-amazon-bedrock-7377d94b2dfa"
+                          },
+                          {
+                              "title":  "Controlling the Length of OpenAI Model Responses",
+                              "type":  "article",
+                              "url":  "https://help.openai.com/en/articles/5072518-controlling-the-length-of-openai-model-responses"
+                          },
+                          {
+                              "title":  "Understanding ChatGPT/OpenAI Tokens",
+                              "type":  "video",
+                              "url":  "https://youtu.be/Mo3NV5n1yZk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Y8EqzFx3qxtrSh7bWbbV8",
+        "label":  "What is Prompt Engineering",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Y8EqzFx3qxtrSh7bWbbV8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Prompt Engineering Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/prompt-engineering"
+                          },
+                          {
+                              "title":  "What is Prompt Engineering? - AI Prompt Engineering Explained - AWS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/prompt-engineering/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qFKFM2qNPEN7EoD0V-1SM",
+        "label":  "Be specific in what you want",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@qFKFM2qNPEN7EoD0V-1SM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompt Engineering Guide",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/"
+                          },
+                          {
+                              "title":  "AI Prompting Examples, Templates, and Tips For Educators",
+                              "type":  "article",
+                              "url":  "https://honorlock.com/blog/education-ai-prompt-writing/"
+                          },
+                          {
+                              "title":  "How to Ask AI for Anything: The Art of Prompting",
+                              "type":  "article",
+                              "url":  "https://sixtyandme.com/using-ai-prompts/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6I42CoeWX-kkFXTKAY7rw",
+        "label":  "Provide additional context",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@6I42CoeWX-kkFXTKAY7rw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Context in Prompt Engineering?",
+                              "type":  "article",
+                              "url":  "https://www.godofprompt.ai/blog/what-is-context-in-prompt-engineering"
+                          },
+                          {
+                              "title":  "The Importance of Context for Reliable AI Systems",
+                              "type":  "article",
+                              "url":  "https://medium.com/mathco-ai/the-importance-of-context-for-reliable-ai-systems-and-how-to-provide-context-009bd1ac7189/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sUwdtOX550tSdceaeFPmF",
+        "label":  "Use relevant technical terms",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@sUwdtOX550tSdceaeFPmF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AI Terms Glossary: AI Terms To Know In 2024",
+                              "type":  "article",
+                              "url":  "https://www.moveworks.com/us/en/resources/ai-terms-glossary"
+                          },
+                          {
+                              "title":  "15 Essential AI Agent Terms You Must Know",
+                              "type":  "article",
+                              "url":  "https://shivammore.medium.com/15-essential-ai-agent-terms-you-must-know-6bfc2f332f6d"
+                          },
+                          {
+                              "title":  "AI Agent Examples \u0026 Use Cases: Real Applications in 2025",
+                              "type":  "article",
+                              "url":  "https://eastgate-software.com/ai-agent-examples-use-cases-real-applications-in-2025/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yulzE4ZNLhXOgHhG7BtZQ",
+        "label":  "Use Examples in your Prompt",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@yulzE4ZNLhXOgHhG7BtZQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "10 Real-World AI Agent Examples in 2025",
+                              "type":  "article",
+                              "url":  "https://www.chatbase.co/blog/ai-agent-examples"
+                          },
+                          {
+                              "title":  "GPT-4.1 Prompting Guide",
+                              "type":  "article",
+                              "url":  "https://cookbook.openai.com/examples/gpt4-1_prompting_guide"
+                          },
+                          {
+                              "title":  "AI Agent Examples \u0026 Use Cases: Real Applications in 2025",
+                              "type":  "article",
+                              "url":  "https://eastgate-software.com/ai-agent-examples-use-cases-real-applications-in-2025/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "noTuUFnHSBzn7GKG9UZEi",
+        "label":  "Iterate and Test your Prompts",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@noTuUFnHSBzn7GKG9UZEi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompt Engineering Best Practices",
+                              "type":  "course",
+                              "url":  "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+                          },
+                          {
+                              "title":  "Prompt Engineering: The Iterative Process",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dOxUroR57xs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wwHHlEoPAx0TLxbtY6nMA",
+        "label":  "Specify Length, format etc",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@wwHHlEoPAx0TLxbtY6nMA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mastering Prompt Engineering: Format, Length, and Audience",
+                              "type":  "article",
+                              "url":  "https://techlasi.com/savvy/mastering-prompt-engineering-format-length-and-audience-examples-for-2024/"
+                          },
+                          {
+                              "title":  "Ultimate Guide to Prompt Engineering",
+                              "type":  "article",
+                              "url":  "https://promptdrive.ai/prompt-engineering/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qakbxB8xe7Y8gejC5cZnK",
+        "label":  "Tool Definition",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@qakbxB8xe7Y8gejC5cZnK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Tools?",
+                              "type":  "article",
+                              "url":  "https://huggingface.co/learn/agents-course/en/unit1/tools"
+                          },
+                          {
+                              "title":  "Understanding the Agent Function in AI: Key Roles and Responsibilities",
+                              "type":  "article",
+                              "url":  "https://genezio.com/blog/ai-agents-101-understanding-their-role-and-functionality/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kBtqT8AduLoYDWopj-V9_",
+        "label":  "Web Search",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@kBtqT8AduLoYDWopj-V9_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "8 Best AI Search Engines for 2025",
+                              "type":  "article",
+                              "url":  "https://usefulai.com/tools/ai-search-engines"
+                          },
+                          {
+                              "title":  "Web Search Agent - PraisonAI Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.praison.ai/agents/websearch"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mS0EVCkWuPN_GkVPng4A2",
+        "label":  "Code Execution / REPL",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@mS0EVCkWuPN_GkVPng4A2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a REPL?",
+                              "type":  "article",
+                              "url":  "https://docs.replit.com/getting-started/intro-replit"
+                          },
+                          {
+                              "title":  "Code Execution AI Agent",
+                              "type":  "article",
+                              "url":  "https://docs.praison.ai/features/codeagent"
+                          },
+                          {
+                              "title":  "Building an AI Agent\u0027s Code Execution Environment",
+                              "type":  "article",
+                              "url":  "https://murraycole.com/posts/ai-code-execution-environment"
+                          },
+                          {
+                              "title":  "Python Code Tool",
+                              "type":  "article",
+                              "url":  "https://python.langchain.com/docs/integrations/tools/python/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sV1BnA2-qBnXoKpUn-8Ub",
+        "label":  "Database Queries",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@sV1BnA2-qBnXoKpUn-8Ub.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Building Your Own Database Agent",
+                              "type":  "article",
+                              "url":  "https://www.deeplearning.ai/short-courses/building-your-own-database-agent/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "52qxjZILV-X1isup6dazC",
+        "label":  "API Requests",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@52qxjZILV-X1isup6dazC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to APIs - MDN Web Docs",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction"
+                          },
+                          {
+                              "title":  "How APIs Power AI Agents: A Comprehensive Guide",
+                              "type":  "article",
+                              "url":  "https://blog.treblle.com/api-guide-for-ai-agents/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qaNr5I-NQPnfrRH7ynGTl",
+        "label":  "Email / Slack / SMS",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@qaNr5I-NQPnfrRH7ynGTl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Twilio Messaging API",
+                              "type":  "official",
+                              "url":  "https://www.twilio.com/docs/usage/api"
+                          },
+                          {
+                              "title":  "Slack AI Agents",
+                              "type":  "official",
+                              "url":  "https://slack.com/ai-agents"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BoJqZvdGam4cd6G6yK2IV",
+        "label":  "File System Access",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@BoJqZvdGam4cd6G6yK2IV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "File System Access API",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API"
+                          },
+                          {
+                              "title":  "Understanding File Permissions and Security",
+                              "type":  "article",
+                              "url":  "https://linuxize.com/post/understanding-linux-file-permissions/"
+                          },
+                          {
+                              "title":  "How File Systems Work?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KN8YgJnShPM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TBH_DZTAfR8Daoh-njNFC",
+        "label":  "What is Agent Memory?",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@TBH_DZTAfR8Daoh-njNFC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agentic Memory for LLM Agents",
+                              "type":  "article",
+                              "url":  "https://arxiv.org/abs/2502.12110"
+                          },
+                          {
+                              "title":  "Memory Management in AI Agents",
+                              "type":  "article",
+                              "url":  "https://python.langchain.com/docs/how_to/chatbots_memory/"
+                          },
+                          {
+                              "title":  "Storing and Retrieving Knowledge for Agents",
+                              "type":  "article",
+                              "url":  "https://www.pinecone.io/learn/langchain-retrieval-augmentation/"
+                          },
+                          {
+                              "title":  "Building Brain-Like Memory for AI Agents",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VKPngyO0iKg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M3U6RfIqaiut2nuOibY8W",
+        "label":  "Short Term  Memory",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@M3U6RfIqaiut2nuOibY8W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory Management in AI Agents",
+                              "type":  "article",
+                              "url":  "https://python.langchain.com/docs/how_to/chatbots_memory/"
+                          },
+                          {
+                              "title":  "Build Smarter AI Agents: Manage Short-term and Long-term Memory",
+                              "type":  "article",
+                              "url":  "https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/"
+                          },
+                          {
+                              "title":  "Storing and Retrieving Knowledge for Agents",
+                              "type":  "article",
+                              "url":  "https://www.pinecone.io/learn/langchain-retrieval-augmentation/"
+                          },
+                          {
+                              "title":  "Building Brain-Like Memory for AI Agents",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VKPngyO0iKg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ue633fz6Xu2wa2-KOAtdP",
+        "label":  "Long Term Memory",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Ue633fz6Xu2wa2-KOAtdP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory Management in AI Agents",
+                              "type":  "article",
+                              "url":  "https://python.langchain.com/docs/how_to/chatbots_memory/"
+                          },
+                          {
+                              "title":  "Storing and Retrieving Knowledge for Agents",
+                              "type":  "article",
+                              "url":  "https://www.pinecone.io/learn/langchain-retrieval-augmentation/"
+                          },
+                          {
+                              "title":  "Short-Term vs Long-Term Memory in AI Agents",
+                              "type":  "article",
+                              "url":  "https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/"
+                          },
+                          {
+                              "title":  "Building Brain-Like Memory for AI Agents",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VKPngyO0iKg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EfCCNqLMJpWKKtamUa5gK",
+        "label":  "Episodic vs Semantic Memory",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@EfCCNqLMJpWKKtamUa5gK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is AI Agent Memory? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/ai-agent-memory"
+                          },
+                          {
+                              "title":  "Episodic Memory vs. Semantic Memory: The Key Differences",
+                              "type":  "article",
+                              "url":  "https://www.magneticmemorymethod.com/episodic-vs-semantic-memory/"
+                          },
+                          {
+                              "title":  "Memory Systems in LangChain",
+                              "type":  "article",
+                              "url":  "https://python.langchain.com/docs/how_to/chatbots_memory/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wkS4yOJ3JdZQE_yBID8K7",
+        "label":  "RAG and Vector Databases",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@wkS4yOJ3JdZQE_yBID8K7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Retrieval-Augmented Generation (RAG) and Vector Databases",
+                              "type":  "article",
+                              "url":  "https://pureai.com/Articles/2025/03/03/Understanding-RAG.aspx"
+                          },
+                          {
+                              "title":  "Build Advanced Retrieval-Augmented Generation Systems",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/developer/ai/advanced-retrieval-augmented-generation"
+                          },
+                          {
+                              "title":  "What Is Retrieval-Augmented Generation, aka RAG?",
+                              "type":  "article",
+                              "url":  "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QJqXHV8VHPTnfYfmKPzW7",
+        "label":  "User Profile Storage",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@QJqXHV8VHPTnfYfmKPzW7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Storage Technology Explained: AI and Data Storage",
+                              "type":  "article",
+                              "url":  "https://www.computerweekly.com/feature/Storage-technology-explained-AI-and-the-data-storage-it-needs"
+                          },
+                          {
+                              "title":  "The Architect\u0027s Guide to Storage for AI - The New Stack",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/the-architects-guide-to-storage-for-ai/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jTDC19BTWCqxqMizrIJHr",
+        "label":  "Summarization / Compression",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@jTDC19BTWCqxqMizrIJHr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Evaluating LLMs for Text Summarization",
+                              "type":  "article",
+                              "url":  "https://insights.sei.cmu.edu/blog/evaluating-llms-for-text-summarization-introduction/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "m-97m7SI0XpBnhEE8-_1S",
+        "label":  "Forgetting / Aging Strategies",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@m-97m7SI0XpBnhEE8-_1S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory Management",
+                              "type":  "article",
+                              "url":  "https://python.langchain.com/docs/how_to/chatbots_memory/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "53xDks6JQ33fHMa3XcuCd",
+        "label":  "ReAct (Reason + Act)",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@53xDks6JQ33fHMa3XcuCd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ReAct: Synergizing Reasoning and Acting in Language Models",
+                              "type":  "official",
+                              "url":  "https://react-lm.github.io/"
+                          },
+                          {
+                              "title":  "ReAct Systems: Enhancing LLMs with Reasoning and Action",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/agents/react"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1B0IqRNYdtbHDi1jHSXuI",
+        "label":  "Model Context Protocol (MCP)",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@1B0IqRNYdtbHDi1jHSXuI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MCP: Build Rich-Context AI Apps with Anthropic",
+                              "type":  "course",
+                              "url":  "https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/"
+                          },
+                          {
+                              "title":  "Model Context Protocol",
+                              "type":  "official",
+                              "url":  "https://modelcontextprotocol.io/introduction"
+                          },
+                          {
+                              "title":  "Model Context Protocol",
+                              "type":  "opensource",
+                              "url":  "https://github.com/modelcontextprotocol/modelcontextprotocol"
+                          },
+                          {
+                              "title":  "The Ultimate Guide to MCP",
+                              "type":  "article",
+                              "url":  "https://guangzhengli.com/blog/en/model-context-protocol"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9FryAIrWRHh8YlzKX3et5",
+        "label":  "MCP Hosts",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@9FryAIrWRHh8YlzKX3et5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Vercel Serverless Hosting",
+                              "type":  "official",
+                              "url":  "https://vercel.com/docs"
+                          },
+                          {
+                              "title":  "punkeye/awesome-mcp-servers",
+                              "type":  "opensource",
+                              "url":  "https://github.com/punkpeye/awesome-mcp-servers"
+                          },
+                          {
+                              "title":  "The Ultimate Guide to MCP",
+                              "type":  "article",
+                              "url":  "https://guangzhengli.com/blog/en/model-context-protocol"
+                          },
+                          {
+                              "title":  "AWS MCP Servers for Code Assistants",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CGVstUxVXLJcYZrwk3iNQ",
+        "label":  "MCP Client",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@CGVstUxVXLJcYZrwk3iNQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Model Context Protocol",
+                              "type":  "official",
+                              "url":  "https://modelcontextprotocol.io/introduction"
+                          },
+                          {
+                              "title":  "OpenAI API Reference",
+                              "type":  "official",
+                              "url":  "https://platform.openai.com/docs/api-reference"
+                          },
+                          {
+                              "title":  "Anthropic API Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.anthropic.com/claude/reference"
+                          },
+                          {
+                              "title":  "Model Context Protocol",
+                              "type":  "opensource",
+                              "url":  "https://github.com/modelcontextprotocol/modelcontextprotocol"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yv_-87FVM7WKn5iv6LW9q",
+        "label":  "MCP Servers",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@yv_-87FVM7WKn5iv6LW9q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "punkeye/awesome-mcp-servers",
+                              "type":  "opensource",
+                              "url":  "https://github.com/punkpeye/awesome-mcp-servers"
+                          },
+                          {
+                              "title":  "Introducing the Azure MCP Server",
+                              "type":  "article",
+                              "url":  "https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server/"
+                          },
+                          {
+                              "title":  "The Ultimate Guide to MCP",
+                              "type":  "article",
+                              "url":  "https://guangzhengli.com/blog/en/model-context-protocol"
+                          },
+                          {
+                              "title":  "AWS MCP Servers for Code Assistants",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1NXIN-Hbjl5rPy_mqxQYW",
+        "label":  "Creating MCP Servers",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@1NXIN-Hbjl5rPy_mqxQYW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Model Context Protocol (MCP) Specification",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/news/model-context-protocol"
+                          },
+                          {
+                              "title":  "How to Build and Host Your Own MCP Servers in Easy Steps?",
+                              "type":  "article",
+                              "url":  "https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iBtJp24F_kJE3YlBsW60s",
+        "label":  "Local Desktop",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@iBtJp24F_kJE3YlBsW60s.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Build a Simple Local MCP Server",
+                              "type":  "article",
+                              "url":  "https://blog.stackademic.com/build-simple-local-mcp-server-5434d19572a4"
+                          },
+                          {
+                              "title":  "How to Build and Host Your Own MCP Servers in Easy Steps",
+                              "type":  "article",
+                              "url":  "https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/"
+                          },
+                          {
+                              "title":  "Expose localhost to Internet",
+                              "type":  "article",
+                              "url":  "https://ngrok.com/docs"
+                          },
+                          {
+                              "title":  "Run a Local Server on Your Machine",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ldGl6L4Vktk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dHNMX3_t1KSDdAWqgdJXv",
+        "label":  "Remote / Cloud",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@dHNMX3_t1KSDdAWqgdJXv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Edge AI vs. Cloud AI: Real-Time Intelligence Models",
+                              "type":  "official",
+                              "url":  "https://medium.com/@hassaanidrees7/edge-ai-vs-cloud-ai-real-time-intelligence-vs-centralized-processing-df8c6e94fd11"
+                          },
+                          {
+                              "title":  "Cloud AI vs. On-premises AI",
+                              "type":  "article",
+                              "url":  "https://www.pluralsight.com/resources/blog/ai-and-data/ai-on-premises-vs-in-cloud"
+                          },
+                          {
+                              "title":  "Cloud vs On-Premises AI Deployment",
+                              "type":  "article",
+                              "url":  "https://toxigon.com/cloud-vs-on-premises-ai-deployment"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qwdh5pkBbrF8LKPxbZp4F",
+        "label":  "Chain of Thought (CoT)",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@qwdh5pkBbrF8LKPxbZp4F.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+                              "type":  "article",
+                              "url":  "https://arxiv.org/abs/2201.11903"
+                          },
+                          {
+                              "title":  "Evoking Chain of Thought Reasoning in LLMs - Prompting Guide",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/cot"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cW8O4vLLKEG-Q0dE8E5Zp",
+        "label":  "RAG Agent",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@cW8O4vLLKEG-Q0dE8E5Zp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is RAG? - Retrieval-Augmented Generation AI Explained",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/retrieval-augmented-generation/"
+                          },
+                          {
+                              "title":  "What Is Retrieval-Augmented Generation, aka RAG?",
+                              "type":  "article",
+                              "url":  "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6YLCMWzystao6byCYCTPO",
+        "label":  "Planner Executor",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@6YLCMWzystao6byCYCTPO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Plan-and-Execute Agents",
+                              "type":  "article",
+                              "url":  "https://blog.langchain.dev/planning-agents/"
+                          },
+                          {
+                              "title":  "Plan and Execute: AI Agents Architecture",
+                              "type":  "article",
+                              "url":  "https://medium.com/@shubham.ksingh.cer14/plan-and-execute-ai-agents-architecture-f6c60b5b9598"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ep8RoZSy_Iq_zWXlGQLZo",
+        "label":  "DAG Agents",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Ep8RoZSy_Iq_zWXlGQLZo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Airflow: Directed Acyclic Graphs Documentation",
+                              "type":  "official",
+                              "url":  "https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html"
+                          },
+                          {
+                              "title":  "DAGs Explained Simply",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1Yh5S-S6wsI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Nmy1PoB32DcWZnPM8l8jT",
+        "label":  "Tree-of-Thought",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Nmy1PoB32DcWZnPM8l8jT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tree of Thoughts (ToT) | Prompt Engineering Guide",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/tot"
+                          },
+                          {
+                              "title":  "What is tree-of-thoughts? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/tree-of-thoughts"
+                          },
+                          {
+                              "title":  "The Revolutionary Approach of Tree-of-Thought Prompting in AI",
+                              "type":  "article",
+                              "url":  "https://medium.com/@WeavePlatform/the-revolutionary-approach-of-tree-of-thought-prompting-in-ai-eb7c0872247b"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "US6T5dXM8IY9V2qZnTOFW",
+        "label":  "Manual (from scratch)",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@US6T5dXM8IY9V2qZnTOFW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "A Step-by-Step Guide to Building an AI Agent From Scratch",
+                              "type":  "article",
+                              "url":  "https://www.neurond.com/blog/how-to-build-an-ai-agent"
+                          },
+                          {
+                              "title":  "How to Build AI Agents",
+                              "type":  "article",
+                              "url":  "https://wotnot.io/blog/build-ai-agents"
+                          },
+                          {
+                              "title":  "Build Your Own AI Agent from Scratch in 30 Minutes",
+                              "type":  "article",
+                              "url":  "https://medium.com/@gurpartap.sandhu3/build-you-own-ai-agent-from-scratch-in-30-mins-using-simple-python-1458f8099da0"
+                          },
+                          {
+                              "title":  "Building an AI Agent From Scratch",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bTMPwUgLZf0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aafZxtjxiwzJH1lwHBODi",
+        "label":  "LLM Native \"Function Calling\"",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@aafZxtjxiwzJH1lwHBODi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "A Comprehensive Guide to Function Calling in LLMs",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/"
+                          },
+                          {
+                              "title":  "Function Calling with LLMs | Prompt Engineering Guide",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/applications/function_calling"
+                          },
+                          {
+                              "title":  "Function Calling with Open-Source LLMs",
+                              "type":  "article",
+                              "url":  "https://medium.com/@rushing_andrei/function-calling-with-open-source-llms-594aa5b3a304"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AQtxTTxmBpfl8BMgJbGzc",
+        "label":  "OpenAI Functions Calling",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@AQtxTTxmBpfl8BMgJbGzc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenAI Documentation – Function Calling",
+                              "type":  "official",
+                              "url":  "https://platform.openai.com/docs/guides/function-calling"
+                          },
+                          {
+                              "title":  "OpenAI Cookbook – Using Functions with GPT Models",
+                              "type":  "official",
+                              "url":  "https://github.com/openai/openai-cookbook/blob/main/examples/How_to_call_functions_with_chat_models.ipynb"
+                          },
+                          {
+                              "title":  "OpenAI API Reference – Functions Section",
+                              "type":  "official",
+                              "url":  "https://platform.openai.com/docs/api-reference/chat/create#functions"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_iIsBJTVS6OBf_dsdmbVO",
+        "label":  "Gemini Function Calling",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@_iIsBJTVS6OBf_dsdmbVO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Function Calling with the Gemini API",
+                              "type":  "official",
+                              "url":  "https://ai.google.dev/gemini-api/docs/function-calling"
+                          },
+                          {
+                              "title":  "Understanding Function Calling in Gemini",
+                              "type":  "article",
+                              "url":  "https://medium.com/google-cloud/understanding-function-calling-in-gemini-3097937f1905"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "37GBFVZ2J2d5r8bd1ViHq",
+        "label":  "OpenAI Assistant API",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@37GBFVZ2J2d5r8bd1ViHq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenAI Documentation – Assistants API Overview",
+                              "type":  "official",
+                              "url":  "https://platform.openai.com/docs/assistants/overview"
+                          },
+                          {
+                              "title":  "OpenAI Blog – Introducing the Assistants API",
+                              "type":  "official",
+                              "url":  "https://openai.com/blog/assistants-api"
+                          },
+                          {
+                              "title":  "OpenAI Cookbook – Assistants API Example",
+                              "type":  "official",
+                              "url":  "https://github.com/openai/openai-cookbook/blob/main/examples/Assistants_API_overview_python.ipynb"
+                          },
+                          {
+                              "title":  "OpenAI API Reference – Assistants Endpoints",
+                              "type":  "official",
+                              "url":  "https://platform.openai.com/docs/api-reference/assistants"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ka6VpCEnqABvwiF9vba7t",
+        "label":  "LangChain",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@Ka6VpCEnqABvwiF9vba7t.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LangChain Documentation",
+                              "type":  "official",
+                              "url":  "https://python.langchain.com/docs/introduction/"
+                          },
+                          {
+                              "title":  "langchain-ai/langchain",
+                              "type":  "opensource",
+                              "url":  "https://github.com/langchain-ai/langchain"
+                          },
+                          {
+                              "title":  "AI Agents with LangChain and LangGraph",
+                              "type":  "article",
+                              "url":  "https://www.udacity.com/course/ai-agents-with-langchain-and-langgraph--cd13764"
+                          },
+                          {
+                              "title":  "LangChain Crash Course - Build LLM Apps Fast (YouTube)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nAmC7SoVLd8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iEHF-Jm3ck-Iu85EbCoDi",
+        "label":  "LlamaIndex",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@iEHF-Jm3ck-Iu85EbCoDi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LlamaIndex Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.smith.langchain.com/"
+                          },
+                          {
+                              "title":  "run-llama/llama_index",
+                              "type":  "opensource",
+                              "url":  "https://github.com/run-llama/llama_index"
+                          },
+                          {
+                              "title":  "What is LlamaIndex? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/llamaindex"
+                          },
+                          {
+                              "title":  "LlamaIndex - Hugging Face",
+                              "type":  "article",
+                              "url":  "https://huggingface.co/llamaindex"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XS-FsvtrXGZ8DPrwOsnlI",
+        "label":  "Haystack",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@XS-FsvtrXGZ8DPrwOsnlI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Haystack",
+                              "type":  "official",
+                              "url":  "https://haystack.deepset.ai/"
+                          },
+                          {
+                              "title":  "Haystack Overview",
+                              "type":  "official",
+                              "url":  "https://docs.haystack.deepset.ai/docs/intro"
+                          },
+                          {
+                              "title":  "deepset-ai/haystack",
+                              "type":  "opensource",
+                              "url":  "https://github.com/deepset-ai/haystack"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7YtnQ9-KIvGPSpDzEDexl",
+        "label":  "AutoGen",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@7YtnQ9-KIvGPSpDzEDexl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AutoGen - Microsoft Research",
+                              "type":  "official",
+                              "url":  "https://www.microsoft.com/en-us/research/project/autogen/"
+                          },
+                          {
+                              "title":  "GitHub - microsoft/autogen",
+                              "type":  "opensource",
+                              "url":  "https://github.com/microsoft/autogen"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uFPJqgU4qGvZyxTv-osZA",
+        "label":  "CrewAI",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@uFPJqgU4qGvZyxTv-osZA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CrewAI",
+                              "type":  "official",
+                              "url":  "https://crewai.com/"
+                          },
+                          {
+                              "title":  "CrewAI Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.crewai.com/"
+                          },
+                          {
+                              "title":  "Getting Started with CrewAI: Building AI Agents That Work Together",
+                              "type":  "article",
+                              "url":  "https://medium.com/@cammilo/getting-started-with-crewai-building-ai-agents-that-work-together-9c1f47f185ca"
+                          },
+                          {
+                              "title":  "Crew AI Full Tutorial For Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=q6QLGS306d0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eWxQiBrxIUG2JNcrdfIHS",
+        "label":  "Smol Depot",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@eWxQiBrxIUG2JNcrdfIHS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "smol.ai - Continuous Fine-tuning Platform for AI Engineers",
+                              "type":  "official",
+                              "url":  "https://smol.candycode.dev/"
+                          },
+                          {
+                              "title":  "5-min Smol AI Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.ai-jason.com/learning-ai/smol-ai-tutorial"
+                          },
+                          {
+                              "title":  "Smol AI Full Beginner Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=d7qFVrpLh34"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1EZFbDHA5J5_5BPMLMxXb",
+        "label":  "Anthropic Tool Use",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@1EZFbDHA5J5_5BPMLMxXb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Anthropic Tool Use",
+                              "type":  "official",
+                              "url":  "https://docs.anthropic.com/en/docs/build-with-claude/tool-use/overview"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v8qLnyFRnEumodBYxQSXQ",
+        "label":  "Metrics to Track",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@v8qLnyFRnEumodBYxQSXQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Robustness Testing for AI",
+                              "type":  "article",
+                              "url":  "https://mitibmwatsonailab.mit.edu/category/robustness/"
+                          },
+                          {
+                              "title":  "Complete Guide to Machine Learning Evaluation Metrics",
+                              "type":  "article",
+                              "url":  "https://medium.com/analytics-vidhya/complete-guide-to-machine-learning-evaluation-metrics-615c2864d916"
+                          },
+                          {
+                              "title":  "Measuring Model Performance",
+                              "type":  "article",
+                              "url":  "https://developers.google.com/machine-learning/crash-course/classification/accuracy"
+                          },
+                          {
+                              "title":  "A Practical Framework for (Gen)AI Value Measurement",
+                              "type":  "article",
+                              "url":  "https://medium.com/google-cloud/a-practical-framework-for-gen-ai-value-measurement-5fccf3b66c43"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qo_O4YAe4-MTP_ZJoXJHR",
+        "label":  "Unit Testing for Individual Tools",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@qo_O4YAe4-MTP_ZJoXJHR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Best AI Tools for Unit Testing: A Look at Top 14 AI Tools",
+                              "type":  "article",
+                              "url":  "https://thetrendchaser.com/best-ai-tools-for-unit-testing/"
+                          },
+                          {
+                              "title":  "AI for Unit Testing: Revolutionizing Developer Productivity",
+                              "type":  "article",
+                              "url":  "https://www.diffblue.com/resources/ai-for-unit-testing-revolutionizing-developer-productivity/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P9-SiIda3TSjHsfkI5OUV",
+        "label":  "Integration Testing for Flows",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@P9-SiIda3TSjHsfkI5OUV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Integration Testing for AI-based Features with Humans",
+                              "type":  "article",
+                              "url":  "https://www.microsoft.com/en-us/research/publication/hint-integration-testing-for-ai-based-features-with-humans-in-the-loop/"
+                          },
+                          {
+                              "title":  "Integration Testing and Unit Testing in AI",
+                              "type":  "article",
+                              "url":  "https://www.aviator.co/blog/integration-testing-and-unit-testing-in-the-age-of-ai/"
+                          },
+                          {
+                              "title":  "Integration Testing",
+                              "type":  "article",
+                              "url":  "https://www.guru99.com/integration-testing.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rHxdxN97ZcU7MPl8L1jzN",
+        "label":  "Human in the Loop Evaluation",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@rHxdxN97ZcU7MPl8L1jzN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Human in the Loop · Cloudflare Agents",
+                              "type":  "article",
+                              "url":  "https://developers.cloudflare.com/agents/concepts/human-in-the-loop/"
+                          },
+                          {
+                              "title":  "What is Human-in-the-Loop: A Guide",
+                              "type":  "article",
+                              "url":  "https://logifusion.com/what-is-human-in-the-loop-htil/"
+                          },
+                          {
+                              "title":  "Human-in-the-Loop ML",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/sagemaker/latest/dg/sms-human-review-workflow.html"
+                          },
+                          {
+                              "title":  "The Importance of Human Feedback in AI (Hugging Face Blog)",
+                              "type":  "article",
+                              "url":  "https://huggingface.co/blog/rlhf"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xp7TCTRE9HP60_rGzTUF6",
+        "label":  "LangSmith",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@xp7TCTRE9HP60_rGzTUF6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LangSmith",
+                              "type":  "official",
+                              "url":  "https://smith.langchain.com/"
+                          },
+                          {
+                              "title":  "LangSmith Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.smith.langchain.com/"
+                          },
+                          {
+                              "title":  "Harden your application with LangSmith Evaluation",
+                              "type":  "official",
+                              "url":  "https://www.langchain.com/evaluation"
+                          },
+                          {
+                              "title":  "What is LangSmith and Why should I care as a developer?",
+                              "type":  "article",
+                              "url":  "https://medium.com/around-the-prompt/what-is-langsmith-and-why-should-i-care-as-a-developer-e5921deb54b5"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YzEDtGEaMaMWVt0W03HRt",
+        "label":  "Ragas",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@YzEDtGEaMaMWVt0W03HRt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ragas Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.ragas.io/en/latest/"
+                          },
+                          {
+                              "title":  "explodinggradients/ragas",
+                              "type":  "opensource",
+                              "url":  "https://github.com/explodinggradients/ragas"
+                          },
+                          {
+                              "title":  "Evaluating RAG Applications with RAGAs",
+                              "type":  "article",
+                              "url":  "https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a/n"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0924QUH1wV7Mp-Xu0FAhF",
+        "label":  "DeepEval",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@0924QUH1wV7Mp-Xu0FAhF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DeepEval - The Open-Source LLM Evaluation Framework",
+                              "type":  "official",
+                              "url":  "https://www.deepeval.com/"
+                          },
+                          {
+                              "title":  "DeepEval GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/confident-ai/deepeval"
+                          },
+                          {
+                              "title":  "DeepEval - LLM Evaluation Framework",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZNs2dCXHlfo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zs6LM8WEnb0ERWpiaQCgc",
+        "label":  "Structured logging \u0026 tracing",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@zs6LM8WEnb0ERWpiaQCgc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Structured Logging: A Comprehensive Guide",
+                              "type":  "article",
+                              "url":  "https://www.graphapp.ai/blog/understanding-structured-logging-a-comprehensive-guide"
+                          },
+                          {
+                              "title":  "Structured Logging \u0026 Cloud Logging",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/logging/docs/structured-logging"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SS8mGqf9wfrNqenIWvN8Z",
+        "label":  "LangSmith",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@SS8mGqf9wfrNqenIWvN8Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LangSmith",
+                              "type":  "official",
+                              "url":  "https://smith.langchain.com/"
+                          },
+                          {
+                              "title":  "LangSmith Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.smith.langchain.com/"
+                          },
+                          {
+                              "title":  "Harden your application with LangSmith Evaluation",
+                              "type":  "official",
+                              "url":  "https://www.langchain.com/evaluation"
+                          },
+                          {
+                              "title":  "What is LangSmith and Why should I care as a developer?",
+                              "type":  "article",
+                              "url":  "https://medium.com/around-the-prompt/what-is-langsmith-and-why-should-i-care-as-a-developer-e5921deb54b5"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MLxP5N0Vrmwh-kyvNeGXn",
+        "label":  "Helicone",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@MLxP5N0Vrmwh-kyvNeGXn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Helicone",
+                              "type":  "official",
+                              "url":  "https://www.helicone.ai/"
+                          },
+                          {
+                              "title":  "Helicone OSS LLM Observability",
+                              "type":  "official",
+                              "url":  "https://docs.helicone.ai/getting-started/quick-start"
+                          },
+                          {
+                              "title":  "Helicone/helicone",
+                              "type":  "opensource",
+                              "url":  "https://github.com/Helicone/helicone"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UoIheaJlShiceafrWALEH",
+        "label":  "LangFuse",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@UoIheaJlShiceafrWALEH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LangFuse",
+                              "type":  "official",
+                              "url":  "https://langfuse.com/"
+                          },
+                          {
+                              "title":  "LangFuse Documentation",
+                              "type":  "official",
+                              "url":  "https://langfuse.com/docs"
+                          },
+                          {
+                              "title":  "langfuse/langfuse",
+                              "type":  "opensource",
+                              "url":  "https://github.com/langfuse/langfuse"
+                          },
+                          {
+                              "title":  "Langfuse: Open Source LLM Engineering Platform",
+                              "type":  "article",
+                              "url":  "https://www.ycombinator.com/companies/langfuse"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7UqPXUzqKYXklnB3x-tsv",
+        "label":  "openllmetry",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@7UqPXUzqKYXklnB3x-tsv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenTelemetry Documentation",
+                              "type":  "official",
+                              "url":  "https://www.traceloop.com/blog/openllmetry"
+                          },
+                          {
+                              "title":  "What is OpenLLMetry? - traceloop",
+                              "type":  "official",
+                              "url":  "https://www.traceloop.com/docs/openllmetry/introduction"
+                          },
+                          {
+                              "title":  "Use Traceloop with Python",
+                              "type":  "official",
+                              "url":  "https://www.traceloop.com/docs/openllmetry/getting-started-python"
+                          },
+                          {
+                              "title":  "traceloop/openllmetry",
+                              "type":  "opensource",
+                              "url":  "https://github.com/traceloop/openllmetry"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SU2RuicMUo8tiAsQtDI1k",
+        "label":  "Prompt Injection / Jailbreaks",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@SU2RuicMUo8tiAsQtDI1k.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompt Injection vs. Jailbreaking: What\u0027s the Difference?",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/blog/injection_jailbreaking"
+                          },
+                          {
+                              "title":  "Prompt Injection vs Prompt Jailbreak",
+                              "type":  "article",
+                              "url":  "https://codoid.com/ai/prompt-injection-vs-prompt-jailbreak-a-detailed-comparison/"
+                          },
+                          {
+                              "title":  "How Prompt Attacks Exploit GenAI and How to Fight Back",
+                              "type":  "article",
+                              "url":  "https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UVzLGXG6K7HQVHmw8ZAv2",
+        "label":  "Tool sandboxing / Permissioning",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@UVzLGXG6K7HQVHmw8ZAv2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Set Up AI Sandboxes to Maximize Adoption",
+                              "type":  "article",
+                              "url":  "https://medium.com/@emilholmegaard/how-to-set-up-ai-sandboxes-to-maximize-adoption-without-compromising-ethics-and-values-637c70626130"
+                          },
+                          {
+                              "title":  "Sandboxes for AI - The Datasphere Initiative",
+                              "type":  "article",
+                              "url":  "https://www.thedatasphere.org/datasphere-publish/sandboxes-for-ai/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rdlYBJNNyZUshzsJawME4",
+        "label":  "Data Privacy + PII Redaction",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@rdlYBJNNyZUshzsJawME4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GDPR Compliance Overview",
+                              "type":  "official",
+                              "url":  "https://gdpr.eu/"
+                          },
+                          {
+                              "title":  "Protect Sensitive Data with PII Redaction Software",
+                              "type":  "article",
+                              "url":  "https://redactor.ai/blog/pii-redaction-software-guide"
+                          },
+                          {
+                              "title":  "A Complete Guide on PII Redaction",
+                              "type":  "article",
+                              "url":  "https://enthu.ai/blog/what-is-pii-redaction/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EyLo2j8IQsIK91SKaXkmK",
+        "label":  "Bias \u0026 Toxicity Guardrails",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@EyLo2j8IQsIK91SKaXkmK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Define the Agent Guardrails",
+                              "type":  "article",
+                              "url":  "https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-planning/define-the-agent-guardrails"
+                          },
+                          {
+                              "title":  "How to Build Safe AI Agents: Best Practices for Guardrails",
+                              "type":  "article",
+                              "url":  "https://medium.com/@sahin.samia/how-to-build-safe-ai-agents-best-practices-for-guardrails-and-oversight-a0085b50c022"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "63nsfJFO1BwjLX_ZVaPFC",
+        "label":  "Safety + Red Team Testing",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@63nsfJFO1BwjLX_ZVaPFC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated AI Red Teaming Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/ai-red-teaming"
+                          },
+                          {
+                              "title":  "Enhancing AI safety: Insights and lessons from red teaming",
+                              "type":  "article",
+                              "url":  "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/01/14/enhancing-ai-safety-insights-and-lessons-from-red-teaming/"
+                          },
+                          {
+                              "title":  "AI Safety Testing in the Absence of Regulations",
+                              "type":  "article",
+                              "url":  "https://aisecuritycentral.com/ai-safety-testing/"
+                          },
+                          {
+                              "title":  "A Guide to AI Red Teaming - HiddenLayer",
+                              "type":  "article",
+                              "url":  "https://hiddenlayer.com/innovation-hub/a-guide-to-ai-red-teaming/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PY5WTJgRnXiYeOM6BBUvn",
+        "label":  "Agno",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@PY5WTJgRnXiYeOM6BBUvn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agno Docs",
+                              "type":  "official",
+                              "url":  "https://docs.agno.com/"
+                          },
+                          {
+                              "title":  "agno",
+                              "type":  "opensource",
+                              "url":  "https://github.com/agno-agi/agno"
+                          },
+                          {
+                              "title":  "Building Your First Agent With AGNO AGI ( Previously Phidata ) | For Complete Begineers",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=s7Kkc6vA2K0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O53AvUSRB5SI6hhwKxniL",
+        "label":  "LangGraph",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@O53AvUSRB5SI6hhwKxniL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LangGraph Docs",
+                              "type":  "official",
+                              "url":  "https://docs.langchain.com/oss/python/langgraph/overview?_gl=1*wnuiny*_gcl_au*MTI0NjQ3NzM5NS4xNzczMDQ5NDY2*_ga*MTgwMzY5ODQ5OS4xNzczMDQ5NDY2*_ga_47WX3HKKY2*czE3NzMwNDk0NjYkbzEkZzAkdDE3NzMwNDk0NjYkajYwJGwwJGgw"
+                          },
+                          {
+                              "title":  "langgraph",
+                              "type":  "opensource",
+                              "url":  "https://github.com/langchain-ai/langgraph"
+                          },
+                          {
+                              "title":  "LangGraph 101: Let’s Build A Deep Research Agent",
+                              "type":  "article",
+                              "url":  "https://towardsdatascience.com/langgraph-101-lets-build-a-deep-research-agent/?utm_source=roadmap\u0026utm_medium=Referral\u0026utm_campaign=TDS+roadmap+integration"
+                          },
+                          {
+                              "title":  "LangChain vs LangGraph: A Tale of Two Frameworks",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qAF1NjEVHhY\u0026pp=ygUWbGFuZ2dyYXBoIHZzIGxhbmdjaGFpbg%3D%3D"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hBW8-z72NcETDn_cearYc",
+        "label":  "Self-critique Agents",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@hBW8-z72NcETDn_cearYc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Reflection Agents",
+                              "type":  "article",
+                              "url":  "https://blog.langchain.com/reflection-agents/"
+                          },
+                          {
+                              "title":  "How Do Agents Learn from Their Own Mistakes? The Role of Reflection in AI",
+                              "type":  "article",
+                              "url":  "https://huggingface.co/blog/Kseniase/reflection"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FjAYD6ZhAuPcS6gbvBBtE",
+        "label":  "Multi-Agents",
+        "endpoint":  "https://roadmap.sh/ai-agents/topic@FjAYD6ZhAuPcS6gbvBBtE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Guide to multi-agent systems (MAS)",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/discover/what-is-a-multi-agent-system"
+                          },
+                          {
+                              "title":  "What is multi-agent collaboration?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/multi-agent-collaboration"
+                          },
+                          {
+                              "title":  "Multi Agent Systems Explained: How AI Agents \u0026 LLMs Work Together",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sWH0T4Zez6I"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AI Agents Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/QYxNPM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

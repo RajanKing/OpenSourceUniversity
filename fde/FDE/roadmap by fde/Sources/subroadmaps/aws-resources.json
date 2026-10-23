@@ -1,0 +1,2733 @@
+[
+    {
+        "id":  "Py9nst2FDJ1_hoXeX_qSF",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/aws/topic@Py9nst2FDJ1_hoXeX_qSF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/"
+                          },
+                          {
+                              "title":  "Introduction of AWS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html"
+                          },
+                          {
+                              "title":  "How to Create an AWS Account",
+                              "type":  "article",
+                              "url":  "https://grapplingdev.com/tutorials/how-to-create-aws-account"
+                          },
+                          {
+                              "title":  "AWS Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zA8guDqfv40"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "74JxgfJ_1qmVNZ_QRp9Ne",
+        "label":  "What is Cloud Computing?",
+        "endpoint":  "https://roadmap.sh/aws/topic@74JxgfJ_1qmVNZ_QRp9Ne.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Cloud Computing - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/topics/cloud-computing"
+                          },
+                          {
+                              "title":  "Cloud Computing - AWS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is-cloud-computing/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i4ijY3T5gLgNz0XqRipXe",
+        "label":  "IaaS vs PaaS vs SaaS",
+        "endpoint":  "https://roadmap.sh/aws/topic@i4ijY3T5gLgNz0XqRipXe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Types of Cloud Computing",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/types-of-cloud-computing/?nc1=h_ls"
+                          },
+                          {
+                              "title":  "IaaS vs PaaS vs SaaS cloud service models",
+                              "type":  "video",
+                              "url":  "https://youtu.be/9CVBohl6w0Q?si=cEDnXpd1sGkpf0K2"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3hatcMVLDbMuz73uTx-9P",
+        "label":  "Public vs Private vs Hybrid Cloud",
+        "endpoint":  "https://roadmap.sh/aws/topic@3hatcMVLDbMuz73uTx-9P.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Types of Cloud Computing",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud"
+                          },
+                          {
+                              "title":  "Selecting the right cloud for workloads",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/selecting-the-right-cloud-for-workloads-differences-between-public-private-and-hybrid.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z9R1BWUGalmnw0E7QqiW6",
+        "label":  "AWS Global Infrastructure",
+        "endpoint":  "https://roadmap.sh/aws/topic@z9R1BWUGalmnw0E7QqiW6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Global Infrastructure",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi\u0026loc=0"
+                          },
+                          {
+                              "title":  "AWS Regions / Availability Zones",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0flGtxZmxQKxO3c3sguwp",
+        "label":  "Shared Responsibility Model",
+        "endpoint":  "https://roadmap.sh/aws/topic@0flGtxZmxQKxO3c3sguwp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Shared Responsibility Model",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/compliance/shared-responsibility-model/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eKuC7VmkGVYFnbC2Rvn8D",
+        "label":  "Well Architected Framework",
+        "endpoint":  "https://roadmap.sh/aws/topic@eKuC7VmkGVYFnbC2Rvn8D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Well-Architected",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/architecture/well-architected"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Dg1v9TV-wGSNLPfAals_y",
+        "label":  "Introduction to AWS",
+        "endpoint":  "https://roadmap.sh/aws/topic@Dg1v9TV-wGSNLPfAals_y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/"
+                          },
+                          {
+                              "title":  "Introduction of AWS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html"
+                          },
+                          {
+                              "title":  "AWS Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zA8guDqfv40"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cL7vis8H5L2vv6LqJ5wvC",
+        "label":  "EC2",
+        "endpoint":  "https://roadmap.sh/aws/topic@cL7vis8H5L2vv6LqJ5wvC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "EC2 - User Guide",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html"
+                          },
+                          {
+                              "title":  "Introduction to Amazon EC2",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=eaicwmnSdCs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VHD2ISW9WoSWjp8Hh6Zft",
+        "label":  "Instance Types",
+        "endpoint":  "https://roadmap.sh/aws/topic@VHD2ISW9WoSWjp8Hh6Zft.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS EC2 Instance Types",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ec2/instance-types"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_U2bKjxIrAAk7TMrPttpb",
+        "label":  "CPU Credits",
+        "endpoint":  "https://roadmap.sh/aws/topic@_U2bKjxIrAAk7TMrPttpb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Burstable Performance Instances and CPU Credits",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "A0u7CJwj5ULAMiAm12vZI",
+        "label":  "Storage / Volumes",
+        "endpoint":  "https://roadmap.sh/aws/topic@A0u7CJwj5ULAMiAm12vZI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Elastic Block Store",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wFT-fddGn__DRoqG0joFk",
+        "label":  "Keypairs",
+        "endpoint":  "https://roadmap.sh/aws/topic@wFT-fddGn__DRoqG0joFk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "EC2 - Keypairs",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DCvkZSp25pjaimG0THLTu",
+        "label":  "Elastic IP",
+        "endpoint":  "https://roadmap.sh/aws/topic@DCvkZSp25pjaimG0THLTu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Elastic IP Addresses",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZKjjgXZ89zV2atWcSal-s",
+        "label":  "User Data Scripts",
+        "endpoint":  "https://roadmap.sh/aws/topic@ZKjjgXZ89zV2atWcSal-s.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "User Data Scripts EC2",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8v9T6Y6JC7qaqIgkbT-nr",
+        "label":  "Purchasing Options",
+        "endpoint":  "https://roadmap.sh/aws/topic@8v9T6Y6JC7qaqIgkbT-nr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Purchasing Options",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Sv2aT8eI1RvJhvoKVYQEX",
+        "label":  "VPC",
+        "endpoint":  "https://roadmap.sh/aws/topic@Sv2aT8eI1RvJhvoKVYQEX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "VPC",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/vpc/"
+                          },
+                          {
+                              "title":  "AWS VPC Beginner to Advanced uses",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=g2JOHLHh4rI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2hFBv2fhKDYBN-9ITs82J",
+        "label":  "CIDR Blocks",
+        "endpoint":  "https://roadmap.sh/aws/topic@2hFBv2fhKDYBN-9ITs82J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "cidr.xyz: Interactive CIDR range visualizer",
+                              "type":  "official",
+                              "url":  "https://cidr.xyz/"
+                          },
+                          {
+                              "title":  "VPC - CIRD Blocks",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Y64TE0U20kllmykjdfhHp",
+        "label":  "Subnets",
+        "endpoint":  "https://roadmap.sh/aws/topic@Y64TE0U20kllmykjdfhHp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Subnets",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FCdOnwQubhOnCFFnF8uJN",
+        "label":  "Route Tables",
+        "endpoint":  "https://roadmap.sh/aws/topic@FCdOnwQubhOnCFFnF8uJN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Route Tables",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/quicksight/latest/user/vpc-route-table.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Cd9gdbkCFdrTLrnJMy5F3",
+        "label":  "Security Groups",
+        "endpoint":  "https://roadmap.sh/aws/topic@Cd9gdbkCFdrTLrnJMy5F3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cloud Network Exposure: Hands-on Security Group Exercise",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/cloud-network-exposure/"
+                          },
+                          {
+                              "title":  "Security Groups",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Le8yOJzpzxH1xgd7XEU2B",
+        "label":  "Internet Gateway",
+        "endpoint":  "https://roadmap.sh/aws/topic@Le8yOJzpzxH1xgd7XEU2B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Internet Gateway",
+                              "type":  "article",
+                              "url":  "https://www.cisco.com/c/en/us/products/routers/what-is-a-network-gateway.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6D-gs32jrCyvMVhr9PSAY",
+        "label":  "NAT Gateway",
+        "endpoint":  "https://roadmap.sh/aws/topic@6D-gs32jrCyvMVhr9PSAY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "NAT Gateway",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ymuURDwW8JG3NSIXcl0FL",
+        "label":  "Private Subnet",
+        "endpoint":  "https://roadmap.sh/aws/topic@ymuURDwW8JG3NSIXcl0FL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Subnets",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ABCH1rATHmecyWHyK3n-m",
+        "label":  "Public Subnet",
+        "endpoint":  "https://roadmap.sh/aws/topic@ABCH1rATHmecyWHyK3n-m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Subnets",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xmKeB4hEi2DunmhAsvS1X",
+        "label":  "IAM",
+        "endpoint":  "https://roadmap.sh/aws/topic@xmKeB4hEi2DunmhAsvS1X.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Over-Permissive IAM: Hands-on Privilege Escalation Exercise",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/over-permissive-iam/"
+                          },
+                          {
+                              "title":  "IAM - User Guide",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eQAn3e-k9WNufPqOnwY_K",
+        "label":  "Policies",
+        "endpoint":  "https://roadmap.sh/aws/topic@eQAn3e-k9WNufPqOnwY_K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Permissions and Policies",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_access-management.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Nn2zawk6A31NwZa40jOhX",
+        "label":  "Users / User Groups",
+        "endpoint":  "https://roadmap.sh/aws/topic@Nn2zawk6A31NwZa40jOhX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "IAM - AWS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7nI202hX41mI5ms9LZonh",
+        "label":  "Roles",
+        "endpoint":  "https://roadmap.sh/aws/topic@7nI202hX41mI5ms9LZonh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Create Your First Role",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started-roles.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cwGuOrmbSTcSoH80skLTk",
+        "label":  "Identity-based",
+        "endpoint":  "https://roadmap.sh/aws/topic@cwGuOrmbSTcSoH80skLTk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Identity Based Policies",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v_YmmlOk-DkzJ8mI5Ftgr",
+        "label":  "Resource-based",
+        "endpoint":  "https://roadmap.sh/aws/topic@v_YmmlOk-DkzJ8mI5Ftgr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Identity Based Policies",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i7X1GfOx5AZYFskepW4Zr",
+        "label":  "Instance Profiles",
+        "endpoint":  "https://roadmap.sh/aws/topic@i7X1GfOx5AZYFskepW4Zr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Instance Profiles",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0IMdO7g_5El1elvDXJJ_0",
+        "label":  "Assuming Roles",
+        "endpoint":  "https://roadmap.sh/aws/topic@0IMdO7g_5El1elvDXJJ_0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Assuming Roles",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_manage-assume.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dOAZG-NbjWiVdPKYEhWxj",
+        "label":  "Auto-Scaling",
+        "endpoint":  "https://roadmap.sh/aws/topic@dOAZG-NbjWiVdPKYEhWxj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Autoscaling",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AfagmWcllSi81D2XIQz0V",
+        "label":  "AMIs",
+        "endpoint":  "https://roadmap.sh/aws/topic@AfagmWcllSi81D2XIQz0V.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AMIs",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K0GCk5_HDvP0_ZqsUc3tG",
+        "label":  "Launch Templates",
+        "endpoint":  "https://roadmap.sh/aws/topic@K0GCk5_HDvP0_ZqsUc3tG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Launch Templates",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-launch-templates-for-amazon-ec2-instances/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gBKHVG7FvlCEgINKmw00s",
+        "label":  "Auto-Scaling Groups",
+        "endpoint":  "https://roadmap.sh/aws/topic@gBKHVG7FvlCEgINKmw00s.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Auto Scaling Groups",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/eks/latest/best-practices/cas.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fRBaiw8Qx8kapzCphmM4v",
+        "label":  "Scaling Policies",
+        "endpoint":  "https://roadmap.sh/aws/topic@fRBaiw8Qx8kapzCphmM4v.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Autoscaling Policy",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YAZPKMbmrxYNqF6alXMyL",
+        "label":  "Elastic Load Balancers",
+        "endpoint":  "https://roadmap.sh/aws/topic@YAZPKMbmrxYNqF6alXMyL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Elastic Load Balancers",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/elasticloadbalancing/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PN3xAYfQ-_QgZCRCnsEca",
+        "label":  "S3",
+        "endpoint":  "https://roadmap.sh/aws/topic@PN3xAYfQ-_QgZCRCnsEca.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Public S3 Buckets: Hands-on Exercise",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/public-storage-buckets/"
+                          },
+                          {
+                              "title":  "S3",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rTgjDj5HqbjRpcJ7PR-EC",
+        "label":  "Buckets / Objects",
+        "endpoint":  "https://roadmap.sh/aws/topic@rTgjDj5HqbjRpcJ7PR-EC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bucket / Object",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8i6zpjkMC_Pg-tDNmrx4n",
+        "label":  "Bucket / Object Lifecycle",
+        "endpoint":  "https://roadmap.sh/aws/topic@8i6zpjkMC_Pg-tDNmrx4n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bucket / Object Lifecycle",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PJaAqax4fABnkObY5UwNp",
+        "label":  "Storage Types",
+        "endpoint":  "https://roadmap.sh/aws/topic@PJaAqax4fABnkObY5UwNp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Storage Types",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/s3/storage-classes/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ll5FPCtkpYq_niJd7WoTC",
+        "label":  "Standard",
+        "endpoint":  "https://roadmap.sh/aws/topic@Ll5FPCtkpYq_niJd7WoTC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS S3 Standard",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/s3/pricing/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JlkLNQ8wRzGkjaootNKOD",
+        "label":  "S3-IA",
+        "endpoint":  "https://roadmap.sh/aws/topic@JlkLNQ8wRzGkjaootNKOD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS S3-IA",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IikKYP58sT2H1lM8glm-g",
+        "label":  "Glacier",
+        "endpoint":  "https://roadmap.sh/aws/topic@IikKYP58sT2H1lM8glm-g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Glacier",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/s3/storage-classes/glacier/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-bwXo6xvF1yzyWEm5oZhJ",
+        "label":  "SES",
+        "endpoint":  "https://roadmap.sh/aws/topic@-bwXo6xvF1yzyWEm5oZhJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SES",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ses/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kG7tlZjv_hJbHGooBkxS0",
+        "label":  "Sandbox / Sending Limits",
+        "endpoint":  "https://roadmap.sh/aws/topic@kG7tlZjv_hJbHGooBkxS0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sandbox / Sending Limits",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/ses/latest/dg/manage-sending-quotas.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bTCVHXPG-LtaaFmgiB2SL",
+        "label":  "Identity Verification",
+        "endpoint":  "https://roadmap.sh/aws/topic@bTCVHXPG-LtaaFmgiB2SL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Identity Verification",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/ses/latest/dg/Welcome.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zwVd1vNm1ks6MdHZoi-5W",
+        "label":  "DKIM Setup",
+        "endpoint":  "https://roadmap.sh/aws/topic@zwVd1vNm1ks6MdHZoi-5W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DKIM",
+                              "type":  "official",
+                              "url":  "https://dkim.org/"
+                          },
+                          {
+                              "title":  "DKIM - Cloudflare",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/email-security/dmarc-dkim-spf/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0NWTFssjg9SbDXQRkN5kF",
+        "label":  "Feedback Handling",
+        "endpoint":  "https://roadmap.sh/aws/topic@0NWTFssjg9SbDXQRkN5kF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Feedbacks",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ses/faqs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4svXYQYmqjUZU39z8OyhD",
+        "label":  "Configuration Sets",
+        "endpoint":  "https://roadmap.sh/aws/topic@4svXYQYmqjUZU39z8OyhD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SES",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/ses/latest/dg/using-configuration-sets.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Vo_PBfB7LxYL27nBBVoVp",
+        "label":  "Sender Reputation",
+        "endpoint":  "https://roadmap.sh/aws/topic@Vo_PBfB7LxYL27nBBVoVp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sender Reputation",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/blogs/messaging-and-targeting/the-four-pillars-of-email-reputation/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pnX1dfkjS8woWc4KGXlh_",
+        "label":  "Dedicated IP",
+        "endpoint":  "https://roadmap.sh/aws/topic@pnX1dfkjS8woWc4KGXlh_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dedicated IP",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/ses/latest/dg/dedicated-ip.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "f89qL7Cg9R_LTxBEG4jUK",
+        "label":  "Route53",
+        "endpoint":  "https://roadmap.sh/aws/topic@f89qL7Cg9R_LTxBEG4jUK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Route53",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/route53/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z-o-2cGYSM6KW_CNJyw3p",
+        "label":  "Hosted Zones",
+        "endpoint":  "https://roadmap.sh/aws/topic@z-o-2cGYSM6KW_CNJyw3p.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hosted Zones",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-working-with.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IQhPG1La7dZeSXnX23D1n",
+        "label":  "Routing Policies",
+        "endpoint":  "https://roadmap.sh/aws/topic@IQhPG1La7dZeSXnX23D1n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Routing Policies",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LXG_znJ3XzPAlDxUH2-Xp",
+        "label":  "Health Checks",
+        "endpoint":  "https://roadmap.sh/aws/topic@LXG_znJ3XzPAlDxUH2-Xp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Route53 Health Checks",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-health-checks.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VAYxwJH10PFjGS8poKd9-",
+        "label":  "Cloudwatch",
+        "endpoint":  "https://roadmap.sh/aws/topic@VAYxwJH10PFjGS8poKd9-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon Cloudwatch",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2vQPmVNk1QpMM-15RKG8b",
+        "label":  "Metrics",
+        "endpoint":  "https://roadmap.sh/aws/topic@2vQPmVNk1QpMM-15RKG8b.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CloudWatch Metrics",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/publishingMetrics.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tHQ6NRVDPCPEOmzgjQDLX",
+        "label":  "Events",
+        "endpoint":  "https://roadmap.sh/aws/topic@tHQ6NRVDPCPEOmzgjQDLX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon Cloudwatch Events",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/cloudwatch-events.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oC6KIjWAXw0hLl4FwkB9F",
+        "label":  "Logs",
+        "endpoint":  "https://roadmap.sh/aws/topic@oC6KIjWAXw0hLl4FwkB9F.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon Cloudwatch Logs",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fkMF-2PQZ00UdwxhQt1ds",
+        "label":  "RDS",
+        "endpoint":  "https://roadmap.sh/aws/topic@fkMF-2PQZ00UdwxhQt1ds.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon RDS",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/rds/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l9oq3LiEd8ZrPtupPk-Fn",
+        "label":  "DB Instances",
+        "endpoint":  "https://roadmap.sh/aws/topic@l9oq3LiEd8ZrPtupPk-Fn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DB Instances - RDS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.DBInstance.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Xs057ESpvxXg2r_rDQnOa",
+        "label":  "Storage Types",
+        "endpoint":  "https://roadmap.sh/aws/topic@Xs057ESpvxXg2r_rDQnOa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RDS Storage Types",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/rds/instance-types/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tBKc7tHOiJaTmwEl3q--Y",
+        "label":  "Backup / Restore",
+        "endpoint":  "https://roadmap.sh/aws/topic@tBKc7tHOiJaTmwEl3q--Y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Backup \u0026 Restore - RDS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_CommonTasks.BackupRestore.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uo5HIyePegnJooortvWLu",
+        "label":  "General Purpose",
+        "endpoint":  "https://roadmap.sh/aws/topic@uo5HIyePegnJooortvWLu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "General Purpose Storage",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ebs/general-purpose/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3l1ji4JToj277vpgONmLw",
+        "label":  "Provisioned IOPS",
+        "endpoint":  "https://roadmap.sh/aws/topic@3l1ji4JToj277vpgONmLw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Provisioned IOPS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/ebs/latest/userguide/provisioned-iops.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y0CoNcEFHyz350f7pNddt",
+        "label":  "Magnetic",
+        "endpoint":  "https://roadmap.sh/aws/topic@y0CoNcEFHyz350f7pNddt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Magnetic Storage",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ebs/previous-generation/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wGb0TEDnSe_bmv9Krx4qB",
+        "label":  "DynamoDB",
+        "endpoint":  "https://roadmap.sh/aws/topic@wGb0TEDnSe_bmv9Krx4qB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon DynamoDB",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/dynamodb/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DN_iuLo9gYDqU8JleE1WJ",
+        "label":  "Tables / Items / Attributes",
+        "endpoint":  "https://roadmap.sh/aws/topic@DN_iuLo9gYDqU8JleE1WJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon DynamoDB",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/WorkingWithItems.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oWtWgaFznTPJhQIyfIIQf",
+        "label":  "Primary Keys / Secondary Indexes",
+        "endpoint":  "https://roadmap.sh/aws/topic@oWtWgaFznTPJhQIyfIIQf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Primary Keys / Secondary Indexes",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aU1lv80xXNkQTD41Qfln5",
+        "label":  "Data Modeling",
+        "endpoint":  "https://roadmap.sh/aws/topic@aU1lv80xXNkQTD41Qfln5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Modeling",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/data-modeling.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0C3GCGdSXozJK2MNeWerg",
+        "label":  "Streams",
+        "endpoint":  "https://roadmap.sh/aws/topic@0C3GCGdSXozJK2MNeWerg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Streams",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KtXww9J0znwzTwL7GKfaY",
+        "label":  "Capacity Settings",
+        "endpoint":  "https://roadmap.sh/aws/topic@KtXww9J0znwzTwL7GKfaY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Capacity Settings",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/capacity-mode.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0ctJa-V6aenimSr5h303J",
+        "label":  "Limits",
+        "endpoint":  "https://roadmap.sh/aws/topic@0ctJa-V6aenimSr5h303J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Limit Settings",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ServiceQuotas.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NWvasq-AcwxmOKZPDv3ue",
+        "label":  "Backup / Restore",
+        "endpoint":  "https://roadmap.sh/aws/topic@NWvasq-AcwxmOKZPDv3ue.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Backup \u0026 Restore",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Backup-and-Restore.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yauCWo1VoG-X483-4mfdn",
+        "label":  "DynamoDB Local",
+        "endpoint":  "https://roadmap.sh/aws/topic@yauCWo1VoG-X483-4mfdn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DynamoDB Local",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9TcYdsdmvKWWHoyE6uNbC",
+        "label":  "ElastiCache",
+        "endpoint":  "https://roadmap.sh/aws/topic@9TcYdsdmvKWWHoyE6uNbC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon ElastiCache",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PYgs4niQRlLKCBMfM4qf9",
+        "label":  "Quotas",
+        "endpoint":  "https://roadmap.sh/aws/topic@PYgs4niQRlLKCBMfM4qf9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon ElastiCache Quotas",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/quota-limits.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_c_Wq84yIu4ac7e0RzDtC",
+        "label":  "ECR",
+        "endpoint":  "https://roadmap.sh/aws/topic@_c_Wq84yIu4ac7e0RzDtC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Elastic Container Registry (ECR)",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ecr/"
+                          },
+                          {
+                              "title":  "Concepts of Amazon ECR",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonECR/latest/userguide/concept-and-components.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EqUT0wpdPRDGtGAZ7nneY",
+        "label":  "ECS",
+        "endpoint":  "https://roadmap.sh/aws/topic@EqUT0wpdPRDGtGAZ7nneY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon Elastic Container Service (ECS)",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PphzNicIJawVElmY5rn8f",
+        "label":  "Clusters / ECS Container Agents",
+        "endpoint":  "https://roadmap.sh/aws/topic@PphzNicIJawVElmY5rn8f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Clusters",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/clusters.html"
+                          },
+                          {
+                              "title":  "ECS Container Agents",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-agent-config.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1lHXxpoF11yE3rfoQCbTG",
+        "label":  "Tasks",
+        "endpoint":  "https://roadmap.sh/aws/topic@1lHXxpoF11yE3rfoQCbTG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tasks in ECS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zSiSbIdBgFLBBAnp4I9vX",
+        "label":  "Services",
+        "endpoint":  "https://roadmap.sh/aws/topic@zSiSbIdBgFLBBAnp4I9vX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Services in ECS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs_services.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1r2FL3OEOh0S9ee0OVnrN",
+        "label":  "Launch Config / Autoscaling Groups",
+        "endpoint":  "https://roadmap.sh/aws/topic@1r2FL3OEOh0S9ee0OVnrN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Launch Config in EC2",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/autoscaling/ec2/userguide/launch-configurations.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OI8y54RhFpfS_l1L9VTZe",
+        "label":  "Fargate",
+        "endpoint":  "https://roadmap.sh/aws/topic@OI8y54RhFpfS_l1L9VTZe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon Fargate",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/fargate/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kvHzEDZQV72AUjqisg8PB",
+        "label":  "EKS",
+        "endpoint":  "https://roadmap.sh/aws/topic@kvHzEDZQV72AUjqisg8PB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon Elastic Kubernetes Service (EKS)",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/eks/"
+                          },
+                          {
+                              "title":  "Concepts of Amazon EKS",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/eks/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "741vsAPTXJLVUlazFg0q4",
+        "label":  "Lambda",
+        "endpoint":  "https://roadmap.sh/aws/topic@741vsAPTXJLVUlazFg0q4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Lambda",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SdCNevKjyhFcreMSWY6BT",
+        "label":  "Creating / Invoking Functions",
+        "endpoint":  "https://roadmap.sh/aws/topic@SdCNevKjyhFcreMSWY6BT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Create Your First Lambda Function",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html"
+                          },
+                          {
+                              "title":  "First AWS Lambda Function",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=e1tkFsFOBHA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CL93C0NGFQmScVnftnRtO",
+        "label":  "Layers",
+        "endpoint":  "https://roadmap.sh/aws/topic@CL93C0NGFQmScVnftnRtO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Lambda Layers",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html"
+                          },
+                          {
+                              "title":  "Create and Use Lambda Layers",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jyuZDkiHe2Q"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KWjIAakMIlxn_jso22h0M",
+        "label":  "Custom Runtimes",
+        "endpoint":  "https://roadmap.sh/aws/topic@KWjIAakMIlxn_jso22h0M.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Lambda Runtimes",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "75ZjuGozDfoZPLj32P2t2",
+        "label":  "Versioning / Aliases",
+        "endpoint":  "https://roadmap.sh/aws/topic@75ZjuGozDfoZPLj32P2t2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Lambda Versioning",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/lambda/latest/dg/configuration-aliases.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0CUfDEMwCwSHVdqkP8lOG",
+        "label":  "Event Bridge / Scheduled Execution",
+        "endpoint":  "https://roadmap.sh/aws/topic@0CUfDEMwCwSHVdqkP8lOG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon EventBridge",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EuOv19jDSj56Cy7PqvtNv",
+        "label":  "Cold Start and Limitations",
+        "endpoint":  "https://roadmap.sh/aws/topic@EuOv19jDSj56Cy7PqvtNv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Cold Start and Limitations",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "T0dvezPWX6rAiKweT0TkG",
+        "label":  "API Gateway",
+        "endpoint":  "https://roadmap.sh/aws/topic@T0dvezPWX6rAiKweT0TkG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS API Gateway",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/api-gateway/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5SF5nO94NFDkHY8UJoeAY",
+        "label":  "Lambda@Edge",
+        "endpoint":  "https://roadmap.sh/aws/topic@5SF5nO94NFDkHY8UJoeAY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Lambda Edge",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zFgnu2fL0EUKIMz9tVH1j",
+        "label":  "Cloudfront",
+        "endpoint":  "https://roadmap.sh/aws/topic@zFgnu2fL0EUKIMz9tVH1j.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon Cloudfront",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/cloudfront/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fAK7GRKunmoidlD32OBma",
+        "label":  "Distributions",
+        "endpoint":  "https://roadmap.sh/aws/topic@fAK7GRKunmoidlD32OBma.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cloudfront Distribution",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/distribution-working-with.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dO9ZfUyNia7L_fCh4d0n7",
+        "label":  "Policies",
+        "endpoint":  "https://roadmap.sh/aws/topic@dO9ZfUyNia7L_fCh4d0n7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cloudfront IAM",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/security-iam.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hRXbAADgRTXEFwbBXeNu7",
+        "label":  "Invalidations",
+        "endpoint":  "https://roadmap.sh/aws/topic@hRXbAADgRTXEFwbBXeNu7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Invalidations Cloudfront",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/k4PzL3"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

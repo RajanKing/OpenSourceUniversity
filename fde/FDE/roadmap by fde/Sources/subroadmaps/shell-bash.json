@@ -1,0 +1,2962 @@
+{
+    "slug":  "shell-bash",
+    "source":  "https://roadmap.sh/shell-bash",
+    "title":  "Shell / Bash Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-09-29T14:36:05.499Z",
+    "nodes":  [
+                  {
+                      "id":  "mLfUouDr1p7tNq4XvfaHO",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  1341.5802739039514,
+                                       "y":  929.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4kvjQFObp7fXUVkaMYpxS",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  1225.5802739039514,
+                                       "y":  929.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-JwPyV2URKQr25_QNhVJS",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  759.3199219701261,
+                                       "y":  3714.1294899168647
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JxcDueue_wB1Z2TZPviYb",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1000.9682912240671,
+                                       "y":  3636.755698257811
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9oNAH4CTTnuhHEBluDRFq",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  888.9682912240671,
+                                       "y":  3641.0461959436752
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GhQcZ769W04wlLlFLXxsu",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  426.0858604275638,
+                                       "y":  3370.575330740767
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k7uW3URwNERpUEqh5ZaaN",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1000.9682912240671,
+                                       "y":  3230.2793523801683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "g-FLBZuP0bdI4w-vB-7zP",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  888.9682912240671,
+                                       "y":  3234.5698500660324
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q0llun_f5RVovBueK6JyH",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1399.6264337439782,
+                                       "y":  3056.1754550157893
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bEqd0otw55vTo1Q8M628e",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1287.0905689493839,
+                                       "y":  3056.1754550157893
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1m8lLknZhviP_MOjmhgzw",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  619.0009548687474,
+                                       "y":  2772.7461485895064
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L4KgH_DMlaJntqlZPnRms",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  481.56626839404214,
+                                       "y":  2772.7461485895064
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UQSBZQnZyZOG6_RmQJbb4",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  879.7981770833335,
+                                       "y":  2285.531578766454
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s3Hf8dcEq5Ikb3hf2UVZg",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  999.80859375,
+                                       "y":  2285.531578766454
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vkqAxGF-Ah2EL_hZu3FDX",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  615.7094260580387,
+                                       "y":  2179.2676541189608
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_-ADHOnSRkTnioVBDZTSl",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  478.2747395833335,
+                                       "y":  2179.2676541189608
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RdH9oRDP2urFyvbeEiWzm",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  817.8466991595521,
+                                       "y":  1463.275549453291
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NMy6-nD3jAkUVcOj0TthU",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  869.5802739039514,
+                                       "y":  929.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bCNBoO2HqcZVTRWo6lDIa",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  441.83982283907926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NfmdNOTpvfKIIut642Q6E",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  427.25788482547114,
+                                       "y":  2436.1080091878393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UnbtqWm0138b5Id8RVcbM",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1277.05859375,
+                                       "y":  551.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MptfUMaYaGAsSPsH66WKe",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1345.2786458333335,
+                                       "y":  551.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "94KazcF2-iOrowSwLe6Xi",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1416.7434895833335,
+                                       "y":  551.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zfz7SThoqOBczwIAisF96",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1205.6400510897115,
+                                       "y":  555.0107931981577
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gbaBiNdufToHyF2Z2ENtc",
+                      "type":  "title",
+                      "label":  "Shell/Bash",
+                      "position":  {
+                                       "x":  797.9682912240671,
+                                       "y":  29.36815831229714
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "86QR-PVqgvvyvJvgTIer-",
+                      "type":  "subtopic",
+                      "label":  "CLI vs GUI",
+                      "position":  {
+                                       "x":  1259.594044873128,
+                                       "y":  178.36815831229714
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GdSViKr5r3uHxzihSjdYV",
+                      "type":  "subtopic",
+                      "label":  "What is Bash?",
+                      "position":  {
+                                       "x":  1259.594044873128,
+                                       "y":  125.36815831229714
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LloORF-pz-sbfuzNj1WjG",
+                      "type":  "subtopic",
+                      "label":  "What is scripting?",
+                      "position":  {
+                                       "x":  1259.594044873128,
+                                       "y":  231.36815831229717
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lzzQWCFqpOnN2J_3Jck_3",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  844.9682912240671,
+                                       "y":  178.36815831229714
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EqgAG1t05RuiAO1TXRq4Y",
+                      "type":  "subtopic",
+                      "label":  "bash",
+                      "position":  {
+                                       "x":  546.9231770833335,
+                                       "y":  175.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BP7hfSSD13DM2np0zaGBB",
+                      "type":  "subtopic",
+                      "label":  "dash",
+                      "position":  {
+                                       "x":  425.9231770833335,
+                                       "y":  175.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LjkmfTYWMrOKLSqtpyKGk",
+                      "type":  "subtopic",
+                      "label":  "fish",
+                      "position":  {
+                                       "x":  546.9231770833335,
+                                       "y":  228.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "m-sOOaGyhQg3bgmWsXtOH",
+                      "type":  "subtopic",
+                      "label":  "zsh",
+                      "position":  {
+                                       "x":  425.9231770833335,
+                                       "y":  228.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "C7HE5jpaSIUqm6L8b9orY",
+                      "type":  "subtopic",
+                      "label":  "cmd",
+                      "position":  {
+                                       "x":  425.9231770833335,
+                                       "y":  334.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SHD2pc0D5QjDpEwzsFWz-",
+                      "type":  "subtopic",
+                      "label":  "tcsh",
+                      "position":  {
+                                       "x":  425.9231770833335,
+                                       "y":  281.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y4mIT9yer85CrU_KlRxGk",
+                      "type":  "subtopic",
+                      "label":  "PowerShell",
+                      "position":  {
+                                       "x":  546.9231770833335,
+                                       "y":  334.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BnblV98Tul3QlyA1nIB63",
+                      "type":  "subtopic",
+                      "label":  "ksh",
+                      "position":  {
+                                       "x":  546.9231770833335,
+                                       "y":  281.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IYlYUnQh2iZrdpyUsMxg0",
+                      "type":  "topic",
+                      "label":  "Popular Shells",
+                      "position":  {
+                                       "x":  844.9682912240671,
+                                       "y":  284.32085163094075
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6SR4c75dEKoFxZ88sDtfi",
+                      "type":  "topic",
+                      "label":  "Setting Up Bash",
+                      "position":  {
+                                       "x":  844.9682912240671,
+                                       "y":  397.292899496329
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ng5ySgj1HQmD_gfQ4TSPI",
+                      "type":  "subtopic",
+                      "label":  "pwd",
+                      "position":  {
+                                       "x":  1182.6400510897115,
+                                       "y":  598.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gCPCTm96RrFeNM_Ok4TAY",
+                      "type":  "subtopic",
+                      "label":  "cp",
+                      "position":  {
+                                       "x":  1252.6400510897115,
+                                       "y":  704.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k45FWrNrRuIp6HEN3ysTd",
+                      "type":  "subtopic",
+                      "label":  "echo",
+                      "position":  {
+                                       "x":  1392.6400510897115,
+                                       "y":  598.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zN32jR8SNm5P1txqQsyCv",
+                      "type":  "subtopic",
+                      "label":  "mv",
+                      "position":  {
+                                       "x":  1182.6400510897115,
+                                       "y":  704.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zom0OpBLi153i8hkoYLj5",
+                      "type":  "subtopic",
+                      "label":  "cat",
+                      "position":  {
+                                       "x":  1322.6400510897115,
+                                       "y":  704.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fssn0pz6ooqG-EE8rZl-L",
+                      "type":  "subtopic",
+                      "label":  "touch",
+                      "position":  {
+                                       "x":  1252.6400510897115,
+                                       "y":  651.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pAb3O3Isca9u6yK5mqWQ2",
+                      "type":  "subtopic",
+                      "label":  "find",
+                      "position":  {
+                                       "x":  1392.6400510897115,
+                                       "y":  704.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uS5HS_4a-lk3AtXaMyAlp",
+                      "type":  "subtopic",
+                      "label":  "rm",
+                      "position":  {
+                                       "x":  1322.6400510897115,
+                                       "y":  651.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DUUstDjzKKAXN1IXzbqjt",
+                      "type":  "topic",
+                      "label":  "Files \u0026 Directories",
+                      "position":  {
+                                       "x":  1181.422169873128,
+                                       "y":  506.292899496329
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M27BJ6fgVdaBxyWE-OdNl",
+                      "type":  "subtopic",
+                      "label":  "rwx",
+                      "position":  {
+                                       "x":  437.4397331144587,
+                                       "y":  2476.4031590310396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zxdwDMOVAoP8IgUqrggKq",
+                      "type":  "topic",
+                      "label":  "File Permissions",
+                      "position":  {
+                                       "x":  427.25788482547114,
+                                       "y":  2411.6080091878393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HESaq3OyuouEqjpZITYUd",
+                      "type":  "topic",
+                      "label":  "Tab Completion",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  506.38213797170454
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LlxpR2LiAr9uKMXEXTk0H",
+                      "type":  "topic",
+                      "label":  "Bash Alias",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  665.3821379717045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tu3NFc76-j6VVysFdk8Kd",
+                      "type":  "topic",
+                      "label":  "Repeat Commands",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  559.3821379717045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4yRwCKzvCctFpMD2mYiky",
+                      "type":  "topic",
+                      "label":  "Help Commands",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  612.3821379717045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ydqpp_YYujdHyYraNEt4h",
+                      "type":  "topic",
+                      "label":  "Stop Execution",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  718.3821379717045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3VulHH-Y-VdMRM6VBVWar",
+                      "type":  "subtopic",
+                      "label":  "stdin, stdout, stderr",
+                      "position":  {
+                                       "x":  429.71199475144203,
+                                       "y":  454.33982283907926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YyCvxYgFzobwF_vMQXunZ",
+                      "type":  "subtopic",
+                      "label":  "Pipes",
+                      "position":  {
+                                       "x":  429.71199475144203,
+                                       "y":  666.3398228390795
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MpSnq-W8z4QA8-oU_tbRC",
+                      "type":  "subtopic",
+                      "label":  "Output redirection",
+                      "position":  {
+                                       "x":  429.71199475144203,
+                                       "y":  507.33982283907926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BuOM-A5110MPv8325EQnM",
+                      "type":  "subtopic",
+                      "label":  "Command substitution",
+                      "position":  {
+                                       "x":  429.71199475144203,
+                                       "y":  719.3398228390795
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Chfv9Fyy-Mk2zpOrYNbjV",
+                      "type":  "subtopic",
+                      "label":  "Input redirection",
+                      "position":  {
+                                       "x":  429.71199475144203,
+                                       "y":  560.3398228390793
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uk7TEHUqTIjmH4MJToxPe",
+                      "type":  "subtopic",
+                      "label":  "Process substitution",
+                      "position":  {
+                                       "x":  429.71199475144203,
+                                       "y":  772.3398228390795
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zu0hsOt8GVlARhbepjQ1A",
+                      "type":  "subtopic",
+                      "label":  "Error redirection",
+                      "position":  {
+                                       "x":  429.71199475144203,
+                                       "y":  613.3398228390794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "reLvp_PnKqpyWWtnuICPj",
+                      "type":  "topic",
+                      "label":  "Redirects \u0026 Pipelines",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  833.2372889246396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kW_sjWK-rtGokfL_OByhM",
+                      "type":  "subtopic",
+                      "label":  "less, more",
+                      "position":  {
+                                       "x":  885.5802739039514,
+                                       "y":  996.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZqAwAme_yvasmYHEZID1G",
+                      "type":  "subtopic",
+                      "label":  "grep",
+                      "position":  {
+                                       "x":  885.5802739039514,
+                                       "y":  943.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WSxairrSGlV0LEps2xeIC",
+                      "type":  "subtopic",
+                      "label":  "head, tail",
+                      "position":  {
+                                       "x":  885.5802739039514,
+                                       "y":  1049.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NtjrVcEHf8wuh771U2AMI",
+                      "type":  "subtopic",
+                      "label":  "Nano",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1366.0831779191672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WbZu0zM2d56LiGauOp8ub",
+                      "type":  "topic",
+                      "label":  "Basic Editor Ops.",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  1254.6583604317716
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "it421LC-vLFNmTcWxrsX6",
+                      "type":  "topic",
+                      "label":  "Text Editors",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1254.6583604317716
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nMFXyeZ8I5jAPfs16Jixn",
+                      "type":  "topic",
+                      "label":  "Bash Script Anatomy",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  1307.6583604317716
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dj3KiBtPjRK2DF5HeuoYZ",
+                      "type":  "topic",
+                      "label":  "Running Shell Scripts",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  1360.6583604317716
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1mBAGIrg4ohvJcJ-y8Kbl",
+                      "type":  "subtopic",
+                      "label":  "Environment vs Shell vars.",
+                      "position":  {
+                                       "x":  830.8466991595521,
+                                       "y":  1516.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ivcDgpa1kMPxcOt1OCjba",
+                      "type":  "subtopic",
+                      "label":  "Variable Scopes",
+                      "position":  {
+                                       "x":  830.8466991595521,
+                                       "y":  1622.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4leZS9_-GAbx5ycMQosOX",
+                      "type":  "subtopic",
+                      "label":  "Create, Print, Modify",
+                      "position":  {
+                                       "x":  830.8466991595521,
+                                       "y":  1569.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9-PPCJDdGh5SWKT4jT6Zs",
+                      "type":  "subtopic",
+                      "label":  "Variables best practices",
+                      "position":  {
+                                       "x":  830.8466991595521,
+                                       "y":  1728.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_BzADQXji4lVY620U4cZa",
+                      "type":  "subtopic",
+                      "label":  "Special variables ",
+                      "position":  {
+                                       "x":  830.8466991595521,
+                                       "y":  1675.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sBI1aCY7XmXBwqTrokt9F",
+                      "type":  "subtopic",
+                      "label":  "String length",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2334.1411148108637
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aYQlgbgFt250MW1nLYvFK",
+                      "type":  "subtopic",
+                      "label":  "Pattern replacement",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2440.1411148108637
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6TonvFzr_nmoFsATwuZK7",
+                      "type":  "subtopic",
+                      "label":  "Substring extraction",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2387.1411148108637
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cBJbM6nl0Dy9Ru5hruzpK",
+                      "type":  "subtopic",
+                      "label":  "Case conversion",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2493.1411148108637
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PS9R8AX-_dgeqYL2Y67Ff",
+                      "type":  "topic",
+                      "label":  "String Manipulation",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2241.095526043176
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o2vQXl9WDOO4NAsLjYv_4",
+                      "type":  "subtopic",
+                      "label":  "Read user input",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1550.4176773033164
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WOoTpi1vAZpktjtQgG9GK",
+                      "type":  "subtopic",
+                      "label":  "Here documents",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1656.4176773033164
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XCCuDzGE-5LPhHEPGvVMj",
+                      "type":  "subtopic",
+                      "label":  "printf formatting",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1603.4176773033164
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D0VV5UpW2X4mMghpp2fdo",
+                      "type":  "subtopic",
+                      "label":  "Here strings",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1709.4176773033164
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n0sesqABTmbGYmcqlpH4b",
+                      "type":  "topic",
+                      "label":  "Input/Output",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1833.6740059083859
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sYzelzBxQUcz5bK1HVWam",
+                      "type":  "topic",
+                      "label":  "Comments",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1834.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Sz2F519WqEhkKZE0NBveH",
+                      "type":  "subtopic",
+                      "label":  "Strings",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1514.4032416662553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4WFWrrcvLgU8Fz8RjQ4lf",
+                      "type":  "subtopic",
+                      "label":  "Arrays ",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1567.4032416662553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "a5cz3ZGg-JQKzdJdihCtO",
+                      "type":  "subtopic",
+                      "label":  "Numeric",
+                      "position":  {
+                                       "x":  543.711994751442,
+                                       "y":  1514.4032416662553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YM7wA4MgeailSoXR_03Qx",
+                      "type":  "subtopic",
+                      "label":  "Associative Arrays",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1620.4032416662553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vM0Y4fao-pNjNjWYCJve3",
+                      "type":  "topic",
+                      "label":  "Bash Data Types",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1728.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "60ika3rjs42VIk-3AcOdq",
+                      "type":  "subtopic",
+                      "label":  "Arithmetic",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  1933.857139158225
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tRwO9DC_ZUD4g5iSVC40u",
+                      "type":  "subtopic",
+                      "label":  "Logical",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  2092.857139158225
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XUDkgfURAsI_A3v3EPZA_",
+                      "type":  "subtopic",
+                      "label":  "Comparison ",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  1986.857139158225
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PuV5XtaeKgb9vdFIKta5M",
+                      "type":  "subtopic",
+                      "label":  "File test ",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  2145.857139158225
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ryZ2MI4blZCwfuNC_TeUe",
+                      "type":  "subtopic",
+                      "label":  "String operators",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  2039.857139158225
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Co0k7A7MyQoELnPwPU10m",
+                      "type":  "topic",
+                      "label":  "Bash Operators",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  1834.511235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DiYuY3M3eD1WKO5w16Swa",
+                      "type":  "subtopic",
+                      "label":  "$1, $2, $3",
+                      "position":  {
+                                       "x":  426.70942605803873,
+                                       "y":  2022.1856010760039
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Fh0NFuNxuc-wU3VXv8Zj",
+                      "type":  "subtopic",
+                      "label":  "$* ",
+                      "position":  {
+                                       "x":  560.7094260580387,
+                                       "y":  2075.185601076004
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pgZIDDxAP9mOtEI0HL3l-",
+                      "type":  "subtopic",
+                      "label":  "$0",
+                      "position":  {
+                                       "x":  560.7094260580387,
+                                       "y":  2022.1856010760039
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hoRtqMV7B23bBJFI-RWRB",
+                      "type":  "subtopic",
+                      "label":  "$#",
+                      "position":  {
+                                       "x":  426.70942605803873,
+                                       "y":  2128.185601076004
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VLzMSaoVA46PTLHwZtDUx",
+                      "type":  "subtopic",
+                      "label":  "$@ ",
+                      "position":  {
+                                       "x":  426.70942605803873,
+                                       "y":  2075.185601076004
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u_kpVb3V8Xp-0fex_5-yG",
+                      "type":  "subtopic",
+                      "label":  "shift",
+                      "position":  {
+                                       "x":  560.7094260580387,
+                                       "y":  2128.185601076004
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BCkD0b9unC1lfjUThU3hX",
+                      "type":  "topic",
+                      "label":  "Script Arguments",
+                      "position":  {
+                                       "x":  426.70942605803873,
+                                       "y":  2241.095526043176
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JB_FThjpxO-7G01XrKDPi",
+                      "type":  "subtopic",
+                      "label":  "exit",
+                      "position":  {
+                                       "x":  956.30859375,
+                                       "y":  2335.5796183549405
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hxjqlxolS_ahtro4T0EKG",
+                      "type":  "subtopic",
+                      "label":  "$?",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  2335.5796183549405
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wKMq5G8cmqo3JnHG4Z-c1",
+                      "type":  "subtopic",
+                      "label":  "Success vs failure ",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  2388.5796183549405
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fG4D7iuiCDlV1PFwMfAdM",
+                      "type":  "topic",
+                      "label":  "Exit Codes",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  2241.2676541189608
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fz9XJLGkMPpq6TRJn3Hsh",
+                      "type":  "subtopic",
+                      "label":  "if",
+                      "position":  {
+                                       "x":  427.25788482547114,
+                                       "y":  2833.4113854031084
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SSSVVAve99X8FZX9vtHlo",
+                      "type":  "subtopic",
+                      "label":  "case",
+                      "position":  {
+                                       "x":  561.2578848254711,
+                                       "y":  2833.4113854031084
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tEaYnBeI5tO8NT-a1PG3B",
+                      "type":  "topic",
+                      "label":  "Conditionals",
+                      "position":  {
+                                       "x":  427.25788482547114,
+                                       "y":  2721.613874042681
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zE7sS5VNUbEbt1y2iSvEi",
+                      "type":  "subtopic",
+                      "label":  "for",
+                      "position":  {
+                                       "x":  846.3510691897566,
+                                       "y":  2541.185298129928
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "51xww3YG_O8O7y8CUum83",
+                      "type":  "subtopic",
+                      "label":  "until",
+                      "position":  {
+                                       "x":  994.3510691897566,
+                                       "y":  2541.185298129928
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yX-SskrRyFAUFpyIYG7BU",
+                      "type":  "subtopic",
+                      "label":  "while",
+                      "position":  {
+                                       "x":  920.3510691897566,
+                                       "y":  2541.185298129928
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wl39zpLh6alsMkn0YZ9-N",
+                      "type":  "subtopic",
+                      "label":  "break, continue",
+                      "position":  {
+                                       "x":  845.30859375,
+                                       "y":  2594.185298129928
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1rIFm5ROQ8b1rsWeD9h4x",
+                      "type":  "topic",
+                      "label":  "Loops",
+                      "position":  {
+                                       "x":  844.9682912240671,
+                                       "y":  2721.613874042681
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qNsNJrqwsGtumOM2STB8u",
+                      "type":  "subtopic",
+                      "label":  "Basic regex syntax",
+                      "position":  {
+                                       "x":  427.25788482547114,
+                                       "y":  3001.587617936947
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6IzuWNaMVjjyQV-KLqRlX",
+                      "type":  "subtopic",
+                      "label":  "Extended regex",
+                      "position":  {
+                                       "x":  427.25788482547114,
+                                       "y":  3054.587617936947
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W7NlQoj0EDxvuMVj4MKXc",
+                      "type":  "topic",
+                      "label":  "Regular Expressions",
+                      "position":  {
+                                       "x":  844.9682912240671,
+                                       "y":  3055.40647288936
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "I-N9SM8ZVcOTVQs8_vtJm",
+                      "type":  "subtopic",
+                      "label":  "set -e ",
+                      "position":  {
+                                       "x":  1243.0905689493839,
+                                       "y":  3111.5413353513654
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OOskpOLWFe1rN0XMuabAS",
+                      "type":  "subtopic",
+                      "label":  "set -o",
+                      "position":  {
+                                       "x":  1355.0905689493839,
+                                       "y":  3111.5413353513654
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HrzalKXWVmqD-8SfdQJVu",
+                      "type":  "subtopic",
+                      "label":  "set -u ",
+                      "position":  {
+                                       "x":  1243.0905689493839,
+                                       "y":  3164.5413353513654
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qs5jcx6d643cJDdhkPPxD",
+                      "type":  "subtopic",
+                      "label":  "Error logging",
+                      "position":  {
+                                       "x":  1243.0905689493839,
+                                       "y":  3217.5413353513654
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c0F44DSG7eVcqwaOfk2Z-",
+                      "type":  "subtopic",
+                      "label":  "trap",
+                      "position":  {
+                                       "x":  1355.6264337439782,
+                                       "y":  3164.5413353513654
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aNpvGNnV0q-7emxJVJow2",
+                      "type":  "topic",
+                      "label":  "Error Handling",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  3002.511235302678
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7-4WglSAbhBZUpP8HS6xY",
+                      "type":  "subtopic",
+                      "label":  "nohup",
+                      "position":  {
+                                       "x":  956.4665696981034,
+                                       "y":  3293.2793523801683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Sn7RlXc5dgD1gqDGikco-",
+                      "type":  "subtopic",
+                      "label":  "jobs",
+                      "position":  {
+                                       "x":  845.4665696981034,
+                                       "y":  3293.2793523801683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qs07iAbFbJk97xHpo10dO",
+                      "type":  "subtopic",
+                      "label":  "disown",
+                      "position":  {
+                                       "x":  956.4665696981034,
+                                       "y":  3346.2793523801683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ey38pCn0vlhZXLrJChtIW",
+                      "type":  "subtopic",
+                      "label":  "fg, bg",
+                      "position":  {
+                                       "x":  845.4665696981034,
+                                       "y":  3346.2793523801683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Oc80VSBDYTHkGOV4Jqo19",
+                      "type":  "subtopic",
+                      "label":  "Process substitution",
+                      "position":  {
+                                       "x":  845.4665696981034,
+                                       "y":  3399.2793523801683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZTJrnx12KSrcyUfd0RfPu",
+                      "type":  "topic",
+                      "label":  "Process Management",
+                      "position":  {
+                                       "x":  845.4665696981034,
+                                       "y":  3185.5698500660324
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fR3sok0EJTGHELbPO6MAW",
+                      "type":  "topic",
+                      "label":  "Debugging",
+                      "position":  {
+                                       "x":  844.9682912240671,
+                                       "y":  3002.40647288936
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gOdW5k4fRu9P-3D3ze8aA",
+                      "type":  "subtopic",
+                      "label":  "ps",
+                      "position":  {
+                                       "x":  438.3199219701261,
+                                       "y":  3388.962823250198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8Ll6sByPqMnjVms5J1ns5",
+                      "type":  "subtopic",
+                      "label":  "free",
+                      "position":  {
+                                       "x":  438.3199219701261,
+                                       "y":  3441.962823250198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M2afRR6yY8iq85_MnfGKV",
+                      "type":  "subtopic",
+                      "label":  "top, htop",
+                      "position":  {
+                                       "x":  592.3199219701261,
+                                       "y":  3388.962823250198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R57tdCBI0rLmzWEuJeBTW",
+                      "type":  "subtopic",
+                      "label":  "uptime",
+                      "position":  {
+                                       "x":  438.3199219701261,
+                                       "y":  3494.962823250198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rmSSz2ka9e1nQwx18Ofy8",
+                      "type":  "subtopic",
+                      "label":  "df, du",
+                      "position":  {
+                                       "x":  592.3199219701261,
+                                       "y":  3441.962823250198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lwul2wUhhCnXxKO6-ysX2",
+                      "type":  "subtopic",
+                      "label":  "iostat, vmstat",
+                      "position":  {
+                                       "x":  592.3199219701261,
+                                       "y":  3494.962823250198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Kwr37_gNDhkwSkg49bg35",
+                      "type":  "topic",
+                      "label":  "Package Management",
+                      "position":  {
+                                       "x":  847.7419408667643,
+                                       "y":  3697.791391130601
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LdhFo8UrT6EBs6IE42uLx",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  425.9231770833335,
+                                       "y":  -60.80726097867807
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "qH0LPtPGcn4Lc1RhXwKVp",
+                                        "label":  "Linux Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/linux"
+                                    },
+                                    {
+                                        "id":  "NHvKDG4LZt_wRREFYubCd",
+                                        "label":  "Backend Roadmap",
+                                        "url":  "https://roadmap.sh/backend"
+                                    },
+                                    {
+                                        "id":  "lYZdNGa-RbSvjTZyyfsHK",
+                                        "label":  "DevOps Roadmap",
+                                        "url":  "https://roadmap.sh/devops"
+                                    },
+                                    {
+                                        "id":  "SjYhICGyoZCMErzSgnqwb",
+                                        "label":  "Network Engineer Roadmap",
+                                        "url":  "https://roadmap.sh/network-engineer"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  1105.594044873128,
+                                       "y":  -70.80726097867807
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zqZkyVgigifcRS1H7F_b",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  1133.094044873128,
+                                       "y":  12.362824160073082
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xkh9VbM-yPX0Vkgj1tnoC",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  944.9682912240671,
+                                       "y":  -47.295552480056415
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VCzTId8UMInDwhWaE1LGC",
+                      "type":  "paragraph",
+                      "label":  "Shell Fundamentals",
+                      "position":  {
+                                       "x":  1184.422169873128,
+                                       "y":  385.292899496329
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Kn_EQciiD_Fjj308aF_j0",
+                      "type":  "subtopic",
+                      "label":  "ls",
+                      "position":  {
+                                       "x":  1252.6400510897115,
+                                       "y":  598.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9A6SE89by-1I2HmpGarLj",
+                      "type":  "subtopic",
+                      "label":  "cd",
+                      "position":  {
+                                       "x":  1322.6400510897115,
+                                       "y":  598.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pwP3U4zz9Jtpnp2ZRgajh",
+                      "type":  "subtopic",
+                      "label":  "mkdir",
+                      "position":  {
+                                       "x":  1182.6400510897115,
+                                       "y":  651.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cqZP-2xfil-1Zq3TD7qiN",
+                      "type":  "subtopic",
+                      "label":  "rmdir",
+                      "position":  {
+                                       "x":  1392.6400510897115,
+                                       "y":  651.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QnC0gCoBj_559CgaTQgr4",
+                      "type":  "subtopic",
+                      "label":  "Navigate between dirs",
+                      "position":  {
+                                       "x":  1182.6400510897115,
+                                       "y":  757.2195449882536
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qrqPo-pgzupCK0IxlGn7S",
+                      "type":  "subtopic",
+                      "label":  "chmod",
+                      "position":  {
+                                       "x":  561.7913597766286,
+                                       "y":  2476.4031590310396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w95b7f3-7Q8qtTpyJih6B",
+                      "type":  "subtopic",
+                      "label":  "chown",
+                      "position":  {
+                                       "x":  437.4397331144587,
+                                       "y":  2529.4031590310396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zaXwK7xPsrULce1yJwhB_",
+                      "type":  "subtopic",
+                      "label":  "chgrp",
+                      "position":  {
+                                       "x":  561.7913597766286,
+                                       "y":  2529.4031590310396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UkU8b0Va8i7tdztckwFuo",
+                      "type":  "label",
+                      "label":  "View \u0026 Search",
+                      "position":  {
+                                       "x":  897.30859375,
+                                       "y":  1158.2958599883184
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ud8fTxgvvbhCyyAxJA6lc",
+                      "type":  "subtopic",
+                      "label":  "find",
+                      "position":  {
+                                       "x":  885.5802739039514,
+                                       "y":  1102.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "12H3psmYm-zYMqXcFfJ39",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  1049.5802739039514,
+                                       "y":  929.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rtzApgTlDTfC_rdCnU6xx",
+                      "type":  "subtopic",
+                      "label":  "join, split",
+                      "position":  {
+                                       "x":  1065.5802739039514,
+                                       "y":  996.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EU-UAaRVY2s_PLZHJWf9z",
+                      "type":  "subtopic",
+                      "label":  "cut, paste",
+                      "position":  {
+                                       "x":  1065.5802739039514,
+                                       "y":  943.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YJblaz_GKC5sH7ntFe5ls",
+                      "type":  "subtopic",
+                      "label":  "tr",
+                      "position":  {
+                                       "x":  1065.5802739039514,
+                                       "y":  1049.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9prQb87v10SNntlWKPKi5",
+                      "type":  "label",
+                      "label":  "Text Transform",
+                      "position":  {
+                                       "x":  1077.5802739039514,
+                                       "y":  1158.2958599883184
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "4XfvvrFQoV0X7dfaKYFlv",
+                      "type":  "subtopic",
+                      "label":  "sed",
+                      "position":  {
+                                       "x":  1065.5802739039514,
+                                       "y":  1102.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P9pwqBvPDhcvVIj8fNhGX",
+                      "type":  "subtopic",
+                      "label":  "sort",
+                      "position":  {
+                                       "x":  1245.5802739039514,
+                                       "y":  996.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mg5f-DAezgwmwflmncSsO",
+                      "type":  "subtopic",
+                      "label":  "wc",
+                      "position":  {
+                                       "x":  1245.5802739039514,
+                                       "y":  943.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4pygQshD_WdP0i6xq3Kc8",
+                      "type":  "subtopic",
+                      "label":  "uniq",
+                      "position":  {
+                                       "x":  1245.5802739039514,
+                                       "y":  1049.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v8GkZDSyDBYTXTOPuMk-w",
+                      "type":  "label",
+                      "label":  "Analysis",
+                      "position":  {
+                                       "x":  1251.5802739039514,
+                                       "y":  1158.2958599883184
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "TZEmlwTGBWAZ6w8jZ-p8U",
+                      "type":  "subtopic",
+                      "label":  "nl",
+                      "position":  {
+                                       "x":  1245.5802739039514,
+                                       "y":  1102.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jh1gVJvhe-H22VB4hnbuU",
+                      "type":  "subtopic",
+                      "label":  "awk",
+                      "position":  {
+                                       "x":  1142.5802739039514,
+                                       "y":  1102.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IYi-ZdIJ1oP6YvzknlppF",
+                      "type":  "paragraph",
+                      "label":  "Bash Scripting",
+                      "position":  {
+                                       "x":  416.21199475144203,
+                                       "y":  1030.7958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RLpPo7LFIVGJZgn9L2-VX",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  662.75390625,
+                                       "y":  735.8821379717045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0MfStpml5tMjVPnpASR7a",
+                      "type":  "paragraph",
+                      "label":  "Working with Text",
+                      "position":  {
+                                       "x":  824.7421875,
+                                       "y":  822.2372889246396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mtpXbNu62-3BDL5uV2jHj",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  954.2421875,
+                                       "y":  879.0107931981577
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qG71FX6DwRm1rdtjtN78u",
+                      "type":  "subtopic",
+                      "label":  "?",
+                      "position":  {
+                                       "x":  1360.5802739039514,
+                                       "y":  996.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "X6aVYPapBn-EC9Dw6LMDB",
+                      "type":  "subtopic",
+                      "label":  "*",
+                      "position":  {
+                                       "x":  1360.5802739039514,
+                                       "y":  943.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Pr8XdVGYBIuCyRW4w45sa",
+                      "type":  "subtopic",
+                      "label":  "[...]",
+                      "position":  {
+                                       "x":  1360.5802739039514,
+                                       "y":  1049.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "txRGPbgf0YGuEEYsM9vpP",
+                      "type":  "label",
+                      "label":  "Wildcards",
+                      "position":  {
+                                       "x":  1358.0802739039514,
+                                       "y":  1158.2958599883184
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "mYg9d8e0_XjtXBqBYtaaL",
+                      "type":  "subtopic",
+                      "label":  "{...}",
+                      "position":  {
+                                       "x":  1360.5802739039514,
+                                       "y":  1102.2958599883184
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AiDr7sOJkSN6p346jcDpJ",
+                      "type":  "subtopic",
+                      "label":  "Emacs",
+                      "position":  {
+                                       "x":  421.71199475144203,
+                                       "y":  1419.0831779191672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jPAHVLBC87n4TIyiAZJue",
+                      "type":  "subtopic",
+                      "label":  "Vim",
+                      "position":  {
+                                       "x":  544.711994751442,
+                                       "y":  1366.0831779191672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QZXUYcr1vvbvxRmPSsK53",
+                      "type":  "subtopic",
+                      "label":  "Vi",
+                      "position":  {
+                                       "x":  544.711994751442,
+                                       "y":  1419.0831779191672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NjYarMv0YgMD6kXyW3X5d",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  471.21199475144203,
+                                       "y":  1303.6583604317716
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "A8yHsbJui8IZSiQGol4_K",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  594.211994751442,
+                                       "y":  1303.6583604317716
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aZ7WGLUZyejFRbfWtSyhB",
+                      "type":  "subtopic",
+                      "label":  "Running with Bash",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1358.9782992047956
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9xn7KfHZYPseAixtw_dtG",
+                      "type":  "subtopic",
+                      "label":  "Direct Execution",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1305.9782992047956
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZBYzPltaUePoOldJ6zRj8",
+                      "type":  "subtopic",
+                      "label":  "Running with Source",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  1411.9782992047956
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4HK6WBtTsz9sTk-4yANcz",
+                      "type":  "label",
+                      "label":  "Variables",
+                      "position":  {
+                                       "x":  906.3466991595521,
+                                       "y":  1474.1740059083859
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yIvSbyHW8-gvGWb5ES064",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  658.46484375,
+                                       "y":  1743.011235344398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3LCft8Ctih7Tof3h8DB86",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  1226.9008979076034,
+                                       "y":  1953.6597109039224
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LHoR6krZTuJW5BGiKf_AT",
+                      "type":  "subtopic",
+                      "label":  "Arithmetic expansion",
+                      "position":  {
+                                       "x":  1238.9008979076034,
+                                       "y":  1967.6597109039224
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iLlCMD61QthgIKoHU59RG",
+                      "type":  "label",
+                      "label":  "Working with Numerics",
+                      "position":  {
+                                       "x":  1248.4008979076034,
+                                       "y":  2131.857139158225
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "oI019HqH9UO_tQRe2xebi",
+                      "type":  "subtopic",
+                      "label":  "let",
+                      "position":  {
+                                       "x":  1238.9008979076034,
+                                       "y":  2073.659710903922
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GXF6SSkYtVyGYB_LFSIpe",
+                      "type":  "subtopic",
+                      "label":  "awk",
+                      "position":  {
+                                       "x":  1345.9008979076034,
+                                       "y":  2073.659710903922
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VOYYJUqKqkTRaxqUip8yr",
+                      "type":  "subtopic",
+                      "label":  "expr",
+                      "position":  {
+                                       "x":  1238.9008979076034,
+                                       "y":  2020.6597109039224
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B2g_optsVEtw-5vRYIpgb",
+                      "type":  "subtopic",
+                      "label":  "bc",
+                      "position":  {
+                                       "x":  1345.9008979076034,
+                                       "y":  2020.6597109039224
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FOi_18Yx5-BgpW9F0P_vX",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1344.5802739039514,
+                                       "y":  1883.095526043176
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6oWXLER2UO841bR5AwRAX",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1344.5802739039514,
+                                       "y":  2178.659710903922
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "peZDR615PgGw7TQalyG_2",
+                      "type":  "topic",
+                      "label":  "Functions",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2721.613874042681
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lil5vo78g474F1yomar9y",
+                      "type":  "subtopic",
+                      "label":  "Function Scopes",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2567.9897933121033
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "X4-kdfaVimq5VP_gPTWR0",
+                      "type":  "subtopic",
+                      "label":  "Recursive Functions",
+                      "position":  {
+                                       "x":  1240.9008979076034,
+                                       "y":  2620.9897933121033
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wA1j14K91rgvf_XRTbz4e",
+                      "type":  "paragraph",
+                      "label":  "Advanced Scripting",
+                      "position":  {
+                                       "x":  1225.4008979076034,
+                                       "y":  2835.7461485895064
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8Q1FCxKYYl-HnMGkwdK6h",
+                      "type":  "subtopic",
+                      "label":  "set -x",
+                      "position":  {
+                                       "x":  843.9682912240671,
+                                       "y":  2784.9067969554862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_UDEyH6hECoOoXcbcXTLy",
+                      "type":  "subtopic",
+                      "label":  "bash -n",
+                      "position":  {
+                                       "x":  955.9682912240671,
+                                       "y":  2784.9067969554862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "r_G62Mx-S8wBcxduFbPMh",
+                      "type":  "subtopic",
+                      "label":  "shellcheck",
+                      "position":  {
+                                       "x":  843.9682912240671,
+                                       "y":  2837.9067969554862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eY3Ue94oS99GX2JHGwhTQ",
+                      "type":  "paragraph",
+                      "label":  "System Admin.",
+                      "position":  {
+                                       "x":  464.75788482547114,
+                                       "y":  3173.5413353513654
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VZqkqJcYPbGB5J7rT-a8n",
+                      "type":  "label",
+                      "label":  "System Monitoring",
+                      "position":  {
+                                       "x":  511.58586042756383,
+                                       "y":  3551.575330740767
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "CR-dxBmQnlmcW2bL9KQRJ",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1133.5554254114822,
+                                       "y":  3286.2532682264673
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D-sgMFB-IhNw41hNJsSF6",
+                      "type":  "subtopic",
+                      "label":  "ping",
+                      "position":  {
+                                       "x":  1148.7894869540444,
+                                       "y":  3310.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "F5w3pYH5Z58NAJ81p5q8n",
+                      "type":  "subtopic",
+                      "label":  "wget",
+                      "position":  {
+                                       "x":  1148.7894869540444,
+                                       "y":  3363.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZWMGvUxnohv6-dzsaSHuB",
+                      "type":  "subtopic",
+                      "label":  "curl",
+                      "position":  {
+                                       "x":  1302.7894869540444,
+                                       "y":  3310.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PzRwOkhukRE1cTHXOXUTu",
+                      "type":  "subtopic",
+                      "label":  "scp",
+                      "position":  {
+                                       "x":  1148.7894869540444,
+                                       "y":  3416.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eVbx1WsfeHcVaFs-vXpwF",
+                      "type":  "subtopic",
+                      "label":  "ssh",
+                      "position":  {
+                                       "x":  1302.7894869540444,
+                                       "y":  3363.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mImvR0TfLjDqj_Td4G7Gy",
+                      "type":  "subtopic",
+                      "label":  "rsync",
+                      "position":  {
+                                       "x":  1302.7894869540444,
+                                       "y":  3416.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "39EtJ6dMFURRGqqPNGEAq",
+                      "type":  "label",
+                      "label":  "Networking",
+                      "position":  {
+                                       "x":  1247.5554254114822,
+                                       "y":  3529.6712412234124
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "q-41zNMAJ-BYwrz_fZP60",
+                      "type":  "subtopic",
+                      "label":  "ifconfig, ip",
+                      "position":  {
+                                       "x":  1302.7894869540444,
+                                       "y":  3469.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bX48eoEWdUFeL2rYXuzG5",
+                      "type":  "subtopic",
+                      "label":  "netstat, ss",
+                      "position":  {
+                                       "x":  1148.7894869540444,
+                                       "y":  3469.591367012731
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "d8jGE833q0Wf6gB3DZil4",
+                      "type":  "subtopic",
+                      "label":  "brew",
+                      "position":  {
+                                       "x":  956.4665696981034,
+                                       "y":  3539.6712412234124
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nfyh2co43xfR9DJbNnM_Y",
+                      "type":  "subtopic",
+                      "label":  "apt",
+                      "position":  {
+                                       "x":  845.4665696981034,
+                                       "y":  3539.6712412234124
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iE263510iTgm3OEeB9b77",
+                      "type":  "subtopic",
+                      "label":  "dnf",
+                      "position":  {
+                                       "x":  956.4665696981034,
+                                       "y":  3592.6712412234124
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_p6LP0uvp9QpBISr1t4KX",
+                      "type":  "subtopic",
+                      "label":  "yum",
+                      "position":  {
+                                       "x":  845.4665696981034,
+                                       "y":  3592.6712412234124
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "taF4TabPYb8vAmjeEfdng",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1133.982463801159,
+                                       "y":  3574.7260128315756
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ESjj2b8Hk0Irj4E2Gmj6w",
+                      "type":  "subtopic",
+                      "label":  "tar",
+                      "position":  {
+                                       "x":  1148.216525343721,
+                                       "y":  3593.1135053410067
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "b8ph0RGUpVWrgEQ05Wvgy",
+                      "type":  "subtopic",
+                      "label":  "gzip, gunzip",
+                      "position":  {
+                                       "x":  1148.216525343721,
+                                       "y":  3646.1135053410067
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hOtzJ9tH4OcB2uI2T_si5",
+                      "type":  "subtopic",
+                      "label":  "zip, unzip",
+                      "position":  {
+                                       "x":  1302.216525343721,
+                                       "y":  3593.1135053410067
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qedrcO4QA2ZxV24l0Q6Or",
+                      "type":  "subtopic",
+                      "label":  "bzip2, xz",
+                      "position":  {
+                                       "x":  1302.216525343721,
+                                       "y":  3646.1135053410067
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mn7cVjQOVm5Kr1_cjghVc",
+                      "type":  "label",
+                      "label":  "File Compression",
+                      "position":  {
+                                       "x":  1225.482463801159,
+                                       "y":  3703.4420732214094
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "seu0KkOi5-WnaaFMRNbNY",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  425.60164242193787,
+                                       "y":  3595.077585311392
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QGDwieDblgpS6U0n_Ivt8",
+                      "type":  "subtopic",
+                      "label":  "cron, crontab",
+                      "position":  {
+                                       "x":  439.8357039645,
+                                       "y":  3613.465077820823
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wny7lCxP2M1FaoUYDD7Gf",
+                      "type":  "subtopic",
+                      "label":  "at",
+                      "position":  {
+                                       "x":  593.8357039645,
+                                       "y":  3613.465077820823
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ResodrV_p7zK1dJbqT0us",
+                      "type":  "subtopic",
+                      "label":  "systemd timers",
+                      "position":  {
+                                       "x":  439.8357039645,
+                                       "y":  3666.465077820823
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3FTtGJyjAb4Y3bEaLuU4_",
+                      "type":  "label",
+                      "label":  "Task Schedulling",
+                      "position":  {
+                                       "x":  519.1016424219379,
+                                       "y":  3718.7936457012256
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ycDYu_myv4LQBHNKtftcz",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  1066.3510691897566,
+                                       "y":  3712.291391130601
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QaWH-1EplhGtLCrM_rwUE",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  947.7419408667644,
+                                       "y":  3944.910448739328
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O5dely89N5UCMBeUfh8ud",
+                      "type":  "paragraph",
+                      "label":  "Visit the following roadmaps to keep learning",
+                      "position":  {
+                                       "x":  574.0802739039514,
+                                       "y":  3835.7263134351333
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cyCi36GIPZkvXKc6hxDN1",
+                      "type":  "button",
+                      "label":  "Linux",
+                      "position":  {
+                                       "x":  585.6380407395368,
+                                       "y":  3895.910448739328
+                                   },
+                      "href":  "https://roadmap.sh/linux",
+                      "links":  null
+                  },
+                  {
+                      "id":  "HfoXNLtpPamsiy8mq98rT",
+                      "type":  "button",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  772.6380407395368,
+                                       "y":  3895.910448739328
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZU36zvbYT-R3anWJVIqAq",
+                      "type":  "button",
+                      "label":  "DevOps",
+                      "position":  {
+                                       "x":  959.6380407395368,
+                                       "y":  3895.910448739328
+                                   },
+                      "href":  "https://roadmap.sh/devops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "6hXvAV0R7FlJ8UkQzRzMZ",
+                      "type":  "subtopic",
+                      "label":  "Bash Debug",
+                      "position":  {
+                                       "x":  843.9682912240671,
+                                       "y":  2890.9067969554862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EMAkpzuuFmbz2ENVLaI11",
+                      "type":  "button",
+                      "label":  "Network Engineer",
+                      "position":  {
+                                       "x":  1146.6380407395368,
+                                       "y":  3895.910448739328
+                                   },
+                      "href":  "https://roadmap.sh/network-engineer",
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "AIYZcwq0BE-I8ettlO77F",
+                      "source":  "gbaBiNdufToHyF2Z2ENtc",
+                      "target":  "lzzQWCFqpOnN2J_3Jck_3",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "f4I8ucxbIWLZKHCmznJiz",
+                      "source":  "lzzQWCFqpOnN2J_3Jck_3",
+                      "target":  "86QR-PVqgvvyvJvgTIer-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "DqC4vb1NxqewvxzmQvwNi",
+                      "source":  "lzzQWCFqpOnN2J_3Jck_3",
+                      "target":  "LloORF-pz-sbfuzNj1WjG",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "41sgG0Co4iin24IVti3pf",
+                      "source":  "lzzQWCFqpOnN2J_3Jck_3",
+                      "target":  "IYlYUnQh2iZrdpyUsMxg0",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "J_ENkYRnfAZ-G-6uKGtOx",
+                      "source":  "IYlYUnQh2iZrdpyUsMxg0",
+                      "target":  "EqgAG1t05RuiAO1TXRq4Y",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "nGIltDJeHtH9GreSgeEWb",
+                      "source":  "IYlYUnQh2iZrdpyUsMxg0",
+                      "target":  "LjkmfTYWMrOKLSqtpyKGk",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "p_iICjjSwIgRGgoRGj8II",
+                      "source":  "IYlYUnQh2iZrdpyUsMxg0",
+                      "target":  "6SR4c75dEKoFxZ88sDtfi",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__lzzQWCFqpOnN2J_3Jck_3z2-GdSViKr5r3uHxzihSjdYVy2",
+                      "source":  "lzzQWCFqpOnN2J_3Jck_3",
+                      "target":  "GdSViKr5r3uHxzihSjdYV",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__IYlYUnQh2iZrdpyUsMxg0y2-BnblV98Tul3QlyA1nIB63z1",
+                      "source":  "IYlYUnQh2iZrdpyUsMxg0",
+                      "target":  "BnblV98Tul3QlyA1nIB63",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__IYlYUnQh2iZrdpyUsMxg0y2-y4mIT9yer85CrU_KlRxGkz1",
+                      "source":  "IYlYUnQh2iZrdpyUsMxg0",
+                      "target":  "y4mIT9yer85CrU_KlRxGk",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__6SR4c75dEKoFxZ88sDtfiz2-SvGjImDYN1hTamQ6Fqr69y2",
+                      "source":  "6SR4c75dEKoFxZ88sDtfi",
+                      "target":  "VCzTId8UMInDwhWaE1LGC",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__QnC0gCoBj_559CgaTQgr4w2-SvGjImDYN1hTamQ6Fqr69x1",
+                      "source":  "DUUstDjzKKAXN1IXzbqjt",
+                      "target":  "VCzTId8UMInDwhWaE1LGC",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__DUUstDjzKKAXN1IXzbqjty2-HESaq3OyuouEqjpZITYUdz1",
+                      "source":  "DUUstDjzKKAXN1IXzbqjt",
+                      "target":  "HESaq3OyuouEqjpZITYUd",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__reLvp_PnKqpyWWtnuICPjz2-0MfStpml5tMjVPnpASR7ay1",
+                      "source":  "reLvp_PnKqpyWWtnuICPj",
+                      "target":  "0MfStpml5tMjVPnpASR7a",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__NMy6-nD3jAkUVcOj0TthUy2-eY3Ue94oS99GX2JHGwhTQz1",
+                      "source":  "NMy6-nD3jAkUVcOj0TthU",
+                      "target":  "IYi-ZdIJ1oP6YvzknlppF",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__eY3Ue94oS99GX2JHGwhTQx2-it421LC-vLFNmTcWxrsX6w1",
+                      "source":  "IYi-ZdIJ1oP6YvzknlppF",
+                      "target":  "it421LC-vLFNmTcWxrsX6",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__it421LC-vLFNmTcWxrsX6z2-WbZu0zM2d56LiGauOp8uby1",
+                      "source":  "it421LC-vLFNmTcWxrsX6",
+                      "target":  "WbZu0zM2d56LiGauOp8ub",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__dj3KiBtPjRK2DF5HeuoYZz2-9xn7KfHZYPseAixtw_dtGy1",
+                      "source":  "dj3KiBtPjRK2DF5HeuoYZ",
+                      "target":  "9xn7KfHZYPseAixtw_dtG",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__dj3KiBtPjRK2DF5HeuoYZz2-aZ7WGLUZyejFRbfWtSyhBy1",
+                      "source":  "dj3KiBtPjRK2DF5HeuoYZ",
+                      "target":  "aZ7WGLUZyejFRbfWtSyhB",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__dj3KiBtPjRK2DF5HeuoYZz2-ZBYzPltaUePoOldJ6zRj8y1",
+                      "source":  "dj3KiBtPjRK2DF5HeuoYZ",
+                      "target":  "ZBYzPltaUePoOldJ6zRj8",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__dj3KiBtPjRK2DF5HeuoYZx2-RdH9oRDP2urFyvbeEiWzmw1",
+                      "source":  "dj3KiBtPjRK2DF5HeuoYZ",
+                      "target":  "RdH9oRDP2urFyvbeEiWzm",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__vM0Y4fao-pNjNjWYCJve3w2-YM7wA4MgeailSoXR_03Qxx1",
+                      "source":  "vM0Y4fao-pNjNjWYCJve3",
+                      "target":  "YM7wA4MgeailSoXR_03Qx",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__Co0k7A7MyQoELnPwPU10mx2-60ika3rjs42VIk-3AcOdqw2",
+                      "source":  "Co0k7A7MyQoELnPwPU10m",
+                      "target":  "60ika3rjs42VIk-3AcOdq",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__Co0k7A7MyQoELnPwPU10mz2-n0sesqABTmbGYmcqlpH4by1",
+                      "source":  "Co0k7A7MyQoELnPwPU10m",
+                      "target":  "n0sesqABTmbGYmcqlpH4b",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__n0sesqABTmbGYmcqlpH4bw2-D0VV5UpW2X4mMghpp2fdox1",
+                      "source":  "n0sesqABTmbGYmcqlpH4b",
+                      "target":  "D0VV5UpW2X4mMghpp2fdo",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__PS9R8AX-_dgeqYL2Y67Ffx2-sBI1aCY7XmXBwqTrokt9Fw1",
+                      "source":  "PS9R8AX-_dgeqYL2Y67Ff",
+                      "target":  "sBI1aCY7XmXBwqTrokt9F",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__BCkD0b9unC1lfjUThU3hXz2-fG4D7iuiCDlV1PFwMfAdMy2",
+                      "source":  "BCkD0b9unC1lfjUThU3hX",
+                      "target":  "fG4D7iuiCDlV1PFwMfAdM",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__fG4D7iuiCDlV1PFwMfAdMz2-PS9R8AX-_dgeqYL2Y67Ffy2",
+                      "source":  "fG4D7iuiCDlV1PFwMfAdM",
+                      "target":  "PS9R8AX-_dgeqYL2Y67Ff",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__BCkD0b9unC1lfjUThU3hXx2-zxdwDMOVAoP8IgUqrggKqw1",
+                      "source":  "BCkD0b9unC1lfjUThU3hX",
+                      "target":  "zxdwDMOVAoP8IgUqrggKq",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__NfmdNOTpvfKIIut642Q6Ex2-tEaYnBeI5tO8NT-a1PG3Bw1",
+                      "source":  "NfmdNOTpvfKIIut642Q6E",
+                      "target":  "tEaYnBeI5tO8NT-a1PG3B",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__peZDR615PgGw7TQalyG_2w2-Wl39zpLh6alsMkn0YZ9-Nx1",
+                      "source":  "1rIFm5ROQ8b1rsWeD9h4x",
+                      "target":  "Wl39zpLh6alsMkn0YZ9-N",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__tEaYnBeI5tO8NT-a1PG3Bz2-peZDR615PgGw7TQalyG_2y1",
+                      "source":  "tEaYnBeI5tO8NT-a1PG3B",
+                      "target":  "1rIFm5ROQ8b1rsWeD9h4x",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__1rIFm5ROQ8b1rsWeD9h4xz2-peZDR615PgGw7TQalyG_2y2",
+                      "source":  "1rIFm5ROQ8b1rsWeD9h4x",
+                      "target":  "peZDR615PgGw7TQalyG_2",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__peZDR615PgGw7TQalyG_2w2-X4-kdfaVimq5VP_gPTWR0x1",
+                      "source":  "peZDR615PgGw7TQalyG_2",
+                      "target":  "X4-kdfaVimq5VP_gPTWR0",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__peZDR615PgGw7TQalyG_2x2-eY3Ue94oS99GX2JHGwhTQw2",
+                      "source":  "peZDR615PgGw7TQalyG_2",
+                      "target":  "wA1j14K91rgvf_XRTbz4e",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__eY3Ue94oS99GX2JHGwhTQx2-aNpvGNnV0q-7emxJVJow2w1",
+                      "source":  "wA1j14K91rgvf_XRTbz4e",
+                      "target":  "aNpvGNnV0q-7emxJVJow2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__fR3sok0EJTGHELbPO6MAWz2-aNpvGNnV0q-7emxJVJow2y1",
+                      "source":  "fR3sok0EJTGHELbPO6MAW",
+                      "target":  "aNpvGNnV0q-7emxJVJow2",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__W7NlQoj0EDxvuMVj4MKXcy2-qNsNJrqwsGtumOM2STB8uz1",
+                      "source":  "W7NlQoj0EDxvuMVj4MKXc",
+                      "target":  "qNsNJrqwsGtumOM2STB8u",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__W7NlQoj0EDxvuMVj4MKXcy2-6IzuWNaMVjjyQV-KLqRlXz1",
+                      "source":  "W7NlQoj0EDxvuMVj4MKXc",
+                      "target":  "6IzuWNaMVjjyQV-KLqRlX",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__W7NlQoj0EDxvuMVj4MKXcx2-ZTJrnx12KSrcyUfd0RfPuw1",
+                      "source":  "W7NlQoj0EDxvuMVj4MKXc",
+                      "target":  "ZTJrnx12KSrcyUfd0RfPu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__ZTJrnx12KSrcyUfd0RfPuy2-eY3Ue94oS99GX2JHGwhTQz2",
+                      "source":  "ZTJrnx12KSrcyUfd0RfPu",
+                      "target":  "eY3Ue94oS99GX2JHGwhTQ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__eY3Ue94oS99GX2JHGwhTQx2-GhQcZ769W04wlLlFLXxsuw1",
+                      "source":  "eY3Ue94oS99GX2JHGwhTQ",
+                      "target":  "GhQcZ769W04wlLlFLXxsu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__Kwr37_gNDhkwSkg49bg35x2-O5dely89N5UCMBeUfh8udw1",
+                      "source":  "Kwr37_gNDhkwSkg49bg35",
+                      "target":  "O5dely89N5UCMBeUfh8ud",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__sYzelzBxQUcz5bK1HVWamz2-Co0k7A7MyQoELnPwPU10my2",
+                      "source":  "sYzelzBxQUcz5bK1HVWam",
+                      "target":  "Co0k7A7MyQoELnPwPU10m",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__vM0Y4fao-pNjNjWYCJve3x2-sYzelzBxQUcz5bK1HVWamw1",
+                      "source":  "vM0Y4fao-pNjNjWYCJve3",
+                      "target":  "sYzelzBxQUcz5bK1HVWam",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__fR3sok0EJTGHELbPO6MAWw2-6hXvAV0R7FlJ8UkQzRzMZx2",
+                      "source":  "fR3sok0EJTGHELbPO6MAW",
+                      "target":  "6hXvAV0R7FlJ8UkQzRzMZ",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  }
+              ]
+}

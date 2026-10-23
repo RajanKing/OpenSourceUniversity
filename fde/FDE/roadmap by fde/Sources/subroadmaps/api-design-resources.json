@@ -1,0 +1,2941 @@
+[
+    {
+        "id":  "duKkpzPjUU_-8kyJGHqRX",
+        "label":  "Learn the Basics",
+        "endpoint":  "https://roadmap.sh/api-design/topic@duKkpzPjUU_-8kyJGHqRX.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r8M3quACGO2piu0u_R4hO",
+        "label":  "What are APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@r8M3quACGO2piu0u_R4hO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started with APIs - Postman",
+                              "type":  "article",
+                              "url":  "https://www.postman.com/what-is-an-api/"
+                          },
+                          {
+                              "title":  "API - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/topics/api"
+                          },
+                          {
+                              "title":  "What is an API? - AWS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/api/"
+                          },
+                          {
+                              "title":  "What is an API?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=s7wmiS2mSXY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2HdKzAIQi15pr3YHHrbPp",
+        "label":  "HTTP",
+        "endpoint":  "https://roadmap.sh/api-design/topic@2HdKzAIQi15pr3YHHrbPp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is HTTP?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+                          },
+                          {
+                              "title":  "An overview of HTTP",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+                          },
+                          {
+                              "title":  "HTTP/3 From A To Z: Core Concepts",
+                              "type":  "article",
+                              "url":  "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/"
+                          },
+                          {
+                              "title":  "HTTP Crash Course \u0026 Exploration",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ACALE93mL4gnX5ThRIdRp",
+        "label":  "HTTP Versions",
+        "endpoint":  "https://roadmap.sh/api-design/topic@ACALE93mL4gnX5ThRIdRp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Evolution of HTTP",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP"
+                          },
+                          {
+                              "title":  "HTTP: 1.0 vs 1.1 vs 2.0 vs 3.0",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/cs/http-versions"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rADHM-6NAxEjzmgiHefDX",
+        "label":  "HTTP Methods",
+        "endpoint":  "https://roadmap.sh/api-design/topic@rADHM-6NAxEjzmgiHefDX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HTTP Methods - MDN",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods"
+                          },
+                          {
+                              "title":  "What are HTTP Methods? - Postman",
+                              "type":  "article",
+                              "url":  "https://blog.postman.com/what-are-http-methods/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7szYyzLifKsepNU0c2KnN",
+        "label":  "HTTP Status Codes",
+        "endpoint":  "https://roadmap.sh/api-design/topic@7szYyzLifKsepNU0c2KnN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HTTP Status Codes",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+                          },
+                          {
+                              "title":  "What are HTTP status codes?",
+                              "type":  "article",
+                              "url":  "https://umbraco.com/knowledge-base/http-status-codes/"
+                          },
+                          {
+                              "title":  "List of HTTP status codes",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"
+                          },
+                          {
+                              "title":  "HTTP Status Codes explained in 5 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qmpUfWN7hh4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rE-0yibRH6B2UBKp351cf",
+        "label":  "HTTP Headers",
+        "endpoint":  "https://roadmap.sh/api-design/topic@rE-0yibRH6B2UBKp351cf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HTTP Headers",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers"
+                          },
+                          {
+                              "title":  "What are HTTP Headers?",
+                              "type":  "article",
+                              "url":  "https://blog.postman.com/what-are-http-headers/"
+                          },
+                          {
+                              "title":  "What are HTTP Headers \u0026 Types of HTTP headers",
+                              "type":  "article",
+                              "url":  "https://requestly.com/blog/what-are-http-headers-understand-different-types-of-http-headers/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P-rGIk50Bg7nFmWieAW07",
+        "label":  "URL, Query \u0026 Path Parameters",
+        "endpoint":  "https://roadmap.sh/api-design/topic@P-rGIk50Bg7nFmWieAW07.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Path Variables and Query Parameters",
+                              "type":  "article",
+                              "url":  "https://medium.com/@averydcs/understanding-path-variables-and-query-parameters-in-http-requests-232248b71a8"
+                          },
+                          {
+                              "title":  "Describing parameters",
+                              "type":  "article",
+                              "url":  "https://swagger.io/docs/specification/describing-parameters/"
+                          },
+                          {
+                              "title":  "How API Parameters Work: Query, Path, Header, and Body",
+                              "type":  "article",
+                              "url":  "https://treblle.com/blog/api-parameters-query-path-header-body"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UFuX8wcxZQ7dvaQF_2Yp8",
+        "label":  "Cookies",
+        "endpoint":  "https://roadmap.sh/api-design/topic@UFuX8wcxZQ7dvaQF_2Yp8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Are API Cookies? How to Send it?",
+                              "type":  "article",
+                              "url":  "https://apidog.com/articles/what-are-api-cookies/"
+                          },
+                          {
+                              "title":  "Using HTTP cookies - Mozilla",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TX_hg7EobNJhmWKsMCaT1",
+        "label":  "Content Negotiation",
+        "endpoint":  "https://roadmap.sh/api-design/topic@TX_hg7EobNJhmWKsMCaT1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Content Negotiation",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation"
+                          },
+                          {
+                              "title":  "Content Negotiation in Practice",
+                              "type":  "article",
+                              "url":  "https://softwaremill.com/content-negotiation-in-practice/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GRlsBogOlOwuqhMMPyHN3",
+        "label":  "CORS",
+        "endpoint":  "https://roadmap.sh/api-design/topic@GRlsBogOlOwuqhMMPyHN3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cross-Origin Resource Sharing (CORS)",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS"
+                          },
+                          {
+                              "title":  "What is CORS?",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/cross-origin-resource-sharing/"
+                          },
+                          {
+                              "title":  "CORS in 100 seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4KHiSt0oLJ0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KG3wO86F8Of27fU7QRcsn",
+        "label":  "Understand TCP / IP",
+        "endpoint":  "https://roadmap.sh/api-design/topic@KG3wO86F8Of27fU7QRcsn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Transmission Control Protocol TCP/IP?",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/tcp-ip"
+                          },
+                          {
+                              "title":  "What is TCP/IP?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ddos/glossary/tcp-ip/"
+                          },
+                          {
+                              "title":  "what is TCP/IP and OSI?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CRdL1PcherM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v4nJYD9yiIEUviLPhVTCD",
+        "label":  "Basics of DNS",
+        "endpoint":  "https://roadmap.sh/api-design/topic@v4nJYD9yiIEUviLPhVTCD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is DNS?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+                          },
+                          {
+                              "title":  "Introduction to DNS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/route53/what-is-dns/"
+                          },
+                          {
+                              "title":  "DNS Record Crash Course for Web Developers",
+                              "type":  "article",
+                              "url":  "https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn"
+                          },
+                          {
+                              "title":  "DNS explained in 100 seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UVR9lhUGAyU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o8i093VQv-T5Qf1yGqU0R",
+        "label":  "Different API Styles",
+        "endpoint":  "https://roadmap.sh/api-design/topic@o8i093VQv-T5Qf1yGqU0R.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Styles",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/architect/api-styles"
+                          },
+                          {
+                              "title":  "Top API Styles",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4vLxWqE94l4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BvwdASMvuNQ9DNgzdSZ4o",
+        "label":  "RESTful APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@BvwdASMvuNQ9DNgzdSZ4o.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is REST?",
+                              "type":  "article",
+                              "url":  "https://restfulapi.net/"
+                          },
+                          {
+                              "title":  "What is a RESTul API?",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/what-is/restful-api/"
+                          },
+                          {
+                              "title":  "Understanding RESTful APIs",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lsMQRaeKNDk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TVR-SkErlOHbDKLBGfxep",
+        "label":  "Simple JSON APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@TVR-SkErlOHbDKLBGfxep.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Specification for Building JSON APIs",
+                              "type":  "opensource",
+                              "url":  "https://github.com/json-api/json-api"
+                          },
+                          {
+                              "title":  "JSON API: Explained in 4 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=N-4prIh7t38"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wwd-0PjrtViMFWxRGaQey",
+        "label":  "SOAP APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@Wwd-0PjrtViMFWxRGaQey.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are SOAP APIs?",
+                              "type":  "article",
+                              "url":  "https://www.indeed.com/career-advice/career-development/what-is-soap-api"
+                          },
+                          {
+                              "title":  "SOAP vs REST 101: Understand The Differences",
+                              "type":  "article",
+                              "url":  "https://www.soapui.org/learn/api/soap-vs-rest-api/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MKVcPM2EzAr2_Ieyp9Fu3",
+        "label":  "GraphQL APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@MKVcPM2EzAr2_Ieyp9Fu3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated GraphQL Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/graphql"
+                          },
+                          {
+                              "title":  "GraphQL Website",
+                              "type":  "official",
+                              "url":  "https://graphql.org/"
+                          },
+                          {
+                              "title":  "Public GraphQL APIs",
+                              "type":  "opensource",
+                              "url":  "https://github.com/graphql-kit/graphql-apis"
+                          },
+                          {
+                              "title":  "GraphQL Explained in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=eIQh02xuVw4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "awdoiCHz7Yc3kYac_iy-a",
+        "label":  "Building JSON / RESTful APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@awdoiCHz7Yc3kYac_iy-a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Specification for Building APIs in JSON",
+                              "type":  "official",
+                              "url":  "https://jsonapi.org/"
+                          },
+                          {
+                              "title":  "How to Make a RESTful API",
+                              "type":  "article",
+                              "url":  "https://www.integrate.io/blog/how-to-make-a-rest-api/"
+                          },
+                          {
+                              "title":  "What is a REST API?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lsMQRaeKNDk\u0026t=170s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9WI_z34jIFXwoUQuChyRU",
+        "label":  "REST Principles",
+        "endpoint":  "https://roadmap.sh/api-design/topic@9WI_z34jIFXwoUQuChyRU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "REST API Principles | A Comprehensive Overview",
+                              "type":  "article",
+                              "url":  "https://blog.dreamfactory.com/rest-apis-an-overview-of-basic-principles"
+                          },
+                          {
+                              "title":  "REST principles",
+                              "type":  "article",
+                              "url":  "https://ninenines.eu/docs/en/cowboy/2.12/guide/rest_principles/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b3qRTLwCC_9uDoPGrd9Bu",
+        "label":  "URI Design",
+        "endpoint":  "https://roadmap.sh/api-design/topic@b3qRTLwCC_9uDoPGrd9Bu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Guidelines for URI Design",
+                              "type":  "article",
+                              "url":  "https://css-tricks.com/guidelines-for-uri-design/"
+                          },
+                          {
+                              "title":  "Designing URIs",
+                              "type":  "article",
+                              "url":  "https://www.oreilly.com/library/view/restful-web-services/9780596809140/ch04.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "itILK2SXvLvAjk1Kul7EK",
+        "label":  "Versioning Strategies",
+        "endpoint":  "https://roadmap.sh/api-design/topic@itILK2SXvLvAjk1Kul7EK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is API Versioning?",
+                              "type":  "article",
+                              "url":  "https://www.postman.com/api-platform/api-versioning/"
+                          },
+                          {
+                              "title":  "API Versioning Best Practices",
+                              "type":  "article",
+                              "url":  "https://kodekloud.com/blog/api-versioning-best-practices/"
+                          },
+                          {
+                              "title":  "Versioning your APIs",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Np_Jr6AvCOc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pgJDzP3pJjhjr5wTRtPJO",
+        "label":  "Pagination",
+        "endpoint":  "https://roadmap.sh/api-design/topic@pgJDzP3pJjhjr5wTRtPJO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Everything you need to know about API pagination",
+                              "type":  "article",
+                              "url":  "https://nordicapis.com/everything-you-need-to-know-about-api-pagination/"
+                          },
+                          {
+                              "title":  "Pagination in the REST API - Atlassian",
+                              "type":  "article",
+                              "url":  "https://developer.atlassian.com/server/confluence/pagination-in-the-rest-api/"
+                          },
+                          {
+                              "title":  "Unlock the power of API pagination",
+                              "type":  "article",
+                              "url":  "https://dev.to/pragativerma18/unlocking-the-power-of-api-pagination-best-practices-and-strategies-4b49"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O7wjldZ3yTA2s_F-UnJw_",
+        "label":  "Rate Limiting",
+        "endpoint":  "https://roadmap.sh/api-design/topic@O7wjldZ3yTA2s_F-UnJw_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rate limit",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Glossary/Rate_limit"
+                          },
+                          {
+                              "title":  "Throttle",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Glossary/Throttle"
+                          },
+                          {
+                              "title":  "Debounce",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Glossary/Debounce"
+                          },
+                          {
+                              "title":  "Rate Limiting techniques visualization",
+                              "type":  "video",
+                              "url":  "https://smudge.ai/blog/ratelimit-algorithms"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "20KEgZH6cu_UokqWpV-9I",
+        "label":  "Idempotency",
+        "endpoint":  "https://roadmap.sh/api-design/topic@20KEgZH6cu_UokqWpV-9I.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Idempotent - MDN Glossary",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Glossary/Idempotent"
+                          },
+                          {
+                              "title":  "The Idempotency-Key HTTP Header Field - IETF Draft",
+                              "type":  "article",
+                              "url":  "https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/"
+                          },
+                          {
+                              "title":  "Idempotent Requests - Stripe API Reference",
+                              "type":  "article",
+                              "url":  "https://docs.stripe.com/api/idempotent_requests"
+                          },
+                          {
+                              "title":  "What is idempotency?",
+                              "type":  "article",
+                              "url":  "https://blog.dreamfactory.com/what-is-idempotency"
+                          },
+                          {
+                              "title":  "Idempotency Is Easy Until the Second Request Is Different",
+                              "type":  "article",
+                              "url":  "https://blog.dochia.dev/blog/idempotency/"
+                          },
+                          {
+                              "title":  "Idempotent REST API",
+                              "type":  "article",
+                              "url":  "https://restfulapi.net/idempotent-rest-apis/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LByD1vhzunhY1uY1YGZHP",
+        "label":  "HATEOAS",
+        "endpoint":  "https://roadmap.sh/api-design/topic@LByD1vhzunhY1uY1YGZHP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HATEOAS Driven REST APIs",
+                              "type":  "article",
+                              "url":  "https://restfulapi.net/hateoas/"
+                          },
+                          {
+                              "title":  "HATEOAS",
+                              "type":  "article",
+                              "url":  "https://htmx.org/essays/hateoas/"
+                          },
+                          {
+                              "title":  "What Happened To HATEOAS in RESTful API?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=HNTSrytKCoQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zXxEiM5HeOn7W-Vue0tQf",
+        "label":  "CRUD Operations",
+        "endpoint":  "https://roadmap.sh/api-design/topic@zXxEiM5HeOn7W-Vue0tQf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Building a CRUD API with Node.js and Express",
+                              "type":  "article",
+                              "url":  "https://www.split.io/blog/introduction-to-building-a-crud-api-with-node-js-and-express/"
+                          },
+                          {
+                              "title":  "An expert\u0027s guide to CRUD APIs",
+                              "type":  "article",
+                              "url":  "https://www.forestadmin.com/blog/an-experts-guide-to-crud-apis-designing-a-robust-one/"
+                          },
+                          {
+                              "title":  "Rethinking CRUD For REST API Designs - Palentir",
+                              "type":  "article",
+                              "url":  "https://blog.palantir.com/rethinking-crud-for-rest-api-designs-a2a8287dc2af"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8tELdagrOaGCf3nMVs8t3",
+        "label":  "Error Handling",
+        "endpoint":  "https://roadmap.sh/api-design/topic@8tELdagrOaGCf3nMVs8t3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Best Practices for API Error Handling",
+                              "type":  "article",
+                              "url":  "https://blog.postman.com/best-practices-for-api-error-handling/"
+                          },
+                          {
+                              "title":  "Best Practices for REST API Error Handling",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/rest-api-error-handling-best-practices"
+                          },
+                          {
+                              "title":  "Handling HTTP API Errors with Problem Details",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=uvTT_0hqhyY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5CxU3inGcSHp-TDg3BQiY",
+        "label":  "RFC 7807 -  Problem Details",
+        "endpoint":  "https://roadmap.sh/api-design/topic@5CxU3inGcSHp-TDg3BQiY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RFC 7807 - Problem Details for HTTP APIs",
+                              "type":  "article",
+                              "url":  "https://datatracker.ietf.org/doc/html/rfc7807"
+                          },
+                          {
+                              "title":  "RFC 9457 - Problem Details for HTTP APIs",
+                              "type":  "article",
+                              "url":  "https://www.rfc-editor.org/rfc/rfc9457.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qAolZHf_jp8hCdtqHZwC8",
+        "label":  "HTTP Caching",
+        "endpoint":  "https://roadmap.sh/api-design/topic@qAolZHf_jp8hCdtqHZwC8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Why HTTP Caching matters for APIs",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/why-http-caching-matters-for-apis/"
+                          },
+                          {
+                              "title":  "Caching REST API Response",
+                              "type":  "article",
+                              "url":  "https://restfulapi.net/caching/"
+                          },
+                          {
+                              "title":  "HTTP caching",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cQnQ9v3mH27MGNwetz3JW",
+        "label":  "Authentication Methods",
+        "endpoint":  "https://roadmap.sh/api-design/topic@cQnQ9v3mH27MGNwetz3JW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Authentication",
+                              "type":  "article",
+                              "url":  "https://www.postman.com/api-platform/api-authentication/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0FzHERK5AeYL5wv1FBJbH",
+        "label":  "Basic Auth",
+        "endpoint":  "https://roadmap.sh/api-design/topic@0FzHERK5AeYL5wv1FBJbH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Basic Authentication",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/guides/basic-authentication"
+                          },
+                          {
+                              "title":  "Basic Auth Generation Header",
+                              "type":  "article",
+                              "url":  "https://www.debugbear.com/basic-auth-header-generator"
+                          },
+                          {
+                              "title":  "Basic Authentication - Swagger.io",
+                              "type":  "article",
+                              "url":  "https://swagger.io/docs/specification/authentication/basic-authentication/"
+                          },
+                          {
+                              "title":  "Basic Authentication - Twillio",
+                              "type":  "article",
+                              "url":  "https://www.twilio.com/docs/glossary/what-is-basic-authentication"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QTH7sy9uQZWl6ieBz7erY",
+        "label":  "Token Based Auth",
+        "endpoint":  "https://roadmap.sh/api-design/topic@QTH7sy9uQZWl6ieBz7erY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Token Based Authentication",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/guides/token-authentication"
+                          },
+                          {
+                              "title":  "What Is Token-Based Authentication?",
+                              "type":  "article",
+                              "url":  "https://www.okta.com/uk/identity-101/what-is-token-based-authentication/"
+                          },
+                          {
+                              "title":  "Session vs Token Authentication in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UBUNrFtufWo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tWg68AHLIr1gIZA1za3jp",
+        "label":  "JWT ",
+        "endpoint":  "https://roadmap.sh/api-design/topic@tWg68AHLIr1gIZA1za3jp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "JWT Authentication",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/guides/jwt-authentication"
+                          },
+                          {
+                              "title":  "Introduction to JSON Web Tokens",
+                              "type":  "official",
+                              "url":  "https://jwt.io/introduction"
+                          },
+                          {
+                              "title":  "JSON Web Tokens",
+                              "type":  "article",
+                              "url":  "https://auth0.com/docs/secure/tokens/json-web-tokens"
+                          },
+                          {
+                              "title":  "Why is JWT popular?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=P2CPd9ynFLg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TLuNtQ6HKYQXmglyVk8-t",
+        "label":  "OAuth 2.0",
+        "endpoint":  "https://roadmap.sh/api-design/topic@TLuNtQ6HKYQXmglyVk8-t.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OAuth",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/guides/oauth"
+                          },
+                          {
+                              "title":  "OAuth Website",
+                              "type":  "official",
+                              "url":  "https://oauth.net/2/"
+                          },
+                          {
+                              "title":  "What is OAuth 2.0?",
+                              "type":  "official",
+                              "url":  "https://auth0.com/intro-to-iam/what-is-oauth-2"
+                          },
+                          {
+                              "title":  "OAuth 2 Explained In Simple Terms",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZV5yTm4pT8g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eQWoy4CpYP3TJL2bbhPB_",
+        "label":  "Session Based Auth",
+        "endpoint":  "https://roadmap.sh/api-design/topic@eQWoy4CpYP3TJL2bbhPB_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Session Based Authentication",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/guides/session-based-authentication"
+                          },
+                          {
+                              "title":  "Session vs Token Authentication",
+                              "type":  "article",
+                              "url":  "https://www.authgear.com/post/session-vs-token-authentication"
+                          },
+                          {
+                              "title":  "Session Based Authentication - Roadmap.sh",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gKkBEOq_shs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nHbn8_sMY7J8o6ckbD-ER",
+        "label":  "Authorization Methods",
+        "endpoint":  "https://roadmap.sh/api-design/topic@nHbn8_sMY7J8o6ckbD-ER.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Authorization Methods",
+                              "type":  "article",
+                              "url":  "https://www.pingidentity.com/en/resources/identity-fundamentals/authorization/authorization-methods.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tl1wXmOaj_zHL2o38VygO",
+        "label":  "MAC",
+        "endpoint":  "https://roadmap.sh/api-design/topic@tl1wXmOaj_zHL2o38VygO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "mandatory access control (MAC)",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchsecurity/definition/mandatory-access-control-MAC"
+                          },
+                          {
+                              "title":  "Mandatory access control defined",
+                              "type":  "article",
+                              "url":  "https://nordlayer.com/learn/access-control/mandatory-access-control/"
+                          },
+                          {
+                              "title":  "Mandatory Access Control",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=E4CsEDEyauY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CCcY8UsGdd2pdBYHt9L4o",
+        "label":  "ReBAC",
+        "endpoint":  "https://roadmap.sh/api-design/topic@CCcY8UsGdd2pdBYHt9L4o.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Implement Relationship Based Access Control (ReBAC)",
+                              "type":  "article",
+                              "url":  "https://www.freecodecamp.org/news/implement-relationship-based-access-control/"
+                          },
+                          {
+                              "title":  "Relationship-based Access Control (ReBAC)",
+                              "type":  "article",
+                              "url":  "https://docs.aserto.com/docs/authorization-basics/authorization-models/rebac"
+                          },
+                          {
+                              "title":  "Understanding Relationship Based Access Control (ReBAC)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xCqpxiPXnCk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tzUJwXu_scwQHnPPT0oY-",
+        "label":  "API Keys \u0026 Management",
+        "endpoint":  "https://roadmap.sh/api-design/topic@tzUJwXu_scwQHnPPT0oY-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is API Key Management?",
+                              "type":  "article",
+                              "url":  "https://www.akeyless.io/secrets-management-glossary/api-key-management/"
+                          },
+                          {
+                              "title":  "API Key Management - Definition and Best Practices",
+                              "type":  "article",
+                              "url":  "https://infisical.com/blog/api-key-management"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5R9yKfN1vItuv__HgCwP7",
+        "label":  "API Documentation Tools",
+        "endpoint":  "https://roadmap.sh/api-design/topic@5R9yKfN1vItuv__HgCwP7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Swagger\u0027s Official Website",
+                              "type":  "article",
+                              "url":  "https://swagger.io/"
+                          },
+                          {
+                              "title":  "DapperDox\u0027s Official Website",
+                              "type":  "article",
+                              "url":  "http://dapperdox.io/"
+                          },
+                          {
+                              "title":  "ReDoc Documentation",
+                              "type":  "article",
+                              "url":  "https://github.com/Redocly/redoc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5RY7AlfRQydjxWK65Z4cv",
+        "label":  "Swagger / Open API",
+        "endpoint":  "https://roadmap.sh/api-design/topic@5RY7AlfRQydjxWK65Z4cv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Swagger Website",
+                              "type":  "official",
+                              "url":  "https://swagger.io/"
+                          },
+                          {
+                              "title":  "OpenAPI Initiative",
+                              "type":  "official",
+                              "url":  "https://www.openapis.org/"
+                          },
+                          {
+                              "title":  "What is Swagger?",
+                              "type":  "article",
+                              "url":  "https://blog.hubspot.com/website/what-is-swagger"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KQAus72RGqx5f-3-YeJby",
+        "label":  "Postman",
+        "endpoint":  "https://roadmap.sh/api-design/topic@KQAus72RGqx5f-3-YeJby.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Postman Website",
+                              "type":  "official",
+                              "url":  "https://www.postman.com/"
+                          },
+                          {
+                              "title":  "Postman Docs",
+                              "type":  "official",
+                              "url":  "https://www.postman.com/api-documentation-tool/"
+                          },
+                          {
+                              "title":  "Postman Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=MFxk5BZulVU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LxWHkhlikUaMT2G8YmVDQ",
+        "label":  "Readme.com",
+        "endpoint":  "https://roadmap.sh/api-design/topic@LxWHkhlikUaMT2G8YmVDQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ReadMe Website",
+                              "type":  "official",
+                              "url":  "https://readme.com"
+                          },
+                          {
+                              "title":  "ReadMe",
+                              "type":  "opensource",
+                              "url":  "https://github.com/orgs/readmeio/repositories?type=source"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "Readme.com",
+                                "type":  "inline",
+                                "url":  "http://Readme.com"
+                            },
+                            {
+                                "title":  "Readme.com",
+                                "type":  "inline",
+                                "url":  "http://Readme.com"
+                            },
+                            {
+                                "title":  "Readme.com",
+                                "type":  "inline",
+                                "url":  "http://Readme.com"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OpS2NX1lPTOtfjV1wKtC4",
+        "label":  "Stoplight",
+        "endpoint":  "https://roadmap.sh/api-design/topic@OpS2NX1lPTOtfjV1wKtC4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Stoplight Website",
+                              "type":  "official",
+                              "url":  "https://stoplight.io/"
+                          },
+                          {
+                              "title":  "stoplightio",
+                              "type":  "opensource",
+                              "url":  "https://github.com/stoplightio"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qIJ6dUppjAjOTA8eQbp0n",
+        "label":  "API Security",
+        "endpoint":  "https://roadmap.sh/api-design/topic@qIJ6dUppjAjOTA8eQbp0n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OWASP Project API Security",
+                              "type":  "article",
+                              "url":  "https://owasp.org/API-Security/editions/2023/en/0x00-toc/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "G70wvcOM1Isrx5ZBvS2xP",
+        "label":  "Common Vulnerabilities",
+        "endpoint":  "https://roadmap.sh/api-design/topic@G70wvcOM1Isrx5ZBvS2xP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Top 10 API Security Vulnerabilities",
+                              "type":  "article",
+                              "url":  "https://curity.io/resources/learn/owasp-top-ten/"
+                          },
+                          {
+                              "title":  "Top API Vulnerabilities and 6 Ways to Mitigate Them",
+                              "type":  "article",
+                              "url":  "https://brightsec.com/blog/top-api-vulnerabilities-and-6-ways-to-mitigate-them/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q1yaf-RbHIQsOqfzjn4k4",
+        "label":  "Best Practices",
+        "endpoint":  "https://roadmap.sh/api-design/topic@q1yaf-RbHIQsOqfzjn4k4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Security Best Practices",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/api-security-best-practices"
+                          },
+                          {
+                              "title":  "Best Practices for REST API Design",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/"
+                          },
+                          {
+                              "title":  "Best Practices in API Design",
+                              "type":  "article",
+                              "url":  "https://swagger.io/resources/articles/best-practices-in-api-design/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "d9ZXdU73jiCdeNHQv1_DH",
+        "label":  "API Performance",
+        "endpoint":  "https://roadmap.sh/api-design/topic@d9ZXdU73jiCdeNHQv1_DH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "10 Tips for Improving API Performance",
+                              "type":  "article",
+                              "url":  "https://nordicapis.com/10-tips-for-improving-api-performance/"
+                          },
+                          {
+                              "title":  "Top 7 Ways to 10x Your API Performance",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zvWKqUiovAM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nQpczZUcn-TvrfT80dv0Q",
+        "label":  "Performance Metrics",
+        "endpoint":  "https://roadmap.sh/api-design/topic@nQpczZUcn-TvrfT80dv0Q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Performance Monitoring",
+                              "type":  "article",
+                              "url":  "https://www.catchpoint.com/api-monitoring-tools/api-performance-monitoring"
+                          },
+                          {
+                              "title":  "How does API Monitoring Improves API Performance?",
+                              "type":  "article",
+                              "url":  "https://tyk.io/blog/api-product-metrics-what-you-need-to-know/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PrvRCR4HCdGar0vcUbG_a",
+        "label":  "Caching Strategies",
+        "endpoint":  "https://roadmap.sh/api-design/topic@PrvRCR4HCdGar0vcUbG_a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Caching Strategies for APIs",
+                              "type":  "article",
+                              "url":  "https://medium.com/@satyendra.jaiswal/caching-strategies-for-apis-improving-performance-and-reducing-load-1d4bd2df2b44"
+                          },
+                          {
+                              "title":  "Using Caching Strategies to Improve API Performance",
+                              "type":  "article",
+                              "url":  "https://www.lonti.com/blog/using-caching-strategies-to-improve-api-performance"
+                          },
+                          {
+                              "title":  "Cache Systems Every Developer Should Know",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dGAgxozNWFE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "p5wsniYnOS7cbHd92RxGk",
+        "label":  "Load Balancing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@p5wsniYnOS7cbHd92RxGk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Load Balancing?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/"
+                          },
+                          {
+                              "title":  "API gateway vs. Load balancer: Do you need one or both?",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/network-engineer/api-gateway-vs-load-balancer"
+                          },
+                          {
+                              "title":  "What is a Load Balancer?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sCR3SAVdyCc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tPVtRV818D8zAAuNbqPNa",
+        "label":  "Rate Limiting / Throttling",
+        "endpoint":  "https://roadmap.sh/api-design/topic@tPVtRV818D8zAAuNbqPNa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Management 101: Rate Limiting",
+                              "type":  "article",
+                              "url":  "https://tyk.io/learning-center/api-rate-limiting/"
+                          },
+                          {
+                              "title":  "API Rate Limiting vs. Throttling",
+                              "type":  "article",
+                              "url":  "https://blog.stoplight.io/best-practices-api-rate-limiting-vs-throttling"
+                          },
+                          {
+                              "title":  "What is Rate Limiting / API Throttling? | System Design Concepts",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9CIjoWPwAhU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-qdwBg7HvwlbLy3IKCRij",
+        "label":  "Profiling and Monitoring",
+        "endpoint":  "https://roadmap.sh/api-design/topic@-qdwBg7HvwlbLy3IKCRij.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monitor Health and Performance of your APIs",
+                              "type":  "article",
+                              "url":  "https://learning.postman.com/docs/monitoring-your-api/intro-monitors/"
+                          },
+                          {
+                              "title":  "API profiling at Pintrest",
+                              "type":  "article",
+                              "url":  "https://medium.com/pinterest-engineering/api-profiling-at-pinterest-6fa9333b4961"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DQcAV59vr1-ZRnMfbLXpu",
+        "label":  "Performance Testing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@DQcAV59vr1-ZRnMfbLXpu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Performance Testing: A Step-by-Step Guide",
+                              "type":  "article",
+                              "url":  "https://testsigma.com/blog/api-performance-testing/"
+                          },
+                          {
+                              "title":  "Simulate user traffic to test your API performance",
+                              "type":  "article",
+                              "url":  "https://learning.postman.com/docs/collections/performance-testing/testing-api-performance/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R3aRhqCslwhegMfHtxg5z",
+        "label":  "API Integration Patterns",
+        "endpoint":  "https://roadmap.sh/api-design/topic@R3aRhqCslwhegMfHtxg5z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Integration Patterns - Dzone",
+                              "type":  "article",
+                              "url":  "https://dzone.com/refcardz/api-integration-patterns"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "--mmTKhG58_elbUqyn90G",
+        "label":  "Synchronous vs Asynchronous APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@--mmTKhG58_elbUqyn90G.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Asynchronous APIs — Everything You Need to Know",
+                              "type":  "article",
+                              "url":  "https://blog.hubspot.com/website/asynchronous-api"
+                          },
+                          {
+                              "title":  "The Differences Between Synchronous and Asynchronous APIs",
+                              "type":  "article",
+                              "url":  "https://nordicapis.com/the-differences-between-synchronous-and-asynchronous-apis/"
+                          },
+                          {
+                              "title":  "Understanding Asynchronous APIs",
+                              "type":  "article",
+                              "url":  "https://blog.postman.com/understanding-asynchronous-apis/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oMfOBkVsgiLvFLicOUdx6",
+        "label":  "Event Driven Architecture",
+        "endpoint":  "https://roadmap.sh/api-design/topic@oMfOBkVsgiLvFLicOUdx6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Event Driven Architecture Style",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven"
+                          },
+                          {
+                              "title":  "Event-driven Architecture",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/event-driven-architecture/"
+                          },
+                          {
+                              "title":  "Event-Driven Architecture: Explained in 7 Minutes!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gOuAqRaDdHA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MJeUD4fOHaJu1oxk4uQ-x",
+        "label":  "API Gateways",
+        "endpoint":  "https://roadmap.sh/api-design/topic@MJeUD4fOHaJu1oxk4uQ-x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What does an API Gateway do?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do"
+                          },
+                          {
+                              "title":  "API gateway vs. Load balancer: Do you need one or both?",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/network-engineer/api-gateway-vs-load-balancer"
+                          },
+                          {
+                              "title":  "What are API Gateways?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/blog/api-gateway/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PPeBbooE121zrgNwpVTiA",
+        "label":  "Microservices Architecture",
+        "endpoint":  "https://roadmap.sh/api-design/topic@PPeBbooE121zrgNwpVTiA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Microservices Architecture?",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/learn/what-is-microservices-architecture"
+                          },
+                          {
+                              "title":  "Microservice Architecture Style",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices"
+                          },
+                          {
+                              "title":  "Microservices Explained in 5 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lL_j7ilk7rc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IkPZel5zxXWIx90Qx7fZI",
+        "label":  "Messaging Queues",
+        "endpoint":  "https://roadmap.sh/api-design/topic@IkPZel5zxXWIx90Qx7fZI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a Message Queue?",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/message-queue/"
+                          },
+                          {
+                              "title":  "REST API Message Queues Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2idPgA6IN_Q"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "75NVxS0iwoQXxOHCkWQxH",
+        "label":  "Webhooks vs Polling",
+        "endpoint":  "https://roadmap.sh/api-design/topic@75NVxS0iwoQXxOHCkWQxH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Standard Webhooks - Specification and Libraries",
+                              "type":  "opensource",
+                              "url":  "https://github.com/standard-webhooks/standard-webhooks"
+                          },
+                          {
+                              "title":  "When to Use Webhooks, WebSocket, Pub/Sub, and Polling",
+                              "type":  "article",
+                              "url":  "https://hookdeck.com/webhooks/guides/when-to-use-webhooks"
+                          },
+                          {
+                              "title":  "Polling vs webhooks: when to use one over the other",
+                              "type":  "article",
+                              "url":  "https://www.merge.dev/blog/webhooks-vs-polling"
+                          },
+                          {
+                              "title":  "Best practices for using webhooks - GitHub Docs",
+                              "type":  "article",
+                              "url":  "https://docs.github.com/en/webhooks/using-webhooks/best-practices-for-using-webhooks"
+                          },
+                          {
+                              "title":  "Validating webhook deliveries - GitHub Docs",
+                              "type":  "article",
+                              "url":  "https://docs.github.com/en/webhooks/using-webhooks/validating-webhook-deliveries"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "X68HXAAV-nKo-V4Fu1o72",
+        "label":  "Batch Processing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@X68HXAAV-nKo-V4Fu1o72.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Design Guidance: Bulk vs Batch Import",
+                              "type":  "article",
+                              "url":  "https://tyk.io/blog/api-design-guidance-bulk-and-batch-import/"
+                          },
+                          {
+                              "title":  "Stream vs Batch Processing Explained with Examples",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1xgBQTF24mU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "H22jAI2W5QLL-b1rq-c56",
+        "label":  "Rabbit MQ",
+        "endpoint":  "https://roadmap.sh/api-design/topic@H22jAI2W5QLL-b1rq-c56.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RabbitMQ Website",
+                              "type":  "official",
+                              "url":  "https://www.rabbitmq.com/"
+                          },
+                          {
+                              "title":  "Intro to RabbitMQ",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bfVddTJNiAw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "boYX1QcJullypfX4sevdy",
+        "label":  "Kafka",
+        "endpoint":  "https://roadmap.sh/api-design/topic@boYX1QcJullypfX4sevdy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kafka Website",
+                              "type":  "official",
+                              "url":  "https://kafka.apache.org/"
+                          },
+                          {
+                              "title":  "apache/kafka",
+                              "type":  "opensource",
+                              "url":  "https://github.com/apache/kafka"
+                          },
+                          {
+                              "title":  "Kafka in 100 seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=uvb00oaa3k8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wpk4TvxcZOJgAoXjrOsZF",
+        "label":  "API Testing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@Wpk4TvxcZOJgAoXjrOsZF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is API Testing?",
+                              "type":  "article",
+                              "url":  "https://www.postman.com/api-platform/api-testing/"
+                          },
+                          {
+                              "title":  "API Testing : What It is, How to Test \u0026 Best Practices",
+                              "type":  "article",
+                              "url":  "https://testsigma.com/guides/api-testing/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JvmW78cDm84GNhq8VEYZp",
+        "label":  "Unit Testing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@JvmW78cDm84GNhq8VEYZp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to write unit tests for your REST API",
+                              "type":  "article",
+                              "url":  "https://medium.com/@oyetoketoby80/how-to-write-unit-test-for-your-rest-api-f8f71376273f"
+                          },
+                          {
+                              "title":  "Unit test a REST API",
+                              "type":  "article",
+                              "url":  "https://www.testim.io/blog/unit-test-rest-api/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qZELS5vw2feS7QfyD7spX",
+        "label":  "Integration Testing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@qZELS5vw2feS7QfyD7spX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to run API integration tests",
+                              "type":  "article",
+                              "url":  "https://www.merge.dev/blog/api-integration-testing"
+                          },
+                          {
+                              "title":  "Integration testing template",
+                              "type":  "article",
+                              "url":  "https://www.postman.com/templates/fe506090-ca91-4340-bea9-82d2c3d2bb9a/Integration-testing/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6lm3wy9WTAERTqXCn6pFt",
+        "label":  "Functional Testing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@6lm3wy9WTAERTqXCn6pFt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Functional Testing – Why Is It Important And How to Test",
+                              "type":  "article",
+                              "url":  "https://testsigma.com/blog/api-functional-testing/"
+                          },
+                          {
+                              "title":  "What Is API Functional Testing?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CvJHDKMWofk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7JNEx_cbqnAx3esvwZMOd",
+        "label":  "Load Testing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@7JNEx_cbqnAx3esvwZMOd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "API Load Testing - Beginners Guide",
+                              "type":  "article",
+                              "url":  "https://grafana.com/blog/2024/01/30/api-load-testing/"
+                          },
+                          {
+                              "title":  "Test Your API’s Performance by Simulating Real-world Traffic",
+                              "type":  "article",
+                              "url":  "https://blog.postman.com/postman-api-performance-testing/"
+                          },
+                          {
+                              "title":  "Load Testing API\u0027s",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=a5hWE4hMOoY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bEVCT5QGY3uw0kIfAELKh",
+        "label":  "Mocking APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@bEVCT5QGY3uw0kIfAELKh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is API Mocking? Definition, Guide, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://katalon.com/resources-center/blog/what-is-api-mocking"
+                          },
+                          {
+                              "title":  "What is API mocking (What is API Mocking? Definition, Guide, and Best Practices)",
+                              "type":  "article",
+                              "url":  "https://blog.postman.com/what-is-api-mocking/"
+                          },
+                          {
+                              "title":  "How to Mock RESTFUL APIs - The Easy way!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tJRN5WBF5Wc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NqeBglhzukVMMEF9p2CXc",
+        "label":  "Contract Testing",
+        "endpoint":  "https://roadmap.sh/api-design/topic@NqeBglhzukVMMEF9p2CXc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Complete Guide to Contract Testing",
+                              "type":  "article",
+                              "url":  "https://testsigma.com/blog/api-contract-testing/"
+                          },
+                          {
+                              "title":  "Getting Started with API Contract Testing",
+                              "type":  "article",
+                              "url":  "https://saucelabs.com/resources/blog/getting-started-with-api-contract-testing"
+                          },
+                          {
+                              "title":  "Contract Testing",
+                              "type":  "article",
+                              "url":  "https://www.postman.com/templates/42247877-8529-429d-acba-4de20c3b5b3b/Contract-testing/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XD1vDtrRQFbLyKJaD1AlA",
+        "label":  "Error Handling / Retries",
+        "endpoint":  "https://roadmap.sh/api-design/topic@XD1vDtrRQFbLyKJaD1AlA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Timeouts, retries, and backoff with jitter - AWS Builders\u0027 Library",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/"
+                          },
+                          {
+                              "title":  "Exponential Backoff and Jitter - AWS Architecture Blog",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/"
+                          },
+                          {
+                              "title":  "Retry-After header - MDN",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Retry-After"
+                          },
+                          {
+                              "title":  "How To Improve Your Backend By Adding Retries to Your API Calls",
+                              "type":  "article",
+                              "url":  "https://hackernoon.com/how-to-improve-your-backend-by-adding-retries-to-your-api-calls-83r3udx"
+                          },
+                          {
+                              "title":  "How to Make Resilient Web Applications with Retries",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Gly94hp3Eec"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JE12g5cqnwmgeTle14Vxw",
+        "label":  "Real-time APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@JE12g5cqnwmgeTle14Vxw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Realtime APIs?",
+                              "type":  "article",
+                              "url":  "https://www.pubnub.com/guides/realtime-api/"
+                          },
+                          {
+                              "title":  "What are realtime APIs and when to use them?",
+                              "type":  "article",
+                              "url":  "https://ably.com/topic/what-is-a-realtime-api"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UQ8N7gcVpRLAYXgUNHBt5",
+        "label":  "Web Sockets",
+        "endpoint":  "https://roadmap.sh/api-design/topic@UQ8N7gcVpRLAYXgUNHBt5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "WebSocket vs. HTTP: Which protocol should you use?",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/network-engineer/websocket-vs-http"
+                          },
+                          {
+                              "title":  "WebSocket vs. SSE: Full Comparison for Real-Time Apps",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/network-engineer/websocket-vs-sse"
+                          },
+                          {
+                              "title":  "The WebSocket API (WebSockets)",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
+                          },
+                          {
+                              "title":  "How Web Sockets Work",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pnj3Jbho5Ck"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iNsXTtcIHsI_i-mCfjGYn",
+        "label":  "Server Sent Events",
+        "endpoint":  "https://roadmap.sh/api-design/topic@iNsXTtcIHsI_i-mCfjGYn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using server-sent events",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events"
+                          },
+                          {
+                              "title":  "Server-Sent Events | Postman Level Up",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KrE044J8jEQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yvdfoly5WHHTq2Puss355",
+        "label":  "Standards and Compliance",
+        "endpoint":  "https://roadmap.sh/api-design/topic@yvdfoly5WHHTq2Puss355.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is API Compliance and Why is it important?",
+                              "type":  "article",
+                              "url":  "https://www.traceable.ai/blog-post/achieve-api-compliance"
+                          },
+                          {
+                              "title":  "What is API compliance? A cloud security perspective",
+                              "type":  "article",
+                              "url":  "https://www.wiz.io/academy/api-security/api-compliance"
+                          },
+                          {
+                              "title":  "REST API Standards",
+                              "type":  "article",
+                              "url":  "https://www.integrate.io/blog/rest-api-standards/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vZxdswGLHCPi5GSuXEcHJ",
+        "label":  "GDPR",
+        "endpoint":  "https://roadmap.sh/api-design/topic@vZxdswGLHCPi5GSuXEcHJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GDPR",
+                              "type":  "official",
+                              "url":  "https://gdpr-info.eu/"
+                          },
+                          {
+                              "title":  "What is GDPR Compliance in Web Application and API Security?",
+                              "type":  "article",
+                              "url":  "https://probely.com/blog/what-is-gdpr-compliance-in-web-application-and-api-security/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "At5exN7ZAx2IzY3cTCzHm",
+        "label":  "API Lifecycle Management",
+        "endpoint":  "https://roadmap.sh/api-design/topic@At5exN7ZAx2IzY3cTCzHm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is the API Lifecycle?",
+                              "type":  "article",
+                              "url":  "https://www.postman.com/api-platform/api-lifecycle/"
+                          },
+                          {
+                              "title":  "What is API Lifecycle Management?",
+                              "type":  "article",
+                              "url":  "https://swagger.io/blog/api-strategy/what-is-api-lifecycle-management/"
+                          },
+                          {
+                              "title":  "Day in the Lifecycle of an API",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VxY_cz0VQXE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "a-_iIE7UdoXzD00fD9MxN",
+        "label":  "CCPA",
+        "endpoint":  "https://roadmap.sh/api-design/topic@a-_iIE7UdoXzD00fD9MxN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "California Consumer Privacy Act (CCPA)",
+                              "type":  "official",
+                              "url":  "https://oag.ca.gov/privacy/ccpa"
+                          },
+                          {
+                              "title":  "What is the CCPA?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/privacy/what-is-the-ccpa/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "J0enF8UTVzY3H4n3pbPIF",
+        "label":  "PCI DSS",
+        "endpoint":  "https://roadmap.sh/api-design/topic@J0enF8UTVzY3H4n3pbPIF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is PCI DSS and how to comply?",
+                              "type":  "article",
+                              "url":  "https://www.itgovernance.co.uk/pci_dss"
+                          },
+                          {
+                              "title":  "Payment Card Industry Data Security Standard",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W4WwTmgZGnWmiYsB0ezml",
+        "label":  "HIPAA",
+        "endpoint":  "https://roadmap.sh/api-design/topic@W4WwTmgZGnWmiYsB0ezml.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HIPAA",
+                              "type":  "official",
+                              "url":  "https://www.hhs.gov/hipaa/index.html"
+                          },
+                          {
+                              "title":  "The 11 MOST Common HIPAA Violations",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sN-zLAqYoTo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mXCKtLUvwVJkHrpHzOecq",
+        "label":  "PII",
+        "endpoint":  "https://roadmap.sh/api-design/topic@mXCKtLUvwVJkHrpHzOecq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Personally Identifiable Information (PII): Definition, Types, and Examples",
+                              "type":  "article",
+                              "url":  "https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp"
+                          },
+                          {
+                              "title":  "What is Personally Identifiable Information?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/topics/pii"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1DrqtOwxCuFtWQXQ6ZALp",
+        "label":  "gRPC APIs",
+        "endpoint":  "https://roadmap.sh/api-design/topic@1DrqtOwxCuFtWQXQ6ZALp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "gRPC Introduction",
+                              "type":  "official",
+                              "url":  "https://grpc.io/docs/what-is-grpc/introduction/"
+                          },
+                          {
+                              "title":  "gRPC Core Concepts",
+                              "type":  "official",
+                              "url":  "https://grpc.io/docs/what-is-grpc/core-concepts/"
+                          },
+                          {
+                              "title":  "Stephane Maarek - gRPC Introduction",
+                              "type":  "video",
+                              "url":  "https://youtu.be/XRXTsQwyZSU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_BXgYUlaYfpYrryXTw5n2",
+        "label":  "DAC",
+        "endpoint":  "https://roadmap.sh/api-design/topic@_BXgYUlaYfpYrryXTw5n2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Guide to Discretionary Access Control (DAC) With Examples",
+                              "type":  "article",
+                              "url":  "https://builtin.com/articles/discretionary-access-control"
+                          },
+                          {
+                              "title":  "Discretionary Access Control (DAC)",
+                              "type":  "article",
+                              "url":  "https://www.caldersecurity.co.uk/discretionary-access-control-dac/"
+                          },
+                          {
+                              "title":  "Discretionary Access Control",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KyCamjQd0Mk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dZTe_kxIUQsc9N3w920aR",
+        "label":  "ABAC",
+        "endpoint":  "https://roadmap.sh/api-design/topic@dZTe_kxIUQsc9N3w920aR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Attribute Based Access Control?",
+                              "type":  "article",
+                              "url":  "https://www.okta.com/uk/blog/2020/09/attribute-based-access-control-abac/"
+                          },
+                          {
+                              "title":  "Attribute Based Access Control",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nJWtUyn9bljh3T-q_adJK",
+        "label":  "PBAC",
+        "endpoint":  "https://roadmap.sh/api-design/topic@nJWtUyn9bljh3T-q_adJK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Policy-Based Access Control (PBAC) – The Complete Know How for Organizations",
+                              "type":  "article",
+                              "url":  "https://heimdalsecurity.com/blog/policy-based-access-control/"
+                          },
+                          {
+                              "title":  "Policy Based Access Control (PBAC) Explained",
+                              "type":  "article",
+                              "url":  "https://www.pingidentity.com/en/resources/blog/post/policy-based-access-control.html"
+                          },
+                          {
+                              "title":  "What is PBAC? Policy Based Access Control Explainer by PlainID",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=b7Nc5LzByuc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wFsbmMi5Ey9UyDADdbdPW",
+        "label":  "RBAC",
+        "endpoint":  "https://roadmap.sh/api-design/topic@wFsbmMi5Ey9UyDADdbdPW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Role-Based Access Control",
+                              "type":  "article",
+                              "url":  "https://auth0.com/docs/manage-users/access-control/rbac"
+                          },
+                          {
+                              "title":  "What is Role-based Access Control (RBAC)?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/security/what-is-role-based-access-control"
+                          },
+                          {
+                              "title":  "Role-based Access Control (RBAC) vs. Attribute-based Access Control (ABAC)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rvZ35YW4t5k"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v8iYctF_k40ES0_hHXS9N",
+        "label":  "BFF Pattern ",
+        "endpoint":  "https://roadmap.sh/api-design/topic@v8iYctF_k40ES0_hHXS9N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Backend for Frontend",
+                              "type":  "article",
+                              "url":  "https://bff-patterns.com/"
+                          },
+                          {
+                              "title":  "\"Backends for Frontends\": what is it?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tmGnpU8xOGE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8IDks2DNFZ5nER7wK2Bu4",
+        "label":  "Resource modeling",
+        "endpoint":  "https://roadmap.sh/api-design/topic@8IDks2DNFZ5nER7wK2Bu4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Practical Guide to REST API Resource Modeling",
+                              "type":  "article",
+                              "url":  "https://www.advancedcustomfields.com/blog/rest-api-resource/"
+                          },
+                          {
+                              "title":  "Resource modelling: think before you start coding",
+                              "type":  "article",
+                              "url":  "https://medium.com/abn-amro-developer/resource-modelling-think-before-you-start-coding-a421357e9756"
+                          },
+                          {
+                              "title":  "Modeling RESTful API Resources",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=E7WSBLHEvbI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0yY_lWzWVOC_WmPoyHw8W",
+        "label":  "Naming Conventions",
+        "endpoint":  "https://roadmap.sh/api-design/topic@0yY_lWzWVOC_WmPoyHw8W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "REST API URI Naming Conventions and Best Practices",
+                              "type":  "article",
+                              "url":  "https://restfulapi.net/resource-naming/"
+                          },
+                          {
+                              "title":  "Good APIs Vs Bad APIs: 7 Tips for API Design",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_gQaygjm_hg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dL3YellfAszBeJnm8KEYE",
+        "label":  "Filtering, Sorting \u0026 Search ",
+        "endpoint":  "https://roadmap.sh/api-design/topic@dL3YellfAszBeJnm8KEYE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Implement Filtering and Sorting in REST APIs",
+                              "type":  "article",
+                              "url":  "https://oneuptime.com/blog/post/2026-01-26-rest-api-filtering-sorting/view"
+                          },
+                          {
+                              "title":  "Implement Search, Sort, Filter and Pagination Rest API With Node JS",
+                              "type":  "article",
+                              "url":  "https://www.youtube.com/watch?v=0T4GsMYnVN4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jWekRGRa1131w92oS1HeW",
+        "label":  "OIDC",
+        "endpoint":  "https://roadmap.sh/api-design/topic@jWekRGRa1131w92oS1HeW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OIDC: Simplifying Secure Authentication With OpenID Connect",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/oidc"
+                          },
+                          {
+                              "title":  "OAuth 2.0 and OpenID Connect (in plain English)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=996OiexHze0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qjawwRcMl2-IDwk8ExpPL",
+        "label":  "Scopes \u0026 Permissions",
+        "endpoint":  "https://roadmap.sh/api-design/topic@qjawwRcMl2-IDwk8ExpPL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are REST API Scopes?",
+                              "type":  "article",
+                              "url":  "https://auth0.com/blog/permissions-privileges-and-scopes/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0fSfFtskcJ0HNUZPf998l",
+        "label":  "Key Generation \u0026 Rotation",
+        "endpoint":  "https://roadmap.sh/api-design/topic@0fSfFtskcJ0HNUZPf998l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction And Lesson Overview",
+                              "type":  "article",
+                              "url":  "https://codesignal.com/learn/courses/api-key-authentication-security/lessons/api-key-generation-basics"
+                          },
+                          {
+                              "title":  "What Are API Keys, And Why Are They So Important?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sNn23dPRUS8\u0026t=103s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zeYJPEduAmLQHqq4kNBdx",
+        "label":  "Streaming Responses",
+        "endpoint":  "https://roadmap.sh/api-design/topic@zeYJPEduAmLQHqq4kNBdx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Streaming Data with REST APIs",
+                              "type":  "article",
+                              "url":  "https://apisyouwonthate.com/blog/streaming-data-with-rest-apis/"
+                          },
+                          {
+                              "title":  "https://www.youtube.com/watch?v=xTTtqwGWemw",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xTTtqwGWemw\u0026t=210s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oIZimEuBHCBGsK6b-s57f",
+        "label":  "Observability",
+        "endpoint":  "https://roadmap.sh/api-design/topic@oIZimEuBHCBGsK6b-s57f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding API Observability",
+                              "type":  "article",
+                              "url":  "https://medium.com/@shubhadeepchat/understanding-api-observability-cd0c61392dec"
+                          },
+                          {
+                              "title":  "Observability for APIs | Postman Intergalactic",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Wkng1VXQAaU\u0026list=PLM-7VG-sgbtB5XIrXIWWaLPqPpjn7IoVC"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

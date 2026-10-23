@@ -1,0 +1,3608 @@
+[
+    {
+        "id":  "_hYN0gEi9BL24nptEtXWU",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/system-design/topic@_hYN0gEi9BL24nptEtXWU.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "idLHBxhvcIqZTqmh_E8Az",
+        "label":  "What is System Design?",
+        "endpoint":  "https://roadmap.sh/system-design/topic@idLHBxhvcIqZTqmh_E8Az.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "System Design: Complete Guide with Patterns, Examples, and Techniques",
+                              "type":  "article",
+                              "url":  "https://swimm.io/learn/system-design/system-design-complete-guide-with-patterns-examples-and-techniques"
+                          },
+                          {
+                              "title":  "A comprehensive guide to system design",
+                              "type":  "article",
+                              "url":  "https://www.crio.do/blog/a-comprehensive-guide-to-system-design/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "os3Pa6W9SSNEzgmlBbglQ",
+        "label":  "How to approach System Design?",
+        "endpoint":  "https://roadmap.sh/system-design/topic@os3Pa6W9SSNEzgmlBbglQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to approach System Design?",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question"
+                          },
+                          {
+                              "title":  "What are system design questions?",
+                              "type":  "article",
+                              "url":  "https://www.hiredintech.com/system-design"
+                          },
+                          {
+                              "title":  "My System Design Template",
+                              "type":  "article",
+                              "url":  "https://leetcode.com/discuss/career/229177/My-System-Design-Template"
+                          },
+                          {
+                              "title":  "Intro to Architecture and Systems Design Interviews",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZgdS0EUmn70"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "e_15lymUjFc6VWqzPnKxG",
+        "label":  "Performance vs Scalability",
+        "endpoint":  "https://roadmap.sh/system-design/topic@e_15lymUjFc6VWqzPnKxG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scalability, Availability \u0026 Stability Patterns",
+                              "type":  "article",
+                              "url":  "https://www.slideshare.net/jboner/scalability-availability-stability-patterns/"
+                          },
+                          {
+                              "title":  "A Word on Scalability",
+                              "type":  "article",
+                              "url":  "https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html"
+                          },
+                          {
+                              "title":  "Performance vs Scalability",
+                              "type":  "article",
+                              "url":  "https://blog.professorbeekums.com/performance-vs-scalability/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O3wAHLnzrkvLWr4afHDdr",
+        "label":  "Latency vs Throughput",
+        "endpoint":  "https://roadmap.sh/system-design/topic@O3wAHLnzrkvLWr4afHDdr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "System Design: Latency vs Throughput",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/latency-vs-throughput/"
+                          },
+                          {
+                              "title":  "Understanding Latency versus Throughput",
+                              "type":  "article",
+                              "url":  "https://community.cadence.com/cadence_blogs_8/b/fv/posts/understanding-latency-vs-throughput"
+                          },
+                          {
+                              "title":  "Latency and Throughput - MIT",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=3HIV4MnLGCw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uJc27BNAuP321HQNbjftn",
+        "label":  "Availability vs Consistency",
+        "endpoint":  "https://roadmap.sh/system-design/topic@uJc27BNAuP321HQNbjftn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CAP FAQ",
+                              "type":  "opensource",
+                              "url":  "https://github.com/henryr/cap-faq"
+                          },
+                          {
+                              "title":  "CAP Theorem Revisited",
+                              "type":  "article",
+                              "url":  "https://robertgreiner.com/cap-theorem-revisited/"
+                          },
+                          {
+                              "title":  "A plain english introduction to CAP Theorem",
+                              "type":  "article",
+                              "url":  "http://ksat.me/a-plain-english-introduction-to-cap-theorem"
+                          },
+                          {
+                              "title":  "CAP Theorem",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_RbsFXWRZ10\u0026t=1s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tcGdVQsCEobdV9hgOq3eG",
+        "label":  "CAP Theorem",
+        "endpoint":  "https://roadmap.sh/system-design/topic@tcGdVQsCEobdV9hgOq3eG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CAP FAQ",
+                              "type":  "opensource",
+                              "url":  "https://github.com/henryr/cap-faq"
+                          },
+                          {
+                              "title":  "CAP theorem revisited",
+                              "type":  "article",
+                              "url":  "http://robertgreiner.com/2014/08/cap-theorem-revisited/"
+                          },
+                          {
+                              "title":  "A plain english introduction to CAP theorem",
+                              "type":  "article",
+                              "url":  "http://ksat.me/a-plain-english-introduction-to-cap-theorem"
+                          },
+                          {
+                              "title":  "The CAP theorem",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=k-Yaq8AHlFA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GHe8V-REu1loRpDnHbyUn",
+        "label":  "Consistency Patterns",
+        "endpoint":  "https://roadmap.sh/system-design/topic@GHe8V-REu1loRpDnHbyUn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Consistency Patterns in Distributed Systems",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EKD5AikZtwjtsEYRPJhQ2",
+        "label":  "Weak Consistency",
+        "endpoint":  "https://roadmap.sh/system-design/topic@EKD5AikZtwjtsEYRPJhQ2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Consistency Patterns in Distributed Systems",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rRDGVynX43inSeQ9lR_FS",
+        "label":  "Eventual Consistency",
+        "endpoint":  "https://roadmap.sh/system-design/topic@rRDGVynX43inSeQ9lR_FS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Consistency Patterns in Distributed Systems",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JjB7eB8gdRCAYf5M0RcT7",
+        "label":  "Strong Consistency",
+        "endpoint":  "https://roadmap.sh/system-design/topic@JjB7eB8gdRCAYf5M0RcT7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Consistency Patterns in Distributed Systems",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ezptoTqeaepByegxS5kHL",
+        "label":  "Availability Patterns",
+        "endpoint":  "https://roadmap.sh/system-design/topic@ezptoTqeaepByegxS5kHL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "High Availability in System Design – 15 Strategies for Always-On Systems",
+                              "type":  "article",
+                              "url":  "https://www.designgurus.io/blog/high-availability-system-design-basics"
+                          },
+                          {
+                              "title":  "System Design: Availability Patterns",
+                              "type":  "article",
+                              "url":  "https://dev.to/decoders_lord/system-design-availability-patterns-104i"
+                          },
+                          {
+                              "title":  "Design Patterns for High Availability: What gets you 99.999% uptime?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=LdvduBxZRLs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L_jRfjvMGjFbHEbozeVQl",
+        "label":  "Fail-Over",
+        "endpoint":  "https://roadmap.sh/system-design/topic@L_jRfjvMGjFbHEbozeVQl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fail Over",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#fail-over"
+                          },
+                          {
+                              "title":  "Active-Passive vs. Active-Active Failover",
+                              "type":  "article",
+                              "url":  "https://www.serverion.com/uncategorized/active-passive-vs-active-active-failover/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0RQ5jzZKdadYY0h_QZ0Bb",
+        "label":  "Replication",
+        "endpoint":  "https://roadmap.sh/system-design/topic@0RQ5jzZKdadYY0h_QZ0Bb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Replication: Availability Pattern",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#replication"
+                          },
+                          {
+                              "title":  "Database Replication Introduction: Types and Advantages",
+                              "type":  "article",
+                              "url":  "https://www.enjoyalgorithms.com/blog/introduction-to-database-replication-system-design"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uHdrZllrZFAnVkwIB3y5-",
+        "label":  "Availability in Numbers",
+        "endpoint":  "https://roadmap.sh/system-design/topic@uHdrZllrZFAnVkwIB3y5-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Availability in System Design",
+                              "type":  "article",
+                              "url":  "https://www.enjoyalgorithms.com/blog/availability-system-design-concept/"
+                          },
+                          {
+                              "title":  "Uptime calculator: How much downtime corresponds to 99.9 % uptime",
+                              "type":  "article",
+                              "url":  "https://uptime.is/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DOESIlBThd_wp2uOSd_CS",
+        "label":  "Background Jobs",
+        "endpoint":  "https://roadmap.sh/system-design/topic@DOESIlBThd_wp2uOSd_CS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Background Jobs - Best Practices",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NEsPjQifNDlZJE-2YLVl1",
+        "label":  "Event-Driven",
+        "endpoint":  "https://roadmap.sh/system-design/topic@NEsPjQifNDlZJE-2YLVl1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Background Jobs - Event Driven Triggers",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#event-driven-triggers"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zoViI4kzpKIxpU20T89K_",
+        "label":  "Schedule Driven",
+        "endpoint":  "https://roadmap.sh/system-design/topic@zoViI4kzpKIxpU20T89K_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Schedule Driven - Background Jobs",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#schedule-driven-triggers"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2gRIstNT-fTkv5GZ692gx",
+        "label":  "Returning Results",
+        "endpoint":  "https://roadmap.sh/system-design/topic@2gRIstNT-fTkv5GZ692gx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Returning Results - Background Jobs",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#returning-results"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Uk6J8JRcKVEFz4_8rLfnQ",
+        "label":  "Domain Name System",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Uk6J8JRcKVEFz4_8rLfnQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting started with Domain Name System",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#domain-name-system"
+                          },
+                          {
+                              "title":  "What is DNS?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/dns/what-is-dns/"
+                          },
+                          {
+                              "title":  "Latency Based",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-latency"
+                          },
+                          {
+                              "title":  "Weighted Round Robin",
+                              "type":  "article",
+                              "url":  "https://www.jscape.com/blog/load-balancing-algorithms"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O730v5Ww3ByAiBSs6fwyM",
+        "label":  "Content Delivery Networks",
+        "endpoint":  "https://roadmap.sh/system-design/topic@O730v5Ww3ByAiBSs6fwyM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to CDNs",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#content-delivery-network"
+                          },
+                          {
+                              "title":  "The Differences Between Push And Pull CDNs",
+                              "type":  "article",
+                              "url":  "http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/"
+                          },
+                          {
+                              "title":  "Brief about Content delivery network",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Content_delivery_network"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uIerrf_oziiLg-KEyz8WM",
+        "label":  "Push CDNs",
+        "endpoint":  "https://roadmap.sh/system-design/topic@uIerrf_oziiLg-KEyz8WM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to CDNs",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#content-delivery-network"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HkXiEMLqxJoQyAHav3ccL",
+        "label":  "Pull CDNs",
+        "endpoint":  "https://roadmap.sh/system-design/topic@HkXiEMLqxJoQyAHav3ccL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to CDNs",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#content-delivery-network"
+                          },
+                          {
+                              "title":  "The Differences Between Push And Pull CDNs",
+                              "type":  "article",
+                              "url":  "http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "14KqLKgh090Rb3MDwelWY",
+        "label":  "Load Balancers",
+        "endpoint":  "https://roadmap.sh/system-design/topic@14KqLKgh090Rb3MDwelWY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scalability",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/scalability-for-dummies"
+                          },
+                          {
+                              "title":  "NGINX Architecture",
+                              "type":  "article",
+                              "url":  "https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
+                          },
+                          {
+                              "title":  "HAProxy Architecture Guide",
+                              "type":  "article",
+                              "url":  "http://www.haproxy.org/download/1.2/doc/architecture.txt"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ocdcbhHrwjJX0KWgmsOL6",
+        "label":  "LB vs Reverse Proxy",
+        "endpoint":  "https://roadmap.sh/system-design/topic@ocdcbhHrwjJX0KWgmsOL6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Reverse Proxy vs Load Balancer",
+                              "type":  "article",
+                              "url":  "https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/"
+                          },
+                          {
+                              "title":  "NGINX Architecture",
+                              "type":  "article",
+                              "url":  "https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
+                          },
+                          {
+                              "title":  "HAProxy Architecture Guide",
+                              "type":  "article",
+                              "url":  "http://www.haproxy.org/download/1.2/doc/architecture.txt"
+                          },
+                          {
+                              "title":  "Reverse Proxy",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Reverse_proxy"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "urSjLyLTE5IIz0TFxMBWL",
+        "label":  "Load Balancing Algorithms",
+        "endpoint":  "https://roadmap.sh/system-design/topic@urSjLyLTE5IIz0TFxMBWL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Types of Load Balancing Algorithms",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/performance/types-of-load-balancing-algorithms/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "e69-JVbDj7dqV_p1j1kML",
+        "label":  "Layer 7 Load Balancing",
+        "endpoint":  "https://roadmap.sh/system-design/topic@e69-JVbDj7dqV_p1j1kML.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MpM9rT1-_LGD7YbnBjqOk",
+        "label":  "Layer 4 Load Balancing",
+        "endpoint":  "https://roadmap.sh/system-design/topic@MpM9rT1-_LGD7YbnBjqOk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Layer 4 Load Balancing",
+                              "type":  "article",
+                              "url":  "https://www.f5.com/glossary/layer-4-load-balancing"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IkUCfSWNY-02wg2WCo1c6",
+        "label":  "Horizontal Scaling",
+        "endpoint":  "https://roadmap.sh/system-design/topic@IkUCfSWNY-02wg2WCo1c6.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XXuzTrP5UNVwSpAk-tAGr",
+        "label":  "Application Layer",
+        "endpoint":  "https://roadmap.sh/system-design/topic@XXuzTrP5UNVwSpAk-tAGr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intro to architecting systems for scale",
+                              "type":  "article",
+                              "url":  "http://lethain.com/introduction-to-architecting-systems-for-scale/#platform_layer"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UKTiaHCzYXnrNw31lHriv",
+        "label":  "Microservices",
+        "endpoint":  "https://roadmap.sh/system-design/topic@UKTiaHCzYXnrNw31lHriv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Microservices",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/microservices/"
+                          },
+                          {
+                              "title":  "Microservices - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Microservices"
+                          },
+                          {
+                              "title":  "Microservices",
+                              "type":  "article",
+                              "url":  "https://martinfowler.com/articles/microservices.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Nt0HUWLOl4O77elF8Is1S",
+        "label":  "Service Discovery",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Nt0HUWLOl4O77elF8Is1S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intro to Service Discovery",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#Service-Discovery"
+                          },
+                          {
+                              "title":  "What is Service-oriented architecture?",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Service-oriented_architecture"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5FXwwRMNBhG7LT5ub6t2L",
+        "label":  "Databases",
+        "endpoint":  "https://roadmap.sh/system-design/topic@5FXwwRMNBhG7LT5ub6t2L.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scaling up to your first 10 million users",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kKjm4ehYiMs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KLnpMR2FxlQkCHZP6-tZm",
+        "label":  "SQL vs NoSQL",
+        "endpoint":  "https://roadmap.sh/system-design/topic@KLnpMR2FxlQkCHZP6-tZm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Types of NoSQL Databases: How to Choose the Right One",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/backend/types-of-nosql-databases"
+                          },
+                          {
+                              "title":  "SQL vs NoSQL: The Differences",
+                              "type":  "article",
+                              "url":  "https://www.sitepoint.com/sql-vs-nosql-differences/"
+                          },
+                          {
+                              "title":  "SQL vs. NoSQL Databases: What’s the Difference?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/blog/sql-vs-nosql/"
+                          },
+                          {
+                              "title":  "NoSQL vs. SQL Databases",
+                              "type":  "article",
+                              "url":  "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dc-aIbBwUdlwgwQKGrq49",
+        "label":  "Replication",
+        "endpoint":  "https://roadmap.sh/system-design/topic@dc-aIbBwUdlwgwQKGrq49.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FX6dcV_93zOfbZMdM_-li",
+        "label":  "Sharding",
+        "endpoint":  "https://roadmap.sh/system-design/topic@FX6dcV_93zOfbZMdM_-li.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The coming of the Shard",
+                              "type":  "article",
+                              "url":  "http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html"
+                          },
+                          {
+                              "title":  "Shard (database architecture)",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Shard_%28database_architecture%29"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DGmVRI7oWdSOeIUn_g0rI",
+        "label":  "Federation",
+        "endpoint":  "https://roadmap.sh/system-design/topic@DGmVRI7oWdSOeIUn_g0rI.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Zp9D4--DgtlAjE2nIfaO_",
+        "label":  "Denormalization",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Zp9D4--DgtlAjE2nIfaO_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Denormalization",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Denormalization"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fY8zgbB13wxZ1CFtMSdZZ",
+        "label":  "SQL Tuning",
+        "endpoint":  "https://roadmap.sh/system-design/topic@fY8zgbB13wxZ1CFtMSdZZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to SQL Tuning - Oracle",
+                              "type":  "official",
+                              "url":  "https://docs.oracle.com/en/database/oracle/oracle-database/23/tgsql/introduction-to-sql-tuning.html#GUID-B653E5F3-F078-4BBC-9516-B892960046A2"
+                          },
+                          {
+                              "title":  "Query Optimization for Mere Humans in PostgreSQL",
+                              "type":  "article",
+                              "url":  "https://towardsdatascience.com/query-optimization-for-mere-humans-in-postgresql-875ab864390a/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KFtdmmce4bRkDyvFXZzLN",
+        "label":  "Key-Value Store",
+        "endpoint":  "https://roadmap.sh/system-design/topic@KFtdmmce4bRkDyvFXZzLN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Key–value database",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Key%E2%80%93value_database"
+                          },
+                          {
+                              "title":  "What are the disadvantages of using a key/value table?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/4056093/what-are-the-disadvantages-of-using-a-key-value-table-over-nullable-columns-or"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "didEznSlVHqqlijtyOSr3",
+        "label":  "Document Store",
+        "endpoint":  "https://roadmap.sh/system-design/topic@didEznSlVHqqlijtyOSr3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Document-oriented database",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Document-oriented_database"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WHq1AdISkcgthaugE9uY7",
+        "label":  "Wide Column Store",
+        "endpoint":  "https://roadmap.sh/system-design/topic@WHq1AdISkcgthaugE9uY7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bigtable architecture",
+                              "type":  "article",
+                              "url":  "https://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6RLgnL8qLBzYkllHeaI-Z",
+        "label":  "Graph Databases",
+        "endpoint":  "https://roadmap.sh/system-design/topic@6RLgnL8qLBzYkllHeaI-Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Graph database",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Graph_database"
+                          },
+                          {
+                              "title":  "Introduction to NoSQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qI_g07C_Q5I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-X4g8kljgVBOBcf1DDzgi",
+        "label":  "Caching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@-X4g8kljgVBOBcf1DDzgi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Caching Strategies",
+                              "type":  "article",
+                              "url":  "https://medium.com/@mmoshikoo/cache-strategies-996e91c80303"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Bgqgl67FK56ioLNFivIsc",
+        "label":  "Refresh Ahead",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Bgqgl67FK56ioLNFivIsc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "From cache to in-memory data grid",
+                              "type":  "article",
+                              "url":  "http://www.slideshare.net/tmatyashovsky/from-cache-to-in-memory-data-grid-introduction-to-hazelcast"
+                          },
+                          {
+                              "title":  "Caching Strategy: Refresh Ahead Pattern",
+                              "type":  "article",
+                              "url":  "https://www.enjoyalgorithms.com/blog/refresh-ahead-caching-pattern"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vNndJ-MWetcbaF2d-3-JP",
+        "label":  "Write-behind",
+        "endpoint":  "https://roadmap.sh/system-design/topic@vNndJ-MWetcbaF2d-3-JP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scalability, availability, stability, patterns",
+                              "type":  "article",
+                              "url":  "http://www.slideshare.net/jboner/scalability-availability-stability-patterns/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RNITLR1FUQWkRbSBXTD_z",
+        "label":  "Write-through",
+        "endpoint":  "https://roadmap.sh/system-design/topic@RNITLR1FUQWkRbSBXTD_z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scalability, availability, stability, patterns",
+                              "type":  "article",
+                              "url":  "http://www.slideshare.net/jboner/scalability-availability-stability-patterns/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bffJlvoLHFldS0CluWifP",
+        "label":  "Cache Aside",
+        "endpoint":  "https://roadmap.sh/system-design/topic@bffJlvoLHFldS0CluWifP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "From cache to in-memory data grid",
+                              "type":  "article",
+                              "url":  "https://www.slideshare.net/tmatyashovsky/from-cache-to-in-memory-data-grid-introduction-to-hazelcast"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RHNRb6QWiGvCK3KQOPK3u",
+        "label":  "Client Caching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@RHNRb6QWiGvCK3KQOPK3u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HTTP Caching",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Kisvxlrjb7XnKFCOdxRtb",
+        "label":  "CDN Caching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Kisvxlrjb7XnKFCOdxRtb.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o532nPnL-d2vXJn9k6vMl",
+        "label":  "Web Server Caching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@o532nPnL-d2vXJn9k6vMl.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BeIg4jzbij2cwc_a_VpYG",
+        "label":  "Database Caching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@BeIg4jzbij2cwc_a_VpYG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Database Caching",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/caching/database-caching/"
+                          },
+                          {
+                              "title":  "Introduction to database caching",
+                              "type":  "article",
+                              "url":  "https://www.prisma.io/dataguide/managing-databases/introduction-database-caching"
+                          },
+                          {
+                              "title":  "Database Caching Strategies",
+                              "type":  "article",
+                              "url":  "https://medium.com/@sesmiat/database-caching-strategies-f5e40c3c9b74"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5Ux_JBDOkflCaIm4tVBgO",
+        "label":  "Application Caching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@5Ux_JBDOkflCaIm4tVBgO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intro to Application Caching",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#application-caching"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "84N4XY31PwXRntXX1sdCU",
+        "label":  "Asynchronism",
+        "endpoint":  "https://roadmap.sh/system-design/topic@84N4XY31PwXRntXX1sdCU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Patterns for microservices - Sync vs Async",
+                              "type":  "article",
+                              "url":  "https://medium.com/inspiredbrilliance/patterns-for-microservices-e57a2d71ff9e"
+                          },
+                          {
+                              "title":  "Applying back pressure when overloaded",
+                              "type":  "article",
+                              "url":  "http://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html"
+                          },
+                          {
+                              "title":  "Little\u0027s law",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Little%27s_law"
+                          },
+                          {
+                              "title":  "It\u0027s all a numbers game",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1KRYH75wgy4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YiYRZFE_zwPMiCZxz9FnP",
+        "label":  "Back Pressure",
+        "endpoint":  "https://roadmap.sh/system-design/topic@YiYRZFE_zwPMiCZxz9FnP.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "a9wGW_H1HpvvdYCXoS-Rf",
+        "label":  "Task Queues",
+        "endpoint":  "https://roadmap.sh/system-design/topic@a9wGW_H1HpvvdYCXoS-Rf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Celery - Distributed Task Queue",
+                              "type":  "article",
+                              "url":  "https://docs.celeryq.dev/en/stable/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "37X1_9eCmkZkz5RDudE5N",
+        "label":  "Message Queues",
+        "endpoint":  "https://roadmap.sh/system-design/topic@37X1_9eCmkZkz5RDudE5N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Redis?",
+                              "type":  "article",
+                              "url":  "https://redis.io/"
+                          },
+                          {
+                              "title":  "RabbitMQ in Message Queues",
+                              "type":  "article",
+                              "url":  "https://www.rabbitmq.com/"
+                          },
+                          {
+                              "title":  "Overview of Amazon SQS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/sqs/"
+                          },
+                          {
+                              "title":  "Apache Kafka",
+                              "type":  "article",
+                              "url":  "https://kafka.apache.org/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3pRi8M4xQXsehkdfUNtYL",
+        "label":  "Idempotent Operations",
+        "endpoint":  "https://roadmap.sh/system-design/topic@3pRi8M4xQXsehkdfUNtYL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is an idempotent operation?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/1077412/what-is-an-idempotent-operation"
+                          },
+                          {
+                              "title":  "Overview of Idempotent Operation",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/cs/idempotent-operations"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uQFzD_ryd-8Dr1ppjorYJ",
+        "label":  "Communication",
+        "endpoint":  "https://roadmap.sh/system-design/topic@uQFzD_ryd-8Dr1ppjorYJ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I_nR6EwjNXSG7_hw-_VhX",
+        "label":  "HTTP",
+        "endpoint":  "https://roadmap.sh/system-design/topic@I_nR6EwjNXSG7_hw-_VhX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Everything you need to know about HTTP",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/http-in-depth"
+                          },
+                          {
+                              "title":  "What Is HTTP?",
+                              "type":  "article",
+                              "url":  "https://www.nginx.com/resources/glossary/http/"
+                          },
+                          {
+                              "title":  "What is the difference between HTTP protocol and TCP protocol?",
+                              "type":  "article",
+                              "url":  "https://www.quora.com/What-is-the-difference-between-HTTP-protocol-and-TCP-protocol"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2nF5uC6fYKbf0RFgGNHiP",
+        "label":  "TCP",
+        "endpoint":  "https://roadmap.sh/system-design/topic@2nF5uC6fYKbf0RFgGNHiP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is TCP?",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#transmission-control-protocol-tcp"
+                          },
+                          {
+                              "title":  "What is the difference between HTTP protocol and TCP protocol?",
+                              "type":  "article",
+                              "url":  "https://www.quora.com/What-is-the-difference-between-HTTP-protocol-and-TCP-protocol"
+                          },
+                          {
+                              "title":  "Networking for game programming",
+                              "type":  "article",
+                              "url":  "https://gafferongames.com/post/udp_vs_tcp/"
+                          },
+                          {
+                              "title":  "Key differences between TCP and UDP protocols",
+                              "type":  "article",
+                              "url":  "http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LC5aTmUKNiw9RuSUt3fSE",
+        "label":  "UDP",
+        "endpoint":  "https://roadmap.sh/system-design/topic@LC5aTmUKNiw9RuSUt3fSE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Networking for game programming",
+                              "type":  "article",
+                              "url":  "https://gafferongames.com/post/udp_vs_tcp/"
+                          },
+                          {
+                              "title":  "Key differences between TCP and UDP protocols",
+                              "type":  "article",
+                              "url":  "http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/"
+                          },
+                          {
+                              "title":  "Difference between TCP and UDP",
+                              "type":  "article",
+                              "url":  "http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ixqucoAkgnphWYAFnsMe-",
+        "label":  "RPC",
+        "endpoint":  "https://roadmap.sh/system-design/topic@ixqucoAkgnphWYAFnsMe-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is RPC?",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#remote-procedure-call-rpc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6-bgmfDTAQ9zABhpmVoHV",
+        "label":  "REST",
+        "endpoint":  "https://roadmap.sh/system-design/topic@6-bgmfDTAQ9zABhpmVoHV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated API Design Roadmap Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/api-design"
+                          },
+                          {
+                              "title":  "What Is REST?",
+                              "type":  "opensource",
+                              "url":  "https://github.com/donnemartin/system-design-primer#representational-state-transfer-rest"
+                          },
+                          {
+                              "title":  "What are the drawbacks of using RESTful APIs?",
+                              "type":  "article",
+                              "url":  "https://www.quora.com/What-are-the-drawbacks-of-using-RESTful-APIs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Hw2v1rCYn24qxBhhmdc28",
+        "label":  "gRPC",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Hw2v1rCYn24qxBhhmdc28.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is gRPC?",
+                              "type":  "article",
+                              "url":  "https://www.wallarm.com/what/the-concept-of-grpc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jwv2g2Yeq-6Xv5zSd746R",
+        "label":  "GraphQL",
+        "endpoint":  "https://roadmap.sh/system-design/topic@jwv2g2Yeq-6Xv5zSd746R.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated GraphQL Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/graphql"
+                          },
+                          {
+                              "title":  "GraphQL Server",
+                              "type":  "article",
+                              "url":  "https://www.howtographql.com/basics/3-big-picture/"
+                          },
+                          {
+                              "title":  "What is GraphQL?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/api/what-is-graphql"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "p--uEm6klLx_hKxKJiXE5",
+        "label":  "Performance Antipatterns",
+        "endpoint":  "https://roadmap.sh/system-design/topic@p--uEm6klLx_hKxKJiXE5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Performance antipatterns for cloud applications",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hxiV2uF7tvhZKe4K-4fTn",
+        "label":  "Busy Database",
+        "endpoint":  "https://roadmap.sh/system-design/topic@hxiV2uF7tvhZKe4K-4fTn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Busy Database antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/busy-database/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i_2M3VloG-xTgWDWp4ngt",
+        "label":  "Busy Frontend",
+        "endpoint":  "https://roadmap.sh/system-design/topic@i_2M3VloG-xTgWDWp4ngt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Busy Front End antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/busy-front-end/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0IzQwuYi_E00bJwxDuw2B",
+        "label":  "Chatty I/O",
+        "endpoint":  "https://roadmap.sh/system-design/topic@0IzQwuYi_E00bJwxDuw2B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Chatty I/O antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/chatty-io/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6u3XmtJFWyJnyZUnJcGYb",
+        "label":  "Extraneous Fetching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@6u3XmtJFWyJnyZUnJcGYb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Extraneous Fetching antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/extraneous-fetching/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lwMs4yiUHF3nQwcvauers",
+        "label":  "Improper Instantiation",
+        "endpoint":  "https://roadmap.sh/system-design/topic@lwMs4yiUHF3nQwcvauers.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Improper Instantiation antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "p1QhCptnwzTGUXVMnz_Oz",
+        "label":  "Monolithic Persistence",
+        "endpoint":  "https://roadmap.sh/system-design/topic@p1QhCptnwzTGUXVMnz_Oz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monolithic Persistence antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/monolithic-persistence/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "klvHk1_e03Jarn5T46QNi",
+        "label":  "No Caching",
+        "endpoint":  "https://roadmap.sh/system-design/topic@klvHk1_e03Jarn5T46QNi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "No Caching antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/no-caching/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r7uQxmurvfsYtTCieHqly",
+        "label":  "Noisy Neighbor",
+        "endpoint":  "https://roadmap.sh/system-design/topic@r7uQxmurvfsYtTCieHqly.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Noisy Neighbor antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/noisy-neighbor/noisy-neighbor"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LNmAJmh2ndFtOQIpvX_ga",
+        "label":  "Retry Storm",
+        "endpoint":  "https://roadmap.sh/system-design/topic@LNmAJmh2ndFtOQIpvX_ga.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Retry Storm antipattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/retry-storm/"
+                          },
+                          {
+                              "title":  "How To Avoid Retry Storms In Distributed Systems",
+                              "type":  "article",
+                              "url":  "https://faun.pub/how-to-avoid-retry-storms-in-distributed-systems-91bf34f43c7f"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ihnmxo_bVgZABDwg1QGGk",
+        "label":  "Synchronous I/O",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Ihnmxo_bVgZABDwg1QGGk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Synchronous I/O antipattern?",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/synchronous-io/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hDFYlGFYwcwWXLmrxodFX",
+        "label":  "Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@hDFYlGFYwcwWXLmrxodFX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monitoring and Diagnostics Guidance",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hkjYvLoVt9xKDzubm0Jy3",
+        "label":  "Health Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@hkjYvLoVt9xKDzubm0Jy3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Health Monitoring of a System",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#health-monitoring"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rVrwaioGURvrqNBufF2dj",
+        "label":  "Availability Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@rVrwaioGURvrqNBufF2dj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Availability Monitoring",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#availability-monitoring"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "x1i3qWFtNNjd00-kAvFHw",
+        "label":  "Performance Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@x1i3qWFtNNjd00-kAvFHw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Performance Monitoring",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#performance-monitoring"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I_NfmDcBph8-oyFVFTknL",
+        "label":  "Security Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@I_NfmDcBph8-oyFVFTknL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security Monitoring",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#security-monitoring"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eSZq74lROh5lllLyTBK5a",
+        "label":  "Usage Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@eSZq74lROh5lllLyTBK5a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Usage Monitoring",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#usage-monitoring"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Q0fKphqmPwjTD0dhqiP6K",
+        "label":  "Instrumentation",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Q0fKphqmPwjTD0dhqiP6K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Instrumenting an application",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#instrumenting-an-application"
+                          },
+                          {
+                              "title":  "Instrumenting using Open Telemetry",
+                              "type":  "article",
+                              "url":  "https://opentelemetry.io/docs/concepts/what-is-opentelemetry"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IwMOTpsYHApdvHZOhXtIw",
+        "label":  "Visualization \u0026 Alerts",
+        "endpoint":  "https://roadmap.sh/system-design/topic@IwMOTpsYHApdvHZOhXtIw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visualize Data and Raise Alerts",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#visualizing-data-and-raising-alerts"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "THlzcZTNnPGLRiHPWT-Jv",
+        "label":  "Cloud Design Patterns",
+        "endpoint":  "https://roadmap.sh/system-design/topic@THlzcZTNnPGLRiHPWT-Jv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cloud Design Patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dsWpta3WIBvv2K9pNVPo0",
+        "label":  "Messaging",
+        "endpoint":  "https://roadmap.sh/system-design/topic@dsWpta3WIBvv2K9pNVPo0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Messaging Cloud Patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/category/messaging"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VgvUWAC6JYFyPZKBRoEqf",
+        "label":  "Sequential Convoy",
+        "endpoint":  "https://roadmap.sh/system-design/topic@VgvUWAC6JYFyPZKBRoEqf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Sequential Convoy?",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/biztalk/core/sequential-convoys"
+                          },
+                          {
+                              "title":  "Overview - Sequential Convoy pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/sequential-convoy"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uR1fU6pm7zTtdBcNgSRi4",
+        "label":  "Scheduling Agent Supervisor",
+        "endpoint":  "https://roadmap.sh/system-design/topic@uR1fU6pm7zTtdBcNgSRi4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scheduler Agent Supervisor pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LncTxPg-wx8loy55r5NmV",
+        "label":  "Queue-Based Load Leveling",
+        "endpoint":  "https://roadmap.sh/system-design/topic@LncTxPg-wx8loy55r5NmV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Queue-Based Load Leveling pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2ryzJhRDTo98gGgn9mAxR",
+        "label":  "Publisher/Subscriber",
+        "endpoint":  "https://roadmap.sh/system-design/topic@2ryzJhRDTo98gGgn9mAxR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Publisher-Subscriber pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DZcZEOi7h3u0744YhASet",
+        "label":  "Priority Queue",
+        "endpoint":  "https://roadmap.sh/system-design/topic@DZcZEOi7h3u0744YhASet.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Priority Queue pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/priority-queue"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "siXdR3TB9-4wx_qWieJ5w",
+        "label":  "Pipes and Filters",
+        "endpoint":  "https://roadmap.sh/system-design/topic@siXdR3TB9-4wx_qWieJ5w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pipes and Filters pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9Ld07KLOqP0ICtXEjngYM",
+        "label":  "Competing Consumers",
+        "endpoint":  "https://roadmap.sh/system-design/topic@9Ld07KLOqP0ICtXEjngYM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Competing Consumers pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/competing-consumers"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aCzRgUkVBvtHUeLU6p5ZH",
+        "label":  "Choreography",
+        "endpoint":  "https://roadmap.sh/system-design/topic@aCzRgUkVBvtHUeLU6p5ZH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Choreography pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/choreography"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kl4upCnnZvJSf2uII1Pa0",
+        "label":  "Claim Check",
+        "endpoint":  "https://roadmap.sh/system-design/topic@kl4upCnnZvJSf2uII1Pa0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claim Check - Cloud Design patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/claim-check"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eNFNXPsFiryVxFe4unVxk",
+        "label":  "Async Request Reply",
+        "endpoint":  "https://roadmap.sh/system-design/topic@eNFNXPsFiryVxFe4unVxk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Asynchronous Request-Reply pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W0cUCrhiwH_Nrzxw50x3L",
+        "label":  "Data Management",
+        "endpoint":  "https://roadmap.sh/system-design/topic@W0cUCrhiwH_Nrzxw50x3L.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data management patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/category/data-management"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "stZOcr8EUBOK_ZB48uToj",
+        "label":  "Valet Key",
+        "endpoint":  "https://roadmap.sh/system-design/topic@stZOcr8EUBOK_ZB48uToj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Valet Key pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/valet-key"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-lKq-LT7EPK7r3xbXLgwS",
+        "label":  "Static Content Hosting",
+        "endpoint":  "https://roadmap.sh/system-design/topic@-lKq-LT7EPK7r3xbXLgwS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Static Content Hosting pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R6YehzA3X6DDo6oGBoBAx",
+        "label":  "Sharding",
+        "endpoint":  "https://roadmap.sh/system-design/topic@R6YehzA3X6DDo6oGBoBAx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sharding pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WB7vQ4IJ0TPh2MbZvxP6V",
+        "label":  "Materialized View",
+        "endpoint":  "https://roadmap.sh/system-design/topic@WB7vQ4IJ0TPh2MbZvxP6V.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Materialized View pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/materialized-view"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AH0nVeVsfYOjcI3vZvcdz",
+        "label":  "Index Table",
+        "endpoint":  "https://roadmap.sh/system-design/topic@AH0nVeVsfYOjcI3vZvcdz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Index Table pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/index-table"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7OgRKlwFqrk3XO2z49EI1",
+        "label":  "Event Sourcing",
+        "endpoint":  "https://roadmap.sh/system-design/topic@7OgRKlwFqrk3XO2z49EI1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Event Sourcing pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing"
+                          },
+                          {
+                              "title":  "Event Sourcing Explained Using Football",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xPmQxYIi5fA\u0026list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LTD3dn05c0ruUJW0IQO7z",
+        "label":  "CQRS",
+        "endpoint":  "https://roadmap.sh/system-design/topic@LTD3dn05c0ruUJW0IQO7z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CQRS pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PK4V9OWNVi8StdA2N13X2",
+        "label":  "Cache-Aside",
+        "endpoint":  "https://roadmap.sh/system-design/topic@PK4V9OWNVi8StdA2N13X2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cache-Aside pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PtJ7-v1VCLsyaWWYHYujV",
+        "label":  "Design \u0026 Implementation",
+        "endpoint":  "https://roadmap.sh/system-design/topic@PtJ7-v1VCLsyaWWYHYujV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Design and implementation patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/category/design-implementation"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VIbXf7Jh9PbQ9L-g6pHUG",
+        "label":  "Strangler Fig",
+        "endpoint":  "https://roadmap.sh/system-design/topic@VIbXf7Jh9PbQ9L-g6pHUG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Strangler fig?",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "izPT8NfJy1JC6h3i7GJYl",
+        "label":  "Static Content Hosting",
+        "endpoint":  "https://roadmap.sh/system-design/topic@izPT8NfJy1JC6h3i7GJYl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Static Content Hosting pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AAgOGrra5Yz3_eG6tD2Fx",
+        "label":  "Sidecar",
+        "endpoint":  "https://roadmap.sh/system-design/topic@AAgOGrra5Yz3_eG6tD2Fx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sidecar pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WkoFezOXLf1H2XI9AtBtv",
+        "label":  "Pipes \u0026 Filters",
+        "endpoint":  "https://roadmap.sh/system-design/topic@WkoFezOXLf1H2XI9AtBtv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pipe and Filter Architectural Style",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "beWKUIB6Za27yhxQwEYe3",
+        "label":  "Leader Election",
+        "endpoint":  "https://roadmap.sh/system-design/topic@beWKUIB6Za27yhxQwEYe3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Leader Election Pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/leader-election"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LXH_mDlILqcyIKtMYTWqy",
+        "label":  "Gateway Routing",
+        "endpoint":  "https://roadmap.sh/system-design/topic@LXH_mDlILqcyIKtMYTWqy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway Routing pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-routing"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0SOWAA8hrLM-WsG5k66fd",
+        "label":  "Gateway Offloading",
+        "endpoint":  "https://roadmap.sh/system-design/topic@0SOWAA8hrLM-WsG5k66fd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway Offloading pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-offloading"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bANGLm_5zR9mqMd6Oox8s",
+        "label":  "Gateway Aggregation",
+        "endpoint":  "https://roadmap.sh/system-design/topic@bANGLm_5zR9mqMd6Oox8s.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway Aggregation pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BrgXwf7g2F-6Rqfjryvpj",
+        "label":  "External Config Store",
+        "endpoint":  "https://roadmap.sh/system-design/topic@BrgXwf7g2F-6Rqfjryvpj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "External Configuration Store pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ODjVoXnvJasPvCS2A5iMO",
+        "label":  "Compute Resource Consolidation",
+        "endpoint":  "https://roadmap.sh/system-design/topic@ODjVoXnvJasPvCS2A5iMO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Compute Resource Consolidation pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ivr3mh0OES5n86FI1PN4N",
+        "label":  "CQRS",
+        "endpoint":  "https://roadmap.sh/system-design/topic@ivr3mh0OES5n86FI1PN4N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CQRS pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "n4It-lr7FFtSY83DcGydX",
+        "label":  "Backends for Frontend",
+        "endpoint":  "https://roadmap.sh/system-design/topic@n4It-lr7FFtSY83DcGydX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Backends for Frontends pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4hi7LvjLcv8eR6m-uk8XQ",
+        "label":  "Anti-Corruption Layer",
+        "endpoint":  "https://roadmap.sh/system-design/topic@4hi7LvjLcv8eR6m-uk8XQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Anti-corruption Layer pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Hja4YF3JcgM6CPwB1mxmo",
+        "label":  "Ambassador",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Hja4YF3JcgM6CPwB1mxmo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ambassador pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DYkdM_L7T2GcTPAoZNnUR",
+        "label":  "Reliability Patterns",
+        "endpoint":  "https://roadmap.sh/system-design/topic@DYkdM_L7T2GcTPAoZNnUR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Reliability Patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Xzkvf4naveszLGV9b-8ih",
+        "label":  "Availability",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Xzkvf4naveszLGV9b-8ih.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Availability Patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#availability"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FPPJw-I1cw8OxKwmDh0dT",
+        "label":  "Deployment Stamps",
+        "endpoint":  "https://roadmap.sh/system-design/topic@FPPJw-I1cw8OxKwmDh0dT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Deployment Stamps pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp"
+                          },
+                          {
+                              "title":  "Deployment Stamps 101",
+                              "type":  "article",
+                              "url":  "https://blog.devgenius.io/deployment-stamps-101-7c04a6f704a2"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ml9lPDGjRAJTHkBnX51Un",
+        "label":  "Geodes",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Ml9lPDGjRAJTHkBnX51Un.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Geode pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/geodes"
+                          },
+                          {
+                              "title":  "Geode Formation, Types \u0026 Appearance | What is a Geode?",
+                              "type":  "article",
+                              "url":  "https://study.com/academy/lesson/geode-formation-types-appearance.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cNJQoMNZmxNygWAJIA8HI",
+        "label":  "Health Endpoint Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@cNJQoMNZmxNygWAJIA8HI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Health Endpoint Monitoring pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring"
+                          },
+                          {
+                              "title":  "Explaining the health endpoint monitoring pattern",
+                              "type":  "article",
+                              "url":  "https://www.oreilly.com/library/view/java-ee-8/9781788830621/5012c01e-90ca-4809-a210-d3736574f5b3.xhtml"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-M3Zd8w79sKBAY6_aJRE8",
+        "label":  "Queue-Based Load Leveling",
+        "endpoint":  "https://roadmap.sh/system-design/topic@-M3Zd8w79sKBAY6_aJRE8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Queue-Based Load Leveling pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6YVkguDOtwveyeP4Z1NL3",
+        "label":  "Throttling",
+        "endpoint":  "https://roadmap.sh/system-design/topic@6YVkguDOtwveyeP4Z1NL3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Throttling pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/throttling"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wPe7Xlwqws7tEpTAVvYjr",
+        "label":  "High Availability",
+        "endpoint":  "https://roadmap.sh/system-design/topic@wPe7Xlwqws7tEpTAVvYjr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "High availability Patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#high-availability"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ze471tPbAwlwZyU4oIzH9",
+        "label":  "Deployment Stamps",
+        "endpoint":  "https://roadmap.sh/system-design/topic@Ze471tPbAwlwZyU4oIzH9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Deployment Stamps pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp"
+                          },
+                          {
+                              "title":  "Deployment Stamps 101",
+                              "type":  "article",
+                              "url":  "https://blog.devgenius.io/deployment-stamps-101-7c04a6f704a2"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6hOSEZJZ7yezVN67h5gmS",
+        "label":  "Geodes",
+        "endpoint":  "https://roadmap.sh/system-design/topic@6hOSEZJZ7yezVN67h5gmS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Geode pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/geodes"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uK5o7NgDvr2pV0ulF0Fh9",
+        "label":  "Health Endpoint Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@uK5o7NgDvr2pV0ulF0Fh9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Health Endpoint Monitoring pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring"
+                          },
+                          {
+                              "title":  "Explaining the health endpoint monitoring pattern",
+                              "type":  "article",
+                              "url":  "https://www.oreilly.com/library/view/java-ee-8/9781788830621/5012c01e-90ca-4809-a210-d3736574f5b3.xhtml"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IR2_kgs2U9rnAJiDBmpqK",
+        "label":  "Bulkhead",
+        "endpoint":  "https://roadmap.sh/system-design/topic@IR2_kgs2U9rnAJiDBmpqK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bulkhead pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead"
+                          },
+                          {
+                              "title":  "Get started with Bulkhead",
+                              "type":  "article",
+                              "url":  "https://dzone.com/articles/resilient-microservices-pattern-bulkhead-pattern"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D1OmCoqvd3-_af3u0ciHr",
+        "label":  "Circuit Breaker",
+        "endpoint":  "https://roadmap.sh/system-design/topic@D1OmCoqvd3-_af3u0ciHr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Circuit breaker design pattern",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern"
+                          },
+                          {
+                              "title":  "Overview of Circuit Breaker",
+                              "type":  "article",
+                              "url":  "https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wlAWMjxZF6yav3ZXOScxH",
+        "label":  "Resiliency",
+        "endpoint":  "https://roadmap.sh/system-design/topic@wlAWMjxZF6yav3ZXOScxH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Resiliency Patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#resiliency"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PLn9TF9GYnPcbpTdDMQbG",
+        "label":  "Bulkhead",
+        "endpoint":  "https://roadmap.sh/system-design/topic@PLn9TF9GYnPcbpTdDMQbG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bulkhead pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead"
+                          },
+                          {
+                              "title":  "Get started with Bulkhead",
+                              "type":  "article",
+                              "url":  "https://dzone.com/articles/resilient-microservices-pattern-bulkhead-pattern"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O4zYDqvVWD7sMI27k_0Nl",
+        "label":  "Circuit Breaker",
+        "endpoint":  "https://roadmap.sh/system-design/topic@O4zYDqvVWD7sMI27k_0Nl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Circuit breaker design pattern",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern"
+                          },
+                          {
+                              "title":  "Overview of Circuit Breaker",
+                              "type":  "article",
+                              "url":  "https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MNlWNjrG8eh5OzPVlbb9t",
+        "label":  "Compensating Transaction",
+        "endpoint":  "https://roadmap.sh/system-design/topic@MNlWNjrG8eh5OzPVlbb9t.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Compensating Transaction pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction"
+                          },
+                          {
+                              "title":  "Intro to Compensation Transaction",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Compensating_transaction"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CKCNk3obx4u43rBqUj2Yf",
+        "label":  "Health Endpoint Monitoring",
+        "endpoint":  "https://roadmap.sh/system-design/topic@CKCNk3obx4u43rBqUj2Yf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Health Endpoint Monitoring pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring"
+                          },
+                          {
+                              "title":  "Explaining the health endpoint monitoring pattern",
+                              "type":  "article",
+                              "url":  "https://www.oreilly.com/library/view/java-ee-8/9781788830621/5012c01e-90ca-4809-a210-d3736574f5b3.xhtml"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AJLBFyAsEdQYF6ygO0MmQ",
+        "label":  "Leader Election",
+        "endpoint":  "https://roadmap.sh/system-design/topic@AJLBFyAsEdQYF6ygO0MmQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Leader Election Pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/leader-election"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NybkOwl1lgaglZPRJQJ_Z",
+        "label":  "Queue-Based Load Leveling",
+        "endpoint":  "https://roadmap.sh/system-design/topic@NybkOwl1lgaglZPRJQJ_Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Queue-Based Load Leveling pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xX_9VGUaOkBYFH3jPjnww",
+        "label":  "Retry ",
+        "endpoint":  "https://roadmap.sh/system-design/topic@xX_9VGUaOkBYFH3jPjnww.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Retry pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/retry"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RTEJHZ26znfBLrpQPtNvn",
+        "label":  "Scheduler Agent Supervisor",
+        "endpoint":  "https://roadmap.sh/system-design/topic@RTEJHZ26znfBLrpQPtNvn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scheduler Agent Supervisor pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZvYpE6-N5dAtRDIwqcAu6",
+        "label":  "Security",
+        "endpoint":  "https://roadmap.sh/system-design/topic@ZvYpE6-N5dAtRDIwqcAu6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security patterns",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/framework/security/security-patterns"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lHPl-kr1ArblR7bJeQEB9",
+        "label":  "Federated Identity",
+        "endpoint":  "https://roadmap.sh/system-design/topic@lHPl-kr1ArblR7bJeQEB9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Federated Identity pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/federated-identity"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DTQJu0AvgWOhMFcOYqzTD",
+        "label":  "Gatekeeper",
+        "endpoint":  "https://roadmap.sh/system-design/topic@DTQJu0AvgWOhMFcOYqzTD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gatekeeper pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/gatekeeper"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VltZgIrApHOwZ8YHvdmHB",
+        "label":  "Valet Key",
+        "endpoint":  "https://roadmap.sh/system-design/topic@VltZgIrApHOwZ8YHvdmHB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Valet Key pattern",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/valet-key"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

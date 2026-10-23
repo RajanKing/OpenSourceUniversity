@@ -1,0 +1,1960 @@
+{
+    "slug":  "claude-code",
+    "source":  "https://roadmap.sh/claude-code",
+    "title":  "Claude Code",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-10-19T16:41:45.820Z",
+    "nodes":  [
+                  {
+                      "id":  "Rqn8nM8q5RF102IWE7nJR",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  213.99999999999997,
+                                       "y":  222.53232848169847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_CWu7DCcPfg_aEReqn8Ov",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  61.99999999999997,
+                                       "y":  222.53232848169847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "A5ILhddVMxgv4fVX1Qck0",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -815.5137263200193,
+                                       "y":  465.5717114330233
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7j6WrGX0galbNSAzos-PF",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  60.66666666666663,
+                                       "y":  963.198995148365
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rTr0WRb-Ku-xjpCB5sf3F",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  212.66666666666663,
+                                       "y":  963.198995148365
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kH00aGOHaAtdMmFRSPA3R",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -515.5137263200193,
+                                       "y":  592.39670487669
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H4ZYh1V49nQ-X1RamK8tL",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -154.76302083333337,
+                                       "y":  385.56067525299113
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8T7fBX5_Hr1UB5sC4KLtc",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  356.7098434252024
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4fI7TM2Bp6v8XAFGP2K_O",
+                      "type":  "vertical",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -285.76302083333337,
+                                       "y":  -183.33333333333337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IUSgamqbfkB1SaffnTRAa",
+                      "type":  "title",
+                      "label":  "Claude Code",
+                      "position":  {
+                                       "x":  -379.98958333333337,
+                                       "y":  -88.33333333333337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SKkeuO_5B18AbxlNGeazN",
+                      "type":  "subtopic",
+                      "label":  "What is Vibe Coding?",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  47.694933890755365
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LGxnQkrbwVu9z1PFB12P3",
+                      "type":  "subtopic",
+                      "label":  "What is a Coding Agent?",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  100.69493389075537
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RqfeqVMhTSdC4w4GcsETP",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  123.66666666666663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3r-vFlVAEirxD1gaFOO4H",
+                      "type":  "subtopic",
+                      "label":  "Claude CLI",
+                      "position":  {
+                                       "x":  -816.0916936926652,
+                                       "y":  122.66666666666663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Un0jTJaFs5Pdn1DFGl61",
+                      "type":  "subtopic",
+                      "label":  "Subscription",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  288.503387125783
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "N6dDyEXIUJUA3-o1J9K_n",
+                      "type":  "subtopic",
+                      "label":  "API usage",
+                      "position":  {
+                                       "x":  148.66666666666663,
+                                       "y":  288.503387125783
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "thR8GUbuAkEL4sb4m3llJ",
+                      "type":  "topic",
+                      "label":  "Ways to use Claude",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  176.66666666666663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LBMeG3sdY6IAJ7EoZBQ_K",
+                      "type":  "label",
+                      "label":  "Understand the Basics",
+                      "position":  {
+                                       "x":  -386.76302083333337,
+                                       "y":  372.70986644898994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "T6PklJYVOrmcAgNcCFhKt",
+                      "type":  "subtopic",
+                      "label":  "CLAUDE.md",
+                      "position":  {
+                                       "x":  11.569593452498339,
+                                       "y":  410.70986644898994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iVa6piQwdPHIDkSRX8OSy",
+                      "type":  "subtopic",
+                      "label":  "Skills",
+                      "position":  {
+                                       "x":  148.56959345249834,
+                                       "y":  410.70986644898994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vB1d1mbiPJK3a1LbYZkH9",
+                      "type":  "subtopic",
+                      "label":  "Tools",
+                      "position":  {
+                                       "x":  148.56959345249834,
+                                       "y":  516.7098664489899
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "C5tCsAJQxq2d-fOrjjloB",
+                      "type":  "subtopic",
+                      "label":  "Context",
+                      "position":  {
+                                       "x":  11.569593452498339,
+                                       "y":  463.70986644898994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gcZCpCWHvIo5Ox0vVkdgV",
+                      "type":  "subtopic",
+                      "label":  "Modes",
+                      "position":  {
+                                       "x":  148.56959345249834,
+                                       "y":  463.70986644898994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RHWW3QOFWRMqlaovGOLEO",
+                      "type":  "subtopic",
+                      "label":  "Models",
+                      "position":  {
+                                       "x":  11.569593452498339,
+                                       "y":  516.7098664489899
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "29xiIXYlB0bjXKA794qap",
+                      "type":  "topic",
+                      "label":  "Using Claude Code",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  576.7098664489899
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rGtz0Nw4BgOrdm3WUmjwZ",
+                      "type":  "subtopic",
+                      "label":  "Common Usecases",
+                      "position":  {
+                                       "x":  -814.0916936926652,
+                                       "y":  365.70986644898994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FP6Lc-zqmP8yzBytuSsUc",
+                      "type":  "subtopic",
+                      "label":  "Headless mode",
+                      "position":  {
+                                       "x":  -817.3102335080276,
+                                       "y":  2321.0815756845386
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wxkAkdKFTwbNJEfwA9tGl",
+                      "type":  "subtopic",
+                      "label":  "Git Worktrees",
+                      "position":  {
+                                       "x":  -817.3102335080276,
+                                       "y":  2374.0815756845386
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SCbZprU9r8BIX4BoyjYPE",
+                      "type":  "subtopic",
+                      "label":  "Understand Claude Pricing",
+                      "position":  {
+                                       "x":  1.8845434570231845,
+                                       "y":  1820.1538747357315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "__3S2Z00hK_g_GQJxv_21",
+                      "type":  "subtopic",
+                      "label":  "Be mindful of extensions",
+                      "position":  {
+                                       "x":  1.8845434570231845,
+                                       "y":  1926.1538747357315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cdO7pKphZq1qvCeynxGKo",
+                      "type":  "subtopic",
+                      "label":  "Thinking modes \u0026 Effort",
+                      "position":  {
+                                       "x":  1.8845434570231845,
+                                       "y":  2032.1538747357315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Dam_IG339RrYZXjXq3T8_",
+                      "type":  "subtopic",
+                      "label":  "Prompt Caching",
+                      "position":  {
+                                       "x":  1.8845434570231845,
+                                       "y":  2085.1538747357317
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "type":  "topic",
+                      "label":  "Manage Context",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  1820.1538747357315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LdhFo8UrT6EBs6IE42uLx",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -814.0916936926652,
+                                       "y":  -182.33333333333337
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "qH0LPtPGcn4Lc1RhXwKVp",
+                                        "label":  "Vibe Coding Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/vibe-coding"
+                                    },
+                                    {
+                                        "id":  "lYZdNGa-RbSvjTZyyfsHK",
+                                        "label":  "AI Engineer Roadmap",
+                                        "url":  "https://roadmap.sh/ai-engineer"
+                                    },
+                                    {
+                                        "id":  "iEl2hP_MdzYqgWJV_gVVr",
+                                        "label":  "Prompt Engineering Roadmap",
+                                        "url":  "https://roadmap.sh/prompt-engineering"
+                                    },
+                                    {
+                                        "id":  "lsjRtZzxtjHQAeSZ315FT",
+                                        "label":  "AI Agents Roadmap",
+                                        "url":  "https://roadmap.sh/ai-agents"
+                                    },
+                                    {
+                                        "id":  "acMjJxR4Tq__vJw6s4cev",
+                                        "label":  "Git \u0026 Github Roadmap",
+                                        "url":  "https://roadmap.sh/git-github"
+                                    },
+                                    {
+                                        "id":  "aEA6gWIcHlAXCzjIv1yEa",
+                                        "label":  "Shell/Bash Roadmap",
+                                        "url":  "https://roadmap.sh/shell-bash"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -54.05547617969097,
+                                       "y":  -175.9492747831638
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zqZkyVgigifcRS1H7F_b",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  -41.55547617969097,
+                                       "y":  -91.94927478316379
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "QaWH-1EplhGtLCrM_rwUE",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -286.288697897891,
+                                       "y":  2712.949606526456
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O5dely89N5UCMBeUfh8ud",
+                      "type":  "paragraph",
+                      "label":  "Visit the following roadmaps to keep learning",
+                      "position":  {
+                                       "x":  -697.288697897891,
+                                       "y":  2584.949606526456
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l6Ye-FrGU9VKnrDLUMBkh",
+                      "type":  "button",
+                      "label":  "AI Agents",
+                      "position":  {
+                                       "x":  -477.01372632001926,
+                                       "y":  2644.2683576898216
+                                   },
+                      "href":  "https://roadmap.sh/ai-agents",
+                      "links":  null
+                  },
+                  {
+                      "id":  "HfoXNLtpPamsiy8mq98rT",
+                      "type":  "button",
+                      "label":  "AI Engineer",
+                      "position":  {
+                                       "x":  -273.01372632001926,
+                                       "y":  2644.2683576898216
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZU36zvbYT-R3anWJVIqAq",
+                      "type":  "button",
+                      "label":  "Prompt Engineering",
+                      "position":  {
+                                       "x":  -69.01372632001926,
+                                       "y":  2644.2683576898216
+                                   },
+                      "href":  "https://roadmap.sh/prompt-engineering",
+                      "links":  null
+                  },
+                  {
+                      "id":  "sCI4gofDwHOHVyVZnLVVP",
+                      "type":  "label",
+                      "label":  "Understand the Differences",
+                      "position":  {
+                                       "x":  31.94452382030903,
+                                       "y":  366.16666666666663
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "TWN08Vx7aBK-mvOSQuFfu",
+                      "type":  "subtopic",
+                      "label":  "Opus",
+                      "position":  {
+                                       "x":  12.138796094764757,
+                                       "y":  737.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nDodLa7_UEeOmx6iM0Xp5",
+                      "type":  "subtopic",
+                      "label":  "Sonnet",
+                      "position":  {
+                                       "x":  99.66666666666663,
+                                       "y":  737.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y_euG-Rzj-OmCZhvMXegc",
+                      "type":  "subtopic",
+                      "label":  "Haiku",
+                      "position":  {
+                                       "x":  193.66666666666663,
+                                       "y":  737.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lcnfnGocMZIWDQqrmdCWL",
+                      "type":  "subtopic",
+                      "label":  "claude",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  838.8857526540096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zSpldCAVxYoRpHDIR2oVa",
+                      "type":  "subtopic",
+                      "label":  "claude \"query\"",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  891.8857526540096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2PKH3Ru9XgCz1MO75pDVr",
+                      "type":  "subtopic",
+                      "label":  "claude -p",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  944.8857526540096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XlCA3rx2C7wx_EcTYtr9_",
+                      "type":  "subtopic",
+                      "label":  "claude -c",
+                      "position":  {
+                                       "x":  -663.5137263200193,
+                                       "y":  944.8857526540096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zUxO8udwPhYK6J_3wAs2Z",
+                      "type":  "subtopic",
+                      "label":  "claude -r",
+                      "position":  {
+                                       "x":  -663.0916936926652,
+                                       "y":  838.8857526540096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "I4i_fKzuBy5pTC0JXyEl-",
+                      "type":  "subtopic",
+                      "label":  "/help",
+                      "position":  {
+                                       "x":  -800.4948989173901,
+                                       "y":  1107.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "N4YM2lqDcic5AiYgv0eRZ",
+                      "type":  "subtopic",
+                      "label":  "/clear",
+                      "position":  {
+                                       "x":  -800.4948989173901,
+                                       "y":  1160.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MjZUaSJLSU5nDMgDJaWUh",
+                      "type":  "subtopic",
+                      "label":  "/exit",
+                      "position":  {
+                                       "x":  -800.4948989173901,
+                                       "y":  1213.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PS0GH8e9sW9N4s3UeHhjH",
+                      "type":  "subtopic",
+                      "label":  "/status",
+                      "position":  {
+                                       "x":  -800.4948989173901,
+                                       "y":  1266.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CPJulmusiWq3JQ6MmEJ0I",
+                      "type":  "subtopic",
+                      "label":  "/usage",
+                      "position":  {
+                                       "x":  -663.4948989173901,
+                                       "y":  1107.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vw9cc6_33nHnNPNyhLo_d",
+                      "type":  "subtopic",
+                      "label":  "/cost",
+                      "position":  {
+                                       "x":  -663.4948989173901,
+                                       "y":  1160.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eLlCNxa6bqQW0JsHxIdOa",
+                      "type":  "subtopic",
+                      "label":  "/export",
+                      "position":  {
+                                       "x":  -663.4948989173901,
+                                       "y":  1213.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-K5K7yT97VRC7u0IOzJyT",
+                      "type":  "subtopic",
+                      "label":  "/rewind",
+                      "position":  {
+                                       "x":  -663.4948989173901,
+                                       "y":  1266.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6UHAXR4praMqGiEUgWAt8",
+                      "type":  "subtopic",
+                      "label":  "/context",
+                      "position":  {
+                                       "x":  -798.9372265642626,
+                                       "y":  1436.6248876787147
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "65s0P7d39fFR2yhy4JKEZ",
+                      "type":  "subtopic",
+                      "label":  "/compact",
+                      "position":  {
+                                       "x":  -661.9372265642626,
+                                       "y":  1436.6248876787147
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l7ECu0Q5bW9_OgVH7Ih4S",
+                      "type":  "subtopic",
+                      "label":  "/memory",
+                      "position":  {
+                                       "x":  -661.9372265642626,
+                                       "y":  1489.6248876787147
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oucDNnTIc8gv3dlEibDB2",
+                      "type":  "subtopic",
+                      "label":  "/init",
+                      "position":  {
+                                       "x":  -798.9372265642626,
+                                       "y":  1489.6248876787147
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UOSXh1o8bRY8Wcm6uYIgR",
+                      "type":  "subtopic",
+                      "label":  "/config",
+                      "position":  {
+                                       "x":  -798.173957682717,
+                                       "y":  1593.6832564925055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8rKpgtmO92EUFAKlWVuO5",
+                      "type":  "subtopic",
+                      "label":  "/permissions",
+                      "position":  {
+                                       "x":  -661.173957682717,
+                                       "y":  1593.6832564925055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NMBBRdBWwCphjwQuFAp9W",
+                      "type":  "subtopic",
+                      "label":  "/model",
+                      "position":  {
+                                       "x":  -798.173957682717,
+                                       "y":  1646.6832564925055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IzHlnmGAqG1lpwuX1Oh4p",
+                      "type":  "subtopic",
+                      "label":  "/doctor",
+                      "position":  {
+                                       "x":  -663.5137263200193,
+                                       "y":  1319.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FgQXBQ6oJ5sfW_ar0u6ez",
+                      "type":  "subtopic",
+                      "label":  "claude --add-dir",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  997.8857526540096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cMGYb_X1UK8sWI6brFj9S",
+                      "type":  "subtopic",
+                      "label":  "SessionStart",
+                      "position":  {
+                                       "x":  -798.173957682717,
+                                       "y":  1802.5609933686462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "x5U0F5WWAqnNCC8f-qjr7",
+                      "type":  "subtopic",
+                      "label":  "SessionEnd",
+                      "position":  {
+                                       "x":  -661.173957682717,
+                                       "y":  1802.5609933686462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FWf5hyCRo9UQ2QPalLVYn",
+                      "type":  "subtopic",
+                      "label":  "PreToolUse",
+                      "position":  {
+                                       "x":  -798.173957682717,
+                                       "y":  1855.5609933686465
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TBrr5EscwLZu7cOJoWbPy",
+                      "type":  "subtopic",
+                      "label":  "PostToolUse",
+                      "position":  {
+                                       "x":  -661.173957682717,
+                                       "y":  1855.5609933686465
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zrqdx4Z8uAS5yhI65Xh6z",
+                      "type":  "subtopic",
+                      "label":  "UserPromptSubmit",
+                      "position":  {
+                                       "x":  -798.173957682717,
+                                       "y":  1908.5609933686465
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v-gjhrW3oVZTe3EpUCjhY",
+                      "type":  "subtopic",
+                      "label":  "Stop",
+                      "position":  {
+                                       "x":  -624.173957682717,
+                                       "y":  1908.5609933686465
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PYjuzInrTOWebl-OyYfMa",
+                      "type":  "subtopic",
+                      "label":  "!",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  729.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "N6z45nuFeUqRB2f-8b_Ku",
+                      "type":  "subtopic",
+                      "label":  "\\",
+                      "position":  {
+                                       "x":  -709.5137263200193,
+                                       "y":  729.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "La3uarrUxC5oTszf4oaWr",
+                      "type":  "subtopic",
+                      "label":  "@",
+                      "position":  {
+                                       "x":  -618.5137263200193,
+                                       "y":  729.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gpg2cfEUUKI5J9FMxn5QD",
+                      "type":  "subtopic",
+                      "label":  "Shift+Tab",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  623.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JeotqE91kV1n-YRoXN9gX",
+                      "type":  "subtopic",
+                      "label":  "Slash Commands (/)",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  676.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QGRSySgyC8AERo0Vgq76X",
+                      "type":  "label",
+                      "label":  "Command Cheatsheet",
+                      "position":  {
+                                       "x":  -760.0137263200193,
+                                       "y":  479.1312731289206
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "1gQcbBEUoNO8U6bE-wEZP",
+                      "type":  "label",
+                      "label":  "Shortcuts \u0026 Prefixes",
+                      "position":  {
+                                       "x":  -750.5137263200193,
+                                       "y":  779.240434851066
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "dD0TlpfC4GzYWINplekKw",
+                      "type":  "subtopic",
+                      "label":  "Ctrl+C",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  517.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2pu6b0Z5BQAz44Hx69Pzk",
+                      "type":  "subtopic",
+                      "label":  "Esc",
+                      "position":  {
+                                       "x":  -800.5137263200193,
+                                       "y":  570.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R7YJyNd0taUVJvXDPHBn5",
+                      "type":  "subtopic",
+                      "label":  "Ctrl+R",
+                      "position":  {
+                                       "x":  -663.5137263200193,
+                                       "y":  517.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8xqKBvdDfTLeZXeGeqQZr",
+                      "type":  "subtopic",
+                      "label":  "Esc + Esc",
+                      "position":  {
+                                       "x":  -663.5137263200193,
+                                       "y":  570.1312731289206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "egjBTPFbDwBTE1_twG8zM",
+                      "type":  "label",
+                      "label":  "claude Commands",
+                      "position":  {
+                                       "x":  -745.0137263200193,
+                                       "y":  1051.7090800368437
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "dXT7DZQW3DyA4VQjiEemb",
+                      "type":  "label",
+                      "label":  "Session Commands",
+                      "position":  {
+                                       "x":  -749.5137263200193,
+                                       "y":  1391.7090800368437
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yDGvlRu3ONNhIs_WAIEgG",
+                      "type":  "label",
+                      "label":  "Context \u0026 Memory",
+                      "position":  {
+                                       "x":  -745.0137263200193,
+                                       "y":  1540.844156819436
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "uyqx658gq2SbyvCeiA6jk",
+                      "type":  "label",
+                      "label":  "Configuration",
+                      "position":  {
+                                       "x":  -725.0137263200193,
+                                       "y":  1748.9590800368442
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "sx2GRmZbQEYxeb05HpHQH",
+                      "type":  "subtopic",
+                      "label":  "/agents",
+                      "position":  {
+                                       "x":  -661.173957682717,
+                                       "y":  1646.6832564925055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3ZYaw7kTiErPiLVwMf3J8",
+                      "type":  "subtopic",
+                      "label":  "/plan",
+                      "position":  {
+                                       "x":  -800.4948989173901,
+                                       "y":  1319.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UVg51OJHuhJsn_G01PW1L",
+                      "type":  "label",
+                      "label":  "Hooks",
+                      "position":  {
+                                       "x":  -697.5137263200193,
+                                       "y":  1956.8441568194362
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Lyl4h5cvdY1YVpzBo_LEB",
+                      "type":  "subtopic",
+                      "label":  "/mcp",
+                      "position":  {
+                                       "x":  -661.173957682717,
+                                       "y":  1699.6832564925055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OTpU2G6mnbkFhthKAkxlM",
+                      "type":  "subtopic",
+                      "label":  "/hooks",
+                      "position":  {
+                                       "x":  -798.173957682717,
+                                       "y":  1699.6832564925055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rIG8F-Rc-fMeXZ5n0UTwi",
+                      "type":  "subtopic",
+                      "label":  "Desktop App",
+                      "position":  {
+                                       "x":  -664.0916936926652,
+                                       "y":  122.66666666666663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TCWd5vobMAhP7I97Q1rTq",
+                      "type":  "topic",
+                      "label":  "CLAUDE.md",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  1153.793995264715
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OJIfG7DRO4jgQEcberkNx",
+                      "type":  "topic",
+                      "label":  "Skills",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  1318.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EsbasCHDQOBZcBfHIrTbE",
+                      "type":  "topic",
+                      "label":  " Subagents",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  1444.2826155187759
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "svhWAC463Y9CUkFb524Fd",
+                      "type":  "topic",
+                      "label":  "Usage Best Practices",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  1005.5598344337459
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "801KNtjf61FTiLS1yrDSB",
+                      "type":  "topic",
+                      "label":  "Hooks",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  1597.312747186144
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_iAIq8mwW0cIGbvrfmSJ5",
+                      "type":  "topic",
+                      "label":  "Claude Workflow",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  818.3736104913103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y8VCGx-h97udP-dRzsSAI",
+                      "type":  "subtopic",
+                      "label":  "Permission Modes",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  818.3736104913103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0HKJlqhoSCMNKf1lRIEy1",
+                      "type":  "subtopic",
+                      "label":  "Resume",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  1024.084950031563
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rlj-GMcqgdKM5_7rs7yz9",
+                      "type":  "subtopic",
+                      "label":  "Manage Sessions",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  925.4709617774133
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cW0a112UVj2M3wBDA8UDj",
+                      "type":  "subtopic",
+                      "label":  "Rewind",
+                      "position":  {
+                                       "x":  148.66666666666663,
+                                       "y":  1024.084950031563
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7ZD0nOke-7vqaibxBx24Y",
+                      "type":  "subtopic",
+                      "label":  "How to Structure",
+                      "position":  {
+                                       "x":  0.9445238203090298,
+                                       "y":  1125.793995264715
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ho_DTKqMZnx_nlxjWfrW2",
+                      "type":  "subtopic",
+                      "label":  "Locations",
+                      "position":  {
+                                       "x":  0.9445238203090298,
+                                       "y":  1178.793995264715
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6WsAQV_e_2XJKl2KlN2dl",
+                      "type":  "subtopic",
+                      "label":  "Creating Skills",
+                      "position":  {
+                                       "x":  0.9445238203090298,
+                                       "y":  1288.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5uIBv9rk7Wzc_bXny0B27",
+                      "type":  "subtopic",
+                      "label":  "Skill Best Practices",
+                      "position":  {
+                                       "x":  0.9445238203090298,
+                                       "y":  1341.7722781570612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HnrD1-Wc39ZRH5R6bptqX",
+                      "type":  "subtopic",
+                      "label":  "Creating Subagents",
+                      "position":  {
+                                       "x":  0.9445238203090298,
+                                       "y":  1444.2826155187759
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Dutj1C19nrbonQ7OpqBnv",
+                      "type":  "subtopic",
+                      "label":  "Plan Mode",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  872.5081560525098
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gwsh4g1SxI2hJcS84p9it",
+                      "type":  "subtopic",
+                      "label":  "Hook Inputs \u0026 Outputs",
+                      "position":  {
+                                       "x":  1.7723870178050873,
+                                       "y":  1650.312747186144
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uC2PkMsCK-vaBo5Ygha2P",
+                      "type":  "subtopic",
+                      "label":  "Hook Types",
+                      "position":  {
+                                       "x":  1.7723870178050873,
+                                       "y":  1597.312747186144
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nq8aLrgh7qNQnwZbS7d9Z",
+                      "type":  "subtopic",
+                      "label":  "Hook Events \u0026 Matchers",
+                      "position":  {
+                                       "x":  1.7723870178050873,
+                                       "y":  1544.312747186144
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fI90DtG5CoZbDyJUqLGoy",
+                      "type":  "subtopic",
+                      "label":  "Agent Team",
+                      "position":  {
+                                       "x":  -817.3102335080276,
+                                       "y":  2427.0815756845386
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i3K2_8VcOGGSPdj1Jb4Im",
+                      "type":  "topic",
+                      "label":  "Output Styles",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  2321.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xEu9-kBz5SbM3Mrrwu446",
+                      "type":  "topic",
+                      "label":  "Customize Status Line",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  2109.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Tq83zphFUA1J8spMEyN8H",
+                      "type":  "topic",
+                      "label":  "Model Configuration",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  2268.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ip2bq52qRah-7db6dORO8",
+                      "type":  "topic",
+                      "label":  "Scaling Claude",
+                      "position":  {
+                                       "x":  -403.288697897891,
+                                       "y":  2427.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YjRDJcSK_h82DooDWY2k4",
+                      "type":  "subtopic",
+                      "label":  "Use /compact and /clear",
+                      "position":  {
+                                       "x":  1.8845434570231845,
+                                       "y":  1873.1538747357315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-P9o-aiDM7CDtLimppkjM",
+                      "type":  "subtopic",
+                      "label":  "Use subagents and hooks",
+                      "position":  {
+                                       "x":  1.8845434570231845,
+                                       "y":  1979.1538747357315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WVrC8-nf8xn1jckCHO3h4",
+                      "type":  "topic",
+                      "label":  "Security Best Practices",
+                      "position":  {
+                                       "x":  -403.288697897891,
+                                       "y":  2480.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OBtJvLaEV3giUhvGFofKv",
+                      "type":  "topic",
+                      "label":  "Connecting Tools with MCP",
+                      "position":  {
+                                       "x":  -403.288697897891,
+                                       "y":  2162.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oV7YG_TnJ4ZyVVjqRwPkR",
+                      "type":  "topic",
+                      "label":  "Plugins",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  2374.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_NcZhE2ZuKl1Lrtvr6X2G",
+                      "type":  "label",
+                      "label":  "Advanced Claude Code",
+                      "position":  {
+                                       "x":  -390.26302083333337,
+                                       "y":  1961.3433895840396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qg6ZTF0LCz5zo5G1a3BEf",
+                      "type":  "subtopic",
+                      "label":  " Code Intelligence",
+                      "position":  {
+                                       "x":  1.8845434570231987,
+                                       "y":  2374.375278186682
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aHi-EWuBbn1xvK5osHOUM",
+                      "type":  "subtopic",
+                      "label":  "Opusplan",
+                      "position":  {
+                                       "x":  1.8845434570231987,
+                                       "y":  2268.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XApGUujmnvp2VYUyEj1Kc",
+                      "type":  "subtopic",
+                      "label":  "Setting up Claude",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  206.69493389075535
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ONhEanq8I2RE-Jc_YY3Wa",
+                      "type":  "subtopic",
+                      "label":  "Editor Extensions",
+                      "position":  {
+                                       "x":  -816.0916936926652,
+                                       "y":  175.66666666666663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e12uqC2SEzaMfmBbz7VZf",
+                      "type":  "subtopic",
+                      "label":  "Community Tools",
+                      "position":  {
+                                       "x":  -817.3102335080276,
+                                       "y":  286.66666666666663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8Nd9CdGb1_Jl4YLBvew4z",
+                      "type":  "subtopic",
+                      "label":  "MCP",
+                      "position":  {
+                                       "x":  11.569593452498339,
+                                       "y":  570.7098664489899
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wd9T37TIM_1JU4o_2Fb0h",
+                      "type":  "subtopic",
+                      "label":  "Plugins",
+                      "position":  {
+                                       "x":  148.56959345249834,
+                                       "y":  570.7098664489899
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uOowDiCXVKyMFrZO1pnXv",
+                      "type":  "subtopic",
+                      "label":  "What is Agentic Loop?",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  153.69493389075535
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qPH0w52-8MvzZdFdsNMap",
+                      "type":  "subtopic",
+                      "label":  "Hooks",
+                      "position":  {
+                                       "x":  11.569593452498339,
+                                       "y":  625.0606752529911
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wFxYfNu7LtzV72a224WTZ",
+                      "type":  "subtopic",
+                      "label":  "Subagents",
+                      "position":  {
+                                       "x":  148.56959345249834,
+                                       "y":  625.0606752529911
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RRRkkcO3jQMyjfZyBD_aW",
+                      "type":  "label",
+                      "label":  "When to use what model?",
+                      "position":  {
+                                       "x":  35.94452382030903,
+                                       "y":  690.1312731289206
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "XTCzwoZSkSlLYsQnElxJU",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -515.0916936926652,
+                                       "y":  383.70986644898994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U22jPxfQWbu7-54OcsqkV",
+                      "type":  "subtopic",
+                      "label":  "Skills for MCP",
+                      "position":  {
+                                       "x":  -817.3102335080276,
+                                       "y":  2137.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cyCi36GIPZkvXKc6hxDN1",
+                      "type":  "button",
+                      "label":  "Vibe Coding",
+                      "position":  {
+                                       "x":  -681.0137263200193,
+                                       "y":  2644.2683576898216
+                                   },
+                      "href":  "https://roadmap.sh/vibe-coding",
+                      "links":  null
+                  },
+                  {
+                      "id":  "I4NecfeYb7fo1JJiFB6oj",
+                      "type":  "button",
+                      "label":  "Vibe Coding Roadmap",
+                      "position":  {
+                                       "x":  -3.3333333333333712,
+                                       "y":  -5.305066109244638
+                                   },
+                      "href":  "https://roadmap.sh/vibe-coding",
+                      "links":  null
+                  },
+                  {
+                      "id":  "KgXvbrUuYyiBn52QCRoLl",
+                      "type":  "subtopic",
+                      "label":  "Claude Code Security",
+                      "position":  {
+                                       "x":  1.8845434570231987,
+                                       "y":  2480.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wLaM_NHs7-ANFhtjYiY-F",
+                      "type":  "subtopic",
+                      "label":  "Mobile (Channels)",
+                      "position":  {
+                                       "x":  -815.5137263200193,
+                                       "y":  228.66666666666663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GhJI9_4w3RM0_BfWNXbim",
+                      "type":  "subtopic",
+                      "label":  "Channels",
+                      "position":  {
+                                       "x":  -817.3102335080276,
+                                       "y":  2190.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DDEgVgkdu8PR4x8pHfD5Y",
+                      "type":  "topic",
+                      "label":  "Scheduling Jobs",
+                      "position":  {
+                                       "x":  -403.288697897891,
+                                       "y":  2215.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q26hZANRABWXI8bzE0ai2",
+                      "type":  "subtopic",
+                      "label":  "Tunnels",
+                      "position":  {
+                                       "x":  -665.3102335080276,
+                                       "y":  2190.794331829557
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pIJ4J0QpqrnXxAX-ceZlJ",
+                      "type":  "topic",
+                      "label":  "Loops",
+                      "position":  {
+                                       "x":  -402.76302083333337,
+                                       "y":  1716.8692555288985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "ySKlXkr-YavZA2SDk6s4V",
+                      "source":  "IUSgamqbfkB1SaffnTRAa",
+                      "target":  "RqfeqVMhTSdC4w4GcsETP",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "NCtZIaeM2qdSpzS1U3H0x",
+                      "source":  "RqfeqVMhTSdC4w4GcsETP",
+                      "target":  "SKkeuO_5B18AbxlNGeazN",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "ynAPBlsGt48E5Rki4C9VN",
+                      "source":  "RqfeqVMhTSdC4w4GcsETP",
+                      "target":  "LGxnQkrbwVu9z1PFB12P3",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge___iAIq8mwW0cIGbvrfmSJ5z2-rlj-GMcqgdKM5_7rs7yz9y1",
+                      "source":  "_iAIq8mwW0cIGbvrfmSJ5",
+                      "target":  "rlj-GMcqgdKM5_7rs7yz9",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge___iAIq8mwW0cIGbvrfmSJ5z2-WrF_VXpHnTGEcZKefAj78y1",
+                      "source":  "_iAIq8mwW0cIGbvrfmSJ5",
+                      "target":  "y8VCGx-h97udP-dRzsSAI",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "9VIXnQz8plzyfMHzw6cJ6",
+                      "source":  "TCWd5vobMAhP7I97Q1rTq",
+                      "target":  "7ZD0nOke-7vqaibxBx24Y",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "ce5wy9HvRSLVi4M0Vv-Y7",
+                      "source":  "TCWd5vobMAhP7I97Q1rTq",
+                      "target":  "Ho_DTKqMZnx_nlxjWfrW2",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge___iAIq8mwW0cIGbvrfmSJ5x2-TCWd5vobMAhP7I97Q1rTqw2",
+                      "source":  "_iAIq8mwW0cIGbvrfmSJ5",
+                      "target":  "TCWd5vobMAhP7I97Q1rTq",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__TCWd5vobMAhP7I97Q1rTqx2-OJIfG7DRO4jgQEcberkNxw2",
+                      "source":  "TCWd5vobMAhP7I97Q1rTq",
+                      "target":  "OJIfG7DRO4jgQEcberkNx",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge___odkqXL_2hCw1hBJBnhIcy2-OJIfG7DRO4jgQEcberkNxz1",
+                      "source":  "6WsAQV_e_2XJKl2KlN2dl",
+                      "target":  "OJIfG7DRO4jgQEcberkNx",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__63rqF2IGka8qYS0OjFBp-y2-OJIfG7DRO4jgQEcberkNxz1",
+                      "source":  "5uIBv9rk7Wzc_bXny0B27",
+                      "target":  "OJIfG7DRO4jgQEcberkNx",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__OJIfG7DRO4jgQEcberkNxx2-EsbasCHDQOBZcBfHIrTbEw1",
+                      "source":  "OJIfG7DRO4jgQEcberkNx",
+                      "target":  "EsbasCHDQOBZcBfHIrTbE",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__EsbasCHDQOBZcBfHIrTbEz2-nq8aLrgh7qNQnwZbS7d9Zy1",
+                      "source":  "EsbasCHDQOBZcBfHIrTbE",
+                      "target":  "HnrD1-Wc39ZRH5R6bptqX",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__EsbasCHDQOBZcBfHIrTbEx2-dlJUmZc4DqWLrg4c2cbe7w2",
+                      "source":  "EsbasCHDQOBZcBfHIrTbE",
+                      "target":  "801KNtjf61FTiLS1yrDSB",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__nq8aLrgh7qNQnwZbS7d9Zy2-801KNtjf61FTiLS1yrDSBz1",
+                      "source":  "uC2PkMsCK-vaBo5Ygha2P",
+                      "target":  "801KNtjf61FTiLS1yrDSB",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__801KNtjf61FTiLS1yrDSBz2-nq8aLrgh7qNQnwZbS7d9Zy1",
+                      "source":  "801KNtjf61FTiLS1yrDSB",
+                      "target":  "nq8aLrgh7qNQnwZbS7d9Z",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__801KNtjf61FTiLS1yrDSBz2-Gwsh4g1SxI2hJcS84p9ity2",
+                      "source":  "801KNtjf61FTiLS1yrDSB",
+                      "target":  "Gwsh4g1SxI2hJcS84p9it",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__ip2bq52qRah-7db6dORO8y2-FP6Lc-zqmP8yzBytuSsUcz1",
+                      "source":  "ip2bq52qRah-7db6dORO8",
+                      "target":  "FP6Lc-zqmP8yzBytuSsUc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ip2bq52qRah-7db6dORO8y2-wxkAkdKFTwbNJEfwA9tGlz1",
+                      "source":  "ip2bq52qRah-7db6dORO8",
+                      "target":  "wxkAkdKFTwbNJEfwA9tGl",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ip2bq52qRah-7db6dORO8y2-fI90DtG5CoZbDyJUqLGoyz1",
+                      "source":  "ip2bq52qRah-7db6dORO8",
+                      "target":  "fI90DtG5CoZbDyJUqLGoy",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge___iAIq8mwW0cIGbvrfmSJ5z2-Dutj1C19nrbonQ7OpqBnvy1",
+                      "source":  "_iAIq8mwW0cIGbvrfmSJ5",
+                      "target":  "Dutj1C19nrbonQ7OpqBnv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__RqfeqVMhTSdC4w4GcsETPz2-e12uqC2SEzaMfmBbz7VZfy1",
+                      "source":  "RqfeqVMhTSdC4w4GcsETP",
+                      "target":  "XApGUujmnvp2VYUyEj1Kc",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__RqfeqVMhTSdC4w4GcsETPz2-uOowDiCXVKyMFrZO1pnXvy1",
+                      "source":  "RqfeqVMhTSdC4w4GcsETP",
+                      "target":  "uOowDiCXVKyMFrZO1pnXv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__thR8GUbuAkEL4sb4m3llJx2-LBMeG3sdY6IAJ7EoZBQ_Kw1",
+                      "source":  "thR8GUbuAkEL4sb4m3llJ",
+                      "target":  "LBMeG3sdY6IAJ7EoZBQ_K",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge___iAIq8mwW0cIGbvrfmSJ5w2-29xiIXYlB0bjXKA794qapx1",
+                      "source":  "_iAIq8mwW0cIGbvrfmSJ5",
+                      "target":  "29xiIXYlB0bjXKA794qap",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__29xiIXYlB0bjXKA794qapw2-LBMeG3sdY6IAJ7EoZBQ_Kx2",
+                      "source":  "29xiIXYlB0bjXKA794qap",
+                      "target":  "LBMeG3sdY6IAJ7EoZBQ_K",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__8fXu3OX3xfwr3NTAIHU0zz2-SCbZprU9r8BIX4BoyjYPEy1",
+                      "source":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "target":  "SCbZprU9r8BIX4BoyjYPE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__8fXu3OX3xfwr3NTAIHU0zz2-YjRDJcSK_h82DooDWY2k4y1",
+                      "source":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "target":  "YjRDJcSK_h82DooDWY2k4",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__8fXu3OX3xfwr3NTAIHU0zz2-__3S2Z00hK_g_GQJxv_21y1",
+                      "source":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "target":  "__3S2Z00hK_g_GQJxv_21",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__8fXu3OX3xfwr3NTAIHU0zz2--P9o-aiDM7CDtLimppkjMy1",
+                      "source":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "target":  "-P9o-aiDM7CDtLimppkjM",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__8fXu3OX3xfwr3NTAIHU0zz2-cdO7pKphZq1qvCeynxGKoy1",
+                      "source":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "target":  "cdO7pKphZq1qvCeynxGKo",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__8fXu3OX3xfwr3NTAIHU0zz2-Dam_IG339RrYZXjXq3T8_y1",
+                      "source":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "target":  "Dam_IG339RrYZXjXq3T8_",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge___NcZhE2ZuKl1Lrtvr6X2Gw2-8fXu3OX3xfwr3NTAIHU0zx1",
+                      "source":  "_NcZhE2ZuKl1Lrtvr6X2G",
+                      "target":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__Tq83zphFUA1J8spMEyN8Hz2-aHi-EWuBbn1xvK5osHOUMy1",
+                      "source":  "Tq83zphFUA1J8spMEyN8H",
+                      "target":  "aHi-EWuBbn1xvK5osHOUM",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__oV7YG_TnJ4ZyVVjqRwPkRz2-qg6ZTF0LCz5zo5G1a3BEfy1",
+                      "source":  "oV7YG_TnJ4ZyVVjqRwPkR",
+                      "target":  "qg6ZTF0LCz5zo5G1a3BEf",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__WVrC8-nf8xn1jckCHO3h4x2-O5dely89N5UCMBeUfh8udw2",
+                      "source":  "WVrC8-nf8xn1jckCHO3h4",
+                      "target":  "O5dely89N5UCMBeUfh8ud",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge___NcZhE2ZuKl1Lrtvr6X2Gx2-xEu9-kBz5SbM3Mrrwu446w1",
+                      "source":  "_NcZhE2ZuKl1Lrtvr6X2G",
+                      "target":  "xEu9-kBz5SbM3Mrrwu446",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__OBtJvLaEV3giUhvGFofKvy2-U22jPxfQWbu7-54OcsqkVz1",
+                      "source":  "OBtJvLaEV3giUhvGFofKv",
+                      "target":  "U22jPxfQWbu7-54OcsqkV",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__KgXvbrUuYyiBn52QCRoLly2-WVrC8-nf8xn1jckCHO3h4z2",
+                      "source":  "KgXvbrUuYyiBn52QCRoLl",
+                      "target":  "WVrC8-nf8xn1jckCHO3h4",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__thR8GUbuAkEL4sb4m3llJy2-rIG8F-Rc-fMeXZ5n0UTwiz1",
+                      "source":  "thR8GUbuAkEL4sb4m3llJ",
+                      "target":  "rIG8F-Rc-fMeXZ5n0UTwi",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__thR8GUbuAkEL4sb4m3llJy2-ONhEanq8I2RE-Jc_YY3Waz2",
+                      "source":  "thR8GUbuAkEL4sb4m3llJ",
+                      "target":  "ONhEanq8I2RE-Jc_YY3Wa",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__thR8GUbuAkEL4sb4m3llJy2-wLaM_NHs7-ANFhtjYiY-Fz1",
+                      "source":  "thR8GUbuAkEL4sb4m3llJ",
+                      "target":  "wLaM_NHs7-ANFhtjYiY-F",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__thR8GUbuAkEL4sb4m3llJy2-e12uqC2SEzaMfmBbz7VZfz1",
+                      "source":  "thR8GUbuAkEL4sb4m3llJ",
+                      "target":  "e12uqC2SEzaMfmBbz7VZf",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__OBtJvLaEV3giUhvGFofKvy2-q26hZANRABWXI8bzE0ai2z1",
+                      "source":  "OBtJvLaEV3giUhvGFofKv",
+                      "target":  "q26hZANRABWXI8bzE0ai2",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__801KNtjf61FTiLS1yrDSBx2-pIJ4J0QpqrnXxAX-ceZlJw1",
+                      "source":  "801KNtjf61FTiLS1yrDSB",
+                      "target":  "pIJ4J0QpqrnXxAX-ceZlJ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__pIJ4J0QpqrnXxAX-ceZlJx2-8fXu3OX3xfwr3NTAIHU0zw2",
+                      "source":  "pIJ4J0QpqrnXxAX-ceZlJ",
+                      "target":  "8fXu3OX3xfwr3NTAIHU0z",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  }
+              ]
+}

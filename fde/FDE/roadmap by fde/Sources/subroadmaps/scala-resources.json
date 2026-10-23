@@ -1,0 +1,4728 @@
+[
+    {
+        "id":  "ojvTMCBlgUf6ywgsgCQM1",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/scala/topic@ojvTMCBlgUf6ywgsgCQM1.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D5djqvuGs8v__c9DrfOIT",
+        "label":  "Setting Up Scala",
+        "endpoint":  "https://roadmap.sh/scala/topic@D5djqvuGs8v__c9DrfOIT.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zDXDdfzObrUlrIkgxCouq",
+        "label":  "IntelliJ IDEA",
+        "endpoint":  "https://roadmap.sh/scala/topic@zDXDdfzObrUlrIkgxCouq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala IDE | The Landing Page",
+                              "type":  "official",
+                              "url":  "https://www.jetbrains.com/pages/scala/"
+                          },
+                          {
+                              "title":  "Get Started With Scala | IntelliJ IDEA Documentation",
+                              "type":  "official",
+                              "url":  "https://www.jetbrains.com/help/idea/get-started-with-scala.html#new-scala-project"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kK2gLsPax0kj_cUlfwaYm",
+        "label":  "VS Code",
+        "endpoint":  "https://roadmap.sh/scala/topic@kK2gLsPax0kj_cUlfwaYm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visual Studio Code",
+                              "type":  "official",
+                              "url":  "https://code.visualstudio.com/"
+                          },
+                          {
+                              "title":  "Install Metals for VS Code",
+                              "type":  "official",
+                              "url":  "https://marketplace.visualstudio.com/items?itemName=scalameta.metals#overview"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZmrehlOEUkjVJXiejyWt7",
+        "label":  "Vim",
+        "endpoint":  "https://roadmap.sh/scala/topic@ZmrehlOEUkjVJXiejyWt7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Vim Main Page",
+                              "type":  "official",
+                              "url":  "https://www.vim.org/"
+                          },
+                          {
+                              "title":  "Vim | Scalameta",
+                              "type":  "official",
+                              "url":  "https://scalameta.org/metals/docs/editors/vim/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uvw1H2RybuU979G7yZWy6",
+        "label":  "Zed",
+        "endpoint":  "https://roadmap.sh/scala/topic@uvw1H2RybuU979G7yZWy6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Editor - Zed",
+                              "type":  "official",
+                              "url":  "https://zed.dev/languages/scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JSzlu4UNQA016AtE5xxml",
+        "label":  "Emacs",
+        "endpoint":  "https://roadmap.sh/scala/topic@JSzlu4UNQA016AtE5xxml.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Emacs Main Page",
+                              "type":  "official",
+                              "url":  "https://www.gnu.org/software/emacs/"
+                          },
+                          {
+                              "title":  "Emacs | Scalameta",
+                              "type":  "official",
+                              "url":  "https://scalameta.org/metals/docs/editors/emacs/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RXBh4SW__eVXjiTP8v07G",
+        "label":  "Sublime",
+        "endpoint":  "https://roadmap.sh/scala/topic@RXBh4SW__eVXjiTP8v07G.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sublime Text",
+                              "type":  "official",
+                              "url":  "https://www.sublimetext.com/"
+                          },
+                          {
+                              "title":  "Sublime Text | Scalameta",
+                              "type":  "official",
+                              "url":  "https://scalameta.org/metals/docs/editors/sublime/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I_Bs6mryYyEAnwT_oPQ5A",
+        "label":  "Docs",
+        "endpoint":  "https://roadmap.sh/scala/topic@I_Bs6mryYyEAnwT_oPQ5A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Learn Scala",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yzVo7NtvU5HdGqg7T7XAh",
+        "label":  "Courses",
+        "endpoint":  "https://roadmap.sh/scala/topic@yzVo7NtvU5HdGqg7T7XAh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Functional Programming in Scala Specialization",
+                              "type":  "course",
+                              "url":  "https://www.coursera.org/specializations/scala"
+                          },
+                          {
+                              "title":  "Scala Fundamentals (Packt)",
+                              "type":  "course",
+                              "url":  "https://www.coursera.org/learn/packt-scala-fundamentals-ll2gw"
+                          },
+                          {
+                              "title":  "courseFunctional Programming in Scala (JetBrains)",
+                              "type":  "course",
+                              "url":  "https://academy.jetbrains.com/course/23833-functional-programming-in-scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kXP-YrnwQ1zPuBuTHA35l",
+        "label":  "Books",
+        "endpoint":  "https://roadmap.sh/scala/topic@kXP-YrnwQ1zPuBuTHA35l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hands-on Scala",
+                              "type":  "book",
+                              "url":  "https://www.handsonscala.com/"
+                          },
+                          {
+                              "title":  "Programming Scala, 3rd Edition",
+                              "type":  "book",
+                              "url":  "https://www.oreilly.com/library/view/"
+                          },
+                          {
+                              "title":  "Programming in Scala, Fifth Edition",
+                              "type":  "book",
+                              "url":  "https://www.artima.com/shop/programming_in_scala_5ed"
+                          },
+                          {
+                              "title":  "Scala for the Impatient",
+                              "type":  "book",
+                              "url":  "https://horstmann.com/scala/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ToGJzk3ZpvQsUwOFicxW2",
+        "label":  "YouTube",
+        "endpoint":  "https://roadmap.sh/scala/topic@ToGJzk3ZpvQsUwOFicxW2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rock the JVM",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/@rockth"
+                          },
+                          {
+                              "title":  "Software Mill - YouTube channel",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/@SoftwareMillCom"
+                          },
+                          {
+                              "title":  "Dev Inside You",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/@DevInsideYou"
+                          },
+                          {
+                              "title":  "Scala Days - YouTube channel",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/@ScalaDaysConferences"
+                          },
+                          {
+                              "title":  "IntelliJ IDEA x Scala",
+                              "type":  "video",
+                              "url":  "https://youtube.com/playlist?list=PLPZy-hmwOdEVDwhWoNSyT7OejCBxgjfsL\u0026si=Jvr-ltV3xUud1jpH"
+                          },
+                          {
+                              "title":  "FP Tower",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/@fptower-programming"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9sYmBVtJhOegHWE8mgs5c",
+        "label":  "Operators",
+        "endpoint":  "https://roadmap.sh/scala/topic@9sYmBVtJhOegHWE8mgs5c.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Scala Operators | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/operators-intro"
+                          },
+                          {
+                              "title":  "What do all of Scala\u0027s symbolic operators mean? - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/7888944/what-do-all-of-scalas-symbolic-operators-mean"
+                          },
+                          {
+                              "title":  "Working with Arrows in Scala",
+                              "type":  "article",
+                              "url":  "https://blog.ssanj.net/posts/2017-07-02-working-with-arrows-in-scala.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PDoJZATYO9SmMfebmvORn",
+        "label":  "Conditionals",
+        "endpoint":  "https://roadmap.sh/scala/topic@PDoJZATYO9SmMfebmvORn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "match Expressions | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/match-expressions.html"
+                          },
+                          {
+                              "title":  "Mastering Conditional Statements in Scala: If-Else and Match Explained",
+                              "type":  "article",
+                              "url":  "https://www.developerindian.com/articles/mastering-conditional-statements-in-scala-if-else-and-match-explained"
+                          },
+                          {
+                              "title":  "Scala: How to add ‘if’ expressions (guards) to match/case expressions",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/how-to-use-if-then-expressions-guards-in-case-statements-scala/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VVO1Cmn0HwVKeMZNJiixa",
+        "label":  "Loops",
+        "endpoint":  "https://roadmap.sh/scala/topic@VVO1Cmn0HwVKeMZNJiixa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "for loops | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/for-loops.html"
+                          },
+                          {
+                              "title":  "Scala | Loops (while, do..while, for, nested loops)",
+                              "type":  "article",
+                              "url":  "https://www.geeksforgeeks.org/scala/scala-loopswhile-do-while-for-nested-loops/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4NPM4TQawMx6-uD0E2blP",
+        "label":  "Try/Catch",
+        "endpoint":  "https://roadmap.sh/scala/topic@4NPM4TQawMx6-uD0E2blP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "try/catch/finally Expressions | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/try-catch-finally.html"
+                          },
+                          {
+                              "title":  "Handling Exceptions using Try/Catch/Finally in Scala | ScalaJobs.com",
+                              "type":  "article",
+                              "url":  "https://scalajobs.com/blog/handling-exceptions-using-try-catch-finally-in-scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UmX7kymkWSROjDZjnoEFg",
+        "label":  "Class",
+        "endpoint":  "https://roadmap.sh/scala/topic@UmX7kymkWSROjDZjnoEFg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Classes | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/classes.html"
+                          },
+                          {
+                              "title":  "Scala - Classes \u0026 Objects",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_classes_objects.htm"
+                          },
+                          {
+                              "title":  "Classes and Objects in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/classes-objects"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vKPb5IZgfciKwUZismkHJ",
+        "label":  "Trait",
+        "endpoint":  "https://roadmap.sh/scala/topic@vKPb5IZgfciKwUZismkHJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Traits | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/traits.html"
+                          },
+                          {
+                              "title":  "Scala - Traits",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_traits.htm"
+                          },
+                          {
+                              "title":  "Introduction to Traits in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/traits"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-qLeSRC44_V-c8hoHyMqA",
+        "label":  "Variables \u0026 Constants",
+        "endpoint":  "https://roadmap.sh/scala/topic@-qLeSRC44_V-c8hoHyMqA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Two Types of Variables | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/two-types-variables.html"
+                          },
+                          {
+                              "title":  "Def, Var \u0026 Val in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/def-var-val"
+                          },
+                          {
+                              "title":  "Difference between var, val, and def in Scala? Examples | Java67",
+                              "type":  "article",
+                              "url":  "https://www.java67.com/2017/05/difference-between-var-val-and-def-in-Scala.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_Ggnf67Ye0kFvroqqSg_D",
+        "label":  "Object",
+        "endpoint":  "https://roadmap.sh/scala/topic@_Ggnf67Ye0kFvroqqSg_D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Singleton Objects | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/singleton-objects.html"
+                          },
+                          {
+                              "title":  "Scala - Classes \u0026 Objects | Tutorials Point",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_classes_objects.htm"
+                          },
+                          {
+                              "title":  "Classes and Objects in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/classes-objects"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ACR-ncVRUYN0LXm5x6NhS",
+        "label":  "Data Structures",
+        "endpoint":  "https://roadmap.sh/scala/topic@ACR-ncVRUYN0LXm5x6NhS.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Dfrh1gTS7CiCSqXGW-APm",
+        "label":  "Mutable Collections",
+        "endpoint":  "https://roadmap.sh/scala/topic@Dfrh1gTS7CiCSqXGW-APm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Concrete Mutable Collection Classes | Collections (Scala 2.8 - 2.12) | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections/concrete-mutable-collection-classes.html"
+                          },
+                          {
+                              "title":  "Concrete Mutable Collection Classes | Collections | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections-2.13/concrete-mutable-collection-classes.html"
+                          },
+                          {
+                              "title":  "Scala mutable collections on waitingforcode.com - articles about Scala collections",
+                              "type":  "article",
+                              "url":  "https://www.waitingforcode.com/scala-collections/scala-mutable-collections/read"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xNMXubCcKuaSkYIgz0YVk",
+        "label":  "Integers",
+        "endpoint":  "https://roadmap.sh/scala/topic@xNMXubCcKuaSkYIgz0YVk.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cwhAAcKtzUKcXBSEUdIAQ",
+        "label":  "Strings",
+        "endpoint":  "https://roadmap.sh/scala/topic@cwhAAcKtzUKcXBSEUdIAQ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D_2hxCGaYnaQf1Tu0Y-ty",
+        "label":  "Array",
+        "endpoint":  "https://roadmap.sh/scala/topic@D_2hxCGaYnaQf1Tu0Y-ty.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Arrays | Collections (Scala 2.8 - 2.12) | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections/arrays.html"
+                          },
+                          {
+                              "title":  "Guide to Arrays in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/arrays-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IBkdiusI08JFfHDS6VKsO",
+        "label":  "Seq",
+        "endpoint":  "https://roadmap.sh/scala/topic@IBkdiusI08JFfHDS6VKsO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Seq",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/api/current/scala/collection/Seq.html"
+                          },
+                          {
+                              "title":  "Linear Collections in Scala: Seq, List, Array, Vector, Set, Range",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UvUkpduo6uE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IN_mRFxfaDiW2_iNDdrHk",
+        "label":  "Range",
+        "endpoint":  "https://roadmap.sh/scala/topic@IN_mRFxfaDiW2_iNDdrHk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Range",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/api/3.x/scala/collection/immutable/Range.html"
+                          },
+                          {
+                              "title":  "Range in Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/range"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HCXshB5qPYlYmyg3ufA4a",
+        "label":  "List",
+        "endpoint":  "https://roadmap.sh/scala/topic@HCXshB5qPYlYmyg3ufA4a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Collection Types - Lists",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/collections-classes.html#list"
+                          },
+                          {
+                              "title":  "List",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/api/3.x/scala/collection/immutable/List.html"
+                          },
+                          {
+                              "title":  "Scala - Lists",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_lists.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bOSckrStDRgoLAGWi6QfZ",
+        "label":  "Booleans",
+        "endpoint":  "https://roadmap.sh/scala/topic@bOSckrStDRgoLAGWi6QfZ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nvUwMAiZdkKbMsFzc2h3r",
+        "label":  "Unit",
+        "endpoint":  "https://roadmap.sh/scala/topic@nvUwMAiZdkKbMsFzc2h3r.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3MO2hkUs5wh1Xkcs1Yr7s",
+        "label":  "Float",
+        "endpoint":  "https://roadmap.sh/scala/topic@3MO2hkUs5wh1Xkcs1Yr7s.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MVNwvGwzYyse8YUc9fwnL",
+        "label":  "Nothing",
+        "endpoint":  "https://roadmap.sh/scala/topic@MVNwvGwzYyse8YUc9fwnL.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "p3FdTk1pqQoBK3_NKmLDb",
+        "label":  "Vector",
+        "endpoint":  "https://roadmap.sh/scala/topic@p3FdTk1pqQoBK3_NKmLDb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Collection types - Vector",
+                              "type":  "article",
+                              "url":  "https://docs.scala-lang.org/scala3/book/collections-classes.html#vector"
+                          },
+                          {
+                              "title":  "Benefits of Using Vector in Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/vector-benefits"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4yYOxlOkQgkxZS6_94CT-",
+        "label":  "Set",
+        "endpoint":  "https://roadmap.sh/scala/topic@4yYOxlOkQgkxZS6_94CT-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sets",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections-2.13/sets.html"
+                          },
+                          {
+                              "title":  "Scala - Sets",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_sets.htm"
+                          },
+                          {
+                              "title":  "Scala: What\u0027s the difference between \"Map\" vs \"Set\"? - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/45133364/scala-whats-the-difference-between-map-vs-set"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i4gSxrJSki5um_6dfLUYK",
+        "label":  "Map",
+        "endpoint":  "https://roadmap.sh/scala/topic@i4gSxrJSki5um_6dfLUYK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Maps | Collections (Scala 2.8 - 2.12) | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections-2.13/maps.html"
+                          },
+                          {
+                              "title":  "Scala - Maps",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_maps.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "e1dvY1Wd6ZYw2ULKETc49",
+        "label":  "Functions \u0026 Methods",
+        "endpoint":  "https://roadmap.sh/scala/topic@e1dvY1Wd6ZYw2ULKETc49.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Functions",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/basics.html#functions"
+                          },
+                          {
+                              "title":  "Methods",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/basics.html#methods"
+                          },
+                          {
+                              "title":  "Functions and Methods in Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/functions-methods"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w_GDO8UjtaM-XTbyQOBsQ",
+        "label":  "Method Calls",
+        "endpoint":  "https://roadmap.sh/scala/topic@w_GDO8UjtaM-XTbyQOBsQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Method Invocation | Style Guide | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/style/method-invocation.html"
+                          },
+                          {
+                              "title":  "Functions and Methods in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/functions-methods"
+                          },
+                          {
+                              "title":  "Scala - method call syntax - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/11899177/scala-method-call-syntax"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jkV_FWlv79nxyNiT_WFOr",
+        "label":  "Anonymous Func / Lambda",
+        "endpoint":  "https://roadmap.sh/scala/topic@jkV_FWlv79nxyNiT_WFOr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Anonymous Functions | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/fun-anonymous-functions.html"
+                          },
+                          {
+                              "title":  "Lambda Expressions in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/lambda-expressions"
+                          },
+                          {
+                              "title":  "Anonymous Functions in Scala: How to Use Lambda Functions Effectively",
+                              "type":  "article",
+                              "url":  "https://www.developerindian.com/articles/anonymous-functions-in-scala-how-to-use-lambda-functions-effectively"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eje4CLMuZobVwd0EBwwim",
+        "label":  "Total/Partial Funcs",
+        "endpoint":  "https://roadmap.sh/scala/topic@eje4CLMuZobVwd0EBwwim.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Partial Functions in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/partial-functions"
+                          },
+                          {
+                              "title":  "How to create and use partial functions in Scala | alvinalexander.com",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/how-to-define-use-partial-functions-in-scala-syntax-examples/"
+                          },
+                          {
+                              "title":  "Scala Partial Function - Ways to Define Partial Functions in Scala - DataFlair",
+                              "type":  "article",
+                              "url":  "https://data-flair.training/blogs/scala-partial-function/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eSzfUe1nYv7TA3Nl9h2aN",
+        "label":  "Funcs returning Funcs",
+        "endpoint":  "https://roadmap.sh/scala/topic@eSzfUe1nYv7TA3Nl9h2aN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Currying in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/currying"
+                          },
+                          {
+                              "title":  "Currying Functions in Scala",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/currying_functions.htm"
+                          },
+                          {
+                              "title":  "Partially Applied Functions and Currying",
+                              "type":  "article",
+                              "url":  "https://www.scalamatters.io/post/partially-applied-functions-and-currying"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nCPJKbcDfc4w4c4TroBRe",
+        "label":  "collect / collectFirst",
+        "endpoint":  "https://roadmap.sh/scala/topic@nCPJKbcDfc4w4c4TroBRe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Tutorial - Collect Function",
+                              "type":  "article",
+                              "url":  "https://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-collect-function/"
+                          },
+                          {
+                              "title":  "collect vs collectFirst - why the return values are of different type - Scala - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/40773529/collect-vs-collectfirst-why-the-return-values-are-of-different-type-scala"
+                          },
+                          {
+                              "title":  "tech: Scala : collectFirst example",
+                              "type":  "article",
+                              "url":  "http://thushw.blogspot.com/2015/09/scala-collectfirst-example.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qU8svc-H5L2-QeBSXgp_8",
+        "label":  "find",
+        "endpoint":  "https://roadmap.sh/scala/topic@qU8svc-H5L2-QeBSXgp_8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Collections Methods | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/collections-methods.html"
+                          },
+                          {
+                              "title":  "Scala Collections Filter | Tutorials Point",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala_collections/scala_collections_filter.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hK_E1meVZkK6ICUs5qmIP",
+        "label":  "filter",
+        "endpoint":  "https://roadmap.sh/scala/topic@hK_E1meVZkK6ICUs5qmIP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Collections Methods | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/collections-methods.html"
+                          },
+                          {
+                              "title":  "Different Ways to Filter Elements From a Scala Collection | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/filter-collections"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zEJeNsQcCz4hk7t7fDuVL",
+        "label":  "flatMap",
+        "endpoint":  "https://roadmap.sh/scala/topic@zEJeNsQcCz4hk7t7fDuVL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "A collection of Scala \u0027flatMap\u0027 examples",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/collection-scala-flatmap-examples-map-flatten/"
+                          },
+                          {
+                              "title":  "Scala Tutorial - FlatMap Function",
+                              "type":  "article",
+                              "url":  "https://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-flatmap-function/"
+                          },
+                          {
+                              "title":  "Difference Between map() and flatMap() in Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/map-vs-flatmap"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GUvy5sUdY32NJ_9aIzMr9",
+        "label":  "foldLeft",
+        "endpoint":  "https://roadmap.sh/scala/topic@GUvy5sUdY32NJ_9aIzMr9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Collections - FoldLeft Method",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala_collections/scala_collections_foldleft.htm"
+                          },
+                          {
+                              "title":  "Folding Lists in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/folding-lists"
+                          },
+                          {
+                              "title":  "Scala Tutorial - FoldLeft Function Example",
+                              "type":  "article",
+                              "url":  "https://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-foldleft-example/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MEwfeQ3yolH5bLVtHocaA",
+        "label":  "foreach",
+        "endpoint":  "https://roadmap.sh/scala/topic@MEwfeQ3yolH5bLVtHocaA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "for Loops | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/for-loops.html"
+                          },
+                          {
+                              "title":  "Scala Tutorial - Foreach Function Example",
+                              "type":  "article",
+                              "url":  "https://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-foreach-example/"
+                          },
+                          {
+                              "title":  "Using foreach() Method in Scala Collections | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/foreach-collections"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zhRrfAotX8wq6HjR3s13B",
+        "label":  "map",
+        "endpoint":  "https://roadmap.sh/scala/topic@zhRrfAotX8wq6HjR3s13B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Write Your Own map Method | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/fun-write-map-function.html"
+                          },
+                          {
+                              "title":  "How to Write a \u0027map\u0027 Function in Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/maps-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Z_cGu1NZ6wh7qkEw2Knyf",
+        "label":  "Working with Strings",
+        "endpoint":  "https://roadmap.sh/scala/topic@Z_cGu1NZ6wh7qkEw2Knyf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "String Interpolation | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/string-interpolation.html"
+                          },
+                          {
+                              "title":  "String Interpolation in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/string-interpolation"
+                          },
+                          {
+                              "title":  "Scala - String Interpolation",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_string_interpolation.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P607jVa4002JaBDku4V4O",
+        "label":  "Regex",
+        "endpoint":  "https://roadmap.sh/scala/topic@P607jVa4002JaBDku4V4O.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Regular Expression Patterns | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/regular-expression-patterns.html"
+                          },
+                          {
+                              "title":  "Scala Regular Expressions | Tutorials Point",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_regular_expressions.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5BGQb1CZQwDwYxDA9bvn4",
+        "label":  "Pattern Matching",
+        "endpoint":  "https://roadmap.sh/scala/topic@5BGQb1CZQwDwYxDA9bvn4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pattern Matching | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/pattern-matching.html"
+                          },
+                          {
+                              "title":  "Pattern Matching in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/pattern-matching"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EnTEDC1dzHf6H7P73Tlv5",
+        "label":  "Case Classes",
+        "endpoint":  "https://roadmap.sh/scala/topic@EnTEDC1dzHf6H7P73Tlv5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Case Classes | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/case-classes.html"
+                          },
+                          {
+                              "title":  "Case Classes | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/case-classes.html"
+                          },
+                          {
+                              "title":  "Difference Between Class and Case Class in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/case-class"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-5hM5DFinTWjkzlubUclR",
+        "label":  "Sealed Traits",
+        "endpoint":  "https://roadmap.sh/scala/topic@-5hM5DFinTWjkzlubUclR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a sealed trait? - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/11203268/what-is-a-sealed-trait"
+                          },
+                          {
+                              "title":  "Sealed Keyword in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/sealed-keyword"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v6KrScCfuNH8i1aTBGVI4",
+        "label":  "apply Method",
+        "endpoint":  "https://roadmap.sh/scala/topic@v6KrScCfuNH8i1aTBGVI4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Universal Apply Methods",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/reference/other-new-features/creator-applications.html"
+                          },
+                          {
+                              "title":  "What is the apply function in Scala? - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala"
+                          },
+                          {
+                              "title":  "Apply Method in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/apply-method"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bSZbsqY1yzq9uKbFlgwkF",
+        "label":  "Enums",
+        "endpoint":  "https://roadmap.sh/scala/topic@bSZbsqY1yzq9uKbFlgwkF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Enumerations | Scala documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/reference/enums/enums.html"
+                          },
+                          {
+                              "title":  "Enums in Scala 3: Quickly Explained | Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/enums-in-scala-3"
+                          },
+                          {
+                              "title":  "Guide to Scala Enumerations | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/enumerations"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0dptTJpHmNf_Nyo-ib20m",
+        "label":  "Case Objects",
+        "endpoint":  "https://roadmap.sh/scala/topic@0dptTJpHmNf_Nyo-ib20m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Case Objects | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/case-objects.html"
+                          },
+                          {
+                              "title":  "Difference between case object and object - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/5270752/difference-between-case-object-and-object"
+                          },
+                          {
+                              "title":  "Difference Between Case Object and Object | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/case-object-vs-object"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NcGlkEvp1t46EmX5GQRkD",
+        "label":  "unapply Method",
+        "endpoint":  "https://roadmap.sh/scala/topic@NcGlkEvp1t46EmX5GQRkD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Extractor Objects | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/extractor-objects.html"
+                          },
+                          {
+                              "title":  "Understand how to use apply and unapply - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/18468786/understand-how-to-use-apply-and-unapply"
+                          },
+                          {
+                              "title":  "Scala pattern matching: apply the unapply | by Linas Medžiūnas | Wix Engineering | Medium",
+                              "type":  "article",
+                              "url":  "https://medium.com/wix-engineering/scala-pattern-matching-apply-the-unapply-7237f8c30b41"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3zKEn33pENf2eNDGvjEAP",
+        "label":  "Type Hierarchy",
+        "endpoint":  "https://roadmap.sh/scala/topic@3zKEn33pENf2eNDGvjEAP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Generic Classes | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/generic-classes.html"
+                          },
+                          {
+                              "title":  "Generics | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/types-generics.html"
+                          },
+                          {
+                              "title":  "Basics of Generics in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/generics-basics"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_6s7NV9qbJj_Y4z4_ge4f",
+        "label":  "Type Parameters",
+        "endpoint":  "https://roadmap.sh/scala/topic@_6s7NV9qbJj_Y4z4_ge4f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Polymorphic Methods | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/polymorphic-methods.html"
+                          },
+                          {
+                              "title":  "Generic Classes | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/generic-classes.html"
+                          },
+                          {
+                              "title":  "Basics of Generics in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/generics-basics"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OdcjkyWs3s86CqtUnAdxx",
+        "label":  "Conversions",
+        "endpoint":  "https://roadmap.sh/scala/topic@OdcjkyWs3s86CqtUnAdxx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Implicit Conversions | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/implicit-conversions.html"
+                          },
+                          {
+                              "title":  "Implicit Conversions | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/ca-implicit-conversions.html"
+                          },
+                          {
+                              "title":  "Implicit Conversions | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/implicit-conversions"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YqAClVg7U1mb-Be_rnv-L",
+        "label":  "Laziness",
+        "endpoint":  "https://roadmap.sh/scala/topic@YqAClVg7U1mb-Be_rnv-L.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Let Them Be Lazy! | The Scala Programming Language",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/blog/2017/11/28/view-based-collections.html"
+                          },
+                          {
+                              "title":  "Understand and implement laziness with examples in Scala, JavaScript, Swift and Racket",
+                              "type":  "article",
+                              "url":  "https://matt.might.net/articles/implementing-laziness/"
+                          },
+                          {
+                              "title":  "Laziness in Scala | InfoWorld",
+                              "type":  "article",
+                              "url":  "https://www.infoworld.com/article/2072680/laziness-in-scala.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1T7yhzZMoFKUvgS4ZWiPc",
+        "label":  "Error Handling",
+        "endpoint":  "https://roadmap.sh/scala/topic@1T7yhzZMoFKUvgS4ZWiPc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Functional Error Handling in Scala | Scala Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/functional-error-handling.html"
+                          },
+                          {
+                              "title":  "Idiomatic Error Handling in Scala | Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/idiomatic-error-handling-in-scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PPrcoA800FmTFT48H789J",
+        "label":  "Option",
+        "endpoint":  "https://roadmap.sh/scala/topic@PPrcoA800FmTFT48H789J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Standard Library 2.13.3 - scala.Option",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/api/2.13.3/scala/Option.html"
+                          },
+                          {
+                              "title":  "The Option Type in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/option-type"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P0Vo-2ShpFVfBxIrupLll",
+        "label":  "Either",
+        "endpoint":  "https://roadmap.sh/scala/topic@P0Vo-2ShpFVfBxIrupLll.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Standard Library 2.13.6 - scala.util.Either",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/api/2.13.6/scala/util/Either.html"
+                          },
+                          {
+                              "title":  "Scala - Either class | by zeesh.arif | Medium",
+                              "type":  "article",
+                              "url":  "https://zeesh-arif.medium.com/scala-either-class-ca6cb44c3643"
+                          },
+                          {
+                              "title":  "A Scala Either, Left, and Right example (like Option, Some, and None) | alvinalexander.com",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/scala-either-left-right-example-option-some-none-null/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y4sElb6dWw0vpGNPgRrvC",
+        "label":  "Try",
+        "endpoint":  "https://roadmap.sh/scala/topic@y4sElb6dWw0vpGNPgRrvC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Standard Library 2.13.6 - scala.util.Try",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/api/2.13.6/scala/util/Try.html"
+                          },
+                          {
+                              "title":  "A Scala Try, Success, and Failure example | alvinalexander.com",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/source-code/scala/scala-try-success-and-failure-example/"
+                          },
+                          {
+                              "title":  "Handling Exceptions using Try/Catch/Finally in Scala | ScalaJobs.com",
+                              "type":  "article",
+                              "url":  "https://scalajobs.com/blog/handling-exceptions-using-try-catch-finally-in-scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pk6KQObR5AhAXj0wf5a3p",
+        "label":  "for comprehension",
+        "endpoint":  "https://roadmap.sh/scala/topic@pk6KQObR5AhAXj0wf5a3p.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "For Comprehensions | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/for-comprehensions.html"
+                          },
+                          {
+                              "title":  "A Comprehensive Guide to For-Comprehension in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/for-comprehension"
+                          },
+                          {
+                              "title":  "Scala: comprehending the for-comprehension | by Linas Medžiūnas | Wix Engineering | Medium",
+                              "type":  "article",
+                              "url":  "https://medium.com/wix-engineering/scala-comprehending-the-for-comprehension-67c9f7953655"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w59GmNK0wHo6tADDTaaQS",
+        "label":  "Scope \u0026 Visibility",
+        "endpoint":  "https://roadmap.sh/scala/topic@w59GmNK0wHo6tADDTaaQS.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Hrl2L3vdhAub1jnQVuTRF",
+        "label":  "Recursion",
+        "endpoint":  "https://roadmap.sh/scala/topic@Hrl2L3vdhAub1jnQVuTRF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Recursion Functions",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/recursion_functions.htm"
+                          },
+                          {
+                              "title":  "Simple Scala recursion examples (recursive programming) | alvinalexander.com",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/scala-recursion-examples-recursive-programming/"
+                          },
+                          {
+                              "title":  "Scala Tutorial | Tail Recursion",
+                              "type":  "article",
+                              "url":  "https://www.scala-exercises.org/scala_tutorial/tail_recursion"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qEdusMVJk68GRdH-vP6ts",
+        "label":  "Tail Recursion",
+        "endpoint":  "https://roadmap.sh/scala/topic@qEdusMVJk68GRdH-vP6ts.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tail Recursion in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/tail-recursion"
+                          },
+                          {
+                              "title":  "Scala Tutorial | Tail Recursion",
+                              "type":  "article",
+                              "url":  "https://www.scala-exercises.org/scala_tutorial/tail_recursion"
+                          },
+                          {
+                              "title":  "Writing Tail-Recursive Algorithms in Scala (and the tailrec annotation) | alvinalexander.com",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/fp-book/tail-recursive-algorithms/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VV-Drj_JlIppItHq4PRFc",
+        "label":  "Trampolines",
+        "endpoint":  "https://roadmap.sh/scala/topic@VV-Drj_JlIppItHq4PRFc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Recursion and Trampolines in Scala · GitHub",
+                              "type":  "article",
+                              "url":  "https://gist.github.com/eamelink/4466932a11d8d92a6b76e80364062250"
+                          },
+                          {
+                              "title":  "Tail calls, @tailrec and trampolines",
+                              "type":  "article",
+                              "url":  "https://rd.nz/2009/04/tail-calls-tailrec-and-trampolines.html"
+                          },
+                          {
+                              "title":  "How Trampoline Works in Scala",
+                              "type":  "article",
+                              "url":  "https://free.cofree.io/2017/08/24/trampoline/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mHdNAYbL4yCZZYv0Z_s1w",
+        "label":  "private / protected",
+        "endpoint":  "https://roadmap.sh/scala/topic@mHdNAYbL4yCZZYv0Z_s1w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Scala Access Modifiers",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_access_modifiers.htm"
+                          },
+                          {
+                              "title":  "How to control Scala method scope with private, package, and more",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/how-to-control-scala-method-scope-object-private-package/"
+                          },
+                          {
+                              "title":  "Scala access modifiers and qualifiers in detail",
+                              "type":  "article",
+                              "url":  "https://www.jesperdj.com/2016/01/08/scala-access-modifiers-and-qualifiers-in-detail/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RVwd5ZY4e_RUhsIi1NZFu",
+        "label":  "package",
+        "endpoint":  "https://roadmap.sh/scala/topic@RVwd5ZY4e_RUhsIi1NZFu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Top Level Definitions in Packages | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/package-objects.html"
+                          },
+                          {
+                              "title":  "Packaging, Importing and Package Objects in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/package-import"
+                          },
+                          {
+                              "title":  "Scala Package Objects",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_package_objects.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9PiyO8DlNgas10ZjZJCkA",
+        "label":  "Implicit Parameter",
+        "endpoint":  "https://roadmap.sh/scala/topic@9PiyO8DlNgas10ZjZJCkA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using Clauses | Scala documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/reference/contextual/using-clauses.html"
+                          },
+                          {
+                              "title":  "Scala 3: Given and Using Clauses | Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/scala-3-given-and-using-clauses"
+                          },
+                          {
+                              "title":  "Scala 3: Using Term Inference with Given and Using (and extension methods) | alvinalexander.com",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/scala-3-given-using-term-inference-context/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "votWwsha27Bt9i5GhHRvA",
+        "label":  "Early returns",
+        "endpoint":  "https://roadmap.sh/scala/topic@votWwsha27Bt9i5GhHRvA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Many Happy Early Returns",
+                              "type":  "article",
+                              "url":  "https://makingthematrix.wordpress.com/2021/03/09/many-happy-early-returns/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iMe2czy5d7uNpB2Uv2KTK",
+        "label":  "Lazy vals",
+        "endpoint":  "https://roadmap.sh/scala/topic@iMe2czy5d7uNpB2Uv2KTK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lazy Vals Initialization",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/reference/changed-features/lazy-vals-init.html"
+                          },
+                          {
+                              "title":  "Guide to lazy val in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/lazy-val"
+                          },
+                          {
+                              "title":  "scala - What does a lazy val do? - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_GMHFAt8BulTAb9msdUb9",
+        "label":  "by-name Parameters",
+        "endpoint":  "https://roadmap.sh/scala/topic@_GMHFAt8BulTAb9msdUb9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "By-name Parameters | Tour of Scala | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/tour/by-name-parameters.html"
+                          },
+                          {
+                              "title":  "How to Use By-Name Parameters in Scala | alvinalexander.com",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/fp-book/how-to-use-by-name-parameters-scala-functions/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kRdh-HUAWJi7d8gdynGUS",
+        "label":  "Lazy Collections",
+        "endpoint":  "https://roadmap.sh/scala/topic@kRdh-HUAWJi7d8gdynGUS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Let Them Be Lazy!",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/blog/2017/11/28/view-based-collections.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jMqwWE2Aebd7wT4iogIIW",
+        "label":  "Iterators",
+        "endpoint":  "https://roadmap.sh/scala/topic@jMqwWE2Aebd7wT4iogIIW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Iterators | Collections (Scala 2.8 - 2.12) | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections/iterators.html"
+                          },
+                          {
+                              "title":  "Scala - Iterators",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/scala/scala_iterators.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "52RX2tDml7raPbQpZCbnx",
+        "label":  "Views",
+        "endpoint":  "https://roadmap.sh/scala/topic@52RX2tDml7raPbQpZCbnx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Views | Collections | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections-2.13/views.html"
+                          },
+                          {
+                              "title":  "Views | Collections (Scala 2.8 - 2.12) | Scala Documentation:",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/collections/views.html"
+                          },
+                          {
+                              "title":  "What are views for collections and when would you want to use them? - Stack Overflow",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/3361478/what-are-views-for-collections-and-when-would-you-want-to-use-them"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zk07chk34XuM1mac4oe4-",
+        "label":  "LazyList",
+        "endpoint":  "https://roadmap.sh/scala/topic@zk07chk34XuM1mac4oe4-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Standard Library 2.13.4 - scala.collection.immutable.LazyList",
+                              "type":  "official",
+                              "url":  "https://www.scala-lang.org/api/2.13.4/scala/collection/immutable/LazyList.html"
+                          },
+                          {
+                              "title":  "LazyList - Scala 3 - EPFL",
+                              "type":  "article",
+                              "url":  "https://dotty.epfl.ch/api/scala/collection/immutable/LazyList.html"
+                          },
+                          {
+                              "title":  "LazyList in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/lazylist"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TYW3j_DfD6DsrHE6MjJ8N",
+        "label":  "Build Tools",
+        "endpoint":  "https://roadmap.sh/scala/topic@TYW3j_DfD6DsrHE6MjJ8N.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AleJKnVNfSoksZxhR-oXc",
+        "label":  "ScalaCLI",
+        "endpoint":  "https://roadmap.sh/scala/topic@AleJKnVNfSoksZxhR-oXc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala CLI Official Documentation",
+                              "type":  "official",
+                              "url":  "https://scala-cli.virtuslab.org/"
+                          },
+                          {
+                              "title":  "Getting Started with Scala CLI",
+                              "type":  "official",
+                              "url":  "https://scala-cli.virtuslab.org/docs/getting_started/"
+                          },
+                          {
+                              "title":  "Scala CLI GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/VirtusLab/scala-cli"
+                          },
+                          {
+                              "title":  "Introduction to Scala-CLI on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/scala-cli-intro"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V0zIDfz8b2LBrNwz81xlR",
+        "label":  "sbt",
+        "endpoint":  "https://roadmap.sh/scala/topic@V0zIDfz8b2LBrNwz81xlR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "sbt in Action Book",
+                              "type":  "book",
+                              "url":  "https://www.manning.com/books/sbt-in-action"
+                          },
+                          {
+                              "title":  "sbt Official Documentation",
+                              "type":  "official",
+                              "url":  "https://www.scala-sbt.org/learn.html"
+                          },
+                          {
+                              "title":  "Scala Book: sbt Overview",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/scala-book/scala-build-tool-sbt.html"
+                          },
+                          {
+                              "title":  "Introduction to SBT on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/sbt-intro"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SY6uRGxuo_sXA_R0t8uLJ",
+        "label":  "Mill",
+        "endpoint":  "https://roadmap.sh/scala/topic@SY6uRGxuo_sXA_R0t8uLJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mill Official Documentation",
+                              "type":  "article",
+                              "url":  "https://mill-build.org/mill/index.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tYMRMVFon8V--pXLeye0U",
+        "label":  "Gradle",
+        "endpoint":  "https://roadmap.sh/scala/topic@tYMRMVFon8V--pXLeye0U.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gradle Fundamentals on Udemy",
+                              "type":  "course",
+                              "url":  "https://www.udemy.com/course/gradle-fundamentals/"
+                          },
+                          {
+                              "title":  "Gradle Guides",
+                              "type":  "official",
+                              "url":  "https://gradle.org/guides/"
+                          },
+                          {
+                              "title":  "Gradle User Manual",
+                              "type":  "official",
+                              "url":  "https://docs.gradle.org/current/userguide/userguide.html"
+                          },
+                          {
+                              "title":  "Gradle Tutorial on TutorialsPoint",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/gradle/index.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6D5cj3ekHNkZPy1Z8ONaQ",
+        "label":  "Maven",
+        "endpoint":  "https://roadmap.sh/scala/topic@6D5cj3ekHNkZPy1Z8ONaQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Maven in 5 Minutes",
+                              "type":  "official",
+                              "url":  "https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html"
+                          },
+                          {
+                              "title":  "Maven Tutorial on TutorialsPoint",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/maven/index.htm"
+                          },
+                          {
+                              "title":  "Apache Maven Tutorial on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/maven"
+                          },
+                          {
+                              "title":  "Maven Complete Tutorial for Beginners on DEV Community",
+                              "type":  "article",
+                              "url":  "https://dev.to/saiupadhyayula/maven-complete-tutorial-for-beginners-1jek"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BIeOReaWlfP0SkFl1B44M",
+        "label":  "Ecosystems",
+        "endpoint":  "https://roadmap.sh/scala/topic@BIeOReaWlfP0SkFl1B44M.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5A-62SFAXUd4OAEGd_RRz",
+        "label":  "Cats",
+        "endpoint":  "https://roadmap.sh/scala/topic@5A-62SFAXUd4OAEGd_RRz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cats Course on Rock the JVM",
+                              "type":  "course",
+                              "url":  "https://rockthejvm.com/courses/cats"
+                          },
+                          {
+                              "title":  "Cats Effect Documentation",
+                              "type":  "official",
+                              "url":  "https://typelevel.org/cats-effect/"
+                          },
+                          {
+                              "title":  "Cats GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/typelevel/cats"
+                          },
+                          {
+                              "title":  "Cats Tutorial on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/cats-intro"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "e7zcJd-SAYV_LGAZPCnSa",
+        "label":  "ZIO",
+        "endpoint":  "https://roadmap.sh/scala/topic@e7zcJd-SAYV_LGAZPCnSa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZIO Course on Rock the JVM",
+                              "type":  "course",
+                              "url":  "https://rockthejvm.com/courses/zio"
+                          },
+                          {
+                              "title":  "ZIO Official Website",
+                              "type":  "official",
+                              "url":  "https://zio.dev/"
+                          },
+                          {
+                              "title":  "ZIO GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/zio/zio"
+                          },
+                          {
+                              "title":  "Introduction to ZIO on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/zio-intro"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OYiz0dgiVjYilNRSjh9la",
+        "label":  "Li Haoyi",
+        "endpoint":  "https://roadmap.sh/scala/topic@OYiz0dgiVjYilNRSjh9la.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Li Haoyi\u0027s Programming Blog",
+                              "type":  "official",
+                              "url":  "http://www.lihaoyi.com/"
+                          },
+                          {
+                              "title":  "com-lihaoyi GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/com-lihaoyi"
+                          },
+                          {
+                              "title":  "12 Years of the com.lihaoyi Scala Platform",
+                              "type":  "article",
+                              "url":  "https://www.lihaoyi.com/post/12yearsofthecomlihaoyiScalaPlatform.html"
+                          },
+                          {
+                              "title":  "Hands-on Scala Programming",
+                              "type":  "article",
+                              "url":  "https://www.handsonscala.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vsfwt3tvLDhJoRyA82bM1",
+        "label":  "Akka / Pekko",
+        "endpoint":  "https://roadmap.sh/scala/topic@vsfwt3tvLDhJoRyA82bM1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Akka/Pekko Essentials Course on Rock the JVM",
+                              "type":  "course",
+                              "url":  "https://rockthejvm.com/courses/akka-apache-pekko-essentials-with-scala"
+                          },
+                          {
+                              "title":  "Apache Pekko Official Website",
+                              "type":  "official",
+                              "url":  "https://pekko.apache.org/"
+                          },
+                          {
+                              "title":  "Akka Documentation on Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Akka_%28toolkit%29"
+                          },
+                          {
+                              "title":  "Introduction to Apache Pekko on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/apache-pekko"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1pq3RFK0DokxqYAuwfdF8",
+        "label":  "No Ecosystem",
+        "endpoint":  "https://roadmap.sh/scala/topic@1pq3RFK0DokxqYAuwfdF8.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pYZHgxBvh3Au3bCFuLWn2",
+        "label":  "Platforms",
+        "endpoint":  "https://roadmap.sh/scala/topic@pYZHgxBvh3Au3bCFuLWn2.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Gy7AaiqSL_38yB73C5W5B",
+        "label":  "JVM",
+        "endpoint":  "https://roadmap.sh/scala/topic@Gy7AaiqSL_38yB73C5W5B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Documentation on JDK Compatibility",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/overviews/jdk-compatibility/overview.html"
+                          },
+                          {
+                              "title":  "TutorialsPoint: Understanding Java JDK, JRE, and JVM",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/java/java-jdk-jre-jvm.htm"
+                          },
+                          {
+                              "title":  "Scala and JVM Basics on Toptal",
+                              "type":  "article",
+                              "url":  "https://www.toptal.com/scala/scala-bytecode-and-the-jvm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4_gOylCtzBT6n1_GBzZdD",
+        "label":  "Scala Native",
+        "endpoint":  "https://roadmap.sh/scala/topic@4_gOylCtzBT6n1_GBzZdD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Native Documentation",
+                              "type":  "official",
+                              "url":  "https://scala-native.org/"
+                          },
+                          {
+                              "title":  "Scala Native GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/scala-native/scala-native"
+                          },
+                          {
+                              "title":  "Getting Started with Scala Native: A Comprehensive Guide for Beginners",
+                              "type":  "article",
+                              "url":  "https://medium.com/@diehardankush/getting-started-with-scala-native-a-comprehensive-guide-for-beginners-dedafeed7f25"
+                          },
+                          {
+                              "title":  "Building Native Applications in Scala Using Scala Native | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/native-apps-scala-native"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "phv4IeRtLcWcLJuiradiv",
+        "label":  "Scala.js",
+        "endpoint":  "https://roadmap.sh/scala/topic@phv4IeRtLcWcLJuiradiv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala.js Official Website",
+                              "type":  "official",
+                              "url":  "https://www.scala-js.org/"
+                          },
+                          {
+                              "title":  "Hands-on Scala.js",
+                              "type":  "article",
+                              "url":  "https://www.lihaoyi.com/hands-on-scala-js/"
+                          },
+                          {
+                              "title":  "Introduction to Scala.js | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/scala-js"
+                          },
+                          {
+                              "title":  "The importance of Scala.js",
+                              "type":  "article",
+                              "url":  "https://www.scalawilliam.com/importance-scalajs/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Qm2AQa8AJtmMo_eidqCrz",
+        "label":  "Referencial Transparency",
+        "endpoint":  "https://roadmap.sh/scala/topic@Qm2AQa8AJtmMo_eidqCrz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Functional Programming Patterns book",
+                              "type":  "book",
+                              "url":  "https://www.oreilly.com/library/view/scala-functional-programming/9781783985845/ch01s05.html"
+                          },
+                          {
+                              "title":  "Scala Best Practices - Referential transparency",
+                              "type":  "article",
+                              "url":  "https://nrinaudo.github.io/scala-best-practices/definitions/referential_transparency.html"
+                          },
+                          {
+                              "title":  "Referential Transparency in Scala - liveBook by Manning",
+                              "type":  "article",
+                              "url":  "https://livebook.manning.com/concept/scala/referential-transparency"
+                          },
+                          {
+                              "title":  "Referential Transparency - Learning Journal",
+                              "type":  "article",
+                              "url":  "https://www.learningjournal.guru/article/scala/functional-programming/referential-transparency/"
+                          },
+                          {
+                              "title":  "Scala Tutorials Part #21 - Referential transparency",
+                              "type":  "article",
+                              "url":  "https://madusudanan.com/blog/scala-tutorials-part-21-referential-transparency/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "glMo7kvwKxS3M6pBrGhNn",
+        "label":  "Pure Functions",
+        "endpoint":  "https://roadmap.sh/scala/topic@glMo7kvwKxS3M6pBrGhNn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pure Functions - Scala 3 Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/fp-pure-functions.html"
+                          },
+                          {
+                              "title":  "Pure Function vs Referential Transparency",
+                              "type":  "article",
+                              "url":  "https://edward-huang.com/functional-programming/tech/programming/scala/2020/01/30/pure-function-vs-referential-transparency/"
+                          },
+                          {
+                              "title":  "Referential Transparency in Scala Pt. I - Pure functions",
+                              "type":  "article",
+                              "url":  "https://rafaelvindelamor.dev/posts/referential-transparency-in-scala-pt-i-pure-functions/"
+                          },
+                          {
+                              "title":  "Scala best practice: Create methods that have no side effects (pure functions)",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/how-to-create-scala-methods-no-side-effects-pure-functions/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PEQNPOy-j2BdL_NQYoq7g",
+        "label":  "Monads",
+        "endpoint":  "https://roadmap.sh/scala/topic@PEQNPOy-j2BdL_NQYoq7g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monads in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/monads"
+                          },
+                          {
+                              "title":  "An Introduction to Monads in Scala | Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/an-introduction-to-monads-in-scala"
+                          },
+                          {
+                              "title":  "Demystifying the Monad in Scala",
+                              "type":  "article",
+                              "url":  "https://medium.com/free-code-camp/demystifying-the-monad-in-scala-cc716bb6f534"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1mSU2_4W0bAMAph5jf7KC",
+        "label":  "Category Theory",
+        "endpoint":  "https://roadmap.sh/scala/topic@1mSU2_4W0bAMAph5jf7KC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "\"Category Theory for Programmers\" by Bartosz Milewski",
+                              "type":  "article",
+                              "url":  "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "upZK3qxWKokNL3tlFKhK6",
+        "label":  "Variance",
+        "endpoint":  "https://roadmap.sh/scala/topic@upZK3qxWKokNL3tlFKhK6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Context Bounds | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/ca-context-bounds.html"
+                          },
+                          {
+                              "title":  "Demystifying View and Context Bounds | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/view-context-bounds"
+                          },
+                          {
+                              "title":  "Context Bounds - Scala 3 - EPFL",
+                              "type":  "article",
+                              "url":  "https://dotty.epfl.ch/docs/reference/contextual/context-bounds.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "96F_G2PY8VG_Et9g4DFX2",
+        "label":  "Context Bounds",
+        "endpoint":  "https://roadmap.sh/scala/topic@96F_G2PY8VG_Et9g4DFX2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Context Bounds | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/ca-context-bounds.html"
+                          },
+                          {
+                              "title":  "Demystifying View and Context Bounds | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/view-context-bounds"
+                          },
+                          {
+                              "title":  "Context Bounds - Scala 3 - EPFL",
+                              "type":  "article",
+                              "url":  "https://dotty.epfl.ch/docs/reference/contextual/context-bounds.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RNBawkn6jQsX4fAjMBfo2",
+        "label":  "Typeclasses",
+        "endpoint":  "https://roadmap.sh/scala/topic@RNBawkn6jQsX4fAjMBfo2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Classes | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/ca-type-classes.html"
+                          },
+                          {
+                              "title":  "Type classes in Scala - Ad-hoc polymorphism - Scalac.io",
+                              "type":  "article",
+                              "url":  "https://scalac.io/blog/typeclasses-in-scala/"
+                          },
+                          {
+                              "title":  "Demystifying Type Classes in Scala: A Simple Guide | by Remis Haroon | Medium",
+                              "type":  "article",
+                              "url":  "https://medium.com/@remisharoon/demystifying-type-classes-in-scala-a-simple-guide-3a4766a59818"
+                          },
+                          {
+                              "title":  "Type Classes in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/type-classes"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kbO0eO3UhUzPGaPvZKc_N",
+        "label":  "Capture Checking",
+        "endpoint":  "https://roadmap.sh/scala/topic@kbO0eO3UhUzPGaPvZKc_N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Capture Checking",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/reference/experimental/cc.html"
+                          },
+                          {
+                              "title":  "Understanding Capture Checking in Scala | SoftwareMill",
+                              "type":  "article",
+                              "url":  "https://softwaremill.com/understanding-capture-checking-in-scala/"
+                          },
+                          {
+                              "title":  "Capture Checking Basics",
+                              "type":  "article",
+                              "url":  "https://nightly.scala-lang.org/docs/reference/experimental/capture-checking/basics.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kRM_HTRUvZ7xXjffu53Aw",
+        "label":  "Capabilities",
+        "endpoint":  "https://roadmap.sh/scala/topic@kRM_HTRUvZ7xXjffu53Aw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "https://nrinaudo.github.io/articles/capabilities.html",
+                              "type":  "article",
+                              "url":  "https://nrinaudo.github.io/articles/capabilities.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pvYS9XusP0WPCMvrOtHgr",
+        "label":  "Type System",
+        "endpoint":  "https://roadmap.sh/scala/topic@pvYS9XusP0WPCMvrOtHgr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Types and the Type System | Scala 3 - Book | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/book/types-introduction.html"
+                          },
+                          {
+                              "title":  "Type Hierarchies in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/type-hierarchies"
+                          },
+                          {
+                              "title":  "Chapter 6. The Type System · Scala in Depth",
+                              "type":  "article",
+                              "url":  "https://livebook.manning.com/book/scala-in-depth/chapter-6"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mq3uKXW57PdAkbuSBsznD",
+        "label":  "Macros",
+        "endpoint":  "https://roadmap.sh/scala/topic@mq3uKXW57PdAkbuSBsznD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala 3 Macros | Macros in Scala 3 | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/guides/macros/macros.html"
+                          },
+                          {
+                              "title":  "Tutorial | Macros in Scala 3 | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/scala3/guides/macros/"
+                          },
+                          {
+                              "title":  "Scala 3 macros tips \u0026 tricks | SoftwareMill Blog",
+                              "type":  "article",
+                              "url":  "https://softwaremill.com/scala-3-macros-tips-and-tricks/"
+                          },
+                          {
+                              "title":  "Guide to Scala 3 Macros | Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/scala-3-macros-comprehensive-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B-akazRqoFzc1EOuF7qQx",
+        "label":  "Testing",
+        "endpoint":  "https://roadmap.sh/scala/topic@B-akazRqoFzc1EOuF7qQx.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9JxLFMiWH7YAINTpoMhCA",
+        "label":  "ScalaTest",
+        "endpoint":  "https://roadmap.sh/scala/topic@9JxLFMiWH7YAINTpoMhCA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ScalaTest Official Website",
+                              "type":  "official",
+                              "url":  "https://www.scalatest.org/"
+                          },
+                          {
+                              "title":  "Introduction to Testing With ScalaTest | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/scalatest"
+                          },
+                          {
+                              "title":  "Unit testing in scala using scalatest | by Harshal Patel | Medium",
+                              "type":  "article",
+                              "url":  "https://hrpatel6699.medium.com/unit-testing-in-scala-using-scalatest-a73319c094f6"
+                          },
+                          {
+                              "title":  "Scala Testing with ScalaTest: A Beginner\u0027s Guide to Testing Styles | Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/scala-testing-with-scalatest-a-beginners-guide-to-testing-styles"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Oel8HKCRp5AlaDrsVMRu4",
+        "label":  "mUnit",
+        "endpoint":  "https://roadmap.sh/scala/topic@Oel8HKCRp5AlaDrsVMRu4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Testing with MUnit | The Scala Toolkit | Scala Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/toolkit/testing-intro.html"
+                          },
+                          {
+                              "title":  "Getting started · MUnit",
+                              "type":  "official",
+                              "url":  "https://scalameta.org/munit/docs/getting-started.html"
+                          },
+                          {
+                              "title":  "Introduction to MUnit | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/munit-introduction"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ja0keWOyCECHo-dXgwFK8",
+        "label":  "uTest",
+        "endpoint":  "https://roadmap.sh/scala/topic@Ja0keWOyCECHo-dXgwFK8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub - com-lihaoyi/utest: A simple testing framework for Scala",
+                              "type":  "opensource",
+                              "url":  "https://github.com/com-lihaoyi/utest"
+                          },
+                          {
+                              "title":  "Introduction to uTest | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/utest-intro"
+                          },
+                          {
+                              "title":  "Unit testing with Scala: Libraries landscape | by Ivan Kurchenko | Medium",
+                              "type":  "article",
+                              "url":  "https://ivan-kurchenko.medium.com/testing-with-scala-libraries-landscape-61b4c6403455"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iD1fWHJi5mS38R5mQ7g3_",
+        "label":  "ScalaTest",
+        "endpoint":  "https://roadmap.sh/scala/topic@iD1fWHJi5mS38R5mQ7g3_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ScalaTest Official Website",
+                              "type":  "official",
+                              "url":  "https://www.scalatest.org/"
+                          },
+                          {
+                              "title":  "Introduction to Testing With ScalaTest | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/scalatest"
+                          },
+                          {
+                              "title":  "Unit testing in scala using scalatest | by Harshal Patel | Medium",
+                              "type":  "article",
+                              "url":  "https://hrpatel6699.medium.com/unit-testing-in-scala-using-scalatest-a73319c094f6"
+                          },
+                          {
+                              "title":  "Scala Testing with ScalaTest: A Beginner\u0027s Guide to Testing Styles | Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/scala-testing-with-scalatest-a-beginners-guide-to-testing-styles"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "55CbOuD2qX3oWzSIfBRlu",
+        "label":  "Gatling",
+        "endpoint":  "https://roadmap.sh/scala/topic@55CbOuD2qX3oWzSIfBRlu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gatling documentation",
+                              "type":  "official",
+                              "url":  "https://docs.gatling.io/"
+                          },
+                          {
+                              "title":  "Load Testing in Java, Kotlin and Scala | Gatling Blog",
+                              "type":  "official",
+                              "url":  "https://gatling.io/blog/java-kotlin-or-scala-which-gatling-flavor-is-right-for-you"
+                          },
+                          {
+                              "title":  "Testing With Gatling Using Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/gatling-load-testing"
+                          },
+                          {
+                              "title":  "Distributed Performance Testing with Gatling | Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/gatling-distributed-perf-testing"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qKy9u6fJoMfRAMlnTv816",
+        "label":  "JUnit",
+        "endpoint":  "https://roadmap.sh/scala/topic@qKy9u6fJoMfRAMlnTv816.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "JUnit 5 tutorial - Learn how to write unit tests",
+                              "type":  "article",
+                              "url":  "https://www.vogella.com/tutorials/JUnit/article.html"
+                          },
+                          {
+                              "title":  "A Guide to JUnit 5 | Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/junit-5"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7ki2PYRU5cJqwqMbC4wOz",
+        "label":  "ZIO Test",
+        "endpoint":  "https://roadmap.sh/scala/topic@7ki2PYRU5cJqwqMbC4wOz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to ZIO Test | ZIO",
+                              "type":  "article",
+                              "url":  "https://zio.dev/reference/test/"
+                          },
+                          {
+                              "title":  "Testing ZIO Applications Using ZIO Test | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/zio-test"
+                          },
+                          {
+                              "title":  "Test Aspects in ZIO Test | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/zio-test-aspects"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "99N6zSHIiXLnSWroEpZZm",
+        "label":  "specs2",
+        "endpoint":  "https://roadmap.sh/scala/topic@99N6zSHIiXLnSWroEpZZm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Specs2 - Testing in Scala Book",
+                              "type":  "book",
+                              "url":  "https://www.oreilly.com/library/view/testing-in-scala/9781449360313/ch04.html"
+                          },
+                          {
+                              "title":  "Specs2 - Scalatra",
+                              "type":  "official",
+                              "url":  "https://scalatra.org/guides/2.6/testing/specs2.html"
+                          },
+                          {
+                              "title":  "How to make working with Specs2 much easier - Scalac",
+                              "type":  "article",
+                              "url":  "https://scalac.io/blog/specs2-working-testing/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GJVtKkllXuiMqUb3K7mUc",
+        "label":  "Cats Effect",
+        "endpoint":  "https://roadmap.sh/scala/topic@GJVtKkllXuiMqUb3K7mUc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cats Effect · The pure asynchronous runtime for ScalaGitHub - typelevel/cats-effect: The pure asynchronous runtime for Scala",
+                              "type":  "official",
+                              "url":  "https://typelevel.org/cats-effect/"
+                          },
+                          {
+                              "title":  "Learning Cats Effects - Undertstanding Effects 😼 | by Francisco Perrotta | Medium",
+                              "type":  "article",
+                              "url":  "https://github.com/typelevel/cats-effect"
+                          },
+                          {
+                              "title":  "Resource Handling in Cats Effect | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/cats-effect-resource-handling"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y4ulspoL7KKUilPG98KWd",
+        "label":  "ZIO",
+        "endpoint":  "https://roadmap.sh/scala/topic@y4ulspoL7KKUilPG98KWd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub - zio/zio: ZIO - A type-safe, composable library for async and concurrent programming in Scala",
+                              "type":  "opensource",
+                              "url":  "https://github.com/zio/zio"
+                          },
+                          {
+                              "title":  "Introduction to ZIO | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/zio-intro"
+                          },
+                          {
+                              "title":  "What is ZIO? - Overview, Benefits and Case Studies",
+                              "type":  "article",
+                              "url":  "https://scalac.io/zio/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JuFghXpaI3uHtTckgmYeb",
+        "label":  "Effect Systems",
+        "endpoint":  "https://roadmap.sh/scala/topic@JuFghXpaI3uHtTckgmYeb.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RpAAmXmhMgIhuzgRBFcPj",
+        "label":  "Backend",
+        "endpoint":  "https://roadmap.sh/scala/topic@RpAAmXmhMgIhuzgRBFcPj.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mGxkqA78ZW3oV79RPWz5J",
+        "label":  "Scalatra",
+        "endpoint":  "https://roadmap.sh/scala/topic@mGxkqA78ZW3oV79RPWz5J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting started with Scalatra",
+                              "type":  "official",
+                              "url":  "https://scalatra.org/getting-started/first-project.html"
+                          },
+                          {
+                              "title":  "GitHub - scalatra/scalatra: Tiny Scala high-performance, async web framework, inspired by Sinatra",
+                              "type":  "opensource",
+                              "url":  "https://github.com/scalatra/scalatra"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Igr2iwZBn3qO6X5ol3YMt",
+        "label":  "sttp",
+        "endpoint":  "https://roadmap.sh/scala/topic@Igr2iwZBn3qO6X5ol3YMt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Usage examples - sttp 3 documentation",
+                              "type":  "official",
+                              "url":  "https://sttp.softwaremill.com/en/v3.0.0/examples.html"
+                          },
+                          {
+                              "title":  "Sending HTTP requests with sttp | The Scala Toolkit | Scala Documentation",
+                              "type":  "opensource",
+                              "url":  "https://github.com/scalatra/scalatra"
+                          },
+                          {
+                              "title":  "Introducing sttp | SoftwareMill",
+                              "type":  "article",
+                              "url":  "https://softwaremill.com/introducing-sttp-the-scala-http-client/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "82TpZ2W8LJBEEEjTo8_kD",
+        "label":  "AkkaHTTP",
+        "endpoint":  "https://roadmap.sh/scala/topic@82TpZ2W8LJBEEEjTo8_kD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Akka HTTP | Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/akka-http"
+                          },
+                          {
+                              "title":  "Introduction to Akka HTTP in Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/akka-http"
+                          },
+                          {
+                              "title":  "Sending HTTP Requests in 5 Minutes With Scala and Akka HTTP",
+                              "type":  "article",
+                              "url":  "https://dzone.com/articles/sending-http-requests-in-5-mins-with-scala-and-akk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VDbh6YkcPssmp2hcZdOt1",
+        "label":  "Play",
+        "endpoint":  "https://roadmap.sh/scala/topic@VDbh6YkcPssmp2hcZdOt1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started with Play Framework",
+                              "type":  "official",
+                              "url":  "https://www.playframework.com/getting-started"
+                          },
+                          {
+                              "title":  "Play Framework - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Play_Framework"
+                          },
+                          {
+                              "title":  "What Is Play Framework? (Definition, Uses, Alternatives) | Built In",
+                              "type":  "article",
+                              "url":  "https://builtin.com/software-engineering-perspectives/play-framework"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2esx4ofgIGIGmdwHyDQg2",
+        "label":  "Tapir",
+        "endpoint":  "https://roadmap.sh/scala/topic@2esx4ofgIGIGmdwHyDQg2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Tapir | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/tapir"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LATumtt9T5nfP6-jSoM6i",
+        "label":  "http4s",
+        "endpoint":  "https://roadmap.sh/scala/topic@LATumtt9T5nfP6-jSoM6i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "http4s GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/http4s/http4s"
+                          },
+                          {
+                              "title":  "Introduction to http4s on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/http4s-intro"
+                          },
+                          {
+                              "title":  "http4s Tutorial on Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/http4s-unleashing-the-power-of-http-apis-library"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Jf3fxng9tN6PCycXyy5PE",
+        "label":  "GUI",
+        "endpoint":  "https://roadmap.sh/scala/topic@Jf3fxng9tN6PCycXyy5PE.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MAsfpdZSMpl9P3ulQbl4i",
+        "label":  "Concurrency",
+        "endpoint":  "https://roadmap.sh/scala/topic@MAsfpdZSMpl9P3ulQbl4i.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "STbiR-fcScKwFwkGDoTh8",
+        "label":  "Data Handling",
+        "endpoint":  "https://roadmap.sh/scala/topic@STbiR-fcScKwFwkGDoTh8.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QaJAFu-xHUAGK7fjncQJB",
+        "label":  "Distributed Computing",
+        "endpoint":  "https://roadmap.sh/scala/topic@QaJAFu-xHUAGK7fjncQJB.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vwvykjlIYXiNi2yfWZcrq",
+        "label":  "Video game Engines",
+        "endpoint":  "https://roadmap.sh/scala/topic@vwvykjlIYXiNi2yfWZcrq.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sWzy6blDheaOBOpwg5lou",
+        "label":  "Macros \u0026 the Type System",
+        "endpoint":  "https://roadmap.sh/scala/topic@sWzy6blDheaOBOpwg5lou.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Mp7N98NLWQptk6w5totGR",
+        "label":  "GraalVM Native Image",
+        "endpoint":  "https://roadmap.sh/scala/topic@Mp7N98NLWQptk6w5totGR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub - scalameta/sbt-native-image: Plugin to generate native-image binaries with sbt",
+                              "type":  "opensource",
+                              "url":  "https://github.com/scalameta/sbt-native-image"
+                          },
+                          {
+                              "title":  "GraalVM with Scala | Baeldung on Scala",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/graalvm"
+                          },
+                          {
+                              "title":  "Packaging as GraalVM native images ⚡ | Scala CLI",
+                              "type":  "article",
+                              "url":  "https://scala-cli.virtuslab.org/docs/cookbooks/package/native-images/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rG1Xfa4gmO_U61MTW_QPd",
+        "label":  "Slinky",
+        "endpoint":  "https://roadmap.sh/scala/topic@rG1Xfa4gmO_U61MTW_QPd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Slinky \"Hello, world\" Tutorial",
+                              "type":  "article",
+                              "url":  "https://alvinalexander.com/scala/scala.js-slinky-hello-world-tutorial-example/"
+                          },
+                          {
+                              "title":  "Slinky and React Tutorial",
+                              "type":  "article",
+                              "url":  "https://pme123.medium.com/slinky-doing-react-the-scala-way-f78ccf42bf8f"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tMM4YlW3c3e8HYW16SOqS",
+        "label":  "Calico",
+        "endpoint":  "https://roadmap.sh/scala/topic@tMM4YlW3c3e8HYW16SOqS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Calico GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/armanbilge/calico"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pU1ELrp98okX5IOW8sNiX",
+        "label":  "ScalaFX",
+        "endpoint":  "https://roadmap.sh/scala/topic@pU1ELrp98okX5IOW8sNiX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ScalaFX",
+                              "type":  "official",
+                              "url":  "https://scalafx.org/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V0CMqxJh3IZ3Npvp2z7Af",
+        "label":  "JavaFX",
+        "endpoint":  "https://roadmap.sh/scala/topic@V0CMqxJh3IZ3Npvp2z7Af.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official JavaFX Documentation",
+                              "type":  "official",
+                              "url":  "https://openjfx.io/openjfx-docs/"
+                          },
+                          {
+                              "title":  "JavaFX Tutorial on TutorialsPoint",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/javafx/index.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZH55uB8H48i9mKBtCDciZ",
+        "label":  "Laminar",
+        "endpoint":  "https://roadmap.sh/scala/topic@ZH55uB8H48i9mKBtCDciZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Laminar Website",
+                              "type":  "official",
+                              "url":  "https://laminar.dev/"
+                          },
+                          {
+                              "title":  "Laminar Documentation",
+                              "type":  "official",
+                              "url":  "https://laminar.dev/documentation"
+                          },
+                          {
+                              "title":  "Build UIs with Laminar - Scala.js Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.scala-js.org/doc/tutorial/laminar.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vsG9D5ZmCMvPaTRmVgYyn",
+        "label":  "scala-android-plugin",
+        "endpoint":  "https://roadmap.sh/scala/topic@vsG9D5ZmCMvPaTRmVgYyn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "scala-android-plugin",
+                              "type":  "article",
+                              "url":  "https://github.com/onsqcorp/scala-android-plugin"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LWum40Gr36CMuCgoTCNHM",
+        "label":  "Scala on Android",
+        "endpoint":  "https://roadmap.sh/scala/topic@LWum40Gr36CMuCgoTCNHM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala on Android",
+                              "type":  "article",
+                              "url":  "https://github.com/makingthematrix/scalaonandroid"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "A9CpbbZ_Q9zIkVX5Rgyp6",
+        "label":  "React.js",
+        "endpoint":  "https://roadmap.sh/scala/topic@A9CpbbZ_Q9zIkVX5Rgyp6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Building Web Applications with Scala.js and React",
+                              "type":  "article",
+                              "url":  "https://enear.github.io/2017/03/07/scalajs-react-part1/"
+                          },
+                          {
+                              "title":  "Building a Frontend Application with Scala.js and React",
+                              "type":  "article",
+                              "url":  "https://medium.com/codinoverse/building-a-frontend-application-with-scala-js-and-react-a-detailed-guide-f89317d958c7"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eHbMh_KO2ezvMm-LyhkCR",
+        "label":  "Ox",
+        "endpoint":  "https://roadmap.sh/scala/topic@eHbMh_KO2ezvMm-LyhkCR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ox Documentation",
+                              "type":  "official",
+                              "url":  "https://ox.softwaremill.com/latest/"
+                          },
+                          {
+                              "title":  "IO Effect Tracking with Ox",
+                              "type":  "article",
+                              "url":  "https://softwaremill.com/io-effect-tracking-using-ox/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ERnBDDZA1VjdRryqQ-iOy",
+        "label":  "FS2",
+        "endpoint":  "https://roadmap.sh/scala/topic@ERnBDDZA1VjdRryqQ-iOy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to FS2 on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/fs2-functional-streams"
+                          },
+                          {
+                              "title":  "FS2 on Medium",
+                              "type":  "article",
+                              "url":  "https://taogang.medium.com/the-evolution-of-stream-processing-part-7-fs2-an-elegant-practitioner-of-functional-f52a0e55dd8e"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AhgoqMHyHn4lX6eMJuxZt",
+        "label":  "Kyo",
+        "endpoint":  "https://roadmap.sh/scala/topic@AhgoqMHyHn4lX6eMJuxZt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Writing Modular Applications Using The Kyo Library",
+                              "type":  "article",
+                              "url":  "https://www.scalamatters.io/post/writing-modular-applications-using-the-kyo-library"
+                          },
+                          {
+                              "title":  "Kyo Presentation at Functional Scala 2023",
+                              "type":  "article",
+                              "url":  "https://speakerdeck.com/fwbrasil/kyo-functional-scala-2023"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "g1CpD832hLdZruCtNf7SX",
+        "label":  "Akka \u0026 Peko Streams",
+        "endpoint":  "https://roadmap.sh/scala/topic@g1CpD832hLdZruCtNf7SX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pekko Streams Cookbook",
+                              "type":  "official",
+                              "url":  "https://pekko.apache.org/docs/pekko/current/stream/stream-cookbook.html"
+                          },
+                          {
+                              "title":  "Guide to Akka Streams on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/akka-streams"
+                          },
+                          {
+                              "title":  "Introduction to Akka Streams on Medium",
+                              "type":  "article",
+                              "url":  "https://arcagarwal.medium.com/introduction-to-akka-streams-5155bd070e37"
+                          },
+                          {
+                              "title":  "Akka/Apache Pekko Streams with Scala on Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/courses/akka-apache-pekko-streams-with-scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0d5OXgNaqc1_iwcGYiYmw",
+        "label":  "Gears",
+        "endpoint":  "https://roadmap.sh/scala/topic@0d5OXgNaqc1_iwcGYiYmw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gears Book",
+                              "type":  "book",
+                              "url":  "https://blog.nkagami.me/gears-book/"
+                          },
+                          {
+                              "title":  "Gears Documentation",
+                              "type":  "official",
+                              "url":  "https://lampepfl.github.io/gears/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jkWYgSLimg3O7ddN_8rb-",
+        "label":  "ZIO Streams",
+        "endpoint":  "https://roadmap.sh/scala/topic@jkWYgSLimg3O7ddN_8rb-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZIO Streams Introduction on Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/zio-streams-introduction"
+                          },
+                          {
+                              "title":  "Introduction to ZIO Streams on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/zio-streams-intro"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z6TGywyQRmvbZaHnF_-eQ",
+        "label":  "Spark",
+        "endpoint":  "https://roadmap.sh/scala/topic@z6TGywyQRmvbZaHnF_-eQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Spark Docs",
+                              "type":  "official",
+                              "url":  "https://spark.apache.org/docs/latest/"
+                          },
+                          {
+                              "title":  "Big Data Analysis with Scala and Spark on Coursera",
+                              "type":  "article",
+                              "url":  "https://www.coursera.org/learn/scala-spark-big-data"
+                          },
+                          {
+                              "title":  "Apache Spark with Scala Guide",
+                              "type":  "article",
+                              "url":  "https://www.chaosgenius.io/blog/apache-spark-with-scala/"
+                          },
+                          {
+                              "title":  "Read Articles about Apache Spark",
+                              "type":  "article",
+                              "url":  "https://towardsdatascience.com/tag/apache-spark/?utm_source=roadmap\u0026utm_medium=Referral\u0026utm_campaign=TDS+roadmap+integration"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bXliqiEXUKvqlJ391hHE1",
+        "label":  "Akka",
+        "endpoint":  "https://roadmap.sh/scala/topic@bXliqiEXUKvqlJ391hHE1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Akka Classic Essentials with Scala on Udemy",
+                              "type":  "course",
+                              "url":  "https://www.udemy.com/course/akka-essentials/"
+                          },
+                          {
+                              "title":  "Akka Tutorials on All About Scala",
+                              "type":  "article",
+                              "url":  "https://allaboutscala.com/scala-frameworks/akka/"
+                          },
+                          {
+                              "title":  "Introductory Guide to Akka on Toptal",
+                              "type":  "article",
+                              "url":  "https://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dS2USmMlQb4EjY9hvG_by",
+        "label":  "Pekko",
+        "endpoint":  "https://roadmap.sh/scala/topic@dS2USmMlQb4EjY9hvG_by.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Apache Pekko on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/apache-pekko"
+                          },
+                          {
+                              "title":  "Akka/Apache Pekko Essentials with Scala on Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/courses/akka-apache-pekko-essentials-with-scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L8g7EogMi61pF7Rxv5Srn",
+        "label":  "Slick",
+        "endpoint":  "https://roadmap.sh/scala/topic@L8g7EogMi61pF7Rxv5Srn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Slick on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/slick-intro"
+                          },
+                          {
+                              "title":  "Getting Started with Slick on Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/getting-started-with-scala-slick"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gT46TnxsNzWOIfBvxPb5n",
+        "label":  "PlayJSON",
+        "endpoint":  "https://roadmap.sh/scala/topic@gT46TnxsNzWOIfBvxPb5n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tutorial on Using PlayJSON",
+                              "type":  "article",
+                              "url":  "https://riptutorial.com/scala/example/13542/json-with-play-json"
+                          },
+                          {
+                              "title":  "Example of Using PlayJSON with Scala",
+                              "type":  "article",
+                              "url":  "https://dev.to/cuongld2/parse-json-to-object-models-in-scala-using-play-json-11im"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "J5RuMesa74X122XHVgnFY",
+        "label":  "Circe",
+        "endpoint":  "https://roadmap.sh/scala/topic@J5RuMesa74X122XHVgnFY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tutorial on Circe",
+                              "type":  "article",
+                              "url":  "https://guillaumebogard.dev/videos/json-handling-scala-circe/"
+                          },
+                          {
+                              "title":  "Circe Tips and Tricks",
+                              "type":  "article",
+                              "url":  "https://medium.com/@famlyengineering/circe-tips-and-tricks-c2899e8c1967"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Qc8YYIBFQb2JzHRTPVn86",
+        "label":  "ScalikeJDBC",
+        "endpoint":  "https://roadmap.sh/scala/topic@Qc8YYIBFQb2JzHRTPVn86.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ScalikeJDBC Cookbook",
+                              "type":  "official",
+                              "url":  "https://scalikejdbc.gitbooks.io/scalikejdbc-cookbook/content/en/"
+                          },
+                          {
+                              "title":  "ScalikeJDBC Tutorial for Beginners",
+                              "type":  "article",
+                              "url":  "https://www.slideshare.net/seratch/scalikejdbc-tutorial-for-beginners"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SYZPgKGQUqX729Yo54eZk",
+        "label":  "Doobie",
+        "endpoint":  "https://roadmap.sh/scala/topic@SYZPgKGQUqX729Yo54eZk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Doobie on Baeldung",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/doobie-intro"
+                          },
+                          {
+                              "title":  "Learning Doobie on Rock the JVM",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/learning-doobie-for-the-greater-good"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Fa8GRqxvzE5dq-nD4heEI",
+        "label":  "Quill",
+        "endpoint":  "https://roadmap.sh/scala/topic@Fa8GRqxvzE5dq-nD4heEI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Working with Databases using Scala and Quill",
+                              "type":  "article",
+                              "url":  "https://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html"
+                          },
+                          {
+                              "title":  "Compile-time Queries with Quill",
+                              "type":  "article",
+                              "url":  "https://scalac.io/blog/quill-compile-time-queries/"
+                          },
+                          {
+                              "title":  "Database Queries with Quill",
+                              "type":  "article",
+                              "url":  "https://livebook.manning.com/book/get-programming-with-scala/chapter-46/v-9"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kyYPX8_vvnjixMeZQTPqA",
+        "label":  "Jsoniter",
+        "endpoint":  "https://roadmap.sh/scala/topic@kyYPX8_vvnjixMeZQTPqA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Article on Jsoniter",
+                              "type":  "article",
+                              "url":  "https://blog.lambdaspot.dev/the-fastest-and-safest-json-parser-and-serializer-for-scala"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4GXTv2Rq2oyp5fZ5EqaMz",
+        "label":  "uPickle",
+        "endpoint":  "https://roadmap.sh/scala/topic@4GXTv2Rq2oyp5fZ5EqaMz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scala Toolkit Documentation on uPickle",
+                              "type":  "official",
+                              "url":  "https://docs.scala-lang.org/toolkit/json-intro.html"
+                          },
+                          {
+                              "title":  "Reading and Writing JSON with uPickle",
+                              "type":  "article",
+                              "url":  "https://medium.com/@umanium/reading-and-writing-json-string-with-upickle-on-scala-3-b9b029e8efa2"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XUg4x7MQTvXzmDkgkET7S",
+        "label":  "Indigo",
+        "endpoint":  "https://roadmap.sh/scala/topic@XUg4x7MQTvXzmDkgkET7S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Indigo",
+                              "type":  "official",
+                              "url":  "https://indigoengine.io/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Rz9OCeWj0y2cwfLrGuXqR",
+        "label":  "CosPlay",
+        "endpoint":  "https://roadmap.sh/scala/topic@Rz9OCeWj0y2cwfLrGuXqR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CosPlay",
+                              "type":  "official",
+                              "url":  "https://cosplayengine.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yogv_RewIk12S8Rh_FEtJ",
+        "label":  "LibGDX w/ Scala",
+        "endpoint":  "https://roadmap.sh/scala/topic@yogv_RewIk12S8Rh_FEtJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using libGDX with Scala",
+                              "type":  "official",
+                              "url":  "https://libgdx.com/wiki/jvm-langs/using-libgdx-with-scala"
+                          },
+                          {
+                              "title":  "scala-libgdx-examples on GitHub",
+                              "type":  "opensource",
+                              "url":  "https://github.com/rathboma/scala-libgdx-examples"
+                          },
+                          {
+                              "title":  "Game Programming in Scala with Libgdx and Box2D",
+                              "type":  "article",
+                              "url":  "https://blog.matthewrathbone.com/2012/10/22/game-programming-in-scala-with-libgdx-and-box2d.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DHdpzJxOlUnRRx5WhhWHi",
+        "label":  "Monocle",
+        "endpoint":  "https://roadmap.sh/scala/topic@DHdpzJxOlUnRRx5WhhWHi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monocle | Lens",
+                              "type":  "article",
+                              "url":  "https://www.scala-exercises.org/monocle/lens"
+                          },
+                          {
+                              "title":  "Introduction to Optics in Scala Using Monocle",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/monocle-optics"
+                          },
+                          {
+                              "title":  "Optics: a hands-on introduction in Scala",
+                              "type":  "article",
+                              "url":  "https://jonaschapuis.com/2018/07/optics-a-hands-on-introduction-in-scala/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TwS5Ms3BlAsR6E9aI81aF",
+        "label":  "Shapeless",
+        "endpoint":  "https://roadmap.sh/scala/topic@TwS5Ms3BlAsR6E9aI81aF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting started with Shapeless",
+                              "type":  "article",
+                              "url":  "https://jto.github.io/articles/getting-started-with-shapeless/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ISX09NZJh4HhKb5_d42sQ",
+        "label":  "Chimney",
+        "endpoint":  "https://roadmap.sh/scala/topic@ISX09NZJh4HhKb5_d42sQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Chimney Cookbook",
+                              "type":  "official",
+                              "url":  "https://chimney.readthedocs.io/en/stable/cookbook/"
+                          },
+                          {
+                              "title":  "Introduction to Chimney",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/scala/chimney-data-transformation-library"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sJqixwq4_tCCRBE3XKNuw",
+        "label":  "Scalameta",
+        "endpoint":  "https://roadmap.sh/scala/topic@sJqixwq4_tCCRBE3XKNuw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to code generation with Scalameta",
+                              "type":  "article",
+                              "url":  "https://www.michaelpollmeier.com/2016/12/01/scalameta-code-generation-tutorial"
+                          },
+                          {
+                              "title":  "Scalameta: A Redesigned Scala Macros Programming Tool Library",
+                              "type":  "article",
+                              "url":  "https://blog.krybot.com/t/scalameta-a-redesigned-scala-macros-programming-tool-library/2403"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YWog0o_t3XWQgGpjkzsnd",
+        "label":  "Magnolia",
+        "endpoint":  "https://roadmap.sh/scala/topic@YWog0o_t3XWQgGpjkzsnd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Blending Magnolia with Circe\u0027s trick for automatic derivation",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/50544041/blending-magnolia-with-circes-trick-for-automatic-derivation"
+                          },
+                          {
+                              "title":  "Intermediate\u0027s guide to derivations in Scala: Magnolia",
+                              "type":  "article",
+                              "url":  "https://blog.michal.pawlik.dev/posts/scala/scala-derivations-show/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-I2xIkYxxMhrTaajRQmG3",
+        "label":  "",
+        "endpoint":  "https://roadmap.sh/scala/topic@-I2xIkYxxMhrTaajRQmG3.json",
+        "status":  "source-content-empty",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

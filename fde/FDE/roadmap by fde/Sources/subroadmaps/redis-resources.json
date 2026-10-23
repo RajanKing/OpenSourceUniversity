@@ -1,0 +1,3964 @@
+[
+    {
+        "id":  "-3pADOHMDQ0H6ZKNjURyn",
+        "label":  "What is Redis?",
+        "endpoint":  "https://roadmap.sh/redis/topic@-3pADOHMDQ0H6ZKNjURyn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Redis?",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/get-started/"
+                          },
+                          {
+                              "title":  "Introduction to Redis",
+                              "type":  "official",
+                              "url":  "https://redis.io/about/"
+                          },
+                          {
+                              "title":  "Redis - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Redis"
+                          },
+                          {
+                              "title":  "What is Redis Explained? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/redis"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M-EXrTDeAEMz_IkEi-ab4",
+        "label":  "In-memory Data Structure Store",
+        "endpoint":  "https://roadmap.sh/redis/topic@M-EXrTDeAEMz_IkEi-ab4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with In-Memory Data Store",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/get-started/data-store/"
+                          },
+                          {
+                              "title":  "Amazon MemoryDB",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/memorydb/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l2aXyO3STnhbFjvUXPpm2",
+        "label":  "Key-value Database",
+        "endpoint":  "https://roadmap.sh/redis/topic@l2aXyO3STnhbFjvUXPpm2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a Key-Value Database?",
+                              "type":  "official",
+                              "url":  "https://redis.io/nosql/key-value-databases/"
+                          },
+                          {
+                              "title":  "Key Value Store - System Design Interview Basics",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ozJHmm05EXM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eHuBz_zSZK3rubn7nkd7g",
+        "label":  "Cache",
+        "endpoint":  "https://roadmap.sh/redis/topic@eHuBz_zSZK3rubn7nkd7g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Caching",
+                              "type":  "official",
+                              "url":  "https://redis.io/solutions/caching/"
+                          },
+                          {
+                              "title":  "How to use Redis for Query Caching",
+                              "type":  "official",
+                              "url":  "https://redis.io/learn/howtos/solutions/microservices/caching"
+                          },
+                          {
+                              "title":  "Understanding Redis Caching",
+                              "type":  "article",
+                              "url":  "https://medium.com/@devlexus/understanding-redis-caching-how-it-works-and-why-its-efficient-99afdbf1b8e0"
+                          },
+                          {
+                              "title":  "How to use Redis Caching for incredible performance",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-5RTyEim384"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mgGJTBU8ofvOzl9gYWhnG",
+        "label":  "Message Broker",
+        "endpoint":  "https://roadmap.sh/redis/topic@mgGJTBU8ofvOzl9gYWhnG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PUBLISH Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/publish/"
+                          },
+                          {
+                              "title":  "SUBSCRIBE Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/subscribe/"
+                          },
+                          {
+                              "title":  "Redis As a Message Broker",
+                              "type":  "article",
+                              "url":  "https://medium.com/shoutloudz/redis-as-a-message-broker-d1a1aeac23c3"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-TjnSOY8txYrhhxRV1OIl",
+        "label":  "Caching",
+        "endpoint":  "https://roadmap.sh/redis/topic@-TjnSOY8txYrhhxRV1OIl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Caching",
+                              "type":  "official",
+                              "url":  "https://redis.io/solutions/caching/"
+                          },
+                          {
+                              "title":  "How to use Redis for Query Caching",
+                              "type":  "official",
+                              "url":  "https://redis.io/learn/howtos/solutions/microservices/caching"
+                          },
+                          {
+                              "title":  "Understanding Redis Caching",
+                              "type":  "article",
+                              "url":  "https://medium.com/@devlexus/understanding-redis-caching-how-it-works-and-why-its-efficient-99afdbf1b8e0"
+                          },
+                          {
+                              "title":  "How to use Redis Caching for incredible performance",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-5RTyEim384"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bVJASI7bfSYqYnNhX83ng",
+        "label":  "Real-time Analytics",
+        "endpoint":  "https://roadmap.sh/redis/topic@bVJASI7bfSYqYnNhX83ng.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Real-time Analytics with Redis",
+                              "type":  "official",
+                              "url":  "https://redis.io/resources/real-time-analytics-redis/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "URxGmhZHr0Y8nyrYj0gJl",
+        "label":  "Session Management",
+        "endpoint":  "https://roadmap.sh/redis/topic@URxGmhZHr0Y8nyrYj0gJl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Distributed Session Management",
+                              "type":  "official",
+                              "url":  "https://redis.io/solutions/session-management/"
+                          },
+                          {
+                              "title":  "Session Management Basics with Redis",
+                              "type":  "article",
+                              "url":  "https://dev.to/koshirok096/session-management-basics-with-redis-2o2e"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZCyId3aIoLv3duxoJdk2P",
+        "label":  "Pub/Sub Messaging",
+        "endpoint":  "https://roadmap.sh/redis/topic@ZCyId3aIoLv3duxoJdk2P.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Pub/Sub",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/interact/pubsub/"
+                          },
+                          {
+                              "title":  "PUBLISH Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/publish/"
+                          },
+                          {
+                              "title":  "SUBSCRIBE Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/subscribe/"
+                          },
+                          {
+                              "title":  "UNSUBSCRIBE Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/unsubscribe/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Fv1iGX22sApIEifM2IpJz",
+        "label":  "Leaderboards and Counters",
+        "endpoint":  "https://roadmap.sh/redis/topic@Fv1iGX22sApIEifM2IpJz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZADD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zadd/"
+                          },
+                          {
+                              "title":  "ZRANGE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zrange/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8uRpPJ0iD4XnQPKruQc8P",
+        "label":  "Data Persistence Options",
+        "endpoint":  "https://roadmap.sh/redis/topic@8uRpPJ0iD4XnQPKruQc8P.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uVewcyaFi1Pt2Gs0KrkfA",
+        "label":  "Rich Data Structures",
+        "endpoint":  "https://roadmap.sh/redis/topic@uVewcyaFi1Pt2Gs0KrkfA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Structures",
+                              "type":  "official",
+                              "url":  "https://redis.io/redis-enterprise/data-structures/"
+                          },
+                          {
+                              "title":  "Understand Redis Data Types",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5-3pd4rLDqRzMzSRVLdXh",
+        "label":  "High Performance and Scalability",
+        "endpoint":  "https://roadmap.sh/redis/topic@5-3pd4rLDqRzMzSRVLdXh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "High-Performance and Scalable Architecture with Redis",
+                              "type":  "article",
+                              "url":  "https://medium.com/@emreemenekse/high-performance-and-scalable-architecture-with-redis-and-net-core-abde36074d26"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EvWiEx_AoxAht6sKxzW2l",
+        "label":  "Redis vs SQL/NoSQL DBs",
+        "endpoint":  "https://roadmap.sh/redis/topic@EvWiEx_AoxAht6sKxzW2l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis vs MongoDB",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/compare/the-difference-between-redis-and-mongodb/"
+                          },
+                          {
+                              "title":  "Types of NoSQL Databases: How to Choose the Right One",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/backend/types-of-nosql-databases"
+                          },
+                          {
+                              "title":  "Understanding NoSQL vs SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9JHrL0UWrWs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1Af5H0BgdAsRdBCNdHz5v",
+        "label":  "When to choose Redis?",
+        "endpoint":  "https://roadmap.sh/redis/topic@1Af5H0BgdAsRdBCNdHz5v.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Redis",
+                              "type":  "official",
+                              "url":  "https://redis.io/about/"
+                          },
+                          {
+                              "title":  "Why Use Redis For All Your Applications",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZL4cHe3oL84"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Bf_kLfmy7_uflqC9N0-jt",
+        "label":  "Using Package Managers",
+        "endpoint":  "https://roadmap.sh/redis/topic@Bf_kLfmy7_uflqC9N0-jt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Install via apt",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/linux/"
+                          },
+                          {
+                              "title":  "Install via brew",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-mac-os/"
+                          },
+                          {
+                              "title":  "Install on WSL2",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yBZ79s6mzGdj5AnX2H_Hy",
+        "label":  "Pre-compiled Binaries",
+        "endpoint":  "https://roadmap.sh/redis/topic@yBZ79s6mzGdj5AnX2H_Hy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Installing Redis from Source",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-from-source/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TDxv0q7jlZ26uZYYlneem",
+        "label":  "Using Docker",
+        "endpoint":  "https://roadmap.sh/redis/topic@TDxv0q7jlZ26uZYYlneem.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How can I install Redis on Docker?",
+                              "type":  "official",
+                              "url":  "https://redis.io/kb/doc/1hcec8xg9w/how-can-i-install-redis-on-docker"
+                          },
+                          {
+                              "title":  "redis/redis-stack-server",
+                              "type":  "official",
+                              "url":  "https://hub.docker.com/r/redis/redis-stack-server"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "43LvShQhmoWQ8Nye7fLkz",
+        "label":  "Starting the Server",
+        "endpoint":  "https://roadmap.sh/redis/topic@43LvShQhmoWQ8Nye7fLkz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Start and stop Redis on MacOS",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-mac-os/#starting-and-stopping-redis-in-the-foreground"
+                          },
+                          {
+                              "title":  "Start and stop Redis on Ubuntu/Debian",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-linux/#starting-and-stopping-redis-in-the-background"
+                          },
+                          {
+                              "title":  "Install and start Redis on WSL2",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/#install-redis"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BOGXTjmCLo6WI6mYDsqRu",
+        "label":  "Connecting using Redis CLI",
+        "endpoint":  "https://roadmap.sh/redis/topic@BOGXTjmCLo6WI6mYDsqRu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis CLI Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/connect/cli/"
+                          },
+                          {
+                              "title":  "The Command Line Tool: redis-cli",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VenGyryG4OE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NhcZM4nUQoSBBf_1qXi6l",
+        "label":  "Basic Commands / SET, GET",
+        "endpoint":  "https://roadmap.sh/redis/topic@NhcZM4nUQoSBBf_1qXi6l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SET Docs",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/set/"
+                          },
+                          {
+                              "title":  "GET Docs",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/get/"
+                          },
+                          {
+                              "title":  "Redis Cheat Sheet",
+                              "type":  "official",
+                              "url":  "https://redis.io/learn/howtos/quick-start/cheat-sheet"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DOdNkTY1yIMipWA2CD9xH",
+        "label":  "Setting and Getting Keys",
+        "endpoint":  "https://roadmap.sh/redis/topic@DOdNkTY1yIMipWA2CD9xH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Keys",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/keys/"
+                          },
+                          {
+                              "title":  "SET",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/set/"
+                          },
+                          {
+                              "title":  "Set key values",
+                              "type":  "article",
+                              "url":  "https://www.w3resource.com/redis/redis-set-key-value.php"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lV_MnUNTB2h925idX0YWk",
+        "label":  "DEL",
+        "endpoint":  "https://roadmap.sh/redis/topic@lV_MnUNTB2h925idX0YWk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DEL",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/del/"
+                          },
+                          {
+                              "title":  "Redis DEL Command",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/redis/keys_del.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U84XgBFPyIbY0W5afH4cx",
+        "label":  "Overview of Data Types",
+        "endpoint":  "https://roadmap.sh/redis/topic@U84XgBFPyIbY0W5afH4cx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understand Redis Data Types",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/"
+                          },
+                          {
+                              "title":  "Redis Data Types",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/redis/redis_data_types.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ltF4vCT9ZA2XuUuHnuGnN",
+        "label":  "SET",
+        "endpoint":  "https://roadmap.sh/redis/topic@ltF4vCT9ZA2XuUuHnuGnN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SET",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/set/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mQc4H2ZMMSVjh33LJY8mK",
+        "label":  "GET",
+        "endpoint":  "https://roadmap.sh/redis/topic@mQc4H2ZMMSVjh33LJY8mK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GET",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/get/"
+                          },
+                          {
+                              "title":  "How to get all keys in Redis",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/data/admin/how-to-get-all-keys-in-redis"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5K9qyC4mrhXYWOC8WSq8C",
+        "label":  "INCR",
+        "endpoint":  "https://roadmap.sh/redis/topic@5K9qyC4mrhXYWOC8WSq8C.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "INCR",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/incr/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "t4BXPofF8OCqH5KHwdYVh",
+        "label":  "DECR",
+        "endpoint":  "https://roadmap.sh/redis/topic@t4BXPofF8OCqH5KHwdYVh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DECR Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/decr/"
+                          },
+                          {
+                              "title":  "Redis String DECR",
+                              "type":  "article",
+                              "url":  "https://www.w3resource.com/redis/redis-decr-key.php"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cPWd53BO6tm-uy4gqLdtZ",
+        "label":  "APPEND",
+        "endpoint":  "https://roadmap.sh/redis/topic@cPWd53BO6tm-uy4gqLdtZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "APPEND",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/append/"
+                          },
+                          {
+                              "title":  "Redis - String Append Command",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/redis/strings_append.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eJQW986HM4Wf1o1i2FnXs",
+        "label":  "STRLEN",
+        "endpoint":  "https://roadmap.sh/redis/topic@eJQW986HM4Wf1o1i2FnXs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "STRLEN",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/strlen/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0v8uLWRCbAqEmKKdYaRQW",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@0v8uLWRCbAqEmKKdYaRQW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis String Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=string"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2_E2VwbjTgk4xxTFWfHuV",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@2_E2VwbjTgk4xxTFWfHuV.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nS0DHhfy4wxHItgOFhulA",
+        "label":  "expire",
+        "endpoint":  "https://roadmap.sh/redis/topic@nS0DHhfy4wxHItgOFhulA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Expiring Keys",
+                              "type":  "official",
+                              "url":  "https://redis.io/ebook/part-2-core-concepts/chapter-3-commands-in-redis/3-7-other-commands/3-7-3-expiring-keys/"
+                          },
+                          {
+                              "title":  "EXPIRE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/expire/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Vll7VMmGWSI5XGZ9JpHyl",
+        "label":  "TTL",
+        "endpoint":  "https://roadmap.sh/redis/topic@Vll7VMmGWSI5XGZ9JpHyl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TTL",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/ttl/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Kq7G89KaZZMFkrH-9WZoS",
+        "label":  "LPUSH",
+        "endpoint":  "https://roadmap.sh/redis/topic@Kq7G89KaZZMFkrH-9WZoS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LPUSH",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/lpush/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jC8G1o7yFj7D_PGmOIgcD",
+        "label":  "RPUSH",
+        "endpoint":  "https://roadmap.sh/redis/topic@jC8G1o7yFj7D_PGmOIgcD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RPUSH",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/rpush/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "voa61RTWMJD3Sk8DNJoVQ",
+        "label":  "LPOP",
+        "endpoint":  "https://roadmap.sh/redis/topic@voa61RTWMJD3Sk8DNJoVQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LPOP",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/lpop/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "brUGqWZ287EWtvl9uUbNt",
+        "label":  "RPOP",
+        "endpoint":  "https://roadmap.sh/redis/topic@brUGqWZ287EWtvl9uUbNt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RPOP",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/rpop/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8JTtBy6oD2wFYDizVkcVa",
+        "label":  "LRANGE",
+        "endpoint":  "https://roadmap.sh/redis/topic@8JTtBy6oD2wFYDizVkcVa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LRANGE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/lrange/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hBFEUXtuzUTzWZKp2qWaZ",
+        "label":  "LINDEX",
+        "endpoint":  "https://roadmap.sh/redis/topic@hBFEUXtuzUTzWZKp2qWaZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LINDEX",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/lindex/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4oCcP9FxDJSDMHCEVBCNa",
+        "label":  "LLEN",
+        "endpoint":  "https://roadmap.sh/redis/topic@4oCcP9FxDJSDMHCEVBCNa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LLEN",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/llen/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9KvHcS5F4Jj5ZXgIAdOQY",
+        "label":  "LMOVE",
+        "endpoint":  "https://roadmap.sh/redis/topic@9KvHcS5F4Jj5ZXgIAdOQY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LMOVE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/lmove/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eBeEUYY-IL_CMkcm31lUL",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@eBeEUYY-IL_CMkcm31lUL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis List Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=list"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XTwNCCtzXvZMdaex4gZEh",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@XTwNCCtzXvZMdaex4gZEh.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Qgkpr9vf9d6-vUg1o8XFj",
+        "label":  "Sets",
+        "endpoint":  "https://roadmap.sh/redis/topic@Qgkpr9vf9d6-vUg1o8XFj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Sets",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/sets/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xUKoQps69FFQrJeuhD1pz",
+        "label":  "SADD",
+        "endpoint":  "https://roadmap.sh/redis/topic@xUKoQps69FFQrJeuhD1pz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SADD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/sadd/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mQ0ILns53n1By0Tq6xSZI",
+        "label":  "SMEMBERS",
+        "endpoint":  "https://roadmap.sh/redis/topic@mQ0ILns53n1By0Tq6xSZI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SMEMBERS",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/smembers/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WQWVL5GT_scHdgfCtI7WT",
+        "label":  "SREM",
+        "endpoint":  "https://roadmap.sh/redis/topic@WQWVL5GT_scHdgfCtI7WT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SREM",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/srem/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ji5ghlcGJtlmErHFqVf3d",
+        "label":  "SISMEMBER",
+        "endpoint":  "https://roadmap.sh/redis/topic@Ji5ghlcGJtlmErHFqVf3d.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SISMEMBER",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/sismember/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5aLfNBewK4Dx017qVNO3T",
+        "label":  "SINTER",
+        "endpoint":  "https://roadmap.sh/redis/topic@5aLfNBewK4Dx017qVNO3T.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SINTER",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/sinter/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2gZL4a9aWGKWLa89iyHTc",
+        "label":  "SCARD",
+        "endpoint":  "https://roadmap.sh/redis/topic@2gZL4a9aWGKWLa89iyHTc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SCARD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/scard/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6QoYa-N2BKNBaRtvNeVNm",
+        "label":  "SUNION",
+        "endpoint":  "https://roadmap.sh/redis/topic@6QoYa-N2BKNBaRtvNeVNm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SUNION",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/sunion/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JX5ajmcUmkshTO-mLF8lH",
+        "label":  "SDIFF",
+        "endpoint":  "https://roadmap.sh/redis/topic@JX5ajmcUmkshTO-mLF8lH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SDIFF",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/sdiff/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2SG4Hr9Tuv6cxmGkrKjYZ",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@2SG4Hr9Tuv6cxmGkrKjYZ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3hayYoSZepw7pppBubotg",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@3hayYoSZepw7pppBubotg.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b48EUyFGUeSjtT5fOa_m6",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@b48EUyFGUeSjtT5fOa_m6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis Set Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=set"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wl23Jh-ASJOQ850yjaTIU",
+        "label":  "Strings",
+        "endpoint":  "https://roadmap.sh/redis/topic@Wl23Jh-ASJOQ850yjaTIU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Strings",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/strings/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4-C4XqACUp4nvcMIj6djF",
+        "label":  "Lists",
+        "endpoint":  "https://roadmap.sh/redis/topic@4-C4XqACUp4nvcMIj6djF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Lists",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/lists/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wY46Qj5Inw_ClBNI9PB_2",
+        "label":  "Hashes",
+        "endpoint":  "https://roadmap.sh/redis/topic@wY46Qj5Inw_ClBNI9PB_2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Hashes",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/hashes/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BOJzn9SWad9oRRdY_ub01",
+        "label":  "HSET",
+        "endpoint":  "https://roadmap.sh/redis/topic@BOJzn9SWad9oRRdY_ub01.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HSET",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/hset/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MsKg9m5jFwHM2Bzjf-vdu",
+        "label":  "HGET",
+        "endpoint":  "https://roadmap.sh/redis/topic@MsKg9m5jFwHM2Bzjf-vdu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HGET",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/hget/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TpR33sJ-tAjeG3jpGTvYR",
+        "label":  "HGETALL",
+        "endpoint":  "https://roadmap.sh/redis/topic@TpR33sJ-tAjeG3jpGTvYR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HGETALL",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/hgetall/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "E7xFZkqqbzokD5KGTn9zJ",
+        "label":  "HDEL",
+        "endpoint":  "https://roadmap.sh/redis/topic@E7xFZkqqbzokD5KGTn9zJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HDEL",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/hdel/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "adhLMuSmfYMRyWTwIgnyE",
+        "label":  "HEXISTS",
+        "endpoint":  "https://roadmap.sh/redis/topic@adhLMuSmfYMRyWTwIgnyE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HEXISTS",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/hexists/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jtVnUD-na-WffMaS8qYfu",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@jtVnUD-na-WffMaS8qYfu.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QTbkWZ7BpqYmBhUivccPu",
+        "label":  "Sorted Sets",
+        "endpoint":  "https://roadmap.sh/redis/topic@QTbkWZ7BpqYmBhUivccPu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sorted Sets",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/sorted-sets/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0swsBD0sOY-o5lzibT999",
+        "label":  "ZADD",
+        "endpoint":  "https://roadmap.sh/redis/topic@0swsBD0sOY-o5lzibT999.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZADD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zadd/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3pFChX6YIItrBz9lxu4XM",
+        "label":  "ZRANGE",
+        "endpoint":  "https://roadmap.sh/redis/topic@3pFChX6YIItrBz9lxu4XM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZRANGE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zrange/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OlbixGa5RmdqEt7snY04j",
+        "label":  "ZRANGEBYSCORE",
+        "endpoint":  "https://roadmap.sh/redis/topic@OlbixGa5RmdqEt7snY04j.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZRANGEBYSCORE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zrangebyscore/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "m0FZDPwNE71zcwM_gUwz0",
+        "label":  "ZREM",
+        "endpoint":  "https://roadmap.sh/redis/topic@m0FZDPwNE71zcwM_gUwz0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZREM",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zrem/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W4v7FIQr2k-Vbm-HdfKog",
+        "label":  "ZINCRBY",
+        "endpoint":  "https://roadmap.sh/redis/topic@W4v7FIQr2k-Vbm-HdfKog.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZINCRBY",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zincrby/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AF_kWM4V8n5Ux06IgEVTl",
+        "label":  "ZRANK",
+        "endpoint":  "https://roadmap.sh/redis/topic@AF_kWM4V8n5Ux06IgEVTl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZRANK",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zrank/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O-fZM_U-tW0pYtNzN_8Ax",
+        "label":  "ZCOUNT",
+        "endpoint":  "https://roadmap.sh/redis/topic@O-fZM_U-tW0pYtNzN_8Ax.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ZCOUNT",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/zcount/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P6TDUCroLlEI7qePBFHIH",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@P6TDUCroLlEI7qePBFHIH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis Hash Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=hash"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lxevY15ZyP43s_JrEqMX7",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@lxevY15ZyP43s_JrEqMX7.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o6e_CwxfPoU6qkfWkwKwj",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@o6e_CwxfPoU6qkfWkwKwj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis Sorted Set Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=sorted-set"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jCaVx5wvsvuyqtwh6m8si",
+        "label":  "Naming Conventions",
+        "endpoint":  "https://roadmap.sh/redis/topic@jCaVx5wvsvuyqtwh6m8si.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UlQHqw1dbxZnAKbsWsOgU",
+        "label":  "Retrieval by Pattern",
+        "endpoint":  "https://roadmap.sh/redis/topic@UlQHqw1dbxZnAKbsWsOgU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SCAN",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/scan/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OSIYDYPGz8Vgo9SU9GGH9",
+        "label":  "Expiration",
+        "endpoint":  "https://roadmap.sh/redis/topic@OSIYDYPGz8Vgo9SU9GGH9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PEXPIRE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/pexpire/"
+                          },
+                          {
+                              "title":  "EXPIRE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/expire/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jrgaoDnt_RxTu79hk4hCD",
+        "label":  "Atomicity in Redis",
+        "endpoint":  "https://roadmap.sh/redis/topic@jrgaoDnt_RxTu79hk4hCD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Atomicity with Lua",
+                              "type":  "official",
+                              "url":  "https://redis.io/learn/develop/java/spring/rate-limiting/fixed-window/reactive-lua"
+                          },
+                          {
+                              "title":  "Atomicity in Redis operations",
+                              "type":  "article",
+                              "url":  "https://lucaspin.medium.com/atomicity-in-redis-operations-a1d7bc9f4a90"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LHlwjN3WHYUBUafzzwsWQ",
+        "label":  "Pipelining",
+        "endpoint":  "https://roadmap.sh/redis/topic@LHlwjN3WHYUBUafzzwsWQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Pipelining",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/use/pipelining/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7JzeyTrkZ_1_yxMVrqvZU",
+        "label":  "Batch Operations",
+        "endpoint":  "https://roadmap.sh/redis/topic@7JzeyTrkZ_1_yxMVrqvZU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Batch Operations in Redis",
+                              "type":  "article",
+                              "url":  "https://www.compilenrun.com/docs/middleware/redis/redis-operations/redis-batch-operations/"
+                          },
+                          {
+                              "title":  "Using Pipelining to Batch Issue Commands",
+                              "type":  "article",
+                              "url":  "https://www.alibabacloud.com/help/en/redis/use-cases/use-pipelining-to-batch-issue-commands#:~:text=You%20can%20use%20the%20Redis,network%20latency%20and%20improving%20performance."
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0Q3AkE8leWAyYsww3-BHX",
+        "label":  "Bitmaps",
+        "endpoint":  "https://roadmap.sh/redis/topic@0Q3AkE8leWAyYsww3-BHX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bitmap",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/bitmaps/"
+                          },
+                          {
+                              "title":  "Redis Bitmap Explained",
+                              "type":  "video",
+                              "url":  "https://youtu.be/oj8LdJQjhJo?si=jem54LfPbZtrpnEP"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B-YUFhPQNdr1KZNupmR5N",
+        "label":  "SETBIT",
+        "endpoint":  "https://roadmap.sh/redis/topic@B-YUFhPQNdr1KZNupmR5N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SETBIT",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/setbit/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0HFLJfcrcSnAVTecG3P8W",
+        "label":  "GETBIT",
+        "endpoint":  "https://roadmap.sh/redis/topic@0HFLJfcrcSnAVTecG3P8W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GETBIT",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/getbit/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jpcyXSSib7q4WBPmpgnXA",
+        "label":  "BITCOUNT",
+        "endpoint":  "https://roadmap.sh/redis/topic@jpcyXSSib7q4WBPmpgnXA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BITCOUNT",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/bitcount/"
+                          },
+                          {
+                              "title":  "BITCOUNT",
+                              "type":  "article",
+                              "url":  "https://upstash.com/docs/redis/sdks/ts/commands/bitmap/bitcount"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tkrxArg_oYH0aQfM8NkD2",
+        "label":  "BITOP",
+        "endpoint":  "https://roadmap.sh/redis/topic@tkrxArg_oYH0aQfM8NkD2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BITOP",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/bitop/"
+                          },
+                          {
+                              "title":  "BITOP Explained",
+                              "type":  "article",
+                              "url":  "https://www.dragonflydb.io/docs/command-reference/strings/bitop"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Df1Eu7CuA-ARYii9JVvnm",
+        "label":  "BITPOS",
+        "endpoint":  "https://roadmap.sh/redis/topic@Df1Eu7CuA-ARYii9JVvnm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BITPOS",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/bitpos/"
+                          },
+                          {
+                              "title":  "BITPOS Documentation",
+                              "type":  "article",
+                              "url":  "https://upstash.com/docs/redis/sdks/py/commands/bitmap/bitpos"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s7PEr-5TAm5EGJm0RSjPJ",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@s7PEr-5TAm5EGJm0RSjPJ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cszjT3YK8oyhGpqLTQzwX",
+        "label":  "HyperLogLog",
+        "endpoint":  "https://roadmap.sh/redis/topic@cszjT3YK8oyhGpqLTQzwX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HyperLogLog Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/probabilistic/hyperloglogs/"
+                          },
+                          {
+                              "title":  "Redis HyperLogLog Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=MunL8nnwscQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8a4DmPZrX2xGZ7zdWxS63",
+        "label":  "PFADD",
+        "endpoint":  "https://roadmap.sh/redis/topic@8a4DmPZrX2xGZ7zdWxS63.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PFADD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/pfadd/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JWT30KIJQHVw0MXI5sGR6",
+        "label":  "PFCOUNT",
+        "endpoint":  "https://roadmap.sh/redis/topic@JWT30KIJQHVw0MXI5sGR6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PFCOUNT",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/pfcount/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s50jr_XOUcxh65-tGCKf5",
+        "label":  "PFMERGE",
+        "endpoint":  "https://roadmap.sh/redis/topic@s50jr_XOUcxh65-tGCKf5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PFMERGE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/pfmerge/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XPeCvikPuu6EJ8UcOLGPh",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@XPeCvikPuu6EJ8UcOLGPh.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zXs_9n2yEb_eVi0WuOQKH",
+        "label":  "Streams",
+        "endpoint":  "https://roadmap.sh/redis/topic@zXs_9n2yEb_eVi0WuOQKH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Streams",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/streams/"
+                          },
+                          {
+                              "title":  "Transport Layer Security Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rc/security/database-security/tls-ssl/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7isWhgrUA6M5IGM2U2tm4",
+        "label":  "XADD",
+        "endpoint":  "https://roadmap.sh/redis/topic@7isWhgrUA6M5IGM2U2tm4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "XADD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/xadd/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4sKiAtX5aIL4NDsQkilNC",
+        "label":  "XREAD",
+        "endpoint":  "https://roadmap.sh/redis/topic@4sKiAtX5aIL4NDsQkilNC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "XREAD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/xread/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CiYFuYE8XudZkR6AW2NQ7",
+        "label":  "XRANGE",
+        "endpoint":  "https://roadmap.sh/redis/topic@CiYFuYE8XudZkR6AW2NQ7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "XRANGE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/xrange/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DQJCMEw13lELcw_AwLfrT",
+        "label":  "XLEN",
+        "endpoint":  "https://roadmap.sh/redis/topic@DQJCMEw13lELcw_AwLfrT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "XLEN",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/xlen/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zXlSBfa-Gi9_GhSYEzre3",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@zXlSBfa-Gi9_GhSYEzre3.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4-z4hDKm86qQatYnmE21R",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@4-z4hDKm86qQatYnmE21R.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis Stream Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=stream"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_NiUdVQ85qnvryI38k_vQ",
+        "label":  "Geospatial Indexes",
+        "endpoint":  "https://roadmap.sh/redis/topic@_NiUdVQ85qnvryI38k_vQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Geospatial Indexing",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/interact/search-and-query/indexing/geoindex/"
+                          },
+                          {
+                              "title":  "Geospatial Indexes in Redis",
+                              "type":  "article",
+                              "url":  "https://codesignal.com/learn/courses/redis-data-structures-beyond-basics/lessons/introduction-to-geospatial-indexes-in-redis-using-java"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U3N1EgHFs1-YUaB_VrJfw",
+        "label":  "GEOADD",
+        "endpoint":  "https://roadmap.sh/redis/topic@U3N1EgHFs1-YUaB_VrJfw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GEOADD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/geoadd/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OWWDLuGTbdNwME7v2jxVP",
+        "label":  "GEOSEARCH",
+        "endpoint":  "https://roadmap.sh/redis/topic@OWWDLuGTbdNwME7v2jxVP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GEOADD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/geoadd/"
+                          },
+                          {
+                              "title":  "Getting Started with Geospatial Search in Redis",
+                              "type":  "article",
+                              "url":  "https://redis.io/learn/howtos/solutions/geo/getting-started"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GNMjrLPkpTphneoQ0GoZF",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@GNMjrLPkpTphneoQ0GoZF.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FCbdKnkI1ZHGekT6yiGua",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@FCbdKnkI1ZHGekT6yiGua.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis Geospatial Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=geo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9W_jaK1DSEZHRKdPcUM7h",
+        "label":  "Pub/Sub",
+        "endpoint":  "https://roadmap.sh/redis/topic@9W_jaK1DSEZHRKdPcUM7h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pub/Sub in Redis",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/interact/pubsub/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "55BCntuWlaQiLPqNtb-2i",
+        "label":  "SUBSCRIBE",
+        "endpoint":  "https://roadmap.sh/redis/topic@55BCntuWlaQiLPqNtb-2i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SUBSCRIBE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/subscribe/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5gkZzm2F4vu6IxUoJLYbK",
+        "label":  "UNSUBSCRIBE",
+        "endpoint":  "https://roadmap.sh/redis/topic@5gkZzm2F4vu6IxUoJLYbK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "UNSUBSCRIBE",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/unsubscribe/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gIPo-2CNqE1BsOaDzmkCU",
+        "label":  "PUBLISH",
+        "endpoint":  "https://roadmap.sh/redis/topic@gIPo-2CNqE1BsOaDzmkCU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PUBLISH",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/publish/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V-d6q-3Sf0dl5v8xiCQwl",
+        "label":  "More Commands",
+        "endpoint":  "https://roadmap.sh/redis/topic@V-d6q-3Sf0dl5v8xiCQwl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "All Redis Pub/Sub Commands",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/?group=pubsub"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MvyE_JUJej0UB9xe8Anfj",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@MvyE_JUJej0UB9xe8Anfj.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YHbWlKrQqptUDbaQVy0_A",
+        "label":  "Transactions",
+        "endpoint":  "https://roadmap.sh/redis/topic@YHbWlKrQqptUDbaQVy0_A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Transactions",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/interact/transactions/"
+                          },
+                          {
+                              "title":  "MULTI",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/multi/"
+                          },
+                          {
+                              "title":  "EXEC",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/exec/"
+                          },
+                          {
+                              "title":  "DISCARD",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/discard/"
+                          },
+                          {
+                              "title":  "WATCH",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/watch/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "c-y5Eck8VtSyIf8RAW9p7",
+        "label":  "WATCH",
+        "endpoint":  "https://roadmap.sh/redis/topic@c-y5Eck8VtSyIf8RAW9p7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "WATCH",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/watch/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ljy-Mc0EBBX4_vXfYZ5-4",
+        "label":  "EXEC",
+        "endpoint":  "https://roadmap.sh/redis/topic@Ljy-Mc0EBBX4_vXfYZ5-4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "EXEC",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/exec/"
+                          },
+                          {
+                              "title":  "Redis Transactions: EXEC",
+                              "type":  "article",
+                              "url":  "https://www.w3resource.com/redis/redis-exec.php"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U6hST1MkS16T2CHV3-Ise",
+        "label":  "MULTI",
+        "endpoint":  "https://roadmap.sh/redis/topic@U6hST1MkS16T2CHV3-Ise.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MULTI",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/multi/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "msW0Wd2H-6FFNDnjC64t-",
+        "label":  "Optimistic Locking",
+        "endpoint":  "https://roadmap.sh/redis/topic@msW0Wd2H-6FFNDnjC64t-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Optimistic Locking using CHECK \u0026 SET",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/interact/transactions/#optimistic-locking-using-check-and-set"
+                          },
+                          {
+                              "title":  "WATCH Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/watch/"
+                          },
+                          {
+                              "title":  "MULTI Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/multi/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Veb30QrPYNjUn13dtGbUr",
+        "label":  "Lua Scripting",
+        "endpoint":  "https://roadmap.sh/redis/topic@Veb30QrPYNjUn13dtGbUr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lua Programming Language",
+                              "type":  "official",
+                              "url":  "https://www.lua.org/"
+                          },
+                          {
+                              "title":  "Lua in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jUuqBZwwkQw"
+                          },
+                          {
+                              "title":  "Full Lua Programming Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1srFmjt1Ib0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rjeq3i9oX8IGyQzo--L3c",
+        "label":  "EVAL",
+        "endpoint":  "https://roadmap.sh/redis/topic@rjeq3i9oX8IGyQzo--L3c.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "EVAL",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/eval/"
+                          },
+                          {
+                              "title":  "Redis EVAL Command",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/redis/scripting_eval.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3X0x_PcJGWBVPL-LSVAln",
+        "label":  "EVALSHA",
+        "endpoint":  "https://roadmap.sh/redis/topic@3X0x_PcJGWBVPL-LSVAln.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "EVALSHA",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/evalsha/"
+                          },
+                          {
+                              "title":  "Redis EVALSHA Command",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/redis/scripting_evalsha.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kF_nGo845XDwLkwcQt008",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@kF_nGo845XDwLkwcQt008.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bQaek7f3dAaZfSUhwovm1",
+        "label":  "Persistence Options",
+        "endpoint":  "https://roadmap.sh/redis/topic@bQaek7f3dAaZfSUhwovm1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Persistence",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rc/databases/configuration/data-persistence/"
+                          },
+                          {
+                              "title":  "Redis Persistence",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D3pZdAjwPFMRxX1-iyu5-",
+        "label":  "How RDB Works?",
+        "endpoint":  "https://roadmap.sh/redis/topic@D3pZdAjwPFMRxX1-iyu5-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Backup Data",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rc/databases/back-up-data/"
+                          },
+                          {
+                              "title":  "About RDB Snapshots",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/memorystore/docs/redis/about-rdb-snapshots"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_pb2DPrFUUZabKxWsuFUo",
+        "label":  "Configuring Save Interval",
+        "endpoint":  "https://roadmap.sh/redis/topic@_pb2DPrFUUZabKxWsuFUo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Persistence",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/"
+                          },
+                          {
+                              "title":  "Understanding Redis Persistence",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1pfvz24BAUs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Z6yJwUkcDX08HoMyf1LwX",
+        "label":  "Usecases / Best Practices",
+        "endpoint":  "https://roadmap.sh/redis/topic@Z6yJwUkcDX08HoMyf1LwX.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PTj6oxvpw8vP295WvAI80",
+        "label":  "How AOF Works?",
+        "endpoint":  "https://roadmap.sh/redis/topic@PTj6oxvpw8vP295WvAI80.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "About AOF Persistence - Google",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/memorystore/docs/cluster/about-aof-persistence"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ibaZ34-laQtUyxAsERi7o",
+        "label":  "AOF rewrite \u0026 compaction",
+        "endpoint":  "https://roadmap.sh/redis/topic@ibaZ34-laQtUyxAsERi7o.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Persistence in Redis",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/"
+                          },
+                          {
+                              "title":  "Enabling Redis persistence",
+                              "type":  "video",
+                              "url":  "https://youtu.be/qBKnUeR0p10?si=TPvcFtpFMcTZB-Be"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9ToKTUqbi-NV5Wcwb21PT",
+        "label":  "Truncation / Corruption",
+        "endpoint":  "https://roadmap.sh/redis/topic@9ToKTUqbi-NV5Wcwb21PT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AOF Advantages",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/#aof-advantages"
+                          },
+                          {
+                              "title":  "What should I do if my AOF gets truncated?",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/#what-should-i-do-if-my-aof-gets-truncated"
+                          },
+                          {
+                              "title":  "What should I do if my AOF gets corrupted?",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/#what-should-i-do-if-my-aof-gets-corrupted"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VvOQUO22ZF8VvDSqHENNU",
+        "label":  "Usecases",
+        "endpoint":  "https://roadmap.sh/redis/topic@VvOQUO22ZF8VvDSqHENNU.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vzp7DUpjklzIA0E9WxJQA",
+        "label":  "Usecases / Best Practices",
+        "endpoint":  "https://roadmap.sh/redis/topic@vzp7DUpjklzIA0E9WxJQA.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "80035BzcB-fKCvD_3N8zE",
+        "label":  "No Persistence Option",
+        "endpoint":  "https://roadmap.sh/redis/topic@80035BzcB-fKCvD_3N8zE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Persistence",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3S-qqOlfr60HR4VvDr4He",
+        "label":  "RDB vs AOF Tradeoffs",
+        "endpoint":  "https://roadmap.sh/redis/topic@3S-qqOlfr60HR4VvDr4He.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RDB Advantages",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/#rdb-advantages"
+                          },
+                          {
+                              "title":  "AOF Advantages",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/#aof-advantages"
+                          },
+                          {
+                              "title":  "AOF vs RDB, Which One to Choose?",
+                              "type":  "article",
+                              "url":  "https://codedamn.com/news/backend/redis-data-persistence-aof-vs-rdb"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "S5Y26m1oHCQpB-oLCdtac",
+        "label":  "Hybrid Persistence",
+        "endpoint":  "https://roadmap.sh/redis/topic@S5Y26m1oHCQpB-oLCdtac.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Persistence",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rSD8nJ-uNpHJVe5Hn66h7",
+        "label":  "Replication Basics",
+        "endpoint":  "https://roadmap.sh/redis/topic@rSD8nJ-uNpHJVe5Hn66h7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Replication",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/replication/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nci3OB1NE1zJHUPfZCOpT",
+        "label":  "Redis Sentinel",
+        "endpoint":  "https://roadmap.sh/redis/topic@nci3OB1NE1zJHUPfZCOpT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "High Availability with Redis Sentinel",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/sentinel/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AQiCcHS6dBAAAPloxiXub",
+        "label":  "Clustering",
+        "endpoint":  "https://roadmap.sh/redis/topic@AQiCcHS6dBAAAPloxiXub.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Scale with Redis Cluster",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/scaling/"
+                          },
+                          {
+                              "title":  "How to Create a Cluster in Redis",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=N8BkmdZzxDg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Qy42paiTUsO8HIwbWTMui",
+        "label":  "Authentication",
+        "endpoint":  "https://roadmap.sh/redis/topic@Qy42paiTUsO8HIwbWTMui.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AUTH",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/auth/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wsuKH7YwGDV6GYQbdhA4o",
+        "label":  "Network Security",
+        "endpoint":  "https://roadmap.sh/redis/topic@wsuKH7YwGDV6GYQbdhA4o.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Authentication",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/security/#authentication"
+                          },
+                          {
+                              "title":  "Redis Network Security",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rc/security/database-security/network-security/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gdiWwTQg6A-BFHdQBmgmH",
+        "label":  "SSL/TLS Encryption",
+        "endpoint":  "https://roadmap.sh/redis/topic@gdiWwTQg6A-BFHdQBmgmH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis TLS Support",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/security/encryption/#getting-started"
+                          },
+                          {
+                              "title":  "Transport Layer Security Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rc/security/database-security/tls-ssl/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q2Jw49QUWCUGIfcEC1bZI",
+        "label":  "INFO",
+        "endpoint":  "https://roadmap.sh/redis/topic@q2Jw49QUWCUGIfcEC1bZI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "INFO",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/info/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jBtEiylcedtaE6E20Uk4V",
+        "label":  "MONITOR",
+        "endpoint":  "https://roadmap.sh/redis/topic@jBtEiylcedtaE6E20Uk4V.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MONITOR",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/monitor/"
+                          },
+                          {
+                              "title":  "SLOWLOG",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/slowlog/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XBPwHgIsXupMsyoOFkJZ0",
+        "label":  "RedisInsight",
+        "endpoint":  "https://roadmap.sh/redis/topic@XBPwHgIsXupMsyoOFkJZ0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RedisInsight",
+                              "type":  "official",
+                              "url":  "https://redis.io/insight/"
+                          },
+                          {
+                              "title":  "RedisInsight/RedisInsight - RedisInsight Module on GitHub",
+                              "type":  "opensource",
+                              "url":  "https://github.com/RedisInsight/RedisInsight"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y5FPSAi6T-5X9SUfR58_-",
+        "label":  "RedisCommander",
+        "endpoint":  "https://roadmap.sh/redis/topic@y5FPSAi6T-5X9SUfR58_-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "joeferner/redis-commander - GitHub",
+                              "type":  "opensource",
+                              "url":  "https://github.com/joeferner/redis-commander"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xF0wQYmtwXYkrzvWg5gOO",
+        "label":  "Memory Management",
+        "endpoint":  "https://roadmap.sh/redis/topic@xF0wQYmtwXYkrzvWg5gOO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MEMORY USAGE Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/memory-usage/"
+                          },
+                          {
+                              "title":  "MEMORY STATS Command",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/memory-stats/"
+                          },
+                          {
+                              "title":  "Memory Management Best Practices",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/memorystore/docs/redis/memory-management-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Sd1ENOXSFCz1YqccXjr2A",
+        "label":  "Max Memory Policy",
+        "endpoint":  "https://roadmap.sh/redis/topic@Sd1ENOXSFCz1YqccXjr2A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Database Memory Limits",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rs/databases/memory-performance/memory-limit/"
+                          },
+                          {
+                              "title":  "Eviction Policy",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rs/databases/memory-performance/eviction-policy/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yaCWw2KjX58SaPajUAb0d",
+        "label":  "Slow Log Analysis",
+        "endpoint":  "https://roadmap.sh/redis/topic@yaCWw2KjX58SaPajUAb0d.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SLOWLOG",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/slowlog/"
+                          },
+                          {
+                              "title":  "View Redis Slow Log",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rs/clusters/logging/redis-slow-log/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kgHwK4N-sfh6dHjd_D_me",
+        "label":  "redis-benchmark",
+        "endpoint":  "https://roadmap.sh/redis/topic@kgHwK4N-sfh6dHjd_D_me.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Benchmark",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/benchmarks/"
+                          },
+                          {
+                              "title":  "How to benchmark the performance of a Redis server",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-perform-redis-benchmark-tests"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2p5RF4lVYfRvYTo1Ofm-a",
+        "label":  "Monitoring",
+        "endpoint":  "https://roadmap.sh/redis/topic@2p5RF4lVYfRvYTo1Ofm-a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monitoring with Metrics and Alerts",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rs/clusters/monitoring/"
+                          },
+                          {
+                              "title":  "MONITOR",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/commands/monitor/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hLIT00Iz7rV56ZBIUhWYn",
+        "label":  "Redis Modules",
+        "endpoint":  "https://roadmap.sh/redis/topic@hLIT00Iz7rV56ZBIUhWYn.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jicsfYw56VrbRUt7M8c85",
+        "label":  "RedisJSON",
+        "endpoint":  "https://roadmap.sh/redis/topic@jicsfYw56VrbRUt7M8c85.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RedisJSON",
+                              "type":  "official",
+                              "url":  "https://redis.io/json/"
+                          },
+                          {
+                              "title":  "RedisJSON/RedisJSON - GitHub",
+                              "type":  "opensource",
+                              "url":  "https://github.com/RedisJSON/RedisJSON"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_GdTXcJO8uJlhPdfrmeXG",
+        "label":  "Search",
+        "endpoint":  "https://roadmap.sh/redis/topic@_GdTXcJO8uJlhPdfrmeXG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Search and Query",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/stack-with-enterprise/search/"
+                          },
+                          {
+                              "title":  "Querying, Indexing and Full-text Search in Redis",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=infTV4ifNZY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RBr8opWSh2TKXC8Fmdg0j",
+        "label":  "RedisTimeSeries",
+        "endpoint":  "https://roadmap.sh/redis/topic@RBr8opWSh2TKXC8Fmdg0j.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RedisTimeSeries",
+                              "type":  "official",
+                              "url":  "https://redis.io/timeseries/"
+                          },
+                          {
+                              "title":  "Time Series Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/develop/data-types/timeseries/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GwVL5CvbnHsiWb1hVh7lK",
+        "label":  "RedisBloom",
+        "endpoint":  "https://roadmap.sh/redis/topic@GwVL5CvbnHsiWb1hVh7lK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RedisBloom",
+                              "type":  "official",
+                              "url":  "https://redis.io/probabilistic/"
+                          },
+                          {
+                              "title":  "RedisBloom/RedisBloom - GitHub",
+                              "type":  "opensource",
+                              "url":  "https://github.com/RedisBloom/RedisBloom"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "giyKPtQ-pziA064P8OQD-",
+        "label":  "redis.conf",
+        "endpoint":  "https://roadmap.sh/redis/topic@giyKPtQ-pziA064P8OQD-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Configuration Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/config/"
+                          },
+                          {
+                              "title":  "Redis Configuration File Example",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/config-file/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wXRDsNGFckXV_CSiit5sN",
+        "label":  "Backup and Recovery",
+        "endpoint":  "https://roadmap.sh/redis/topic@wXRDsNGFckXV_CSiit5sN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Backup and Recovery",
+                              "type":  "official",
+                              "url":  "https://redis.io/redis-enterprise/technology/backup-disaster-recovery/"
+                          },
+                          {
+                              "title":  "Backup \u0026 Restore Redis Cluster with Stash",
+                              "type":  "video",
+                              "url":  "https://youtu.be/Py_Ivv-2dcQ?si=z8gAAmhlpUBce4jY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Cb-KazR4PuR86VX5oT0zi",
+        "label":  "Upgrading Redis",
+        "endpoint":  "https://roadmap.sh/redis/topic@Cb-KazR4PuR86VX5oT0zi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Administration",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/admin/"
+                          },
+                          {
+                              "title":  "Upgrading or Restarting a Redis instance without downtime",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/oss_and_stack/management/admin/#upgrading-or-restarting-a-redis-instance-without-downtime"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nUIfTkgm3PlSiqgun1BS7",
+        "label":  "Disaster Recovery",
+        "endpoint":  "https://roadmap.sh/redis/topic@nUIfTkgm3PlSiqgun1BS7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Backup Disaster Recovery",
+                              "type":  "official",
+                              "url":  "https://redis.io/redis-enterprise/technology/backup-disaster-recovery/"
+                          },
+                          {
+                              "title":  "Disaster Recovery for Redis in the Cloud",
+                              "type":  "article",
+                              "url":  "https://www.alibabacloud.com/tech-news/a/redis/gtu8u2afbc-disaster-recovery-for-redis-in-the-cloud-strategies-and-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8lyXDuZJ-KHl4v2_8Ew1h",
+        "label":  "Redis Enterprise",
+        "endpoint":  "https://roadmap.sh/redis/topic@8lyXDuZJ-KHl4v2_8Ew1h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Enterprise",
+                              "type":  "official",
+                              "url":  "https://redis.io/about/redis-enterprise/"
+                          },
+                          {
+                              "title":  "Redis Enterprise Software",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rs/"
+                          },
+                          {
+                              "title":  "Redis Open Source vs. Enterprise",
+                              "type":  "article",
+                              "url":  "https://www.metricfire.com/blog/redis-open-source-vs-enterprise/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cybF72wlJyJbHLUjitLvn",
+        "label":  "Active-Active geo Distribution",
+        "endpoint":  "https://roadmap.sh/redis/topic@cybF72wlJyJbHLUjitLvn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Active-Active geo-distribution",
+                              "type":  "official",
+                              "url":  "https://redis.io/active-active/"
+                          },
+                          {
+                              "title":  "What is active active geo-distribution",
+                              "type":  "video",
+                              "url":  "https://youtu.be/x5iHPPZIlQg?si=ZZCwU-tDCIVDboXc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sWOFnbh2EyaHRzquz1UeF",
+        "label":  "Redis on Flash",
+        "endpoint":  "https://roadmap.sh/redis/topic@sWOFnbh2EyaHRzquz1UeF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis on Flash",
+                              "type":  "official",
+                              "url":  "https://redis.io/blog/redis-on-flash-now-3-7x-faster/"
+                          },
+                          {
+                              "title":  "Redis on Flash Data Sheet",
+                              "type":  "official",
+                              "url":  "https://media.trustradius.com/product-downloadables/1V/DT/TCXS6PSOA64L.pdf"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ujs77bV8g8-FOm5hBtZFd",
+        "label":  "Security and Compliance",
+        "endpoint":  "https://roadmap.sh/redis/topic@ujs77bV8g8-FOm5hBtZFd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Redis Security Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/operate/rs/security/"
+                          },
+                          {
+                              "title":  "How to Secure Redis",
+                              "type":  "article",
+                              "url":  "https://goteleport.com/blog/secure-redis/"
+                          },
+                          {
+                              "title":  "Rediscover Redis Security",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=oD8k3ymbfkY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JlLwy69eQ1bPHAOOJNqjo",
+        "label":  "When to consider enterprise?",
+        "endpoint":  "https://roadmap.sh/redis/topic@JlLwy69eQ1bPHAOOJNqjo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "About Redis Enterprise",
+                              "type":  "official",
+                              "url":  "https://redis.io/about/redis-enterprise/"
+                          },
+                          {
+                              "title":  "Redis Enterprise",
+                              "type":  "official",
+                              "url":  "https://redis.io/enterprise/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

@@ -1,0 +1,1593 @@
+{
+    "slug":  "react",
+    "source":  "https://roadmap.sh/react",
+    "title":  "React Developer",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-10-13T09:14:19.064Z",
+    "nodes":  [
+                  {
+                      "id":  "biDGZCQ32mx31GrfJvDuy",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -250.02532545570534,
+                                       "y":  279.1336343454509
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-AKmITUmSGIflJG-eGkm5",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  1210.1379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FkTj8n1pIAGa1nf93MUKC",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  274.6969339225512,
+                                       "y":  556.6821415892226
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l4RmWQLIK1NOOm6QTQMBa",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -508.36511899330924,
+                                       "y":  214.63363434545087
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iogwMmOvub2ZF4zgg6WyF",
+                      "type":  "title",
+                      "label":  "React",
+                      "position":  {
+                                       "x":  -36.03769075086342,
+                                       "y":  -157.76957062917046
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LEijbLyxg4RyutKEM2Y5g",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  11.962309249136581,
+                                       "y":  -232.76957062917046
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xwpc_KxehAruFM0pCQnie",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  11.962309249136581,
+                                       "y":  2505.5079920689423
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GV_zWF6rSWg5bqgiXhOEf",
+                      "type":  "paragraph",
+                      "label":  "Have a look at the following related roadmaps",
+                      "position":  {
+                                       "x":  -300.0376907508634,
+                                       "y":  2396.455918221489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZSrQoNGKiR484uALMWO9F",
+                      "type":  "button",
+                      "label":  "TypeScript",
+                      "position":  {
+                                       "x":  -130.22575702972415,
+                                       "y":  2456.5079920689423
+                                   },
+                      "href":  "https://roadmap.sh/typescript",
+                      "links":  null
+                  },
+                  {
+                      "id":  "P5IZjP0g1_fnvHy3YTR4q",
+                      "type":  "button",
+                      "label":  "Frontend",
+                      "position":  {
+                                       "x":  -284.22575702972415,
+                                       "y":  2456.5079920689423
+                                   },
+                      "href":  "https://roadmap.sh/frontend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "tU4Umtnfu01t9gLlnlK6b",
+                      "type":  "topic",
+                      "label":  "CLI Tools",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  114.94433023898546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XDvH2t3AJGevS17uM8TO6",
+                      "type":  "button",
+                      "label":  "JavaScript Roadmap",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  2.944330238985458
+                                   },
+                      "href":  "https://roadmap.sh/javascript",
+                      "links":  null
+                  },
+                  {
+                      "id":  "y9ToYDix-koRbR6FLydFw",
+                      "type":  "subtopic",
+                      "label":  "Vite",
+                      "position":  {
+                                       "x":  296.4680841021738,
+                                       "y":  113.94433023898546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XB1EQomsFGntZTofIfckn",
+                      "type":  "paragraph",
+                      "label":  "Make sure to learn the \"Beginner\" topics of the JavaScript roadmap before you start learning React.",
+                      "position":  {
+                                       "x":  169.0448461352869,
+                                       "y":  -46.05566976101454
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "79K4xgljcoSHkCYI1D55O",
+                      "type":  "topic",
+                      "label":  "Components",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  264.6336343454509
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8mw4TxlLN4ZKAlLl-_NVV",
+                      "type":  "subtopic",
+                      "label":  "Functional Components",
+                      "position":  {
+                                       "x":  -508.36511899330924,
+                                       "y":  199.63363434545087
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h_o0LOSuwRvymWLF7IVj_",
+                      "type":  "paragraph",
+                      "label":  "There used to be \"Class Components\" which React doesn\u0027t recommend any more. You don\u0027t need to learn about them but you might still notice them in some legacy projects",
+                      "position":  {
+                                       "x":  -514.5253254557053,
+                                       "y":  0.944330238985458
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HMTUjok_ZAcrP6YobWs3T",
+                      "type":  "label",
+                      "label":  "Component Basics",
+                      "position":  {
+                                       "x":  -459.36511899330924,
+                                       "y":  481.20762955993496
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "WREBxWSNQDD_6fzpHL6CE",
+                      "type":  "subtopic",
+                      "label":  "JSX",
+                      "position":  {
+                                       "x":  -498.36511899330924,
+                                       "y":  267.6336343454509
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RFuy3Eho3mnW1GpP08BVw",
+                      "type":  "subtopic",
+                      "label":  "Props vs State",
+                      "position":  {
+                                       "x":  -498.36511899330924,
+                                       "y":  320.6336343454509
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aE6XBgH23135_9QmD4ff2",
+                      "type":  "subtopic",
+                      "label":  "Conditional Rendering",
+                      "position":  {
+                                       "x":  -498.36511899330924,
+                                       "y":  373.6336343454509
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4T59gdcwdXqj9kCuK7cfp",
+                      "type":  "subtopic",
+                      "label":  "Composition",
+                      "position":  {
+                                       "x":  -498.36511899330924,
+                                       "y":  426.6336343454509
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0uiGsC5SWavNdlFqizkKe",
+                      "type":  "topic",
+                      "label":  "Rendering",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  403.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8OBlgDRUg-CTgDXY-QHyO",
+                      "type":  "subtopic",
+                      "label":  "Component Lifecycle",
+                      "position":  {
+                                       "x":  296.4680841021738,
+                                       "y":  194.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HeWVCPHqVnnbOn6zIim4K",
+                      "type":  "subtopic",
+                      "label":  "Lists and Keys",
+                      "position":  {
+                                       "x":  296.4680841021738,
+                                       "y":  247.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vdumdIglnouf1KyGIGZnc",
+                      "type":  "subtopic",
+                      "label":  "Render Props",
+                      "position":  {
+                                       "x":  296.4680841021738,
+                                       "y":  300.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_zNAOhFWMcWqP4oxNPCXF",
+                      "type":  "subtopic",
+                      "label":  "Refs",
+                      "position":  {
+                                       "x":  296.4680841021738,
+                                       "y":  353.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Nex2HcTOYIbfqUzXyxSMY",
+                      "type":  "subtopic",
+                      "label":  "Events",
+                      "position":  {
+                                       "x":  296.4680841021738,
+                                       "y":  406.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zOENl96GUZRw2PP2KxIck",
+                      "type":  "subtopic",
+                      "label":  "High Order Components",
+                      "position":  {
+                                       "x":  296.4680841021738,
+                                       "y":  459.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LbLQhonBqzxHU6B-L--Vq",
+                      "type":  "topic",
+                      "label":  "Hooks",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  617.4351632035148
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mkmz1JuNsTOR1D4vqilCX",
+                      "type":  "label",
+                      "label":  "Basic Hooks",
+                      "position":  {
+                                       "x":  348.1969339225512,
+                                       "y":  561.6821415892226
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "8OnzX03hkZ9K9i__tjmFX",
+                      "type":  "subtopic",
+                      "label":  "useEffect",
+                      "position":  {
+                                       "x":  407.4970609830833,
+                                       "y":  604.2948445786483
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HX75SExuzR5AP7TQ94qid",
+                      "type":  "subtopic",
+                      "label":  "Creating Custom Hooks",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  564.4351632035148
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EyspErq0ByXTgkgk3SGUz",
+                      "type":  "label",
+                      "label":  "Common Hooks",
+                      "position":  {
+                                       "x":  -453.52532545570534,
+                                       "y":  668.9046821871077
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "dgoDNDtW2_q9R9yhkXrcz",
+                      "type":  "subtopic",
+                      "label":  "useCallback",
+                      "position":  {
+                                       "x":  285.4970609830833,
+                                       "y":  657.2948445786483
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t_laNdMmdLApYszqXRdWg",
+                      "type":  "subtopic",
+                      "label":  "useRef",
+                      "position":  {
+                                       "x":  407.4970609830833,
+                                       "y":  657.2948445786483
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w3bNp7OkehI1gjx8NzlC8",
+                      "type":  "subtopic",
+                      "label":  "useMemo",
+                      "position":  {
+                                       "x":  407.4970609830833,
+                                       "y":  710.2948445786483
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v48Mv0wQqjXbvy8x6gDjQ",
+                      "type":  "subtopic",
+                      "label":  "useReducer",
+                      "position":  {
+                                       "x":  285.4970609830833,
+                                       "y":  710.2948445786483
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D5_O-uElftYGQr_bTU_se",
+                      "type":  "subtopic",
+                      "label":  "useContext",
+                      "position":  {
+                                       "x":  285.4970609830833,
+                                       "y":  763.2948445786483
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FK59Zsm5ENA9g11XWCan_",
+                      "type":  "subtopic",
+                      "label":  "useState",
+                      "position":  {
+                                       "x":  285.4970609830833,
+                                       "y":  604.2948445786483
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mkyU0ug8MXxV4biHuOity",
+                      "type":  "subtopic",
+                      "label":  "Hooks Best Practices",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  617.4351632035148
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NStw6bi_pPB49K41BFSgo",
+                      "type":  "topic",
+                      "label":  "Routers",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  745.4498468394373
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zWL8VLx_g0SWubavJDs6i",
+                      "type":  "subtopic",
+                      "label":  "Tanstack Router",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  798.4498468394373
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jvp43wFkKlGQX2y7IxkbM",
+                      "type":  "subtopic",
+                      "label":  "React Router",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  745.4498468394373
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "I7_mX4h-Yywp1YyTJRKXI",
+                      "type":  "topic",
+                      "label":  "State Management",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  878.5539763378672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "10uL0r388lKh8pWYWqRZD",
+                      "type":  "subtopic",
+                      "label":  "Context",
+                      "position":  {
+                                       "x":  -370.97747350189474,
+                                       "y":  931.5539763378672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nl5imPsdY2oEWlg-9TTuk",
+                      "type":  "subtopic",
+                      "label":  "Zustand",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  878.5539763378672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yI6XiNW04EL78UL4lkVgd",
+                      "type":  "subtopic",
+                      "label":  "Jotai",
+                      "position":  {
+                                       "x":  -370.97747350189474,
+                                       "y":  878.5539763378672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DfrCkbD-HEHwLymv10zb5",
+                      "type":  "topic",
+                      "label":  "Writing CSS",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  983.6513988431905
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MnDgQq9Vcxsu3wDqv5uh2",
+                      "type":  "topic",
+                      "label":  "Headless Components",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  1220.3378925529657
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KO3viVIJJREtxXxsocN7j",
+                      "type":  "subtopic",
+                      "label":  "Tailwind CSS",
+                      "position":  {
+                                       "x":  274.6969339225511,
+                                       "y":  1036.6513988431905
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "thfnymb_UIiKxakKfiua5",
+                      "type":  "topic",
+                      "label":  "Component / Libraries",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  1080.457748328709
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "akVNUPOqaTXaSHoQFlkP_",
+                      "type":  "subtopic",
+                      "label":  "Panda CSS",
+                      "position":  {
+                                       "x":  274.6969339225512,
+                                       "y":  930.6513988431905
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uqphqAnlcJOLnwHZs5jWu",
+                      "type":  "subtopic",
+                      "label":  "Chakra UI",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  1080.457748328709
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gy7eBxPOlwG8BvxHVLDQ9",
+                      "type":  "subtopic",
+                      "label":  "Material UI",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  1027.457748328709
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "njKsYNkwTXPQ1NjlGKXab",
+                      "type":  "subtopic",
+                      "label":  "Shadcn UI",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  1133.457748328709
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "awoEhwPKjUcR84XGL6Som",
+                      "type":  "subtopic",
+                      "label":  "CSS Modules",
+                      "position":  {
+                                       "x":  274.6969339225512,
+                                       "y":  983.6513988431905
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XL9XOV2h0BAuA5cFcM5L_",
+                      "type":  "subtopic",
+                      "label":  "Radix UI",
+                      "position":  {
+                                       "x":  406.6969339225511,
+                                       "y":  1194.6602700992098
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RvDfKoa_HIW3QDBfkPv3m",
+                      "type":  "subtopic",
+                      "label":  "React Aria",
+                      "position":  {
+                                       "x":  274.6969339225511,
+                                       "y":  1247.6602700992098
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kiCTo0U6VgNON8rv_Ktlj",
+                      "type":  "subtopic",
+                      "label":  "Ark UI",
+                      "position":  {
+                                       "x":  406.6969339225511,
+                                       "y":  1247.6602700992098
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "b4AP2OggxFAwsQtUwiUJJ",
+                      "type":  "topic",
+                      "label":  "API Calls",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  1344.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8nMbfGxe3STMbrAVcqHHh",
+                      "type":  "subtopic",
+                      "label":  "Apollo",
+                      "position":  {
+                                       "x":  -495.67749112444693,
+                                       "y":  1266.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cLfM342sZfsCwmPPxQpEI",
+                      "type":  "subtopic",
+                      "label":  "Relay",
+                      "position":  {
+                                       "x":  -495.67749112444693,
+                                       "y":  1319.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9M5jRu0pj8KMvg9f-2oqZ",
+                      "type":  "subtopic",
+                      "label":  "urql",
+                      "position":  {
+                                       "x":  -373.67749112444693,
+                                       "y":  1319.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zWcMFfyiWJddGbiIhmdKm",
+                      "type":  "label",
+                      "label":  "GraphQL",
+                      "position":  {
+                                       "x":  -422.2387123173885,
+                                       "y":  1220.3378925529657
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "-ea1KsXEyz-4voHXklG_J",
+                      "type":  "subtopic",
+                      "label":  "swr",
+                      "position":  {
+                                       "x":  -373.67749112444693,
+                                       "y":  1474.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5EPmbiNdP_vhIXclv_GjV",
+                      "type":  "subtopic",
+                      "label":  "Tanstack Query",
+                      "position":  {
+                                       "x":  -495.67749112444693,
+                                       "y":  1421.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ElqWQClryfSYdL7P_mgYK",
+                      "type":  "subtopic",
+                      "label":  "Axios",
+                      "position":  {
+                                       "x":  -495.67749112444693,
+                                       "y":  1474.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h49-tjEkKcq7d7ikRHIOx",
+                      "type":  "subtopic",
+                      "label":  "rtk-query",
+                      "position":  {
+                                       "x":  -495.67749112444693,
+                                       "y":  1527.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KNAlIYCENB4VMuQGqJNk3",
+                      "type":  "label",
+                      "label":  "REST",
+                      "position":  {
+                                       "x":  -406.17749112444693,
+                                       "y":  1378.8378925529657
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "e_lwZ-a72-tAan2KDX6k3",
+                      "type":  "topic",
+                      "label":  "Testing",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  1478.9762349465016
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "opa61u9gYgSpoPtxp58wu",
+                      "type":  "subtopic",
+                      "label":  "Jest",
+                      "position":  {
+                                       "x":  275.6356384763572,
+                                       "y":  1531.9762349465016
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LULjhsPNONyI5912DKzPw",
+                      "type":  "subtopic",
+                      "label":  "Vitest",
+                      "position":  {
+                                       "x":  275.6356384763572,
+                                       "y":  1425.9762349465016
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cQllxv7qGbRtM9O5llgN6",
+                      "type":  "subtopic",
+                      "label":  "react-testing-library",
+                      "position":  {
+                                       "x":  275.6356384763572,
+                                       "y":  1478.9762349465016
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zN7Ps1puD-YpHbKi1pHH8",
+                      "type":  "subtopic",
+                      "label":  "Cypress",
+                      "position":  {
+                                       "x":  407.6356384763572,
+                                       "y":  1531.9762349465016
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "g39P0c6M2sHNoUPs0m8tr",
+                      "type":  "subtopic",
+                      "label":  "Playwright",
+                      "position":  {
+                                       "x":  407.6356384763572,
+                                       "y":  1425.6379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W-atg_Msa9uPLr6RXAKSb",
+                      "type":  "topic",
+                      "label":  "Frameworks",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  1716.7803301692136
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HdWq9ue0JdwmwqSIN2OD_",
+                      "type":  "subtopic",
+                      "label":  "Next.js",
+                      "position":  {
+                                       "x":  275.63563847635714,
+                                       "y":  1768.7803301692136
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_HoZkE7FH-v3wI_722ZTF",
+                      "type":  "subtopic",
+                      "label":  "Astro",
+                      "position":  {
+                                       "x":  275.63563847635714,
+                                       "y":  1715.7803301692136
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-WjJBYCmRRj08n_9HxohY",
+                      "type":  "subtopic",
+                      "label":  "react-router",
+                      "position":  {
+                                       "x":  275.63563847635714,
+                                       "y":  1662.7803301692136
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KHcC5pFN3qLnsbPPKpYd2",
+                      "type":  "topic",
+                      "label":  "Forms",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  1619.25124367231
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_5ht0PAdVOJWPzTRS1mVg",
+                      "type":  "subtopic",
+                      "label":  "React Hook Form",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  1619.25124367231
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gr1CaLvL7tFOkIRywSsID",
+                      "type":  "subtopic",
+                      "label":  "Formik",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  1672.25124367231
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UNlvRp6k3_RDoTAAIEfJ1",
+                      "type":  "topic",
+                      "label":  "Types \u0026 Validation",
+                      "position":  {
+                                       "x":  -91.95515386471311,
+                                       "y":  1853.646199050444
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ElgRwv5LSVg5FXGx-2K2s",
+                      "type":  "subtopic",
+                      "label":  "TypeScript",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  1853.646199050444
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K3RZ8ESxWCpLKHePF87Hy",
+                      "type":  "subtopic",
+                      "label":  "Zod",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  1904.646199050444
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bRpeoo9zXrnZ2IHSI7JX4",
+                      "type":  "topic",
+                      "label":  "Animation",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  2030.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SUeXDkmOLipdRP4fSrZOH",
+                      "type":  "topic",
+                      "label":  "Server APIs",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  2136.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H6-XGDjs4f-qbv13v5av0",
+                      "type":  "subtopic",
+                      "label":  "Framer Motion",
+                      "position":  {
+                                       "x":  275.63563847635714,
+                                       "y":  1926.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WzoB5B6SdOI4Mzv6U51nY",
+                      "type":  "subtopic",
+                      "label":  "react spring",
+                      "position":  {
+                                       "x":  275.63563847635714,
+                                       "y":  1979.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y2dI1DVLWKAkv6VRpgaQa",
+                      "type":  "subtopic",
+                      "label":  "GSock",
+                      "position":  {
+                                       "x":  275.63563847635714,
+                                       "y":  2030.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_F3WMxhzaK9F8_-zHDDMF",
+                      "type":  "topic",
+                      "label":  "Suspense",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  2189.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DcDggX4OmmwvJGHwuV86t",
+                      "type":  "topic",
+                      "label":  "Portals",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  2242.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gMHMjsh0i8paLZUH5mDX3",
+                      "type":  "topic",
+                      "label":  "Error Boundaries",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  2083.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "txARr3lgTvy-vJCj5zAb1",
+                      "type":  "topic",
+                      "label":  "Mobile Applications",
+                      "position":  {
+                                       "x":  -92.53769075086342,
+                                       "y":  2295.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NvXAq1vN2wpncdW-yTL4c",
+                      "type":  "subtopic",
+                      "label":  "React Native",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  2295.3040775199916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5xCbPG6RMI0OEAI4aXKC7",
+                      "type":  "legend",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -495.02532545570534,
+                                       "y":  -210.78400721142515
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1kbrCI5JS0c9wbzxXpgFU",
+                      "type":  "subtopic",
+                      "label":  "MobX",
+                      "position":  {
+                                       "x":  -502.97747350189474,
+                                       "y":  931.5539763378672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  178.98750948177025,
+                                       "y":  -202.45354709361837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  192.61202169501337,
+                                       "y":  -120.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "iZr9B0hVCqyMAVdq6cTex",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  272.0448461352869,
+                                       "y":  194.30190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "T2IYzVFtcQbFcQ_kzmxe0",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  135.54031453135002,
+                                       "y":  417.80190180088505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vUlWPYUEMPTOncCeSUIBe",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  138.0448461352869,
+                                       "y":  631.9351632035148
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "r-nFiqx3vDjn9qyVzjqj-",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -242.53769075086342,
+                                       "y":  1359.1379962458143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jEtF9JEwOByHTHbMOhw_s",
+                      "type":  "label",
+                      "label":  "Advanced Topics",
+                      "position":  {
+                                       "x":  -61.53769075086342,
+                                       "y":  1943.7417344937028
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "VepZahj71pdWO2sMRzpNY",
+                      "type":  "button",
+                      "label":  "Angular",
+                      "position":  {
+                                       "x":  177.77424297027585,
+                                       "y":  2456.5079920689423
+                                   },
+                      "href":  "https://roadmap.sh/angular",
+                      "links":  null
+                  },
+                  {
+                      "id":  "97AZIbO5wAXRd032yXvW9",
+                      "type":  "button",
+                      "label":  "Vue",
+                      "position":  {
+                                       "x":  23.77424297027585,
+                                       "y":  2456.5079920689423
+                                   },
+                      "href":  "https://roadmap.sh/vue",
+                      "links":  null
+                  },
+                  {
+                      "id":  "_-2WpGnJ1CMj_acD1dr_i",
+                      "type":  "subtopic",
+                      "label":  "Formish",
+                      "position":  {
+                                       "x":  -373.67749112444693,
+                                       "y":  1672.25124367231
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EOQGj1ALgdp6u9thVHdmc",
+                      "type":  "subtopic",
+                      "label":  "Valibot",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  1957.646199050444
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e4eYTirpJWGELBC2kvCYd",
+                      "type":  "button",
+                      "label":  "React Native",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  2205.3040775199916
+                                   },
+                      "href":  "https://roadmap.sh/react-native",
+                      "links":  null
+                  },
+                  {
+                      "id":  "IrZWMq0wdl-sy9ciKTXdB",
+                      "type":  "button",
+                      "label":  "TypeScript",
+                      "position":  {
+                                       "x":  -505.67749112444693,
+                                       "y":  1764.1276579991782
+                                   },
+                      "href":  "https://roadmap.sh/react-native",
+                      "links":  null
+                  },
+                  {
+                      "id":  "wuwnktmNGfmvIbZhe8YCB",
+                      "type":  "subtopic",
+                      "label":  "Base UI",
+                      "position":  {
+                                       "x":  274.6969339225511,
+                                       "y":  1194.6602700992098
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "reactflow__edge-iogwMmOvub2ZF4zgg6WyFx2-XDvH2t3AJGevS17uM8TO6w1",
+                      "source":  "iogwMmOvub2ZF4zgg6WyF",
+                      "target":  "XDvH2t3AJGevS17uM8TO6",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-tU4Umtnfu01t9gLlnlK6bz2-y9ToYDix-koRbR6FLydFwy1",
+                      "source":  "tU4Umtnfu01t9gLlnlK6b",
+                      "target":  "y9ToYDix-koRbR6FLydFw",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-XDvH2t3AJGevS17uM8TO6x2-tU4Umtnfu01t9gLlnlK6bw2",
+                      "source":  "XDvH2t3AJGevS17uM8TO6",
+                      "target":  "tU4Umtnfu01t9gLlnlK6b",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-tU4Umtnfu01t9gLlnlK6bx2-0uiGsC5SWavNdlFqizkKew2",
+                      "source":  "tU4Umtnfu01t9gLlnlK6b",
+                      "target":  "79K4xgljcoSHkCYI1D55O",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-txARr3lgTvy-vJCj5zAb1x2-GV_zWF6rSWg5bqgiXhOEfw1",
+                      "source":  "txARr3lgTvy-vJCj5zAb1",
+                      "target":  "GV_zWF6rSWg5bqgiXhOEf",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__79K4xgljcoSHkCYI1D55Ox2-0uiGsC5SWavNdlFqizkKew2",
+                      "source":  "79K4xgljcoSHkCYI1D55O",
+                      "target":  "0uiGsC5SWavNdlFqizkKe",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__LbLQhonBqzxHU6B-L--Vqw2-0uiGsC5SWavNdlFqizkKex2",
+                      "source":  "LbLQhonBqzxHU6B-L--Vq",
+                      "target":  "0uiGsC5SWavNdlFqizkKe",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__LbLQhonBqzxHU6B-L--Vqy2-HX75SExuzR5AP7TQ94qidz1",
+                      "source":  "LbLQhonBqzxHU6B-L--Vq",
+                      "target":  "HX75SExuzR5AP7TQ94qid",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__LbLQhonBqzxHU6B-L--Vqy2-mkyU0ug8MXxV4biHuOityz2",
+                      "source":  "LbLQhonBqzxHU6B-L--Vq",
+                      "target":  "mkyU0ug8MXxV4biHuOity",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__LbLQhonBqzxHU6B-L--Vqx2-NStw6bi_pPB49K41BFSgow1",
+                      "source":  "LbLQhonBqzxHU6B-L--Vq",
+                      "target":  "NStw6bi_pPB49K41BFSgo",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__NStw6bi_pPB49K41BFSgoy2-jvp43wFkKlGQX2y7IxkbMz1",
+                      "source":  "NStw6bi_pPB49K41BFSgo",
+                      "target":  "jvp43wFkKlGQX2y7IxkbM",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__NStw6bi_pPB49K41BFSgoy2-zWL8VLx_g0SWubavJDs6iz2",
+                      "source":  "NStw6bi_pPB49K41BFSgo",
+                      "target":  "zWL8VLx_g0SWubavJDs6i",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__NStw6bi_pPB49K41BFSgox2-I7_mX4h-Yywp1YyTJRKXIw2",
+                      "source":  "NStw6bi_pPB49K41BFSgo",
+                      "target":  "I7_mX4h-Yywp1YyTJRKXI",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__I7_mX4h-Yywp1YyTJRKXIy2-yI6XiNW04EL78UL4lkVgdz1",
+                      "source":  "I7_mX4h-Yywp1YyTJRKXI",
+                      "target":  "yI6XiNW04EL78UL4lkVgd",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__I7_mX4h-Yywp1YyTJRKXIy2-10uL0r388lKh8pWYWqRZDz1",
+                      "source":  "I7_mX4h-Yywp1YyTJRKXI",
+                      "target":  "10uL0r388lKh8pWYWqRZD",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "K54UNnwxkiEdRGjY5aTQB",
+                      "source":  "DfrCkbD-HEHwLymv10zb5",
+                      "target":  "akVNUPOqaTXaSHoQFlkP_",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "hKr-clY-kDl-C3-V1ITFx",
+                      "source":  "DfrCkbD-HEHwLymv10zb5",
+                      "target":  "awoEhwPKjUcR84XGL6Som",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "NcsE-0IWCevl0fBH4IRqa",
+                      "source":  "DfrCkbD-HEHwLymv10zb5",
+                      "target":  "KO3viVIJJREtxXxsocN7j",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__DfrCkbD-HEHwLymv10zb5w2-I7_mX4h-Yywp1YyTJRKXIx2",
+                      "source":  "DfrCkbD-HEHwLymv10zb5",
+                      "target":  "I7_mX4h-Yywp1YyTJRKXI",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "UwW5rH-usIGyN3q-a0I-o",
+                      "source":  "thfnymb_UIiKxakKfiua5",
+                      "target":  "gy7eBxPOlwG8BvxHVLDQ9",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "AB2Xo2UXz4-FTvSOzZkwn",
+                      "source":  "thfnymb_UIiKxakKfiua5",
+                      "target":  "uqphqAnlcJOLnwHZs5jWu",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "6WbybP1WFsZjWZTk4_78r",
+                      "source":  "thfnymb_UIiKxakKfiua5",
+                      "target":  "njKsYNkwTXPQ1NjlGKXab",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__DfrCkbD-HEHwLymv10zb5x2-thfnymb_UIiKxakKfiua5w1",
+                      "source":  "DfrCkbD-HEHwLymv10zb5",
+                      "target":  "thfnymb_UIiKxakKfiua5",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__thfnymb_UIiKxakKfiua5x2-MnDgQq9Vcxsu3wDqv5uh2w2",
+                      "source":  "thfnymb_UIiKxakKfiua5",
+                      "target":  "MnDgQq9Vcxsu3wDqv5uh2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__MnDgQq9Vcxsu3wDqv5uh2x2-b4AP2OggxFAwsQtUwiUJJw1",
+                      "source":  "MnDgQq9Vcxsu3wDqv5uh2",
+                      "target":  "b4AP2OggxFAwsQtUwiUJJ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__b4AP2OggxFAwsQtUwiUJJx2-e_lwZ-a72-tAan2KDX6k3w2",
+                      "source":  "b4AP2OggxFAwsQtUwiUJJ",
+                      "target":  "e_lwZ-a72-tAan2KDX6k3",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__e_lwZ-a72-tAan2KDX6k3z2-LULjhsPNONyI5912DKzPwy1",
+                      "source":  "e_lwZ-a72-tAan2KDX6k3",
+                      "target":  "LULjhsPNONyI5912DKzPw",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__e_lwZ-a72-tAan2KDX6k3z2-cQllxv7qGbRtM9O5llgN6y1",
+                      "source":  "e_lwZ-a72-tAan2KDX6k3",
+                      "target":  "cQllxv7qGbRtM9O5llgN6",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__e_lwZ-a72-tAan2KDX6k3z2-opa61u9gYgSpoPtxp58wuy1",
+                      "source":  "e_lwZ-a72-tAan2KDX6k3",
+                      "target":  "opa61u9gYgSpoPtxp58wu",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "LIX-MhNt0LA9ZTDk9sc-N",
+                      "source":  "W-atg_Msa9uPLr6RXAKSb",
+                      "target":  "-WjJBYCmRRj08n_9HxohY",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "IQ9HEg874ej2S6ULrwjzV",
+                      "source":  "W-atg_Msa9uPLr6RXAKSb",
+                      "target":  "_HoZkE7FH-v3wI_722ZTF",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "XZVgo1Tq9F2FE8gWSg2Ns",
+                      "source":  "W-atg_Msa9uPLr6RXAKSb",
+                      "target":  "HdWq9ue0JdwmwqSIN2OD_",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "fiKytjkNAVAO37LcLy5WQ",
+                      "source":  "KHcC5pFN3qLnsbPPKpYd2",
+                      "target":  "_5ht0PAdVOJWPzTRS1mVg",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__e_lwZ-a72-tAan2KDX6k3x2-KHcC5pFN3qLnsbPPKpYd2w1",
+                      "source":  "e_lwZ-a72-tAan2KDX6k3",
+                      "target":  "KHcC5pFN3qLnsbPPKpYd2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__KHcC5pFN3qLnsbPPKpYd2x2-W-atg_Msa9uPLr6RXAKSbw1",
+                      "source":  "KHcC5pFN3qLnsbPPKpYd2",
+                      "target":  "W-atg_Msa9uPLr6RXAKSb",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "kglRwkXT8AzRd7WaYIW4A",
+                      "source":  "UNlvRp6k3_RDoTAAIEfJ1",
+                      "target":  "ElgRwv5LSVg5FXGx-2K2s",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "K4sNXfVOejykQQSm5GVku",
+                      "source":  "UNlvRp6k3_RDoTAAIEfJ1",
+                      "target":  "K3RZ8ESxWCpLKHePF87Hy",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__W-atg_Msa9uPLr6RXAKSbx2-UNlvRp6k3_RDoTAAIEfJ1w1",
+                      "source":  "W-atg_Msa9uPLr6RXAKSb",
+                      "target":  "UNlvRp6k3_RDoTAAIEfJ1",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__UNlvRp6k3_RDoTAAIEfJ1x2-jEtF9JEwOByHTHbMOhw_sw1",
+                      "source":  "UNlvRp6k3_RDoTAAIEfJ1",
+                      "target":  "jEtF9JEwOByHTHbMOhw_s",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "G7D9dQ1LPIGf19evoXyPt",
+                      "source":  "bRpeoo9zXrnZ2IHSI7JX4",
+                      "target":  "H6-XGDjs4f-qbv13v5av0",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "CTdB1ZvS_wQhEaEzY8PRt",
+                      "source":  "bRpeoo9zXrnZ2IHSI7JX4",
+                      "target":  "WzoB5B6SdOI4Mzv6U51nY",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "jW2JELFfj6wYYAjkY3biV",
+                      "source":  "bRpeoo9zXrnZ2IHSI7JX4",
+                      "target":  "y2dI1DVLWKAkv6VRpgaQa",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jEtF9JEwOByHTHbMOhw_sx2-bRpeoo9zXrnZ2IHSI7JX4w1",
+                      "source":  "jEtF9JEwOByHTHbMOhw_s",
+                      "target":  "bRpeoo9zXrnZ2IHSI7JX4",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__txARr3lgTvy-vJCj5zAb1y2-NvXAq1vN2wpncdW-yTL4cz1",
+                      "source":  "txARr3lgTvy-vJCj5zAb1",
+                      "target":  "NvXAq1vN2wpncdW-yTL4c",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__UNlvRp6k3_RDoTAAIEfJ1y2-EOQGj1ALgdp6u9thVHdmcz1",
+                      "source":  "UNlvRp6k3_RDoTAAIEfJ1",
+                      "target":  "EOQGj1ALgdp6u9thVHdmc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__KHcC5pFN3qLnsbPPKpYd2y2-_-2WpGnJ1CMj_acD1dr_iz1",
+                      "source":  "KHcC5pFN3qLnsbPPKpYd2",
+                      "target":  "_-2WpGnJ1CMj_acD1dr_i",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__NvXAq1vN2wpncdW-yTL4cw2-e4eYTirpJWGELBC2kvCYdx2",
+                      "source":  "NvXAq1vN2wpncdW-yTL4c",
+                      "target":  "e4eYTirpJWGELBC2kvCYd",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__ElgRwv5LSVg5FXGx-2K2sw2-IrZWMq0wdl-sy9ciKTXdBx1",
+                      "source":  "ElgRwv5LSVg5FXGx-2K2s",
+                      "target":  "IrZWMq0wdl-sy9ciKTXdB",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__MnDgQq9Vcxsu3wDqv5uh2z2-wuwnktmNGfmvIbZhe8YCBy1",
+                      "source":  "MnDgQq9Vcxsu3wDqv5uh2",
+                      "target":  "wuwnktmNGfmvIbZhe8YCB",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__MnDgQq9Vcxsu3wDqv5uh2z2-RvDfKoa_HIW3QDBfkPv3my2",
+                      "source":  "MnDgQq9Vcxsu3wDqv5uh2",
+                      "target":  "RvDfKoa_HIW3QDBfkPv3m",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  }
+              ]
+}

@@ -1,0 +1,3824 @@
+[
+    {
+        "id":  "4U-HZQGH7kaWCB94Xy8Mh",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/rust/topic@4U-HZQGH7kaWCB94Xy8Mh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rust Programming Language",
+                              "type":  "official",
+                              "url":  "https://www.rust-lang.org/"
+                          },
+                          {
+                              "title":  "Rust by Example",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/stable/rust-by-example/index.html"
+                          },
+                          {
+                              "title":  "Rust Book",
+                              "type":  "opensource",
+                              "url":  "https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf"
+                          },
+                          {
+                              "title":  "Rust Book Interactive",
+                              "type":  "opensource",
+                              "url":  "https://rust-book.cs.brown.edu/experiment-intro.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cMfsRtvzvDZZJ0TqeUOxm",
+        "label":  "What is Rust?",
+        "endpoint":  "https://roadmap.sh/rust/topic@cMfsRtvzvDZZJ0TqeUOxm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rust? What is it?",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/stable/rust-by-example/index.html"
+                          },
+                          {
+                              "title":  "Rust Programming Language",
+                              "type":  "official",
+                              "url":  "https://www.rust-lang.org/"
+                          },
+                          {
+                              "title":  "What is Rust and why is it so popular?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/"
+                          },
+                          {
+                              "title":  "What is Rust?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=R33h77nrMqc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VhSEH_RoWFt1z2lial7xZ",
+        "label":  "Why use Rust?",
+        "endpoint":  "https://roadmap.sh/rust/topic@VhSEH_RoWFt1z2lial7xZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rust? What is it?",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/stable/rust-by-example/index.html"
+                          },
+                          {
+                              "title":  "Rust Programming Language",
+                              "type":  "official",
+                              "url":  "https://www.rust-lang.org/"
+                          },
+                          {
+                              "title":  "What is Rust?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=R33h77nrMqc"
+                          },
+                          {
+                              "title":  "Convince your boss to use Rust",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLZaoyhMXgBzqkaLKR8HHWZaASMvW4gRtZ"
+                          },
+                          {
+                              "title":  "Rust in 100 seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5C_HPTJg5ek\u0026pp=ygUNcnVzdCBmaXJlYmFzZQ%3D%3D"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-IqA02ObYvXPW1ot6t_b9",
+        "label":  "Installing Rust and Cargo",
+        "endpoint":  "https://roadmap.sh/rust/topic@-IqA02ObYvXPW1ot6t_b9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rust Programming Language",
+                              "type":  "official",
+                              "url":  "https://www.rust-lang.org"
+                          },
+                          {
+                              "title":  "Install Rust",
+                              "type":  "official",
+                              "url":  "https://www.rust-lang.org/tools/install"
+                          },
+                          {
+                              "title":  "Installation - The Rust Programming Language",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch01-01-installation.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oyP1ZyOgDC4nYEQXHwdVQ",
+        "label":  "IDEs and Rust Toolchains",
+        "endpoint":  "https://roadmap.sh/rust/topic@oyP1ZyOgDC4nYEQXHwdVQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visual Studio Code",
+                              "type":  "official",
+                              "url":  "https://code.visualstudio.com"
+                          },
+                          {
+                              "title":  "RustRover",
+                              "type":  "official",
+                              "url":  "https://www.jetbrains.com/rust/"
+                          },
+                          {
+                              "title":  "Zed Editor",
+                              "type":  "official",
+                              "url":  "https://zed.dev"
+                          },
+                          {
+                              "title":  "Vim",
+                              "type":  "official",
+                              "url":  "https://www.vim.org"
+                          },
+                          {
+                              "title":  "Emacs",
+                              "type":  "official",
+                              "url":  "https://www.gnu.org/software/emacs/"
+                          },
+                          {
+                              "title":  "Sublime Text",
+                              "type":  "official",
+                              "url":  "https://www.sublimetext.com"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eYCNYtwXBjZwcPUe7QYZ-",
+        "label":  "Rust REPL (Rust Playground)",
+        "endpoint":  "https://roadmap.sh/rust/topic@eYCNYtwXBjZwcPUe7QYZ-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rust Playground",
+                              "type":  "official",
+                              "url":  "https://play.rust-lang.org/"
+                          },
+                          {
+                              "title":  "Debugging Rust apps with GDB",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/debugging-rust-apps-with-gdb/"
+                          },
+                          {
+                              "title":  "Debugging Rust with rust-lldb",
+                              "type":  "article",
+                              "url":  "https://dev.to/bmatcuk/debugging-rust-with-rust-lldb-j1f"
+                          },
+                          {
+                              "title":  "Interactive Rust in a REPL and Jupyter Notebook",
+                              "type":  "article",
+                              "url":  "https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6E4pGifNfSAq6SbzfzFNT",
+        "label":  "Language Basics",
+        "endpoint":  "https://roadmap.sh/rust/topic@6E4pGifNfSAq6SbzfzFNT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction - Rust By Example",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/stable/rust-by-example/"
+                          },
+                          {
+                              "title":  "How to Learn Rust in 2025: A Complete Beginner\u0027s Guide",
+                              "type":  "article",
+                              "url":  "https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Gw5E21W5zis-RUIgNSEV2",
+        "label":  "Variables, DataTypes and Constants",
+        "endpoint":  "https://roadmap.sh/rust/topic@Gw5E21W5zis-RUIgNSEV2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Variables and Mutability",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html"
+                          },
+                          {
+                              "title":  "Data Types",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch03-02-data-types.html"
+                          },
+                          {
+                              "title":  "Constants",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/custom_types/constants.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "u2wlnmE1uLaTqWw35UF0a",
+        "label":  "Control Flow and Constructs",
+        "endpoint":  "https://roadmap.sh/rust/topic@u2wlnmE1uLaTqWw35UF0a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Control Flow",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch03-05-control-flow.html"
+                          },
+                          {
+                              "title":  "Concise Control Flow with if let",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch06-03-if-let.html"
+                          },
+                          {
+                              "title":  "Mastering Control Flow in Rust",
+                              "type":  "article",
+                              "url":  "https://dev.to/iamdipankarpaul/mastering-control-flow-in-rust-36fd"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5hKJaMKpeFEUi3S1Hpiyk",
+        "label":  "Functions and Method Syntax",
+        "endpoint":  "https://roadmap.sh/rust/topic@5hKJaMKpeFEUi3S1Hpiyk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Functions",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch03-03-how-functions-work.html"
+                          },
+                          {
+                              "title":  "Rust Functions Explained with Examples",
+                              "type":  "article",
+                              "url":  "https://boxoflearn.com/rust-functions-complete-guide/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yqp3UePmSlGyOYpxITis4",
+        "label":  "Pattern Matching \u0026 Destructuring",
+        "endpoint":  "https://roadmap.sh/rust/topic@yqp3UePmSlGyOYpxITis4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Patterns and Matching",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch19-00-patterns.html"
+                          },
+                          {
+                              "title":  "Destructuring",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring.html"
+                          },
+                          {
+                              "title":  "Matching",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/flow_control/match.html"
+                          },
+                          {
+                              "title":  "Control Flow with if let",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch06-03-if-let.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FswpjWqqt8-BzUTsDDjel",
+        "label":  "Enums",
+        "endpoint":  "https://roadmap.sh/rust/topic@FswpjWqqt8-BzUTsDDjel.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Defining an Enum",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html"
+                          },
+                          {
+                              "title":  "Understanding and Implementing Enums in Rust",
+                              "type":  "article",
+                              "url":  "https://towardsdev.com/understanding-and-implementing-enums-in-rust-6eae37b6b5e3"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Mi9mQ-8gyDPd8Mbu1zuHt",
+        "label":  "Structs",
+        "endpoint":  "https://roadmap.sh/rust/topic@Mi9mQ-8gyDPd8Mbu1zuHt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Defining and Instantiating Structs",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch05-01-defining-structs.html"
+                          },
+                          {
+                              "title":  "Understanding Structs in Rust: A Complete Guide with Examples",
+                              "type":  "article",
+                              "url":  "https://medium.com/@er.pwndhull07/understanding-structs-in-rust-a-complete-guide-with-examples-621bf9753b88"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SJMuIEuHp8X6nfLb0k0TU",
+        "label":  "Traits",
+        "endpoint":  "https://roadmap.sh/rust/topic@SJMuIEuHp8X6nfLb0k0TU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Traits: Defining Shared Behaviour",
+                              "type":  "article",
+                              "url":  "https://doc.rust-lang.org/book/ch10-02-traits.html"
+                          },
+                          {
+                              "title":  "Understanding Traits and Trait Bounds in Rust",
+                              "type":  "article",
+                              "url":  "https://leapcell.medium.com/understanding-traits-and-trait-bounds-in-rust-d575f19dd649"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HzWHDQZjA9OgVZEWrmhKf",
+        "label":  "Impl Blocks",
+        "endpoint":  "https://roadmap.sh/rust/topic@HzWHDQZjA9OgVZEWrmhKf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Keyword impl",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/keyword.impl.html"
+                          },
+                          {
+                              "title":  "Method Syntax",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch05-03-method-syntax.html"
+                          },
+                          {
+                              "title":  "Rust: Understanding Structs and impl Blocks with 10 Examples",
+                              "type":  "article",
+                              "url":  "https://medium.com/@TechSavvyScribe/rust-understanding-structs-and-impl-blocks-with-10-examples-20371f90b1ed"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FHZSxSiOZYNBEz6tu8wuF",
+        "label":  "Integers",
+        "endpoint":  "https://roadmap.sh/rust/topic@FHZSxSiOZYNBEz6tu8wuF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Integer Data Type in Rust",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch03-02-data-types.html#integer-types"
+                          },
+                          {
+                              "title":  "Machine-dependent Integer Types",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/reference/types/numeric.html#machine-dependent-integer-types"
+                          },
+                          {
+                              "title":  "Rust Data Types (With Examples)",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/rust/data-types#integer-type"
+                          },
+                          {
+                              "title":  "Integer Types",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch03-02-data-types.html#integer-types"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bjwJCGMx5ZfrH7vz3eLS7",
+        "label":  "Boolean",
+        "endpoint":  "https://roadmap.sh/rust/topic@bjwJCGMx5ZfrH7vz3eLS7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "bool",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/primitive.bool.html"
+                          },
+                          {
+                              "title":  "The Boolean Type",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch03-02-data-types.html#the-boolean-type"
+                          },
+                          {
+                              "title":  "Rust Tutorial - Booleans",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t047Hseyj_k\u0026t=388s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rNHHp1GgmRnKIYlZayi59",
+        "label":  "Floats",
+        "endpoint":  "https://roadmap.sh/rust/topic@rNHHp1GgmRnKIYlZayi59.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "f32",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/primitive.f32.html"
+                          },
+                          {
+                              "title":  "IEEE-754 Standard",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/IEEE_754"
+                          },
+                          {
+                              "title":  "Floating-Point Types",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch03-02-data-types.html#floating-point-types"
+                          },
+                          {
+                              "title":  "Rust Tutorial - Floating-Points",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t047Hseyj_k\u0026t=335s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dXMJb2wDmmh2jie1AnPoK",
+        "label":  "Character",
+        "endpoint":  "https://roadmap.sh/rust/topic@dXMJb2wDmmh2jie1AnPoK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The char Primitive Type",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/primitive.char.html"
+                          },
+                          {
+                              "title":  "The Character Type",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch03-02-data-types.html#the-character-type"
+                          },
+                          {
+                              "title":  "Unicode Glossary - Unicode Scalar Value",
+                              "type":  "article",
+                              "url":  "https://www.unicode.org/glossary/#unicode_scalar_value"
+                          },
+                          {
+                              "title":  "Char Type in Rust",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NZaEinuVPVg\u0026pp=ygURY2hhciB0eXBlIGluIHJ1c3Q%3D"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "81_J7CwtUUjYPvKV_prg3",
+        "label":  "Tuple",
+        "endpoint":  "https://roadmap.sh/rust/topic@81_J7CwtUUjYPvKV_prg3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tuple",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/primitive.tuple.html"
+                          },
+                          {
+                              "title":  "The Tuple Type",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch03-02-data-types.html#the-tuple-type"
+                          },
+                          {
+                              "title":  "Rust Tutorial - Tuples",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t047Hseyj_k\u0026t=506s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Hu1jf46OpX44nam_UvYqc",
+        "label":  "String",
+        "endpoint":  "https://roadmap.sh/rust/topic@Hu1jf46OpX44nam_UvYqc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "String",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/string/struct.String.html"
+                          },
+                          {
+                              "title":  "str",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/primitive.str.html"
+                          },
+                          {
+                              "title":  "What as a String?",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch08-02-strings.html?highlight=String#what-is-a-string"
+                          },
+                          {
+                              "title":  "Rust String (With Examples)",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/rust/string"
+                          },
+                          {
+                              "title":  "All Rust string types explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CpvzeyzgQdw\u0026pp=ygUOc3RyaW5nIGluIHJ1c3Q%3D"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2DbdHCjFzGHwCUETakaGh",
+        "label":  "Array",
+        "endpoint":  "https://roadmap.sh/rust/topic@2DbdHCjFzGHwCUETakaGh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Array",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/primitive.array.html"
+                          },
+                          {
+                              "title":  "The Array Type",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch03-02-data-types.html#the-array-type"
+                          },
+                          {
+                              "title":  "Rust Array (With Examples)",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/rust/array"
+                          },
+                          {
+                              "title":  "Rust Tutorial - Arrays",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t047Hseyj_k\u0026t=767s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JAgjrf5WDXiorZ6gFRzTc",
+        "label":  "Hashmap",
+        "endpoint":  "https://roadmap.sh/rust/topic@JAgjrf5WDXiorZ6gFRzTc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HashMap in std::collections",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/struct.HashMap.html"
+                          },
+                          {
+                              "title":  "Storing Keys With Associated Values In Hash Maps",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch08-03-hash-maps.html?highlight=hashmap#storing-keys-with-associated-values-in-hash-maps"
+                          },
+                          {
+                              "title":  "Hash Table",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Hash_table"
+                          },
+                          {
+                              "title":  "HashMaps: key-value stores in Rust",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BfmSYuDdg8Q"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PskCueCc9pSxfnSzfdX-u",
+        "label":  "Vector",
+        "endpoint":  "https://roadmap.sh/rust/topic@PskCueCc9pSxfnSzfdX-u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Vector",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/vec/struct.Vec.html"
+                          },
+                          {
+                              "title":  "Storing Lists of Values with Vectors",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch08-01-vectors.html?highlight=vector#storing-lists-of-values-with-vectors"
+                          },
+                          {
+                              "title":  "Rust Vector (With Examples)",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/rust/vector"
+                          },
+                          {
+                              "title":  "Rust Vectors",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nOKOFYzvvHo\u0026t=97s\u0026pp=ygUMcnVzdCB2ZWN0b3Jz"
+                          },
+                          {
+                              "title":  "Common Collections in Rust",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Zs-pS-egQSs\u0026t=39s\u0026pp=ygUMcnVzdCB2ZWN0b3Jz"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b1iYy4Hvkj47Q13V2HE4i",
+        "label":  "Hashset",
+        "endpoint":  "https://roadmap.sh/rust/topic@b1iYy4Hvkj47Q13V2HE4i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HashSet in std::collections",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/struct.HashSet.html"
+                          },
+                          {
+                              "title":  "Hashset",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/std/hash/hashset.html"
+                          },
+                          {
+                              "title":  "Rust HashSet Collection Type",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KYw3Lnf0nSY\u0026t=1440s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iR0ewc2yURqS7bfMWfoBi",
+        "label":  "LinkedList",
+        "endpoint":  "https://roadmap.sh/rust/topic@iR0ewc2yURqS7bfMWfoBi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LinkedList in std::collections",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/struct.LinkedList.html"
+                          },
+                          {
+                              "title":  "Too Many Linked Lists",
+                              "type":  "article",
+                              "url":  "https://rust-unofficial.github.io/too-many-lists/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B-S1hE-ofNTutnkc2hJBf",
+        "label":  "Stack",
+        "endpoint":  "https://roadmap.sh/rust/topic@B-S1hE-ofNTutnkc2hJBf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Box, Stack and Heap",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/std/box.html"
+                          },
+                          {
+                              "title":  "std::collections",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/index.html"
+                          },
+                          {
+                              "title":  "Getting Started with SQLx and SQLite in Rust",
+                              "type":  "article",
+                              "url":  "https://medium.com/rustaceans/getting-started-with-sqlx-and-sqlite-in-rust-895ae7fc01ae"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fq2NMV-QV9ayJl82ZWzov",
+        "label":  "Queue",
+        "endpoint":  "https://roadmap.sh/rust/topic@fq2NMV-QV9ayJl82ZWzov.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "VecDeque in std::collections",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/struct.VecDeque.html"
+                          },
+                          {
+                              "title":  "Queues",
+                              "type":  "official",
+                              "url":  "https://docs.rs/queues/latest/queues/"
+                          },
+                          {
+                              "title":  "Working with Queues in Rust",
+                              "type":  "article",
+                              "url":  "https://basillica.medium.com/working-with-queues-in-rust-5a5afe82da46"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jdndHBzmdgI6uYql6bO4W",
+        "label":  "Binary Heap",
+        "endpoint":  "https://roadmap.sh/rust/topic@jdndHBzmdgI6uYql6bO4W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BinaryHeap",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html"
+                          },
+                          {
+                              "title":  "The Rust Guide - BinaryHeap",
+                              "type":  "article",
+                              "url":  "https://rust-guide.com/en/documentation/collections/BinaryHeap"
+                          },
+                          {
+                              "title":  "Comprehensive Guide to BinaryHeap in Rust",
+                              "type":  "article",
+                              "url":  "https://www.gyata.ai/rust/binaryheap"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2UQ3AuGkDbT0-54l0rOGM",
+        "label":  "Ownsership Rules \u0026 Memory Safety",
+        "endpoint":  "https://roadmap.sh/rust/topic@2UQ3AuGkDbT0-54l0rOGM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Ownership?",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html"
+                          },
+                          {
+                              "title":  "Rust Ownership \u0026 Borrowing - Memory Safety Without Garbage",
+                              "type":  "article",
+                              "url":  "https://webreference.com/rust/ownership/"
+                          },
+                          {
+                              "title":  "What Is Ownership?",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch04-01-what-is-ownership.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-onH5vPffdcZFjjVcnEpk",
+        "label":  "Borrowing, References and Slices",
+        "endpoint":  "https://roadmap.sh/rust/topic@-onH5vPffdcZFjjVcnEpk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "References and Borrowing",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html"
+                          },
+                          {
+                              "title":  "The Slice Type",
+                              "type":  "article",
+                              "url":  "https://rust-book.cs.brown.edu/ch04-04-slices.html"
+                          },
+                          {
+                              "title":  "Borrowing and References in Rust",
+                              "type":  "article",
+                              "url":  "https://codeforgeek.com/borrowing-and-references-in-rust/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UdXq0H8599cDTKXaIlPqt",
+        "label":  "Deep Dive: Stack vs Heap",
+        "endpoint":  "https://roadmap.sh/rust/topic@UdXq0H8599cDTKXaIlPqt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Box, Stack and Heap",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/std/box.html"
+                          },
+                          {
+                              "title":  "Memory Management in Rust: Stack vs. Heap",
+                              "type":  "article",
+                              "url":  "https://dev.to/iamdipankarpaul/memory-management-in-rust-stack-vs-heap-3m45"
+                          },
+                          {
+                              "title":  "The Stack and the Heap",
+                              "type":  "article",
+                              "url":  "https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LWgaZWTJVWLDes3HzflRh",
+        "label":  "BTreeMap",
+        "endpoint":  "https://roadmap.sh/rust/topic@LWgaZWTJVWLDes3HzflRh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BTreeMap",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/struct.BTreeMap.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FsyLYRQP_rs4qL7IAj9Mo",
+        "label":  "BTreeSet",
+        "endpoint":  "https://roadmap.sh/rust/topic@FsyLYRQP_rs4qL7IAj9Mo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Btree Set",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/collections/struct.BTreeSet.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U9Bd-GO0QwYVLvESR4PTb",
+        "label":  "RC",
+        "endpoint":  "https://roadmap.sh/rust/topic@U9Bd-GO0QwYVLvESR4PTb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "rct - The Reference Counted Smart Pointer",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch15-04-rc.html#rct-the-reference-counted-smart-pointer"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yYmV5qkldu0FkDhOhWOXs",
+        "label":  "Arc",
+        "endpoint":  "https://roadmap.sh/rust/topic@yYmV5qkldu0FkDhOhWOXs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Arc in std::sync",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/sync/struct.Arc.html"
+                          },
+                          {
+                              "title":  "Arc in Rust Lang",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/std/arc.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GbbeV3r27IBEKHyiyLqs6",
+        "label":  "Mutex",
+        "endpoint":  "https://roadmap.sh/rust/topic@GbbeV3r27IBEKHyiyLqs6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mutex",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/sync/struct.Mutex.html"
+                          },
+                          {
+                              "title":  "Rust Mutex: From Basics to Advanced Techniques",
+                              "type":  "article",
+                              "url":  "https://medium.com/@TechSavvyScribe/rust-mutex-from-basics-to-advanced-techniques-56e1f1389d9b"
+                          },
+                          {
+                              "title":  "Rust Concurrency Made Easy: A Guide to Arc and Mutex",
+                              "type":  "article",
+                              "url":  "https://www.ruststepbystep.com/rust-concurrency-made-easy-a-guide-to-arc-and-mutex/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WzGl4DkANjUu7VC1AIWI-",
+        "label":  "RwLock",
+        "endpoint":  "https://roadmap.sh/rust/topic@WzGl4DkANjUu7VC1AIWI-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RwLock",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/sync/struct.RwLock.html"
+                          },
+                          {
+                              "title":  "Rust Read-Write Locks: Managing Concurrent Read and Write Access",
+                              "type":  "article",
+                              "url":  "https://medium.com/@TechSavvyScribe/rust-read-write-locks-managing-concurrent-read-and-write-access-a6ab689bbed3"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3nXJg5Y4SUug_dEAj0eQm",
+        "label":  "Channels",
+        "endpoint":  "https://roadmap.sh/rust/topic@3nXJg5Y4SUug_dEAj0eQm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Channels",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/std_misc/channels.html"
+                          },
+                          {
+                              "title":  "Using Channels in Rust: Why and When?",
+                              "type":  "article",
+                              "url":  "https://howtorust.com/using-channels-in-rust-why-and-when/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "X2gB0m-ZKSC4TJyIcwsMx",
+        "label":  "Error Handling",
+        "endpoint":  "https://roadmap.sh/rust/topic@X2gB0m-ZKSC4TJyIcwsMx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Error Handling",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch09-00-error-handling.html"
+                          },
+                          {
+                              "title":  "How to Handle Errors in Rust",
+                              "type":  "article",
+                              "url":  "https://dev.to/nathan20/how-to-handle-errors-in-rust-a-comprehensive-guide-1cco"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wQHkBydWsiGEOZMdKmz40",
+        "label":  "Option and Result Enumerations",
+        "endpoint":  "https://roadmap.sh/rust/topic@wQHkBydWsiGEOZMdKmz40.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Option \u0026 unwrap",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/error/option_unwrap.html"
+                          },
+                          {
+                              "title":  "Result",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/error/result.html"
+                          },
+                          {
+                              "title":  "Error Handling in Rust - Andrew Gallant\u0027s Blog",
+                              "type":  "article",
+                              "url":  "https://burntsushi.net/rust-error-handling"
+                          },
+                          {
+                              "title":  "Using unwrap() in Rust is Okay - Andrew Gallant\u0027s Blog",
+                              "type":  "article",
+                              "url":  "https://burntsushi.net/unwrap/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pTC1ucmErVnMbNFnYLJK7",
+        "label":  "Propagating Errors and `?` Operator",
+        "endpoint":  "https://roadmap.sh/rust/topic@pTC1ucmErVnMbNFnYLJK7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Recoverable Errors with Result",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html"
+                          },
+                          {
+                              "title":  "Understanding Result, Option, and \u0027?\u0027 Operators in Rust",
+                              "type":  "article",
+                              "url":  "https://howtorust.com/understanding-result-option-and-operators-in-rust/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LwqOxYY9E9MUDgz2M40uV",
+        "label":  "Custom Error Types and Traits",
+        "endpoint":  "https://roadmap.sh/rust/topic@LwqOxYY9E9MUDgz2M40uV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Defining an Error Type",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/error/multiple_error_types/define_error_type.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Zpowr_NGd-E2DC3g-oW9h",
+        "label":  "Modules \u0026 Crates",
+        "endpoint":  "https://roadmap.sh/rust/topic@Zpowr_NGd-E2DC3g-oW9h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Crates",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/crates.html"
+                          },
+                          {
+                              "title":  "Managing Growing Projects with Packages, Crates, and Modules",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html"
+                          },
+                          {
+                              "title":  "How It Works: Rust\u0027s Module System Finally Explained",
+                              "type":  "article",
+                              "url":  "https://confidence.sh/blog/rust-module-system-explained/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "c_SdccEXEJyh4ymWzvCeX",
+        "label":  "Code Organization \u0026 Namespacing",
+        "endpoint":  "https://roadmap.sh/rust/topic@c_SdccEXEJyh4ymWzvCeX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Modules",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/mod.html"
+                          },
+                          {
+                              "title":  "Namespaces",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/reference/names/namespaces.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PkePVzV-b1pgFJP5xID5_",
+        "label":  "Dependency Management with Cargo",
+        "endpoint":  "https://roadmap.sh/rust/topic@PkePVzV-b1pgFJP5xID5_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dependencies",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/cargo/deps.html"
+                          },
+                          {
+                              "title":  "Cargo",
+                              "type":  "official",
+                              "url":  "https://blog.rust-lang.org/2016/05/05/cargo-pillars.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "crates.io",
+                                "type":  "inline",
+                                "url":  "http://crates.io"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Op0-bdMV3kE9Be6Ot1aC6",
+        "label":  "Publishing on Crates.io",
+        "endpoint":  "https://roadmap.sh/rust/topic@Op0-bdMV3kE9Be6Ot1aC6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Cargo Book: Publishing",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/cargo/reference/publishing.html"
+                          },
+                          {
+                              "title":  "From Zero to Hero: Your First Rust Crate",
+                              "type":  "article",
+                              "url":  "https://medium.com/rust-programming-language/from-zero-to-hero-your-first-rust-crate-6f2c084df464"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "crates.io",
+                                "type":  "inline",
+                                "url":  "http://crates.io"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pehYc_xLrs6BFUbcpPTiJ",
+        "label":  "Concurrency \u0026 Parallelism",
+        "endpoint":  "https://roadmap.sh/rust/topic@pehYc_xLrs6BFUbcpPTiJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fearless Concurrency",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch16-00-concurrency.html"
+                          },
+                          {
+                              "title":  "Rust Concurrency and Parallelism",
+                              "type":  "article",
+                              "url":  "https://rustlang.app/article/Rust_concurrency_and_parallelism.html"
+                          },
+                          {
+                              "title":  "Concurrency and Parallelism in Rust",
+                              "type":  "article",
+                              "url":  "https://sterlingcobb.medium.com/concurrency-and-parallelism-in-rust-an-overview-and-examples-bd811f5a5afe"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pJN260pWQVO0gHxi1-_3U",
+        "label":  "Threads, Channels and Message Passing",
+        "endpoint":  "https://roadmap.sh/rust/topic@pJN260pWQVO0gHxi1-_3U.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "std::thread",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/thread/"
+                          },
+                          {
+                              "title":  "Using Message Passing to Transfer Data Between Threads",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch16-02-message-passing.html"
+                          },
+                          {
+                              "title":  "Understanding Threads in Rust: A Comprehensive Guide",
+                              "type":  "article",
+                              "url":  "https://blog.stackademic.com/understanding-threads-in-rust-a-comprehensive-guide-7e2d23fb85b0"
+                          },
+                          {
+                              "title":  "Rust Atomics and Locks - Low-Level Concurrency in Practice",
+                              "type":  "article",
+                              "url":  "https://marabos.nl/atomics/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "n1Epl_nBuoXW2OE0IKYVR",
+        "label":  "Atomic Operations \u0026 Memory Barriers",
+        "endpoint":  "https://roadmap.sh/rust/topic@n1Epl_nBuoXW2OE0IKYVR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "fence in std::sync::atomic",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/sync/atomic/fn.fence.html"
+                          },
+                          {
+                              "title":  "Atomic Operations and Memory Barriers",
+                              "type":  "article",
+                              "url":  "https://medium.com/@murataslan1/atomic-operations-and-memory-barriers-43ee6f60ead5"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kVfBbsOHoixvqb4dYTG3Q",
+        "label":  "Futures and Async/Await Paradigm",
+        "endpoint":  "https://roadmap.sh/rust/topic@kVfBbsOHoixvqb4dYTG3Q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fundamentals of Asynchronous Programming",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch17-00-async-await.html"
+                          },
+                          {
+                              "title":  "Async/Await in Rust: A Beginner\u0027s Guide",
+                              "type":  "article",
+                              "url":  "https://leapcell.medium.com/async-await-in-rust-a-beginners-guide-8752d2c2abbf"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "08qKtgnhJ3tlb5JKfTDf5",
+        "label":  "Testing",
+        "endpoint":  "https://roadmap.sh/rust/topic@08qKtgnhJ3tlb5JKfTDf5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Writing Automated Tests",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch11-01-writing-tests.html"
+                          },
+                          {
+                              "title":  "Testing in Rust: A Quick Guide to Unit Tests",
+                              "type":  "article",
+                              "url":  "https://dev.to/tramposo/testing-in-rust-a-quick-guide-to-unit-tests-integration-tests-and-benchmarks-2bah"
+                          },
+                          {
+                              "title":  "Mocking and Testing Rust",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=8XaVlL3lObQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w9coeW9-crDxu0KC-9gEU",
+        "label":  "Unit \u0026 Integration Testing",
+        "endpoint":  "https://roadmap.sh/rust/topic@w9coeW9-crDxu0KC-9gEU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Unit Testing",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html"
+                          },
+                          {
+                              "title":  "How to Write Tests",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch11-01-writing-tests.html"
+                          },
+                          {
+                              "title":  "Testing in Rust: A Quick Guide to Unit Tests",
+                              "type":  "article",
+                              "url":  "https://dev.to/tramposo/testing-in-rust-a-quick-guide-to-unit-tests-integration-tests-and-benchmarks-2bah"
+                          },
+                          {
+                              "title":  "Mocking and Testing Rust",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=8XaVlL3lObQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HEqfA6An6ZeT3z4R610en",
+        "label":  "Mocking \u0026 Property Based Testing",
+        "endpoint":  "https://roadmap.sh/rust/topic@HEqfA6An6ZeT3z4R610en.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docs.rs: mockito",
+                              "type":  "article",
+                              "url":  "https://docs.rs/mockito/latest/mockito/"
+                          },
+                          {
+                              "title":  "Docs.rs: mockall",
+                              "type":  "article",
+                              "url":  "https://docs.rs/mockall/latest/mockall/"
+                          },
+                          {
+                              "title":  "Docs.rs: mockall_double",
+                              "type":  "article",
+                              "url":  "https://docs.rs/mockall_double/latest/mockall_double/"
+                          },
+                          {
+                              "title":  "Mocking in Rust: Mockall and alternatives",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/mocking-rust-mockall-alternatives/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zLKbYX0nnbfD5n3P_JRaS",
+        "label":  "Traits \u0026 Generics",
+        "endpoint":  "https://roadmap.sh/rust/topic@zLKbYX0nnbfD5n3P_JRaS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Generic Types, Traits, and Lifetimes",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch10-00-generics.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_EicstELZcdesHiXFWJGu",
+        "label":  "Trait Definitions \u0026 Implementations",
+        "endpoint":  "https://roadmap.sh/rust/topic@_EicstELZcdesHiXFWJGu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Traits",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/trait.html"
+                          },
+                          {
+                              "title":  "Understanding Traits and Trait Bounds in Rust",
+                              "type":  "article",
+                              "url":  "https://leapcell.medium.com/understanding-traits-and-trait-bounds-in-rust-d575f19dd649"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pRDgDtRIVpNM2CdhSOS3Q",
+        "label":  "Trait Bounds and Associated Types",
+        "endpoint":  "https://roadmap.sh/rust/topic@pRDgDtRIVpNM2CdhSOS3Q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Trait and Lifetime Bounds",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/reference/trait-bounds.html"
+                          },
+                          {
+                              "title":  "Understanding Traits and Trait Bounds in Rust",
+                              "type":  "article",
+                              "url":  "https://leapcell.medium.com/understanding-traits-and-trait-bounds-in-rust-d575f19dd649"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_hxwo_iAdOwlWBltv7i6i",
+        "label":  "Generics \u0026 Type-Level Programming",
+        "endpoint":  "https://roadmap.sh/rust/topic@_hxwo_iAdOwlWBltv7i6i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Generic Types, Traits, and Lifetimes",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch10-00-generics.html"
+                          },
+                          {
+                              "title":  "Generics",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/generics.html"
+                          },
+                          {
+                              "title":  "Generics Data Type",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch10-01-syntax.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UZ56NKloehcxUFNuSeO19",
+        "label":  "Lifetimes \u0026 Borrow Checker",
+        "endpoint":  "https://roadmap.sh/rust/topic@UZ56NKloehcxUFNuSeO19.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lifetimes",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/scope/lifetime.html"
+                          },
+                          {
+                              "title":  "Mastering Lifetimes in Rust: Memory Safety and Borrow Checking",
+                              "type":  "article",
+                              "url":  "https://leapcell.medium.com/mastering-lifetimes-in-rust-memory-safety-and-borrow-checking-4a8c082a54ee"
+                          },
+                          {
+                              "title":  "Crust of Rust: Lifetime Annotations",
+                              "type":  "video",
+                              "url":  "https://youtu.be/rAl-9HwD858"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R5HIVS-lyCp9b46aXqx2m",
+        "label":  "Explicit Lifetime Annotations",
+        "endpoint":  "https://roadmap.sh/rust/topic@R5HIVS-lyCp9b46aXqx2m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Explicit Annotation",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/scope/lifetime/explicit.html"
+                          },
+                          {
+                              "title":  "What are Lifetimes in Rust? Explained with Code Examples",
+                              "type":  "article",
+                              "url":  "https://www.freecodecamp.org/news/what-are-lifetimes-in-rust-explained-with-code-examples/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qJI8GObmsxyc_tTtUEOAd",
+        "label":  "Lifetime Elision Rules",
+        "endpoint":  "https://roadmap.sh/rust/topic@qJI8GObmsxyc_tTtUEOAd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lifetime Elision",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/reference/lifetime-elision.html"
+                          },
+                          {
+                              "title":  "Understanding Lifetime Elision in Rust",
+                              "type":  "article",
+                              "url":  "https://masteringbackend.com/posts/understanding-lifetime-elision-in-rust"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7yVvMnvCvLbFa51pESx0j",
+        "label":  "Covariant \u0026 Contravariant Lifetimes",
+        "endpoint":  "https://roadmap.sh/rust/topic@7yVvMnvCvLbFa51pESx0j.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Subtyping and Variance",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/nomicon/subtyping.html"
+                          },
+                          {
+                              "title":  "Demystifying Covariant and Contravariant Lifetimes in Rust",
+                              "type":  "article",
+                              "url":  "https://medium.com/@murataslan1/demystifying-covariant-and-contravariant-lifetimes-in-rust-76051484fe1c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eTpZXd8E2jVBmk_aSLZYV",
+        "label":  "Macros \u0026 Metaprogramming",
+        "endpoint":  "https://roadmap.sh/rust/topic@eTpZXd8E2jVBmk_aSLZYV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Macros",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch20-05-macros.html"
+                          },
+                          {
+                              "title":  "macro_rules!",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/macros.html"
+                          },
+                          {
+                              "title":  "Macros in Rust: A Tutorial with Examples",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/"
+                          },
+                          {
+                              "title":  "Metaprogramming Magic in Rust: The Complete Guide",
+                              "type":  "article",
+                              "url":  "https://elitedev.in/rust/metaprogramming-magic-in-rust-the-complete-guide-/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AXWXXsww7Xkl3BYgtThNe",
+        "label":  "Declarative Macros with macro_rules!",
+        "endpoint":  "https://roadmap.sh/rust/topic@AXWXXsww7Xkl3BYgtThNe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Macros",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch20-05-macros.html"
+                          },
+                          {
+                              "title":  "Macros in Rust: A Tutorial with Examples",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bkVM1OIbv4XUpY6FQb8x_",
+        "label":  "Procedural Macros \u0026 Custom Derive",
+        "endpoint":  "https://roadmap.sh/rust/topic@bkVM1OIbv4XUpY6FQb8x_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Procedural Macros",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/reference/procedural-macros.html"
+                          },
+                          {
+                              "title":  "Understanding Procedural Macros and Custom Derive",
+                              "type":  "article",
+                              "url":  "https://www.gyata.ai/rust/procedural-macros-and-custom-derive"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Kb7KF7JCMaWFz-GuaQmQV",
+        "label":  "Domain Specific Languages (DSLs)",
+        "endpoint":  "https://roadmap.sh/rust/topic@Kb7KF7JCMaWFz-GuaQmQV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Domain Specific Languages (DSLs)",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rust-by-example/macros/dsl.html"
+                          },
+                          {
+                              "title":  "Crafting Expressive Tools: Domain-Specific Languages (DSLs)",
+                              "type":  "article",
+                              "url":  "https://medium.com/@murataslan1/crafting-expressive-tools-domain-specific-languages-dsls-in-rust-94394debe12b"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KomYBYxj0FTrJDYB3nU5B",
+        "label":  "Web Development",
+        "endpoint":  "https://roadmap.sh/rust/topic@KomYBYxj0FTrJDYB3nU5B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rocket - Simple, Fast, Type-Safe Web Framework for Rust",
+                              "type":  "official",
+                              "url":  "https://rocket.rs/"
+                          },
+                          {
+                              "title":  "Rust for Web Development: A Beginner\u0027s Guide",
+                              "type":  "article",
+                              "url":  "https://medium.com/@enravishjeni411/rust-for-web-development-a-beginners-guide-fcc994e5c090"
+                          },
+                          {
+                              "title":  "How to Write Your First Rust Web App with Rocket and RustRover",
+                              "type":  "article",
+                              "url":  "https://blog.jetbrains.com/rust/2024/02/28/how-to-write-your-first-rust-web-app-with-rocket-and-rustrover/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "duQ1RO1lqq793mfb5w31P",
+        "label":  "Axum",
+        "endpoint":  "https://roadmap.sh/rust/topic@duQ1RO1lqq793mfb5w31P.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Axum Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.rs/axum/latest/axum/"
+                          },
+                          {
+                              "title":  "Getting Started with Axum - Rust\u0027s Most Popular Web Framework",
+                              "type":  "article",
+                              "url":  "https://www.shuttle.dev/blog/2023/12/06/using-axum-rust"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3Y90v2ysoMcyjDL24H7mC",
+        "label":  "Actix",
+        "endpoint":  "https://roadmap.sh/rust/topic@3Y90v2ysoMcyjDL24H7mC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Actix - Actor framework for Rust",
+                              "type":  "official",
+                              "url":  "https://actix.rs/"
+                          },
+                          {
+                              "title":  "Actix Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.rs/actix/latest/actix/"
+                          },
+                          {
+                              "title":  "Building a Clean API in Rust with Actix Web",
+                              "type":  "article",
+                              "url":  "https://medium.com/@anto18671/building-a-clean-api-in-rust-with-actix-web-a-comprehensive-guide-d084e368a988"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "n5t3MUqmvrcr36VIIOw0u",
+        "label":  "Leptos",
+        "endpoint":  "https://roadmap.sh/rust/topic@n5t3MUqmvrcr36VIIOw0u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Home - Leptos",
+                              "type":  "official",
+                              "url":  "https://www.leptos.dev/"
+                          },
+                          {
+                              "title":  "Introduction - Leptos Documentation",
+                              "type":  "official",
+                              "url":  "https://book.leptos.dev/"
+                          },
+                          {
+                              "title":  "leptos-rs/leptos: Build fast web applications with Rust",
+                              "type":  "opensource",
+                              "url":  "https://github.com/leptos-rs/leptos"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GnSBtZoN9mAehRf5Eczng",
+        "label":  "Loco",
+        "endpoint":  "https://roadmap.sh/rust/topic@GnSBtZoN9mAehRf5Eczng.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Loco.rs - Productivity-first Rust Fullstack Web Framework",
+                              "type":  "official",
+                              "url":  "https://loco.rs/"
+                          },
+                          {
+                              "title":  "The Loco Guide - Loco.rs",
+                              "type":  "official",
+                              "url":  "https://loco.rs/docs/getting-started/guide/"
+                          },
+                          {
+                              "title":  "Getting Started with Loco in Rust",
+                              "type":  "article",
+                              "url":  "https://www.shuttle.dev/blog/2023/12/28/using-loco-rust-rails"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ApjwY_70OGG_dNIC85oBD",
+        "label":  "Rocket",
+        "endpoint":  "https://roadmap.sh/rust/topic@ApjwY_70OGG_dNIC85oBD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rocket - Simple, Fast, Type-Safe Web Framework for Rust",
+                              "type":  "official",
+                              "url":  "https://rocket.rs/"
+                          },
+                          {
+                              "title":  "Getting Started with Rocket in Rust",
+                              "type":  "article",
+                              "url":  "https://www.shuttle.dev/blog/2023/12/13/using-rocket-rust"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yu0f5gALho0e8wzV10yow",
+        "label":  "Asynchronous Programming",
+        "endpoint":  "https://roadmap.sh/rust/topic@yu0f5gALho0e8wzV10yow.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fundamentals of Asynchronous Programming",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch17-00-async-await.html"
+                          },
+                          {
+                              "title":  "async-std",
+                              "type":  "official",
+                              "url":  "https://docs.rs/async-std/latest/async_std/"
+                          },
+                          {
+                              "title":  "Demystifying Async Programming in Rust",
+                              "type":  "article",
+                              "url":  "https://medium.com/@trek007/demystifying-async-programming-in-rust-a-complete-guide-with-real-world-examples-147079950f8b"
+                          },
+                          {
+                              "title":  "Rust Async Programming: Tokio \u0026 Async-std",
+                              "type":  "article",
+                              "url":  "https://medium.com/@AlexanderObregon/async-programming-in-rust-exploring-tokio-and-async-std-97d4b524cef0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "H0mctp3Bj2OYfIGFDWGfz",
+        "label":  "Tokio",
+        "endpoint":  "https://roadmap.sh/rust/topic@H0mctp3Bj2OYfIGFDWGfz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tokio",
+                              "type":  "official",
+                              "url":  "https://tokio.rs/"
+                          },
+                          {
+                              "title":  "Tokio Docs",
+                              "type":  "article",
+                              "url":  "https://docs.rs/tokio/latest/tokio/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_2uQInXPdOY-DpYTO1Prt",
+        "label":  "async-std",
+        "endpoint":  "https://roadmap.sh/rust/topic@_2uQInXPdOY-DpYTO1Prt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "async-std",
+                              "type":  "official",
+                              "url":  "https://docs.rs/async-std/latest/async_std/"
+                          },
+                          {
+                              "title":  "Rust Async Programming: Tokio \u0026 Async-std",
+                              "type":  "article",
+                              "url":  "https://medium.com/@AlexanderObregon/async-programming-in-rust-exploring-tokio-and-async-std-97d4b524cef0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3C9gCBAq3OQVb583S72D4",
+        "label":  "smol",
+        "endpoint":  "https://roadmap.sh/rust/topic@3C9gCBAq3OQVb583S72D4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Smol - Gist of Rust",
+                              "type":  "official",
+                              "url":  "https://book.gist.rs/rust/r1/smol.html"
+                          },
+                          {
+                              "title":  "smol-rs/smol: A small and fast async runtime for Rust",
+                              "type":  "opensource",
+                              "url":  "https://github.com/smol-rs/smol"
+                          },
+                          {
+                              "title":  "Smol Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.rs/smol/latest/smol/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3pL0ARqk8uRNimopHSalW",
+        "label":  "Networking",
+        "endpoint":  "https://roadmap.sh/rust/topic@3pL0ARqk8uRNimopHSalW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "std::net",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/net/"
+                          },
+                          {
+                              "title":  "TcpListener",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/net/struct.TcpListener.html"
+                          },
+                          {
+                              "title":  "UdpSocket",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/net/struct.UdpSocket.html"
+                          },
+                          {
+                              "title":  "TcpStream",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/std/net/struct.TcpStream.html"
+                          },
+                          {
+                              "title":  "Networking Fundamentals in Rust",
+                              "type":  "article",
+                              "url":  "https://medium.com/@murataslan1/networking-fundamentals-in-rust-525dcfbd5058"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TtajUXZpyNx9AmdUawm-8",
+        "label":  "reqwest",
+        "endpoint":  "https://roadmap.sh/rust/topic@TtajUXZpyNx9AmdUawm-8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Making HTTP requests in Rust with Reqwest",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/making-http-requests-rust-reqwest/"
+                          },
+                          {
+                              "title":  "Exploring Reqwest in Rust",
+                              "type":  "article",
+                              "url":  "https://medium.com/@chetanreddyk394/exploring-reqwest-in-rust-b91c548e69af"
+                          },
+                          {
+                              "title":  "Reqwest Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.rs/reqwest/latest/reqwest/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-MiN5ytI43EjgmWV55BhU",
+        "label":  "hyper",
+        "endpoint":  "https://roadmap.sh/rust/topic@-MiN5ytI43EjgmWV55BhU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hyper.rs",
+                              "type":  "official",
+                              "url":  "https://hyper.rs/"
+                          },
+                          {
+                              "title":  "Hyper Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.rs/hyper/latest/hyper/"
+                          },
+                          {
+                              "title":  "Creating a Basic HTTP Server in Rust using Hyper",
+                              "type":  "article",
+                              "url":  "https://medium.com/@ajay.bhatia/creating-a-basic-http-server-in-rust-using-hyper-a-step-by-step-tutorial-459b48d61151"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qi1pmsY8bPk8nbHiBIGha",
+        "label":  "quinn",
+        "endpoint":  "https://roadmap.sh/rust/topic@qi1pmsY8bPk8nbHiBIGha.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Quinn — Rust Network Library",
+                              "type":  "official",
+                              "url":  "https://lib.rs/crates/quinn"
+                          },
+                          {
+                              "title":  "quinn-rs/quinn: Async-friendly QUIC implementation in Rust",
+                              "type":  "opensource",
+                              "url":  "https://github.com/quinn-rs/quinn"
+                          },
+                          {
+                              "title":  "Quinn",
+                              "type":  "article",
+                              "url":  "https://docs.rs/quinn/latest/quinn/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gcmKSLWfBqx4aPZOmyQsg",
+        "label":  "Serialization / Deserialization",
+        "endpoint":  "https://roadmap.sh/rust/topic@gcmKSLWfBqx4aPZOmyQsg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Serde Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.rs/serde/latest/serde/"
+                          },
+                          {
+                              "title":  "Serialization and Deserialization in Rust: A Comprehensive Guide",
+                              "type":  "article",
+                              "url":  "https://rustmeup.com/serialization-in-rust-with-serde"
+                          },
+                          {
+                              "title":  "Rust Serialization: Easy Beginner\u0027s Guide with Examples",
+                              "type":  "article",
+                              "url":  "https://boxoflearn.com/rust-serialization-guide/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EHErECEYws05oi59OsZpC",
+        "label":  "Serde",
+        "endpoint":  "https://roadmap.sh/rust/topic@EHErECEYws05oi59OsZpC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Serde",
+                              "type":  "official",
+                              "url":  "https://serde.rs/"
+                          },
+                          {
+                              "title":  "Serde Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.rs/serde/latest/serde/"
+                          },
+                          {
+                              "title":  "Serialization in Rust with Serde",
+                              "type":  "article",
+                              "url":  "https://rustmeup.com/serialization-in-rust-with-serde"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZXMKY0f7mqqlsvyH9u-LM",
+        "label":  "json-rust",
+        "endpoint":  "https://roadmap.sh/rust/topic@ZXMKY0f7mqqlsvyH9u-LM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Serde",
+                              "type":  "official",
+                              "url":  "https://serde.rs/"
+                          },
+                          {
+                              "title":  "serde-rs/serde: Serialization framework for Rust",
+                              "type":  "opensource",
+                              "url":  "https://github.com/serde-rs/serde"
+                          },
+                          {
+                              "title":  "Docs.rs: JSON",
+                              "type":  "article",
+                              "url":  "https://docs.rs/json/latest/json/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LmFog_qXrS9e5ARhV6OD_",
+        "label":  "toml-rust",
+        "endpoint":  "https://roadmap.sh/rust/topic@LmFog_qXrS9e5ARhV6OD_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TOML",
+                              "type":  "official",
+                              "url":  "https://docs.rs/toml/latest/toml/"
+                          },
+                          {
+                              "title":  "@opensourcetoml-rs/toml-rs",
+                              "type":  "article",
+                              "url":  "https://github.com/toml-rs/toml-rs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_n7emeqzf5UTxVB5-385G",
+        "label":  "Database and ORM",
+        "endpoint":  "https://roadmap.sh/rust/topic@_n7emeqzf5UTxVB5-385G.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+                              "type":  "official",
+                              "url":  "https://diesel.rs/"
+                          },
+                          {
+                              "title":  "Choosing the Right ORM for Rust: A Comparative Analysis",
+                              "type":  "article",
+                              "url":  "https://medium.com/@wiederinchristoph/rusts-ecosystem-offers-a-variety-of-object-relational-mapping-orm-libraries-and-database-ce4690a97a61"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UAXpBK3lfnq0Q4RcBehZ1",
+        "label":  "Diesel",
+        "endpoint":  "https://roadmap.sh/rust/topic@UAXpBK3lfnq0Q4RcBehZ1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Diesel",
+                              "type":  "official",
+                              "url":  "https://diesel.rs/"
+                          },
+                          {
+                              "title":  "Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/diesel-rs/diesel"
+                          },
+                          {
+                              "title":  "Docs.rs: Diesel",
+                              "type":  "article",
+                              "url":  "https://docs.rs/diesel/latest/diesel/"
+                          },
+                          {
+                              "title":  "Rust \u0026 SQL Databases (With Diesel)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tRC4EIKhMzw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r2KembNZ2WIzLe87EB91K",
+        "label":  "sqlx",
+        "endpoint":  "https://roadmap.sh/rust/topic@r2KembNZ2WIzLe87EB91K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "launchbadge/sqlx",
+                              "type":  "opensource",
+                              "url":  "https://github.com/launchbadge/sqlx"
+                          },
+                          {
+                              "title":  "sqlx Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.rs/sqlx/latest/sqlx/"
+                          },
+                          {
+                              "title":  "Getting Started with SQLx and SQLite in Rust",
+                              "type":  "article",
+                              "url":  "https://medium.com/rustaceans/getting-started-with-sqlx-and-sqlite-in-rust-895ae7fc01ae"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "a2MLN7f-FvsgdmvP9ixlv",
+        "label":  "rusqlite",
+        "endpoint":  "https://roadmap.sh/rust/topic@a2MLN7f-FvsgdmvP9ixlv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "rusqlite/rusqlite",
+                              "type":  "opensource",
+                              "url":  "https://github.com/rusqlite/rusqlite"
+                          },
+                          {
+                              "title":  "Rusqlite",
+                              "type":  "article",
+                              "url":  "https://docs.rs/rusqlite/latest/rusqlite/"
+                          },
+                          {
+                              "title":  "Rust | Sqlite Database",
+                              "type":  "article",
+                              "url":  "https://medium.com/@mikecode/rust-sqlite-database-rusqlite-162bad63fb5d"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Rv_Z-rbtELPZ1Nv0PZQmV",
+        "label":  "Cryptography",
+        "endpoint":  "https://roadmap.sh/rust/topic@Rv_Z-rbtELPZ1Nv0PZQmV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cryptography — list of Rust libraries/crates",
+                              "type":  "official",
+                              "url":  "https://lib.rs/cryptography"
+                          },
+                          {
+                              "title":  "Awesome Rust Cryptography",
+                              "type":  "article",
+                              "url":  "https://cryptography.rs/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "f68x7r-qzaQfrzXnjOI2q",
+        "label":  "rust-crypto",
+        "endpoint":  "https://roadmap.sh/rust/topic@f68x7r-qzaQfrzXnjOI2q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Awesome Rust Cryptography",
+                              "type":  "article",
+                              "url":  "https://cryptography.rs/"
+                          },
+                          {
+                              "title":  "rust-crypto",
+                              "type":  "article",
+                              "url":  "https://docs.rs/rust-crypto/latest/crypto/"
+                          },
+                          {
+                              "title":  "Rust | Sqlite Database",
+                              "type":  "article",
+                              "url":  "https://medium.com/@mikecode/rust-sqlite-database-rusqlite-162bad63fb5d"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hzzRFb5cyXkgUdLZxaozB",
+        "label":  "sodiumoxide",
+        "endpoint":  "https://roadmap.sh/rust/topic@hzzRFb5cyXkgUdLZxaozB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rust Password Hashing with Argon2id and the Sodiumoxide",
+                              "type":  "article",
+                              "url":  "https://blue42.net/code/rust/examples/sodiumoxide-password-hashing/post/"
+                          },
+                          {
+                              "title":  "sodiumoxide/sodiumoxide",
+                              "type":  "article",
+                              "url":  "https://deepwiki.com/sodiumoxide/sodiumoxide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w8nxQDxmfoUHkFV66TKiq",
+        "label":  "ring",
+        "endpoint":  "https://roadmap.sh/rust/topic@w8nxQDxmfoUHkFV66TKiq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "briansmith/ring",
+                              "type":  "opensource",
+                              "url":  "https://github.com/briansmith/ring"
+                          },
+                          {
+                              "title":  "Ring",
+                              "type":  "article",
+                              "url":  "https://docs.rs/ring/latest/ring/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2Zyyf9q_CxmOW-z2pipL8",
+        "label":  "CLI Utilities",
+        "endpoint":  "https://roadmap.sh/rust/topic@2Zyyf9q_CxmOW-z2pipL8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "structopt",
+                              "type":  "official",
+                              "url":  "https://docs.rs/structopt/latest/structopt/"
+                          },
+                          {
+                              "title":  "clap",
+                              "type":  "official",
+                              "url":  "https://docs.rs/clap/latest/clap/"
+                          },
+                          {
+                              "title":  "Command-line Apps",
+                              "type":  "official",
+                              "url":  "https://www.rust-lang.org/what/cli/"
+                          },
+                          {
+                              "title":  "Rust CLI Utilities - GitHub",
+                              "type":  "article",
+                              "url":  "https://github.com/baldwin-sudo/rusty-utils"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AId80IokM7NvGBVutmuGC",
+        "label":  "clap",
+        "endpoint":  "https://roadmap.sh/rust/topic@AId80IokM7NvGBVutmuGC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "clap",
+                              "type":  "official",
+                              "url":  "https://docs.rs/clap/latest/clap/"
+                          },
+                          {
+                              "title":  "Using Clap in Rust for command line (CLI) Argument Parsing",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/using-clap-rust-command-line-argument-parsing/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_43912wPdXgLL8v-IMHX_",
+        "label":  "structopt",
+        "endpoint":  "https://roadmap.sh/rust/topic@_43912wPdXgLL8v-IMHX_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Defining and Instantiating Structs",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch05-01-defining-structs.html"
+                          },
+                          {
+                              "title":  "Parsing Command Line Args with StructOpt",
+                              "type":  "article",
+                              "url":  "https://www.tenderisthebyte.com/blog/2019/05/08/parsing-cli-args-with-structopt/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YS0igALDqSanGDWva_vls",
+        "label":  "termion",
+        "endpoint":  "https://roadmap.sh/rust/topic@YS0igALDqSanGDWva_vls.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Termion Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.rs/termion/latest/termion/"
+                          },
+                          {
+                              "title":  "Implementing Terminal I/O in Rust | by Packt",
+                              "type":  "article",
+                              "url":  "https://packt.medium.com/implementing-terminal-i-o-in-rust-4a44652b0f11"
+                          },
+                          {
+                              "title":  "Making Terminal Applications in Rust with Termion",
+                              "type":  "article",
+                              "url":  "https://ticki.github.io/blog/making-terminal-applications-in-rust-with-termion/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uG-EmZVZ-jc3mswOT4-7l",
+        "label":  "Game Development",
+        "endpoint":  "https://roadmap.sh/rust/topic@uG-EmZVZ-jc3mswOT4-7l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fyrox - A feature-rich game engine built in Rust",
+                              "type":  "official",
+                              "url":  "https://fyrox.rs/"
+                          },
+                          {
+                              "title":  "5 Rust Game Engines to Consider for your Next Project",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/5-rust-game-engines-consider-next-project/"
+                          },
+                          {
+                              "title":  "Game Development with Fyrox and Rust",
+                              "type":  "article",
+                              "url":  "https://bocksdincoding.com/blog/game-development-with-fyrox-and-rust-pt-1"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uyrGki0jB7DXQ0HJe2-vY",
+        "label":  "bevy",
+        "endpoint":  "https://roadmap.sh/rust/topic@uyrGki0jB7DXQ0HJe2-vY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bevy Engine",
+                              "type":  "official",
+                              "url":  "https://bevy.org/"
+                          },
+                          {
+                              "title":  "Bevy Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.rs/bevy/latest/bevy/"
+                          },
+                          {
+                              "title":  "bevyengine/bevy",
+                              "type":  "opensource",
+                              "url":  "https://github.com/bevyengine/bevy"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "x9bmK_cLYpX0ebwjZUn4R",
+        "label":  "fyrox",
+        "endpoint":  "https://roadmap.sh/rust/topic@x9bmK_cLYpX0ebwjZUn4R.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fyrox - A feature-rich game engine built in Rust",
+                              "type":  "official",
+                              "url":  "https://fyrox.rs/"
+                          },
+                          {
+                              "title":  "FyroxEngine/Fyrox: 3D and 2D game engine written in Rust",
+                              "type":  "opensource",
+                              "url":  "https://github.com/FyroxEngine/Fyrox"
+                          },
+                          {
+                              "title":  "Game Development with Fyrox and Rust",
+                              "type":  "article",
+                              "url":  "https://bocksdincoding.com/blog/game-development-with-fyrox-and-rust-pt-1"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qquYnrrzUlyd8738jzj1D",
+        "label":  "ggez",
+        "endpoint":  "https://roadmap.sh/rust/topic@qquYnrrzUlyd8738jzj1D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ggez: Rust Game Thing",
+                              "type":  "official",
+                              "url":  "https://ggez.rs/"
+                          },
+                          {
+                              "title":  "2D Game Renderer in Rust",
+                              "type":  "article",
+                              "url":  "https://dev.to/trish_07/2d-game-renderer-in-rust-lets-make-a-mini-rpg-a9h"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EtKhe3lgK3NoiBOjXRb2O",
+        "label":  "macroquad",
+        "endpoint":  "https://roadmap.sh/rust/topic@EtKhe3lgK3NoiBOjXRb2O.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Macroquad",
+                              "type":  "official",
+                              "url":  "https://macroquad.rs/"
+                          },
+                          {
+                              "title":  "Macroquad Documentation",
+                              "type":  "official",
+                              "url":  "https://macroquad.rs/docs/"
+                          },
+                          {
+                              "title":  "Rust: Create A Clicker Game With Macroquad",
+                              "type":  "article",
+                              "url":  "https://dev.to/flavius_the_0th/rust-create-a-clicker-game-with-macroquad-1820"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6wGShK9WEnXiby_Jm8sTO",
+        "label":  "wgpu-rs",
+        "endpoint":  "https://roadmap.sh/rust/topic@6wGShK9WEnXiby_Jm8sTO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "wgpu: portable graphics library for Rust",
+                              "type":  "official",
+                              "url":  "https://wgpu.rs/"
+                          },
+                          {
+                              "title":  "gfx-rs/wgpu",
+                              "type":  "opensource",
+                              "url":  "https://github.com/gfx-rs/wgpu"
+                          },
+                          {
+                              "title":  "wgpu docs",
+                              "type":  "article",
+                              "url":  "https://docs.rs/wgpu/latest/wgpu/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "T1LlJz5m5wnwBvKAEuGnP",
+        "label":  "GUI Development",
+        "endpoint":  "https://roadmap.sh/rust/topic@T1LlJz5m5wnwBvKAEuGnP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rust and GUI Development - Comprehensive Guide",
+                              "type":  "article",
+                              "url":  "https://rustmeup.com/rust-and-gui-development"
+                          },
+                          {
+                              "title":  "The state of Rust GUI libraries",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/state-rust-gui-libraries/"
+                          },
+                          {
+                              "title":  "Building Beautiful and Intuitive GUIs with Rust and egui",
+                              "type":  "article",
+                              "url":  "https://triophore.com/blogs/content/rust-egui-gui-development/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Q71MnFDQBkZF1c2hj13pU",
+        "label":  "tauri",
+        "endpoint":  "https://roadmap.sh/rust/topic@Q71MnFDQBkZF1c2hj13pU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tauri",
+                              "type":  "official",
+                              "url":  "https://tauri.app"
+                          },
+                          {
+                              "title":  "Tauri Guides",
+                              "type":  "official",
+                              "url":  "https://v1.tauri.app/v1/guides/"
+                          },
+                          {
+                              "title":  "How to Build Cross-Platform GUI Applications with Rust \u0026 Tauri",
+                              "type":  "article",
+                              "url":  "https://codezup.com/cross-platform-gui-apps-rust-tauri-guide/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2Zp3m3Y7j6R1hK3DIVdkH",
+        "label":  "gtk-rs",
+        "endpoint":  "https://roadmap.sh/rust/topic@2Zp3m3Y7j6R1hK3DIVdkH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Unlocking the GNOME stack for Rust",
+                              "type":  "official",
+                              "url":  "https://gtk-rs.org/"
+                          },
+                          {
+                              "title":  "gtk-rs/gtk4-rs: Rust Bindings of GTK 4",
+                              "type":  "opensource",
+                              "url":  "https://github.com/gtk-rs/gtk4-rs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QbdGnUoTLgMHO1NCQINIi",
+        "label":  "Iced",
+        "endpoint":  "https://roadmap.sh/rust/topic@QbdGnUoTLgMHO1NCQINIi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Iced",
+                              "type":  "official",
+                              "url":  "ttps://iced.rs/"
+                          },
+                          {
+                              "title":  "Iced Guide",
+                              "type":  "official",
+                              "url":  "ttps://iced.rs/index.html"
+                          },
+                          {
+                              "title":  "Building a Modern Rust GUI with Iced",
+                              "type":  "article",
+                              "url":  "https://medium.com/@k8scat/building-a-modern-rust-gui-with-iced-a-comprehensive-guide-fc272704f7a5"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RKXljexmLAceMYwg4D_uP",
+        "label":  "Embedded and Systems",
+        "endpoint":  "https://roadmap.sh/rust/topic@RKXljexmLAceMYwg4D_uP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Embedded Devices",
+                              "type":  "official",
+                              "url":  "https://www.rust-lang.org/what/embedded"
+                          },
+                          {
+                              "title":  "Rust for Embedded Systems",
+                              "type":  "article",
+                              "url":  "https://medium.com/@enravishjeni411/rust-for-embedded-systems-a-beginner-friendly-guide-e8c171cfb359"
+                          },
+                          {
+                              "title":  "Rust Embedded Systems: Beginner\u0027s Guide with Example",
+                              "type":  "article",
+                              "url":  "https://boxoflearn.com/rust-embedded-systems-guide/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LzaO2cpDajXERqEYDjMl_",
+        "label":  "embedded-hal",
+        "endpoint":  "https://roadmap.sh/rust/topic@LzaO2cpDajXERqEYDjMl_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HALs - The Embedded Rust Book",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/stable/embedded-book/design-patterns/hal/index.html"
+                          },
+                          {
+                              "title":  "A Hardware Abstraction Layer (HAL) for Embedded Systems",
+                              "type":  "opensource",
+                              "url":  "https://github.com/rust-embedded/embedded-hal"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L01rVq2_H4rWzlKygW5kA",
+        "label":  "rppal",
+        "endpoint":  "https://roadmap.sh/rust/topic@L01rVq2_H4rWzlKygW5kA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RPPAL Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.golemparts.com/rppal/0.11.1/rppal/"
+                          },
+                          {
+                              "title":  "golemparts/rppal",
+                              "type":  "opensource",
+                              "url":  "https://github.com/golemparts/rppal"
+                          },
+                          {
+                              "title":  "RPPAL — Embedded dev in Rust",
+                              "type":  "article",
+                              "url":  "https://lib.rs/crates/rppal"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ETYrk0s5Wn80XyntNG_t1",
+        "label":  "nrf-hal",
+        "endpoint":  "https://roadmap.sh/rust/topic@ETYrk0s5Wn80XyntNG_t1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "nRF-HAL — embedded dev in Rust",
+                              "type":  "official",
+                              "url":  "https://lib.rs/crates/nrf-hal"
+                          },
+                          {
+                              "title":  "nrf-rs/nrf-hal",
+                              "type":  "opensource",
+                              "url":  "https://github.com/nrf-rs/nrf-hal"
+                          },
+                          {
+                              "title":  "What the HAL? The Quest for Finding a Suitable Embedded Rust HAL",
+                              "type":  "article",
+                              "url":  "https://dev.to/theembeddedrustacean/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal-2i02"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fusu4ZHH4-cjoouLr4F9U",
+        "label":  "WebAssembly (WASM)",
+        "endpoint":  "https://roadmap.sh/rust/topic@fusu4ZHH4-cjoouLr4F9U.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Embedding WebAssembly in your Rust Application",
+                              "type":  "official",
+                              "url":  "https://blog.wasmer.io/executing-webassembly-in-your-rust-application-d5cd32e8ce46"
+                          },
+                          {
+                              "title":  "wasm-pack",
+                              "type":  "official",
+                              "url":  "https://lib.rs/crates/wasm-pack"
+                          },
+                          {
+                              "title":  "wasm-bindgen",
+                              "type":  "official",
+                              "url":  "https://docs.rs/wasm-bindgen/latest/wasm_bindgen/"
+                          },
+                          {
+                              "title":  "Writing \u0026 Compiling WASM in Rust",
+                              "type":  "article",
+                              "url":  "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust"
+                          },
+                          {
+                              "title":  "Compiling from Rust to WebAssembly",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SUtBBqqDeR_yAkr669ZvE",
+        "label":  "wasm-bindgen",
+        "endpoint":  "https://roadmap.sh/rust/topic@SUtBBqqDeR_yAkr669ZvE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "wasm-bindgen",
+                              "type":  "official",
+                              "url":  "https://docs.rs/wasm-bindgen/latest/wasm_bindgen/"
+                          },
+                          {
+                              "title":  "rustwasm/wasm-bindgen",
+                              "type":  "opensource",
+                              "url":  "https://github.com/rustwasm/wasm-bindgen"
+                          },
+                          {
+                              "title":  "Compiling from Rust to WebAssembly",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TSlj7mMUB5CDTy8uMFzKV",
+        "label":  "wasm-pack",
+        "endpoint":  "https://roadmap.sh/rust/topic@TSlj7mMUB5CDTy8uMFzKV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "wasm-pack",
+                              "type":  "official",
+                              "url":  "https://lib.rs/crates/wasm-pack"
+                          },
+                          {
+                              "title":  "rustwasm/wasm-pack",
+                              "type":  "opensource",
+                              "url":  "https://github.com/rustwasm/wasm-pack"
+                          },
+                          {
+                              "title":  "Writing \u0026 Compiling WASM in Rust",
+                              "type":  "article",
+                              "url":  "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust"
+                          },
+                          {
+                              "title":  "Compiling from Rust to WebAssembly",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iyFHvZj_ntr_dX6WlL4E1",
+        "label":  "wasmer",
+        "endpoint":  "https://roadmap.sh/rust/topic@iyFHvZj_ntr_dX6WlL4E1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Embedding WebAssembly in your Rust Application",
+                              "type":  "official",
+                              "url":  "https://blog.wasmer.io/executing-webassembly-in-your-rust-application-d5cd32e8ce46"
+                          },
+                          {
+                              "title":  "wasmerio/wasmer",
+                              "type":  "opensource",
+                              "url":  "https://github.com/wasmerio/wasmer"
+                          },
+                          {
+                              "title":  "Wasmer — WebAssembly in Rust",
+                              "type":  "article",
+                              "url":  "https://lib.rs/crates/wasmer"
+                          },
+                          {
+                              "title":  "Writing \u0026 Compiling WASM in Rust",
+                              "type":  "article",
+                              "url":  "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust"
+                          },
+                          {
+                              "title":  "Compiling from Rust to WebAssembly",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7YKWYxogJq6X35IAUwcZF",
+        "label":  "Debugging",
+        "endpoint":  "https://roadmap.sh/rust/topic@7YKWYxogJq6X35IAUwcZF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Debugging Rust apps with GDB",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/debugging-rust-apps-with-gdb/"
+                          },
+                          {
+                              "title":  "Rust Debugging: Easy Guide with Practical Examples",
+                              "type":  "article",
+                              "url":  "https://boxoflearn.com/rust-debugging-guide/"
+                          },
+                          {
+                              "title":  "Testing and Debugging in Rust",
+                              "type":  "article",
+                              "url":  "https://rustmeup.com/testing-and-debugging-in-rust"
+                          },
+                          {
+                              "title":  "Mastering Rust Debugging: Tips \u0026 Tools",
+                              "type":  "article",
+                              "url":  "https://medium.com/@AlexanderObregon/rust-debugging-strategies-tools-and-best-practices-b18b92e0a921"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UkHXsAolmbk-MsJFfqObC",
+        "label":  "rust-gdb",
+        "endpoint":  "https://roadmap.sh/rust/topic@UkHXsAolmbk-MsJFfqObC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Use rust-gdb and rust-lldb for Improved Debugging",
+                              "type":  "official",
+                              "url":  "https://users.rust-lang.org/t/use-rust-gdb-and-rust-lldb-for-improved-debugging-you-already-have-them/756"
+                          },
+                          {
+                              "title":  "Debugging Rust apps with GDB",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/debugging-rust-apps-with-gdb/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "p1w1iljGABgHoJjIRJYLY",
+        "label":  "rust-lldb",
+        "endpoint":  "https://roadmap.sh/rust/topic@p1w1iljGABgHoJjIRJYLY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using rust-lldb for Improved Debugging",
+                              "type":  "official",
+                              "url":  "https://users.rust-lang.org/t/use-rust-gdb-and-rust-lldb-for-improved-debugging-you-already-have-them/756"
+                          },
+                          {
+                              "title":  "Debugging Rust apps with GDB",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/debugging-rust-apps-with-gdb/"
+                          },
+                          {
+                              "title":  "Debugging Rust with rust-lldb",
+                              "type":  "article",
+                              "url":  "https://dev.to/bmatcuk/debugging-rust-with-rust-lldb-j1f"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "65nbahPj9qAb9y8dF8Jnd",
+        "label":  "Documenting with `rustdoc`",
+        "endpoint":  "https://roadmap.sh/rust/topic@65nbahPj9qAb9y8dF8Jnd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Write Documentation",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/rustdoc/how-to-write-documentation.html"
+                          },
+                          {
+                              "title":  "Writing Rust Documentation",
+                              "type":  "article",
+                              "url":  "https://dev.to/gritmax/writing-rust-documentation-5hn5"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WduD9VIcYSs_JTnuMNyxk",
+        "label":  "Performance and Profiling",
+        "endpoint":  "https://roadmap.sh/rust/topic@WduD9VIcYSs_JTnuMNyxk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Profiling - The Rust Performance Book",
+                              "type":  "article",
+                              "url":  "https://nnethercote.github.io/perf-book/profiling.html"
+                          },
+                          {
+                              "title":  "How to benchmark Rust code with Criterion",
+                              "type":  "article",
+                              "url":  "https://bencher.dev/learn/benchmarking/rust/criterion/"
+                          },
+                          {
+                              "title":  "Optimizing Rust Application Performance with Profiling",
+                              "type":  "article",
+                              "url":  "https://hemaks.org/posts/optimizing-rust-application-performance-with-profiling/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "clQ26LFV_9AdQ4evnaxUK",
+        "label":  "Criterion.rs",
+        "endpoint":  "https://roadmap.sh/rust/topic@clQ26LFV_9AdQ4evnaxUK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Criterion",
+                              "type":  "official",
+                              "url":  "https://docs.rs/criterion/latest/criterion/"
+                          },
+                          {
+                              "title":  "Rust Benchmarking with Criterion.rs",
+                              "type":  "article",
+                              "url":  "https://www.rustfinity.com/blog/rust-benchmarking-with-criterion"
+                          },
+                          {
+                              "title":  "Benchmarking Rust Functions Using Criterion",
+                              "type":  "article",
+                              "url":  "https://www.slingacademy.com/article/benchmarking-rust-functions-using-criterion/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WjpkWH7f38y-bHUJ6ruGG",
+        "label":  "Box",
+        "endpoint":  "https://roadmap.sh/rust/topic@WjpkWH7f38y-bHUJ6ruGG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Smart Pointers",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/ch15-00-smart-pointers.html#smart-pointers"
+                          },
+                          {
+                              "title":  "The Box Smart Pointer in Rust",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=m76sRj2VgGo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sK2pHK0iTvL3KdTTFCr0Y",
+        "label":  "GPUI",
+        "endpoint":  "https://roadmap.sh/rust/topic@sK2pHK0iTvL3KdTTFCr0Y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GPUI",
+                              "type":  "official",
+                              "url":  "https://www.gpui.rs/"
+                          },
+                          {
+                              "title":  "gpui",
+                              "type":  "official",
+                              "url":  "https://github.com/zed-industries/zed/tree/main/crates/gpui"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

@@ -1,0 +1,49 @@
+ID|Module|Lane|Hours|Include|Dependencies|Topics|Gate|Practice
+F01|FDE role and delivery orientation|Core|4|1||Introduction; Roles & Responsabilities; From X to FDE; FDE Tiers; Delta; Embedded Engineering; Productized Consulting|Explain customer ownership, role boundaries, and a reason to stop an engagement.|https://roadmap.sh/forward-deployed-engineer
+F02|Primary language: Python|Core|32|1|F01|Learn a Language; Python|Run a tested ingestion command in a fresh environment.|https://www.deep-ml.com/paths
+F03|Git Linux and debugging foundations|Core|18|1|F02|Git & GitHub; Linux Skills|Diagnose a failed service and deliver a reviewable change.|https://roadmap.sh/git-github
+F04|Testing and reproducible project bridge|Core|20|1|F03||Write unit, integration, and contract tests with fixtures and a CI check.|https://abseil.io/resources/swe-book
+F05|HTTP backend and API contracts|Core|30|1|F04|Backend Skills; APIs Design|Build a validated API and durable job workflow with explicit errors.|https://roadmap.sh/backend
+F06|SQL relational modeling and PostgreSQL|Core|32|1|F03|SQL; PostgreSQL; Data Modeling|Reconcile joins, constrain data, inspect a plan, and restore a test backup.|https://datalemur.com/
+F07|One usable frontend stack|Core|32|1|F05|Frontend Skills; HTML; CSS; JavaScript; JavaScript / TypeScript; React|Complete an accessible review flow including failure and loading states.|https://roadmap.sh/frontend
+F08|Data lifecycle pipelines and quality|Core|28|1|F06; F04|Data Engineering Skills; Data Pipelines; Data Warehouses|Trace a serving record to source and replay data without duplication.|https://roadmap.sh/data-engineer
+B01|Linear algebra and numerical reasoning bridge|Core|18|1|F02||Test matrix shapes, normalization, similarity, and zero-vector behavior.|https://www.deep-ml.com/paths
+B02|Probability statistics and uncertainty bridge|Core|20|1|B01||Explain base rates, sampling uncertainty, and a confidence interval.|https://www.deep-ml.com/paths
+B03|NumPy pandas and data manipulation bridge|Core|18|1|B01; F06||Produce a reproducible audit with missing data and duplicate-key checks.|https://www.deep-ml.com/paths
+B04|Calculus gradients and optimization bridge|Core|12|1|B01||Implement and check one gradient update and learning-rate failure.|https://www.deep-ml.com/paths
+B05|Classical ML baselines and leakage bridge|Core|26|1|B02; B03; B04||Compare regression or classification against a baseline using leakage-safe splits.|https://www.deep-ml.com/paths
+B06|Metrics thresholds and experimental reasoning bridge|Core|20|1|B05||Choose task metrics and distinguish a score difference from a causal claim.|https://datalemur.com/
+A01|LLM behavior and model selection|Core|20|1|B05|AI Engineering Skills; LLM Fundamentals; Choosing Model Providers|Compare candidate approaches with quality, policy, latency, and cost evidence.|https://roadmap.sh/ai-engineer
+A02|Prompt context and prompt lifecycle|Core|22|1|A01|Prompt Engineering; Context Engineering; Prompt Management|Version a schema-constrained prompt and a permission-filtered context packet.|https://roadmap.sh/prompt-engineering
+A03|Retrieval embeddings and vector stores|Core|30|1|A02; F08|RAGs; Vector DBs|Measure retrieval separately and verify citation support and tenant isolation.|https://roadmap.sh/ai-engineer
+A04|Evaluation pipelines and regression analysis|Core|26|1|A03; B06|Building Eval Pipelines|Produce a versioned held-out report with errors separate from poor scores.|https://eugeneyan.com/writing/
+S01|Authentication API and system security|Core|24|1|F05|Security; Authentication; API Security; DevSecOps|Reject invalid credentials, cross-tenant access, and unsafe output use.|https://genai.owasp.org/llm-top-10/
+A05|Trusted tools state and integration|Core|26|1|A04; S01|Tools & Functions; Memory & State; MCP; Integration Engineering; Working with Legacy Systems; Last-Mile Integration|Reject malformed or unauthorized tool calls and recover a partial integration failure.|https://roadmap.sh/ai-agents
+A06|Bounded agents and architecture tradeoffs|Core|24|1|A05|AI Agents; Agent Architectures; Multi-Agents; Debugging Agent Logic|Compare a fixed workflow and agent with budgets, stopping rules, and task evaluations.|https://roadmap.sh/ai-agents
+A07|AI-assisted development discipline|Core|8|1|F04|Vibe Coding|Explain generated code changes and independently validate acceptance behavior.|https://roadmap.sh/vibe-coding
+C01|One cloud and container deployment|Core|26|1|S01|Cloud Platforms; AWS; Containers; Docker|Deploy a sandbox service with scoped identity, private data, and a budget.|https://roadmap.sh/aws
+C02|Infrastructure as code and release workflow|Core|24|1|C01|Terraform; DevOps Skills|Review infrastructure changes and rehearse a controlled rollout and recovery.|https://roadmap.sh/terraform
+C03|Observability and inference measurement|Core|24|1|A04; C02|Observability; Inference Optimization|Find a failed stage in a redacted trace and measure quality-preserving optimization.|https://opentelemetry.io/docs/
+C04|Model and application release lifecycle|Core|14|1|C03|MLOps|Pin model, prompt, dataset, evaluator, index, and application artifacts.|https://madewithml.com/
+P01|DSA fundamentals and first pattern exercises|Practice|22|1|F02|DSA & System Design|Implement basic structures and explain correctness and complexity.|https://neetcode.io/roadmap
+P02|SQL practice with duplicates NULL and windows|Practice|26|1|F06||Solve representative SQL cases and state output grain and edge behavior.|https://datalemur.com/questions
+P03|DSA pattern practice and spaced review|Practice|44|1|P01||Solve unseen variants across trees, heaps, graphs, and introductory dynamic programming.|https://leetcode.com/problemset/
+P04|ML and mathematical coding practice|Practice|26|1|B05||Implement selected Deep-ML problems and explain numerical and model behavior.|https://www.deep-ml.com/paths
+P05|Timed DSA and system-design explanation|Practice|22|1|P03; F05||Complete a mock coding or design exercise with explicit tradeoffs and edge tests.|https://neetcode.io/practice
+P06|Mixed SQL ML DSA revision and interview evidence|Practice|20|1|P02; P04; P05||Revisit mistakes unaided and present a measured project case study.|https://datalemur.com/
+D01|Discovery and business workflow framing|Delivery|10|1|F01|Discovery & Scoping; Enterprise Workflow; Business Acumen|Write a pilot brief with users, baseline, constraints, assumptions, and stop criteria.|https://www.momtestbook.com/
+D02|Requirements scoping and stakeholder alignment|Delivery|12|1|D01|Requirements Gathering; Scoping & Sequencing; Scope, Speed, Quality; Stakeholder Management|Agree acceptance evidence and decision ownership with representative stakeholders.|https://roadmap.sh/forward-deployed-engineer
+D03|Privacy governance and data permissions|Delivery|12|1|D02|AI Governance; Data Privacy & Compliance|Document data flows, retention, permissions, vendor assumptions, and review owners.|https://www.nist.gov/itl/ai-risk-management-framework
+D04|Capstone data audit and non-AI baseline|Delivery|14|1|F08; D03||Build a synthetic multi-tenant dataset and reconcile baseline task measurements.|https://datalemur.com/
+D05|Capstone full-stack vertical slice|Delivery|28|1|F07; D04||Deliver an authenticated operator flow with durable state and explicit errors.|https://roadmap.sh/full-stack
+D06|Capstone retrieval and evaluation pilot|Delivery|24|1|A04; D05||Demonstrate supported answers, abstention, and versioned case-level evaluations.|https://eugeneyan.com/writing/
+D07|Capstone bounded actions and failure rehearsal|Delivery|16|1|A06; D06; D03||Demonstrate trusted approval, replay-safe actions, and recovery from a tool outage.|https://genai.owasp.org/llm-top-10/
+D08|Deployment user acceptance and recovery|Delivery|20|1|C04; D07|UAT|Run representative UAT and rehearse deployment, restore, and rollback or roll-forward.|https://sre.google/books/
+D09|Operational handover and technical writing|Delivery|14|1|D08|Day 2 Operations; Technical Writing; Communication|Another engineer can operate, diagnose, and recover using the runbook.|https://abseil.io/resources/swe-book
+D10|Value report feedback and portfolio|Delivery|12|1|D09|ROI & AI Impact; Product Feedback Loop; Time-to-Value; Executive Reporting|Present measured value, uncertainty, adoption, cost, product feedback, and next decisions.|https://www.momtestbook.com/
+O01|Optional additional programming languages|Core|24|0|F03|Java / Scala; Go; Rust; C++|Choose only the language needed by the target role and demonstrate one integration.|https://roadmap.sh/
+O02|Optional alternative cloud depth|Core|18|0|C01|GCP; Azure|Choose a justified additional cloud or replace AWS in the baseline plan.|https://roadmap.sh/devops
+O03|Optional distributed processing and orchestration|Core|22|0|F08|Spark; Airflow|Demonstrate an idempotent backfill or justified distributed job.|https://roadmap.sh/data-engineer
+O04|Optional Kubernetes operations|Core|18|0|C01|Kubernetes|Diagnose a failed rollout with appropriate resource, network, and access controls.|https://roadmap.sh/kubernetes
+O05|Optional alternative stores APIs and runtimes|Core|18|0|F05|NoSQL DBs; GraphQL; Node.js|Choose only a needed alternative and defend its access patterns and operational tradeoffs.|https://roadmap.sh/backend
+O06|Optional coding-agent product comparison|Core|8|0|A07|Claude Code; Codex; Gemini; Cursor; OpenClaw; OpenCode|Pilot one or two tools in a sandbox with explicit permission and privacy checks.|https://roadmap.sh/vibe-coding

@@ -1,0 +1,1449 @@
+[
+    {
+        "id":  "jrH1qE6EnFXL4fTyYU8gR",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@jrH1qE6EnFXL4fTyYU8gR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Generative AI? - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/generative_ai"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "74JxgfJ_1qmVNZ_QRp9Ne",
+        "label":  "LLMs and how they work?",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@74JxgfJ_1qmVNZ_QRp9Ne.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are large language models (LLMs)? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/large-language-models"
+                          },
+                          {
+                              "title":  "Large language model - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Large_language_model"
+                          },
+                          {
+                              "title":  "How Large Language Models Work: Explained Simply",
+                              "type":  "article",
+                              "url":  "https://justainews.com/applications/chatbots-and-virtual-assistants/how-large-language-models-work/"
+                          },
+                          {
+                              "title":  "How Large Language Models Work",
+                              "type":  "video",
+                              "url":  "https://youtu.be/5sLYAQS9sWQ"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i4ijY3T5gLgNz0XqRipXe",
+        "label":  "What is a Prompt?",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@i4ijY3T5gLgNz0XqRipXe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Basics of Prompting - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/introduction/basics"
+                          },
+                          {
+                              "title":  "Prompt Elements - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/introduction/elements"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "43drPbTwPqJQPyzwYUdBT",
+        "label":  "What is Prompt Engineering?",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@43drPbTwPqJQPyzwYUdBT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompt engineering - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Prompt_engineering"
+                          },
+                          {
+                              "title":  "Introduction to Prompt Engineering - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/prompt_engineering"
+                          },
+                          {
+                              "title":  "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
+                              "type":  "video",
+                              "url":  "https://youtu.be/zYGDpG-pTho?si=yov4dDrcsHBAkey-\u0026t=522"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Yb5cQiV2ETxPbBYCLOpt2",
+        "label":  "OpenAI",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@Yb5cQiV2ETxPbBYCLOpt2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenAI API Documentation",
+                              "type":  "official",
+                              "url":  "https://developers.openai.com/api/docs"
+                          },
+                          {
+                              "title":  "OpenAI Cookbook (GitHub)",
+                              "type":  "official",
+                              "url":  "https://github.com/openai/openai-cookbook"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o-6UKLZ6oCRbAKgRjH2uI",
+        "label":  "Google",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@o-6UKLZ6oCRbAKgRjH2uI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Google AI Studio",
+                              "type":  "official",
+                              "url":  "https://ai.google.dev/"
+                          },
+                          {
+                              "title":  "Gemini API Documentation",
+                              "type":  "official",
+                              "url":  "https://ai.google.dev/gemini-api/docs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V8pDOwrRKKcHBTd4qlSsH",
+        "label":  "Anthropic",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@V8pDOwrRKKcHBTd4qlSsH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Claude Code Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/claude-code"
+                          },
+                          {
+                              "title":  "Claude API Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.anthropic.com/en/docs/intro"
+                          },
+                          {
+                              "title":  "Anthropic Research",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/research"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Td2YzDFT4LPGDw8JMmQSQ",
+        "label":  "Meta",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@Td2YzDFT4LPGDw8JMmQSQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Llama",
+                              "type":  "official",
+                              "url":  "https://www.llama.com/"
+                          },
+                          {
+                              "title":  "Llama Models (GitHub)",
+                              "type":  "opensource",
+                              "url":  "https://github.com/meta-llama/llama-models"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3wshuH7_DXgbhxsLzzI4D",
+        "label":  "xAI",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@3wshuH7_DXgbhxsLzzI4D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "xAI Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.x.ai/"
+                          },
+                          {
+                              "title":  "xAI API Console",
+                              "type":  "official",
+                              "url":  "https://console.x.ai"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pamV5Z8DRKk2ioZbg6QVK",
+        "label":  "LLM",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@pamV5Z8DRKk2ioZbg6QVK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LLM - Anthropic Glossary",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/about-claude/glossary"
+                          },
+                          {
+                              "title":  "Differences Between Chatbots and LLMs - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/chatbot_basics"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NPcaSEteeEA5g22wQ7nL_",
+        "label":  "Tokens",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@NPcaSEteeEA5g22wQ7nL_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding tokens - Microsoft Learn",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/dotnet/ai/conceptual/understanding-tokens"
+                          },
+                          {
+                              "title":  "What Are Tokens in LLMs and Why They Matter - LLM Guides",
+                              "type":  "article",
+                              "url":  "https://llmguides.ai/learn/what-are-tokens/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b-Xtkv6rt8QgzJXSShOX-",
+        "label":  "Context Window",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@b-Xtkv6rt8QgzJXSShOX-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Context windows - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/context-windows"
+                          },
+                          {
+                              "title":  "What is a context window? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/context-window"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SWDa3Su3VS815WQbvvNsa",
+        "label":  "Hallucination",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@SWDa3Su3VS815WQbvvNsa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Reduce hallucinations - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations"
+                          },
+                          {
+                              "title":  "What are AI hallucinations? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/ai-hallucinations"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yfsjW1eze8mWT0iHxv078",
+        "label":  "Model Weights / Parameters",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@yfsjW1eze8mWT0iHxv078.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are LLM parameters? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/llm-parameters"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ke5GT163k_ek9SzbcbBGE",
+        "label":  "Fine-Tuning vs Prompt Engg.",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@Ke5GT163k_ek9SzbcbBGE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "When to use prompt engineering vs. fine-tuning - TechTarget",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchEnterpriseAI/tip/Prompt-engineering-vs-fine-tuning-Whats-the-difference"
+                          },
+                          {
+                              "title":  "Prompt Engineering vs Fine Tuning: When to Use Each - Codecademy",
+                              "type":  "article",
+                              "url":  "https://www.codecademy.com/article/prompt-engineering-vs-fine-tuning"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gxydtFKmnXNY9I5kpTwjP",
+        "label":  "RAG",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@gxydtFKmnXNY9I5kpTwjP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to RAG - LlamaIndex",
+                              "type":  "opensource",
+                              "url":  "https://developers.llamaindex.ai/python/framework/understanding/rag/"
+                          },
+                          {
+                              "title":  "Retrieval Augmented Generation (RAG) - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/rag"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Pw5LWA9vNRY0N2M0FW16f",
+        "label":  "Agents",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@Pw5LWA9vNRY0N2M0FW16f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tool use overview - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview"
+                          },
+                          {
+                              "title":  "Introduction to AI Agents - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/agents/introduction"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6W_ONYREbXHwPigoDx1cW",
+        "label":  "Prompt Injection",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@6W_ONYREbXHwPigoDx1cW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompt Injection: Hands-on Exercise Against a Live Assistant",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/clawdbot-prompt-injection/"
+                          },
+                          {
+                              "title":  "Mitigate jailbreaks and prompt injections - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks"
+                          },
+                          {
+                              "title":  "LLM01:2025 Prompt Injection - OWASP",
+                              "type":  "official",
+                              "url":  "https://genai.owasp.org/llmrisk/llm01-prompt-injection/"
+                          },
+                          {
+                              "title":  "What Is a Prompt Injection Attack?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jrHRe9lSqqA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Sj1CMZzZp8kF-LuHcd_UU",
+        "label":  "AI vs AGI",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@Sj1CMZzZp8kF-LuHcd_UU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Artificial general intelligence - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JgigM7HvmNOuKnp60v1Ce",
+        "label":  "Sampling Parameters",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@JgigM7HvmNOuKnp60v1Ce.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LLM Settings (Temperature, Top-K, Top-P) - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/introduction/settings"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iMwg-I76-Tg5dhu8DGO6U",
+        "label":  "Temperature",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@iMwg-I76-Tg5dhu8DGO6U.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is LLM Temperature? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/llm-temperature"
+                          },
+                          {
+                              "title":  "Temperature - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/temperature"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FF8ai1v5GDzxXLQhpwuPj",
+        "label":  "Top-K",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@FF8ai1v5GDzxXLQhpwuPj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gemini API Prompting Strategies - Google",
+                              "type":  "official",
+                              "url":  "https://ai.google.dev/gemini-api/docs/prompting-strategies"
+                          },
+                          {
+                              "title":  "Top K - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/top-k"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-G1U1jDN5st1fTUtQmMl1",
+        "label":  "Top-P",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@-G1U1jDN5st1fTUtQmMl1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Top P - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/top-p"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wSf7Zr8ZYBuKWX0GQX6J3",
+        "label":  "Output Control",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@wSf7Zr8ZYBuKWX0GQX6J3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Increase Output Consistency - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency"
+                          },
+                          {
+                              "title":  "General Tips for Designing Prompts - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/introduction/tips"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vK9Gf8dGu2UvvJJhhuHG9",
+        "label":  "Max Tokens",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@vK9Gf8dGu2UvvJJhhuHG9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Token Counting - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/token-counting"
+                          },
+                          {
+                              "title":  "Max Tokens - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/max-tokens"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v3CylRlojeltcwnE76j8Q",
+        "label":  "Stop Sequences",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@v3CylRlojeltcwnE76j8Q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Handling Stop Reasons - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/handling-stop-reasons"
+                          },
+                          {
+                              "title":  "Stop Sequence - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/stop-sequence"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "g8ylIg4Zh567u-E3yVVY4",
+        "label":  "Repetition Penalties",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@g8ylIg4Zh567u-E3yVVY4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tips for Writing Better Prompts - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/ai_prompt_tips"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YIVNjkmTOY61VmL0md9Pj",
+        "label":  "Frequency Penalty",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@YIVNjkmTOY61VmL0md9Pj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Frequency Penalty - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/frequency-penalty"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WpO8V5caudySVehOcuDvK",
+        "label":  "Presence Penalty",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@WpO8V5caudySVehOcuDvK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Presence Penalty - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/presence-penalty"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "j-PWO-ZmF9Oi9A5bwMRto",
+        "label":  "Structured Outputs",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@j-PWO-ZmF9Oi9A5bwMRto.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Structured Output - Google Gemini API",
+                              "type":  "official",
+                              "url":  "https://ai.google.dev/gemini-api/docs/structured-output"
+                          },
+                          {
+                              "title":  "Structured Outputs - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/structured-outputs"
+                          },
+                          {
+                              "title":  "Instructor - Structured Output Library",
+                              "type":  "opensource",
+                              "url":  "https://github.com/jxnl/instructor"
+                          },
+                          {
+                              "title":  "Structured Outputs - LLM Parameter Guide - Vellum",
+                              "type":  "article",
+                              "url":  "https://www.vellum.ai/llm-parameters/structured-outputs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GRerL9UXN73TwpCW2eTIE",
+        "label":  "Zero-Shot Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@GRerL9UXN73TwpCW2eTIE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Zero-Shot Prompting - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/zeroshot"
+                          },
+                          {
+                              "title":  "Introduction to Zero-Shot Techniques - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/advanced/zero_shot/introduction"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Iufv_LsgUNls-Alx_Btlh",
+        "label":  "One-Shot / Few-Shot Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@Iufv_LsgUNls-Alx_Btlh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Few-Shot Prompting - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/fewshot"
+                          },
+                          {
+                              "title":  "Few-Shot Prompting - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/few_shot"
+                          },
+                          {
+                              "title":  "Few-Shot Introduction - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/advanced/few_shot/introduction"
+                          },
+                          {
+                              "title":  "Context Engineering vs. Prompt Engineering: Smarter AI with RAG \u0026 Agents",
+                              "type":  "video",
+                              "url":  "https://youtu.be/vD0E3EUb8-8?si=Fi2igdPTBUocqnX7\u0026t=177"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fWo39-hehRgwmx7CF36mM",
+        "label":  "System Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@fWo39-hehRgwmx7CF36mM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompt Engineering Overview - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview"
+                          },
+                          {
+                              "title":  "Instructions - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/instructions"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XHWKGaSRBYT4MsCHwV-iR",
+        "label":  "Role Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@XHWKGaSRBYT4MsCHwV-iR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Assigning Roles to Chatbots - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/roles"
+                          },
+                          {
+                              "title":  "Role Prompting - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/advanced/zero_shot/role_prompting"
+                          },
+                          {
+                              "title":  "Context Engineering vs. Prompt Engineering: Smarter AI with RAG \u0026 Agents",
+                              "type":  "video",
+                              "url":  "https://youtu.be/vD0E3EUb8-8?si=9orzEniOGmRD7g-o\u0026t=136"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5TNK1KcSzh9GTKiEJnM-y",
+        "label":  "Contextual Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@5TNK1KcSzh9GTKiEJnM-y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompting Best Practices - Anthropic",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices"
+                          },
+                          {
+                              "title":  "Prompt Structure and Key Parts - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/basics/prompt_structure"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2MboHh8ugkoH8dSd9d4Mk",
+        "label":  "Step-back Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@2MboHh8ugkoH8dSd9d4Mk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Step-Back Prompting - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/advanced/thought_generation/step_back_prompting"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "weRaJxEplhKDyFWSMeoyI",
+        "label":  "Chain of Thought (CoT) Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@weRaJxEplhKDyFWSMeoyI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Chain-of-Thought Prompting - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/cot"
+                          },
+                          {
+                              "title":  "Chain-of-Thought Prompting - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/intermediate/chain_of_thought"
+                          },
+                          {
+                              "title":  "Reasoning LLMs Guide - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/guides/reasoning-llms"
+                          },
+                          {
+                              "title":  "Context Engineering vs. Prompt Engineering: Smarter AI with RAG \u0026 Agents",
+                              "type":  "video",
+                              "url":  "https://youtu.be/vD0E3EUb8-8?si=Y6MCLPzjmhMB4jSu\u0026t=203"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1EzqCoplXPiHjp9Z-vqn-",
+        "label":  "Self-Consistency Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@1EzqCoplXPiHjp9Z-vqn-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Self-Consistency - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/consistency"
+                          },
+                          {
+                              "title":  "Self-Consistency - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/intermediate/self_consistency"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ob9D0W9B9145Da64nbi1M",
+        "label":  "Tree of Thoughts (ToT) Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@ob9D0W9B9145Da64nbi1M.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tree of Thoughts - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/tot"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8Ks6txRSUfMK7VotSQ4sC",
+        "label":  "ReAct Prompting",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@8Ks6txRSUfMK7VotSQ4sC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ReAct - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/react"
+                          },
+                          {
+                              "title":  "4 Methods of Prompt Engineering",
+                              "type":  "video",
+                              "url":  "https://youtu.be/vD0E3EUb8-8?si=Y6MCLPzjmhMB4jSu\u0026t=203"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "diHNCiuKHeMVgvJ4OMwVh",
+        "label":  "Automatic Prompt Engineering",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@diHNCiuKHeMVgvJ4OMwVh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Automatic Prompt Engineer - DAIR.AI",
+                              "type":  "article",
+                              "url":  "https://www.promptingguide.ai/techniques/ape"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wvu9Q_kNhH1_JlOgxAjP6",
+        "label":  "AI Red Teaming",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@Wvu9Q_kNhH1_JlOgxAjP6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated AI Red Teaming Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/ai-red-teaming"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0H2keZYD8iTNyBgmNVhto",
+        "label":  "Prompt Debiasing",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@0H2keZYD8iTNyBgmNVhto.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prompt Debiasing - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/reliability/debiasing"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HOqWHqAkxLX8f2ImSmZE7",
+        "label":  "Prompt Ensembling",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@HOqWHqAkxLX8f2ImSmZE7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Ensembling - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/advanced/ensembling/introduction"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CvV3GIvQhsTvE-TQjTpIQ",
+        "label":  "LLM Self Evaluation",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@CvV3GIvQhsTvE-TQjTpIQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LLM Self-Evaluation - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/reliability/lm_self_eval"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P5nDyQbME53DOEfSkcY6I",
+        "label":  "Calibrating LLMs",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@P5nDyQbME53DOEfSkcY6I.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Calibrating LLMs - LearnPrompting",
+                              "type":  "article",
+                              "url":  "https://learnprompting.org/docs/reliability/calibration"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VjuUq6nEz3Wyx5NJWNaxr",
+        "label":  "Prompt Tuning",
+        "endpoint":  "https://roadmap.sh/prompt-engineering/topic@VjuUq6nEz3Wyx5NJWNaxr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Prompt Tuning",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/prompt-tuning"
+                          },
+                          {
+                              "title":  "Prompt tune a Granite model in Python using watsonx",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/tutorials/prompt-tune-a-granite-model-using-watsonx"
+                          },
+                          {
+                              "title":  "What is Prompt Tuning?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yu27PWzJI_Y"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Understanding Prompt Engineering",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/1GK1Ex"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

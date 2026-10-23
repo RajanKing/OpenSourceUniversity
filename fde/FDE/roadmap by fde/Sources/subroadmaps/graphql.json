@@ -1,0 +1,1396 @@
+{
+    "slug":  "graphql",
+    "source":  "https://roadmap.sh/graphql",
+    "title":  "GraphQL",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-02-26T08:43:56.741Z",
+    "nodes":  [
+                  {
+                      "id":  "SFhbL3KKBd053kCVToTm1",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  64.95192794899594,
+                                       "y":  1634.7051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BVXPP2J15hss2hF85urjN",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -709.9579568300146,
+                                       "y":  1276.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0YJo_ti1JDu1GRmdC2WzA",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -103.1381872719935,
+                                       "y":  1129.355064975886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QGWApwm1h5K_n0M81b9DH",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  976.1275563289466
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D0RHwVcuH4qus_oiCbDo0",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -459.6381872719935,
+                                       "y":  989.4675181201998
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "C2zefkHdFZjID3CdqXmAy",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -710.9579568300146,
+                                       "y":  880.5474215299696
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zQpkRd7jNV509JOpL6VxX",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -148.1381872719935,
+                                       "y":  750.3550649758861
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "icm7gi90MRG4vn9KUUaqR",
+                      "type":  "paragraph",
+                      "label":  "Int, Float, String, Boolean, ID",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  645.5973159217342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4qvR1QQzrmoVIVCAsp92H",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -215.3175069304428,
+                                       "y":  2156.2541881503926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HU7wZWiES3m3xl1-NYP6F",
+                      "type":  "title",
+                      "label":  "GraphQL",
+                      "position":  {
+                                       "x":  -283.3175069304428,
+                                       "y":  -38.879087788307686
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uqyE79OItPOX33E5FoGel",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -215.3175069304428,
+                                       "y":  -133.0992517776511
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JfXwzkN29UGz17FYHHE3A",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  152.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cMfsRtvzvDZZJ0TqeUOxm",
+                      "type":  "subtopic",
+                      "label":  "What is GraphQL",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  46.439351604296206
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2rlmLn_yQQV-7DpX1qT98",
+                      "type":  "subtopic",
+                      "label":  "Problems GraphQL Solves",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  99.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w_rUaBorHFOY74S0JiEwM",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  -148.2948532825934
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "CVNNr97eZmGVFZyNVmR9b",
+                                        "label":  "React Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/react"
+                                    },
+                                    {
+                                        "id":  "GoM0EsaFMzWViwio3BucA",
+                                        "label":  "JavaScript Roadmap",
+                                        "url":  "https://roadmap.sh/javascript"
+                                    },
+                                    {
+                                        "id":  "oWh5sZE3GhIEQKIuWYM0o",
+                                        "label":  "Frontend Roadmap",
+                                        "url":  "https://roadmap.sh/frontend"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "J5mU0v491qrm-mr1W3Msd",
+                      "type":  "subtopic",
+                      "label":  "Thinking in Graphs",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  152.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W_Lg8086ZhrIqtck1sgnb",
+                      "type":  "topic",
+                      "label":  "GraphQL Queries",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  260.43935160429623
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O5dely89N5UCMBeUfh8ud",
+                      "type":  "paragraph",
+                      "label":  "For ecosystem and more, check these other tracks involving GraphQL",
+                      "position":  {
+                                       "x":  -334.6381872719935,
+                                       "y":  2034.2541881503926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6AIUtChWC_gK8Ax0UuBjd",
+                      "type":  "button",
+                      "label":  "Frontend Roadmap",
+                      "position":  {
+                                       "x":  -320.62298223659093,
+                                       "y":  2088.899845583502
+                                   },
+                      "href":  "https://roadmap.sh/frontend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "6r9XbwlBtHmJrhviG2cTD",
+                      "type":  "subtopic",
+                      "label":  "GraphQL on Frontend",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  205.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ODQ8zrHc2rsc8PN-APKvz",
+                      "type":  "subtopic",
+                      "label":  "GraphQL on Backend",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  258.43935160429623
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2SU4dcaz7zwGsF7g8FjmI",
+                      "type":  "subtopic",
+                      "label":  "What are Queries?",
+                      "position":  {
+                                       "x":  -707.4579568300146,
+                                       "y":  101.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Pc9H7AcoqJQkWnuhbytyD",
+                      "type":  "subtopic",
+                      "label":  "Fields",
+                      "position":  {
+                                       "x":  -707.4579568300146,
+                                       "y":  154.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B77yLU4SuRChSjEbmYwc-",
+                      "type":  "subtopic",
+                      "label":  "Aliases",
+                      "position":  {
+                                       "x":  -707.4579568300146,
+                                       "y":  260.43935160429623
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hrpb108R8Gyu3hhzkMYzL",
+                      "type":  "subtopic",
+                      "label":  "Arguments",
+                      "position":  {
+                                       "x":  -707.4579568300146,
+                                       "y":  313.43935160429623
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MnmwccPahqPCzOhqjfbsY",
+                      "type":  "subtopic",
+                      "label":  "Directives",
+                      "position":  {
+                                       "x":  -707.4579568300146,
+                                       "y":  366.43935160429623
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YZaFEK547FYricfOuANvH",
+                      "type":  "subtopic",
+                      "label":  "Variables",
+                      "position":  {
+                                       "x":  -707.4579568300146,
+                                       "y":  207.43935160429623
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CehwjrCG_wbUU-TFNCuJn",
+                      "type":  "subtopic",
+                      "label":  "Fragments",
+                      "position":  {
+                                       "x":  -707.4579568300146,
+                                       "y":  419.43935160429623
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jy_91mhFWbpR6sYVbuX1x",
+                      "type":  "topic",
+                      "label":  "Mutations",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  396.6629724396304
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9Q2pGidY-rfkltHq3vChp",
+                      "type":  "subtopic",
+                      "label":  "What are Mutations?",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  343.6629724396304
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AySlY8AyI6jE-cy-qKKOU",
+                      "type":  "subtopic",
+                      "label":  "Multiple Fields in Mutation",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  396.6629724396304
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q9TYEygvUyHourdZIvk8G",
+                      "type":  "subtopic",
+                      "label":  "Operation Name",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  449.6629724396304
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IbEqXlGjsyNLKE9dZrPPk",
+                      "type":  "topic",
+                      "label":  "Subscriptions",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  604.2881469175232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RlBc-hWEUOPaEQLTgJa-K",
+                      "type":  "subtopic",
+                      "label":  "What are Subscriptions",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  547.2881469175232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kJMyRhasBKfBypent3GxK",
+                      "type":  "subtopic",
+                      "label":  "Event Based Subscriptions",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  604.2881469175232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CHdzww8_TNfeM6Bp1oTPI",
+                      "type":  "subtopic",
+                      "label":  "Live Queries",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  657.2881469175232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t6XxFB_lx27kS4FE2_GMH",
+                      "type":  "subtopic",
+                      "label":  "@defer / @stream directives",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  710.2881469175232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lj1WEh4WbfBsoZFYsi1Yz",
+                      "type":  "topic",
+                      "label":  "Schema",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  735.8550649758861
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jpu0_FAlxtD-H80mPcod5",
+                      "type":  "subtopic",
+                      "label":  "Type System",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  537.9979529933375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HPdntdgTar1T34CZX8Y6y",
+                      "type":  "subtopic",
+                      "label":  "Fields",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  590.9979529933375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U-tLelmNQtR-pUq-sxU_2",
+                      "type":  "subtopic",
+                      "label":  "Scalars",
+                      "position":  {
+                                       "x":  81.3770177634091,
+                                       "y":  707.608352612866
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wfOsfb0zSAIdNkwFHfBcw",
+                      "type":  "subtopic",
+                      "label":  "Enums",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  776.5973159217342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tc_rjJZrr2x3bp8mcoQ0F",
+                      "type":  "subtopic",
+                      "label":  "Interfaces",
+                      "position":  {
+                                       "x":  211.8618127280065,
+                                       "y":  829.5973159217342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "d2ikbo4sZq7PmaCi5znkd",
+                      "type":  "subtopic",
+                      "label":  "Lists",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  829.5973159217342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LX9vZpx7yKlf0iR6AtBWz",
+                      "type":  "subtopic",
+                      "label":  "Objects",
+                      "position":  {
+                                       "x":  211.8618127280065,
+                                       "y":  776.5973159217342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "59COH3rerJJzKr6vrj4bF",
+                      "type":  "subtopic",
+                      "label":  "Unions",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  881.5973159217342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "A54vi3Ao7fBHyTuqoH_it",
+                      "type":  "subtopic",
+                      "label":  "Arguments",
+                      "position":  {
+                                       "x":  211.8618127280065,
+                                       "y":  881.5973159217342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2q3TO7k_byrLI7LkcCplG",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  37.678457293951865,
+                                       "y":  540.4979529933375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iYkHCKTsjtvo40f3eZoet",
+                      "type":  "topic",
+                      "label":  "Validation",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  855.4546928118529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "72wGg6yP8WnEdmkeKL9vh",
+                      "type":  "topic",
+                      "label":  "Execution",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  974.9675181201998
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AlJlHZD3_SPoLNaqdM-pB",
+                      "type":  "subtopic",
+                      "label":  "Root Fields",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  806.4546928118529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VDur5xYBC0LJtQgDrSEyj",
+                      "type":  "subtopic",
+                      "label":  "Resolvers",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  859.4546928118529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uPpsj2kCdgKsJpmTaw86u",
+                      "type":  "subtopic",
+                      "label":  "Synchronous",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  917.4883475571679
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tbDvQBtLRAcD-xYX9V7Va",
+                      "type":  "subtopic",
+                      "label":  "Asynchronous",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  970.4883475571679
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QFUOmJlPkkjpcl1vJxg9h",
+                      "type":  "subtopic",
+                      "label":  "Scalar Coercion",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1023.4883475571679
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sJ1_c3e08aehiqNMbIEEP",
+                      "type":  "subtopic",
+                      "label":  "Lists",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1076.488347557168
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "I4wNBXV4xEZ0LWBhv5FwF",
+                      "type":  "subtopic",
+                      "label":  "Validation",
+                      "position":  {
+                                       "x":  -710.9579568300146,
+                                       "y":  1144.5474215299696
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zQHifboRreE4OgJ7GnUlp",
+                      "type":  "subtopic",
+                      "label":  "Producing the Result",
+                      "position":  {
+                                       "x":  -710.9579568300146,
+                                       "y":  1198.5474215299696
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jk64WxDch-mqf3_8SdY-D",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -468.4579568300146,
+                                       "y":  803.9546928118529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "inhjhH-7xJyX8o4DQqErF",
+                      "type":  "topic",
+                      "label":  "Serving over Internet",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  1114.371143674773
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ya0ORdmEHEPpp1GAzMLVT",
+                      "type":  "label",
+                      "label":  "GraphQL Over HTTP",
+                      "position":  {
+                                       "x":  117.2572052308409,
+                                       "y":  987.3919731117412
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "V3bgswBFr1xames3F8S_V",
+                      "type":  "subtopic",
+                      "label":  "GraphQL Over HTTP Spec",
+                      "position":  {
+                                       "x":  80.7572052308409,
+                                       "y":  1034.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UYwuUVTeurwODV4_Kdt_W",
+                      "type":  "subtopic",
+                      "label":  "Caching",
+                      "position":  {
+                                       "x":  80.7572052308409,
+                                       "y":  1087.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v9gVexHfDkpG9z3NL5S-9",
+                      "type":  "subtopic",
+                      "label":  "Batching",
+                      "position":  {
+                                       "x":  194.7572052308409,
+                                       "y":  1087.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i-zcfN6RNXhA_sb7DcIon",
+                      "type":  "subtopic",
+                      "label":  "Authorization",
+                      "position":  {
+                                       "x":  80.7572052308409,
+                                       "y":  1139.5474215299696
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ud-BWNe_McqpZXHtlXPyr",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  1200.1275563289466
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "st02HY5-DEab1pYXkBc3S",
+                      "type":  "label",
+                      "label":  "GraphQL Over WebSockets",
+                      "position":  {
+                                       "x":  92.7572052308409,
+                                       "y":  1211.3919731117412
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "A-PQ3_FVuCK3Eud75hsdj",
+                      "type":  "subtopic",
+                      "label":  "Specification",
+                      "position":  {
+                                       "x":  80.7572052308409,
+                                       "y":  1258.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2YLm_S1j_832pb1OGSNaM",
+                      "type":  "subtopic",
+                      "label":  "Realtime",
+                      "position":  {
+                                       "x":  80.7572052308409,
+                                       "y":  1311.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GzwPvLybxTJM96fUhQUOi",
+                      "type":  "subtopic",
+                      "label":  "Authorization",
+                      "position":  {
+                                       "x":  192.7572052308409,
+                                       "y":  1311.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cH2FSWgKxQbBoI0tI-QNH",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  68.2572052308409,
+                                       "y":  1373.1275563289466
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "F4nR2VZ4k1uekWXINoMKH",
+                      "type":  "label",
+                      "label":  "GraphQL Over SSE",
+                      "position":  {
+                                       "x":  92.7572052308409,
+                                       "y":  1384.3919731117412
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "O8k-m6s9B_uXkLsXKVFnL",
+                      "type":  "subtopic",
+                      "label":  "Specification",
+                      "position":  {
+                                       "x":  81.7572052308409,
+                                       "y":  1431.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "G50ZMlmP7Ru5LcFne5Rhu",
+                      "type":  "subtopic",
+                      "label":  "Authorization",
+                      "position":  {
+                                       "x":  81.7572052308409,
+                                       "y":  1484.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1mBWGT53bwy8JHSnf_6lr",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  37.678457293951865,
+                                       "y":  979.4979529933375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Uf8XxJPs7RzKVhlxiQdbB",
+                      "type":  "topic",
+                      "label":  "Pagination",
+                      "position":  {
+                                       "x":  -329.8175069304428,
+                                       "y":  1262.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qab1pyIZiJ3Z9q8CuEsc-",
+                      "type":  "paragraph",
+                      "label":  "Implementations",
+                      "position":  {
+                                       "x":  -305.3175069304428,
+                                       "y":  1469.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jCzrMElTo-c9xGcpPOOPl",
+                      "type":  "subtopic",
+                      "label":  "GraphQL.js",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1447.7051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9nVo95gRNGHGIbaJQPH1x",
+                      "type":  "subtopic",
+                      "label":  "GraphQL Go",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1337.3919731117412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1q77xUifPS5sLx5tktXxF",
+                      "type":  "label",
+                      "label":  "Go Implementation",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1295.3919731117412
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "qmlQ3184CZ9HgvRHVcPT6",
+                      "type":  "label",
+                      "label":  "JavaScript Implementation",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1405.7051467174065
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "7szipojhVb2VoL3VcS619",
+                      "type":  "subtopic",
+                      "label":  "GraphQL Java",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1551.589806690877
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-STVQpKbY5I9eTExdJ6mc",
+                      "type":  "label",
+                      "label":  "Java Implementation",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1508.589806690877
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "XD0hNlAu05_ZYgv8JvEp1",
+                      "type":  "paragraph",
+                      "label":  "Servers",
+                      "position":  {
+                                       "x":  -305.3175069304428,
+                                       "y":  1641.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_8RiK9B8endMNBjiKsazU",
+                      "type":  "label",
+                      "label":  "JavaScript",
+                      "position":  {
+                                       "x":  87.7572052308409,
+                                       "y":  1649.2051467174065
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "N-vsu-wvOikuoTbzdgX3X",
+                      "type":  "subtopic",
+                      "label":  "graphql-http",
+                      "position":  {
+                                       "x":  87.7572052308409,
+                                       "y":  1694.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gotb1xtxySCVC5MrnkPSs",
+                      "type":  "subtopic",
+                      "label":  "GraphQL Yoga",
+                      "position":  {
+                                       "x":  87.7572052308409,
+                                       "y":  1747.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o_VkyoN6DmUUkfl0u0cro",
+                      "type":  "subtopic",
+                      "label":  "Apollo Server",
+                      "position":  {
+                                       "x":  87.7572052308409,
+                                       "y":  1800.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iTV2H8clmRTOksul4v38p",
+                      "type":  "subtopic",
+                      "label":  "mercurius",
+                      "position":  {
+                                       "x":  87.7572052308409,
+                                       "y":  1853.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lUOOZDUJOgktHf07nGzCJ",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -127.31750693044279,
+                                       "y":  1665.7051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WFO_AwmbUJPAFj0tFClJg",
+                      "type":  "paragraph",
+                      "label":  "Clients",
+                      "position":  {
+                                       "x":  -305.3175069304428,
+                                       "y":  1796.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4IugiCX3rnKv5ak50sqGm",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -707.048072051004,
+                                       "y":  1755.7051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3lQ4cxevkw0p8v7fHm4I7",
+                      "type":  "label",
+                      "label":  "JavaScript",
+                      "position":  {
+                                       "x":  -686.2427947691591,
+                                       "y":  1770.2051467174065
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "datKo3vPDwXoyVskcrdkc",
+                      "type":  "subtopic",
+                      "label":  "graphql-http",
+                      "position":  {
+                                       "x":  -686.2427947691591,
+                                       "y":  1815.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ab_ngkf6bmejvcp9okuw6",
+                      "type":  "subtopic",
+                      "label":  "Relay",
+                      "position":  {
+                                       "x":  -686.2427947691591,
+                                       "y":  1868.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D5O7ky5eXwm_Ys1IcFNaq",
+                      "type":  "subtopic",
+                      "label":  "Apollo Client",
+                      "position":  {
+                                       "x":  -686.2427947691591,
+                                       "y":  1921.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WP0Oo_YMfLBlXqDQQtKes",
+                      "type":  "subtopic",
+                      "label":  "Urql",
+                      "position":  {
+                                       "x":  -686.2427947691591,
+                                       "y":  1974.2051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BjJfMCOatN2_3TVt-6GnG",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -452.3175069304428,
+                                       "y":  1820.7051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f5WRewBlpeYMf71cPcXs-",
+                      "type":  "button",
+                      "label":  "Backend Roadmap",
+                      "position":  {
+                                       "x":  -34.742794769159104,
+                                       "y":  2088.899845583502
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "UOQYh4L1q1XAl7EuxlQ3m",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -215.3175069304428,
+                                       "y":  1874.2541881503926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -11.012490518229754,
+                                       "y":  -141.45354709361837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  2.612021695013368,
+                                       "y":  -59.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "kS01-perdFxHsTKTwvuC4",
+                      "type":  "label",
+                      "label":  "Python Implementation",
+                      "position":  {
+                                       "x":  -686.2427947691591,
+                                       "y":  1617.2051467174065
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "r3Yf5pxzgSGAckOPr3eSt",
+                      "type":  "subtopic",
+                      "label":  "Graphene",
+                      "position":  {
+                                       "x":  -690.9579568300146,
+                                       "y":  1660.7051467174065
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__HU7wZWiES3m3xl1-NYP6Fx2-08qKtgnhJ3tlb5JKfTDf5w1",
+                      "source":  "HU7wZWiES3m3xl1-NYP6F",
+                      "target":  "JfXwzkN29UGz17FYHHE3A",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__4U-HZQGH7kaWCB94Xy8Mhz2-2rlmLn_yQQV-7DpX1qT98y2",
+                      "source":  "JfXwzkN29UGz17FYHHE3A",
+                      "target":  "2rlmLn_yQQV-7DpX1qT98",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__4U-HZQGH7kaWCB94Xy8Mhz2-cMfsRtvzvDZZJ0TqeUOxmy1",
+                      "source":  "JfXwzkN29UGz17FYHHE3A",
+                      "target":  "cMfsRtvzvDZZJ0TqeUOxm",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__4U-HZQGH7kaWCB94Xy8Mhz2-VhSEH_RoWFt1z2lial7xZy2",
+                      "source":  "JfXwzkN29UGz17FYHHE3A",
+                      "target":  "J5mU0v491qrm-mr1W3Msd",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__JfXwzkN29UGz17FYHHE3Az2-6r9XbwlBtHmJrhviG2cTDy2",
+                      "source":  "JfXwzkN29UGz17FYHHE3A",
+                      "target":  "6r9XbwlBtHmJrhviG2cTD",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__JfXwzkN29UGz17FYHHE3Az2-ODQ8zrHc2rsc8PN-APKvzy1",
+                      "source":  "JfXwzkN29UGz17FYHHE3A",
+                      "target":  "ODQ8zrHc2rsc8PN-APKvz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-YZaFEK547FYricfOuANvHz1",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "YZaFEK547FYricfOuANvH",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-B77yLU4SuRChSjEbmYwc-z1",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "B77yLU4SuRChSjEbmYwc-",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-hrpb108R8Gyu3hhzkMYzLz1",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "hrpb108R8Gyu3hhzkMYzL",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-MnmwccPahqPCzOhqjfbsYz2",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "MnmwccPahqPCzOhqjfbsY",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-CehwjrCG_wbUU-TFNCuJnz1",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "CehwjrCG_wbUU-TFNCuJn",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-Pc9H7AcoqJQkWnuhbytyDz1",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "Pc9H7AcoqJQkWnuhbytyD",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-2SU4dcaz7zwGsF7g8FjmIz1",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "2SU4dcaz7zwGsF7g8FjmI",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__W_Lg8086ZhrIqtck1sgnbx2-cSXsu17F1Oy34Wp6J-N3Cw1",
+                      "source":  "W_Lg8086ZhrIqtck1sgnb",
+                      "target":  "jy_91mhFWbpR6sYVbuX1x",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cz2-AySlY8AyI6jE-cy-qKKOUy1",
+                      "source":  "jy_91mhFWbpR6sYVbuX1x",
+                      "target":  "AySlY8AyI6jE-cy-qKKOU",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cz2-q9TYEygvUyHourdZIvk8Gy1",
+                      "source":  "jy_91mhFWbpR6sYVbuX1x",
+                      "target":  "q9TYEygvUyHourdZIvk8G",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cz2-9Q2pGidY-rfkltHq3vChpy1",
+                      "source":  "jy_91mhFWbpR6sYVbuX1x",
+                      "target":  "9Q2pGidY-rfkltHq3vChp",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jy_91mhFWbpR6sYVbuX1xx2-cSXsu17F1Oy34Wp6J-N3Cw1",
+                      "source":  "jy_91mhFWbpR6sYVbuX1x",
+                      "target":  "IbEqXlGjsyNLKE9dZrPPk",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-RlBc-hWEUOPaEQLTgJa-Kz2",
+                      "source":  "IbEqXlGjsyNLKE9dZrPPk",
+                      "target":  "RlBc-hWEUOPaEQLTgJa-K",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-kJMyRhasBKfBypent3GxKz1",
+                      "source":  "IbEqXlGjsyNLKE9dZrPPk",
+                      "target":  "kJMyRhasBKfBypent3GxK",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-CHdzww8_TNfeM6Bp1oTPIz1",
+                      "source":  "IbEqXlGjsyNLKE9dZrPPk",
+                      "target":  "CHdzww8_TNfeM6Bp1oTPI",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__cSXsu17F1Oy34Wp6J-N3Cy2-sJ1_c3e08aehiqNMbIEEPz1",
+                      "source":  "IbEqXlGjsyNLKE9dZrPPk",
+                      "target":  "t6XxFB_lx27kS4FE2_GMH",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__IbEqXlGjsyNLKE9dZrPPkx2-cSXsu17F1Oy34Wp6J-N3Cw1",
+                      "source":  "IbEqXlGjsyNLKE9dZrPPk",
+                      "target":  "lj1WEh4WbfBsoZFYsi1Yz",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__lj1WEh4WbfBsoZFYsi1Yzx2-cSXsu17F1Oy34Wp6J-N3Cw2",
+                      "source":  "lj1WEh4WbfBsoZFYsi1Yz",
+                      "target":  "iYkHCKTsjtvo40f3eZoet",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__iYkHCKTsjtvo40f3eZoetx2-cSXsu17F1Oy34Wp6J-N3Cw1",
+                      "source":  "iYkHCKTsjtvo40f3eZoet",
+                      "target":  "72wGg6yP8WnEdmkeKL9vh",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__72wGg6yP8WnEdmkeKL9vhx2-cSXsu17F1Oy34Wp6J-N3Cw2",
+                      "source":  "72wGg6yP8WnEdmkeKL9vh",
+                      "target":  "inhjhH-7xJyX8o4DQqErF",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__inhjhH-7xJyX8o4DQqErFx2-cSXsu17F1Oy34Wp6J-N3Cw1",
+                      "source":  "inhjhH-7xJyX8o4DQqErF",
+                      "target":  "Uf8XxJPs7RzKVhlxiQdbB",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__JfXwzkN29UGz17FYHHE3Ax2-W_Lg8086ZhrIqtck1sgnbw2",
+                      "source":  "JfXwzkN29UGz17FYHHE3A",
+                      "target":  "W_Lg8086ZhrIqtck1sgnb",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__8YdlLJ_Ki8NxgVzMNeyzox2-mZPU_kbBDBV5j0kaEO-tjw2",
+                      "source":  "Uf8XxJPs7RzKVhlxiQdbB",
+                      "target":  "Qab1pyIZiJ3Z9q8CuEsc-",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__BVXPP2J15hss2hF85urjNz2-WFO_AwmbUJPAFj0tFClJgy1",
+                      "source":  "BVXPP2J15hss2hF85urjN",
+                      "target":  "Qab1pyIZiJ3Z9q8CuEsc-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__Qab1pyIZiJ3Z9q8CuEsc-x2-WFO_AwmbUJPAFj0tFClJgw2",
+                      "source":  "Qab1pyIZiJ3Z9q8CuEsc-",
+                      "target":  "XD0hNlAu05_ZYgv8JvEp1",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__XD0hNlAu05_ZYgv8JvEp1x2-WFO_AwmbUJPAFj0tFClJgw1",
+                      "source":  "XD0hNlAu05_ZYgv8JvEp1",
+                      "target":  "WFO_AwmbUJPAFj0tFClJg",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

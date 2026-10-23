@@ -1,0 +1,1992 @@
+{
+    "slug":  "sql",
+    "source":  "https://roadmap.sh/sql",
+    "title":  "SQL Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-09-03T08:37:19.312Z",
+    "nodes":  [
+                  {
+                      "id":  "7DdMLjcx-zh7nwoILnWgn",
+                      "type":  "linksgroup",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -611.9219566015802,
+                                       "y":  -233.7695706291704
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "xnuo73dpjpTVvJa65hw8Y",
+                                        "label":  "PostgreSQL Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/postgresql-dba"
+                                    },
+                                    {
+                                        "id":  "ZKSb0nzZ-jFu8vP_nbhRD",
+                                        "label":  "MongoDB Roadmap",
+                                        "url":  "https://roadmap.sh/mongodb"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "uAWe6RysRWSe8PqyYQKKX",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  92.74891832888147,
+                                       "y":  1827.8028446032797
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GEdhZU9WflZsSbHIAL6Y8",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -599.9741508977197,
+                                       "y":  1805.4578222275159
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hWk-3dRw9XQyHpc9_oxet",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -111.76200280604616,
+                                       "y":  1372.4268132068846
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bxQ-MepnAll0CkNFpqeJA",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  244.58982076233502,
+                                       "y":  1372.4268132068846
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V800FmJL7JvYLHj_s6Qpe",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  368.94949271295843,
+                                       "y":  1461.4268132068846
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XeLCXJ5VfwHrIFGqcB8QH",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  335.47198755548254,
+                                       "y":  1208.3834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eyqdjMFVONWDshElnh-fS",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -314.2510816711185,
+                                       "y":  1122.8834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5iMBYXe8Al0ZeiRBnJ-cn",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -193.26200280604616,
+                                       "y":  821.8865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H-11E5G6rdTKj3k7PK12l",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -612.7510816711185,
+                                       "y":  1124.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6FdHTzqQwJqR4czP5qXAY",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -45.25108167111853,
+                                       "y":  897.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nSShTLakj1E_JAHdcsfe4",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -45.25108167111853,
+                                       "y":  1051.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OPT7zGno_ghrrj4dAUKaW",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -369.7510816711185,
+                                       "y":  967.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vVvwzfWSzMXhGop1nX_9k",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -612.7510816711185,
+                                       "y":  914.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BZD3zEjZNwFZN5Erp2UwN",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -193.26200280604616,
+                                       "y":  749.0530101616195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WigElh37ztiRYRstQR9NE",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -615.2510816711185,
+                                       "y":  697.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tUokjJrzZ4hp8c6f7iBI0",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  90.44949271295843,
+                                       "y":  807.3865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zr7u2K8_wGkPwWzTvSJJu",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  117.44949271295843,
+                                       "y":  662.3865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zO8ETJn55ShzPf8ifDqO2",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -271.26200280604616,
+                                       "y":  295.2980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "80OaUGoB4961Qak9JZ7sS",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  147.0258491022803,
+                                       "y":  300.7980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6yiWcpPgkAuYFZlDGlM1P",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  147.0258491022803,
+                                       "y":  171.52074126997718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vpSPxfiH2jcZiDF4glMnG",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  348.94949271295843,
+                                       "y":  171.52074126997718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7YsPMUciWuosgKwI9YJrI",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -611.8883211898742,
+                                       "y":  213.5207412699772
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LEijbLyxg4RyutKEM2Y5g",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -114.16916540260297,
+                                       "y":  -227.7695706291704
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xwpc_KxehAruFM0pCQnie",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -178.82615613784935,
+                                       "y":  2309.6370362009566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GV_zWF6rSWg5bqgiXhOEf",
+                      "type":  "paragraph",
+                      "label":  "Have a look at the following related roadmaps",
+                      "position":  {
+                                       "x":  -409.82615613784935,
+                                       "y":  2217.8704528251837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OQpi63qND2KBXVvKBNMST",
+                      "type":  "button",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  -398.308978052272,
+                                       "y":  2272.5597347368353
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "iuSv7V59YxUZawN38Qlli",
+                      "type":  "button",
+                      "label":  "MongoDB",
+                      "position":  {
+                                       "x":  -108.06128192779408,
+                                       "y":  2272.5597347368353
+                                   },
+                      "href":  "https://roadmap.sh/mongodb",
+                      "links":  null
+                  },
+                  {
+                      "id":  "R9DQNc0AyAQ2HLpP4HOk6",
+                      "type":  "subtopic",
+                      "label":  "What are Relational Databases?",
+                      "position":  {
+                                       "x":  130.89980850421182,
+                                       "y":  -41.63210941079885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fNTb9y3zs1HPYclAmu_Wv",
+                      "type":  "subtopic",
+                      "label":  "RDBMS Benefits and Limitations",
+                      "position":  {
+                                       "x":  130.89980850421182,
+                                       "y":  11.367890589201153
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iogwMmOvub2ZF4zgg6WyF",
+                      "type":  "title",
+                      "label":  "SQL",
+                      "position":  {
+                                       "x":  -151.66916540260297,
+                                       "y":  -151.7695706291704
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nhUKKWyBH80nyKfGT8ErC",
+                      "type":  "topic",
+                      "label":  "Learn the Basics",
+                      "position":  {
+                                       "x":  -227.16916540260297,
+                                       "y":  13.436864496015943
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U0fJo2a3vnaodNJhfZ78I",
+                      "type":  "button",
+                      "label":  "PostgreSQL",
+                      "position":  {
+                                       "x":  -252.30897805227198,
+                                       "y":  2272.5597347368353
+                                   },
+                      "href":  "https://roadmap.sh/postgresql-dba",
+                      "links":  null
+                  },
+                  {
+                      "id":  "gx4KaFqKgJX9n9_ZGMqlZ",
+                      "type":  "subtopic",
+                      "label":  "SQL vs NoSQL Databases",
+                      "position":  {
+                                       "x":  130.89980850421182,
+                                       "y":  64.36789058920115
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JDDG4KfhtIlw1rkNCzUli",
+                      "type":  "topic",
+                      "label":  "Basic SQL Syntax",
+                      "position":  {
+                                       "x":  -227.16916540260297,
+                                       "y":  159.23119080604232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6yoo7qC6X2jYDIjd3HIm7",
+                      "type":  "subtopic",
+                      "label":  "SQL Keywords",
+                      "position":  {
+                                       "x":  -611.9219566015802,
+                                       "y":  50.23119080604238
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tBzMDfCMh6MIagNaxCzin",
+                      "type":  "subtopic",
+                      "label":  "Data Types",
+                      "position":  {
+                                       "x":  -611.9219566015802,
+                                       "y":  103.23119080604238
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ffwniprGJHZzJ7t3lQcXz",
+                      "type":  "subtopic",
+                      "label":  "Operators",
+                      "position":  {
+                                       "x":  -611.9219566015802,
+                                       "y":  160.23119080604232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rmqXH29n1oXtZ8tvmcRFn",
+                      "type":  "subtopic",
+                      "label":  "SELECT",
+                      "position":  {
+                                       "x":  -601.6806695765429,
+                                       "y":  223.52268765100933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mPj6BiK5FKKkIQ9WsWEo6",
+                      "type":  "subtopic",
+                      "label":  "INSERT",
+                      "position":  {
+                                       "x":  -497.61169566972785,
+                                       "y":  223.52268765100933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eu9dJFi6gBPMBdy08Y5Bb",
+                      "type":  "subtopic",
+                      "label":  "UPDATE",
+                      "position":  {
+                                       "x":  -497.61169566972785,
+                                       "y":  276.52268765100933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ddtVaA4Ls6qRj-7OtTSIH",
+                      "type":  "subtopic",
+                      "label":  "DELETE",
+                      "position":  {
+                                       "x":  -601.6806695765429,
+                                       "y":  276.52268765100933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "91OF3VQdzsu_YPsT6zrVT",
+                      "type":  "label",
+                      "label":  "Statements",
+                      "position":  {
+                                       "x":  -548.8883211898742,
+                                       "y":  336.5207412699772
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xPOeXK1EPBNG56vgfG-VV",
+                      "type":  "topic",
+                      "label":  "Data Definition Language (DDL)",
+                      "position":  {
+                                       "x":  118.89980850421182,
+                                       "y":  159.73119080604232
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K5vhqTJrdPK08Txv8zaEj",
+                      "type":  "subtopic",
+                      "label":  "Truncate Table",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  238.7980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WjXlO42WL9saDS7RIGapt",
+                      "type":  "subtopic",
+                      "label":  "Alter Table",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  295.7980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "epEpBxRosLhuAuKwp823r",
+                      "type":  "subtopic",
+                      "label":  "Create Table",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  348.7980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YzJ6QmY2arMfRzMAPaI0T",
+                      "type":  "subtopic",
+                      "label":  "Drop Table",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  401.7980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WMSXi-eez_hHGDM8kUdWz",
+                      "type":  "topic",
+                      "label":  "Data Manipulation Language (DML)",
+                      "position":  {
+                                       "x":  -147.5663615725029,
+                                       "y":  280.7980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i8u8E_sne6XiKJo2FXDog",
+                      "type":  "subtopic",
+                      "label":  "Select",
+                      "position":  {
+                                       "x":  -148.91017923766498,
+                                       "y":  376.83610755141524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "N1Racr3ZpU320gS545We8",
+                      "type":  "subtopic",
+                      "label":  "FROM",
+                      "position":  {
+                                       "x":  -148.91017923766498,
+                                       "y":  430.83610755141524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WhYAy6f7Euk3E49-ot644",
+                      "type":  "subtopic",
+                      "label":  "WHERE",
+                      "position":  {
+                                       "x":  -11.910179237664977,
+                                       "y":  430.83610755141524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NfCiSPrL4upMssukcw3Kh",
+                      "type":  "subtopic",
+                      "label":  "ORDER BY",
+                      "position":  {
+                                       "x":  -11.910179237664977,
+                                       "y":  483.83610755141524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "14TKE6KhrH1yFtHcSZSXq",
+                      "type":  "subtopic",
+                      "label":  "GROUP BY",
+                      "position":  {
+                                       "x":  -148.91017923766498,
+                                       "y":  483.83610755141524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ytwCkSMTiTuemE0KVfAfy",
+                      "type":  "subtopic",
+                      "label":  "HAVING",
+                      "position":  {
+                                       "x":  125.08982076233502,
+                                       "y":  483.83610755141524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4UQQYbjzwVxZOAxBuXKQS",
+                      "type":  "subtopic",
+                      "label":  "JOINs",
+                      "position":  {
+                                       "x":  107.08982076233502,
+                                       "y":  430.83610755141524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-Hew0y53ziZK3epQnGA0O",
+                      "type":  "subtopic",
+                      "label":  "INSERT",
+                      "position":  {
+                                       "x":  -148.91017923766498,
+                                       "y":  536.8361075514152
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KJJ6PYjTnr_3yU2mNPL9v",
+                      "type":  "subtopic",
+                      "label":  "UPDATE",
+                      "position":  {
+                                       "x":  -44.41017923766498,
+                                       "y":  536.8361075514152
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zWnvuHJLHr03PWkrW1wZZ",
+                      "type":  "subtopic",
+                      "label":  "DELETE",
+                      "position":  {
+                                       "x":  112.08982076233502,
+                                       "y":  536.8361075514152
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "68Y4cMQtdnJrbqSvl7aHc",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -281.26200280604616,
+                                       "y":  303.2980966830105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LX9nzJ4uqznHN4SksoDvr",
+                      "type":  "topic",
+                      "label":  "Aggregate Queries",
+                      "position":  {
+                                       "x":  -369.76200280604616,
+                                       "y":  511.23040771484375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w4T3jFb0ilf1KNw-AvRXG",
+                      "type":  "subtopic",
+                      "label":  "SUM",
+                      "position":  {
+                                       "x":  -609.4684257507324,
+                                       "y":  407.23040771484375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9aHYrOQDkA84tlxcVK5aD",
+                      "type":  "subtopic",
+                      "label":  "COUNT",
+                      "position":  {
+                                       "x":  -531.8883211898742,
+                                       "y":  407.23040771484375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wou6YXLYUgomvcELh851L",
+                      "type":  "subtopic",
+                      "label":  "AVG",
+                      "position":  {
+                                       "x":  -609.4684257507324,
+                                       "y":  459.73040771484375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bFEYMlqPZtTUYtDQxqHzT",
+                      "type":  "subtopic",
+                      "label":  "MIN",
+                      "position":  {
+                                       "x":  -531.8883211898742,
+                                       "y":  459.73040771484375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YqDJq3fPxUZlwsdq0kJg7",
+                      "type":  "subtopic",
+                      "label":  "MAX",
+                      "position":  {
+                                       "x":  -609.4684257507324,
+                                       "y":  512.2304077148438
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zw8IHfCCMSxmVjx5Ho5ff",
+                      "type":  "subtopic",
+                      "label":  "GROUP BY",
+                      "position":  {
+                                       "x":  -609.4684257507324,
+                                       "y":  564.7304077148438
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HhICJpCK5__b-itUoEBES",
+                      "type":  "subtopic",
+                      "label":  "HAVING",
+                      "position":  {
+                                       "x":  -609.4684257507324,
+                                       "y":  617.2304077148438
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qBios3sZVhcJMpXmj9f7B",
+                      "type":  "topic",
+                      "label":  "Data Constraints",
+                      "position":  {
+                                       "x":  -1.7791808916234686,
+                                       "y":  646.2304077148438
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jlwmyq6CUQeDAlL4dazOP",
+                      "type":  "subtopic",
+                      "label":  "Primary Key",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  470.3865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DHz6sRLYhFeCbAcNJS8hm",
+                      "type":  "subtopic",
+                      "label":  "Foreign Key",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  523.3865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5yGo8i7eplxtXOD_qfzOs",
+                      "type":  "subtopic",
+                      "label":  "Unique",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  576.3865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M4M_-vjM9GNy0NmXZneDA",
+                      "type":  "subtopic",
+                      "label":  "NOT NULL",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  629.3865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Q0h9Wfnl_W9ThOkv7Q17A",
+                      "type":  "subtopic",
+                      "label":  "CHECK",
+                      "position":  {
+                                       "x":  275.44949271295843,
+                                       "y":  682.3865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1Crqx9BUhD84lOdUAjFA4",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  245.44949271295843,
+                                       "y":  472.8865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8V6yw7kLaow-VVcv_K_pL",
+                      "type":  "topic",
+                      "label":  "JOIN Queries",
+                      "position":  {
+                                       "x":  -1.7791808916234686,
+                                       "y":  791.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aaua13CkTxLOYXr8cAgPm",
+                      "type":  "subtopic",
+                      "label":  "INNER JOIN",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  792.0530101616195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "X9cJJ8zLZCF2cOoqxwFfY",
+                      "type":  "subtopic",
+                      "label":  "LEFT JOIN",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  845.0530101616195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "shpgZkh1CLqUwjOaRtAFy",
+                      "type":  "subtopic",
+                      "label":  "RIGHT JOIN",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  898.0530101616195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aS5zCyJRA779yHF0G2pje",
+                      "type":  "subtopic",
+                      "label":  "FULL OUTER JOIN",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  951.0530101616195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6qG0AVYd6Y1B8LOSDoMX9",
+                      "type":  "subtopic",
+                      "label":  "Self Join",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  1004.0530101616196
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7ow6tiSSCnTpv_GYQU017",
+                      "type":  "subtopic",
+                      "label":  "Cross Join",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  1057.0530101616196
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0Rk1z-F_PEgOIh1qeG8rJ",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  218.44949271295843,
+                                       "y":  787.8865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "86iZ8s8EdhSuYwgwAM_EO",
+                      "type":  "topic",
+                      "label":  "Subqueries",
+                      "position":  {
+                                       "x":  -305.76200280604616,
+                                       "y":  791.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eXQ-TrTlqL5p2AdGnozkL",
+                      "type":  "subtopic",
+                      "label":  "Scalar",
+                      "position":  {
+                                       "x":  -605.2510816711185,
+                                       "y":  708.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wmtt-3auWLdQWuVdwZLPd",
+                      "type":  "subtopic",
+                      "label":  "Column",
+                      "position":  {
+                                       "x":  -521.2510816711185,
+                                       "y":  708.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aLDl75i8gtLRA2Ud-fMmQ",
+                      "type":  "subtopic",
+                      "label":  "Row",
+                      "position":  {
+                                       "x":  -437.2510816711185,
+                                       "y":  708.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R9WDMRd-3wxsKH97-sT3n",
+                      "type":  "subtopic",
+                      "label":  "Table",
+                      "position":  {
+                                       "x":  -373.2510816711185,
+                                       "y":  708.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zEWmq0Y1LFPMQelpucrph",
+                      "type":  "label",
+                      "label":  "Different Types",
+                      "position":  {
+                                       "x":  -242.76200280604616,
+                                       "y":  715.7304293708296
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xkPJ2MYiXmzC4yqQWyB_7",
+                      "type":  "subtopic",
+                      "label":  "Nested Subqueries",
+                      "position":  {
+                                       "x":  -614.2510816711185,
+                                       "y":  791.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JZqS3Xapw6mfSPVgFW7av",
+                      "type":  "subtopic",
+                      "label":  "Correlated Subqueries",
+                      "position":  {
+                                       "x":  -614.2510816711185,
+                                       "y":  844.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vTMd0bqz4eTgLnhfgY61h",
+                      "type":  "topic",
+                      "label":  "Advanced Functions",
+                      "position":  {
+                                       "x":  -305.76200280604616,
+                                       "y":  953.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o2SH4iQn1Ap2yDZ7cVYLO",
+                      "type":  "subtopic",
+                      "label":  "FLOOR",
+                      "position":  {
+                                       "x":  -31.751081671118527,
+                                       "y":  912.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6vYFb_D1N_-tLWZftL-Az",
+                      "type":  "subtopic",
+                      "label":  "ABS",
+                      "position":  {
+                                       "x":  51.24891832888147,
+                                       "y":  912.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OUw--8zEq6lk5-6oySVHe",
+                      "type":  "subtopic",
+                      "label":  "MOD",
+                      "position":  {
+                                       "x":  119.24891832888147,
+                                       "y":  912.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9DntFiZV1AyaRPhYP5q6u",
+                      "type":  "subtopic",
+                      "label":  "ROUND",
+                      "position":  {
+                                       "x":  -31.751081671118527,
+                                       "y":  964.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BAqJQvcguhIhzyII5LRH6",
+                      "type":  "subtopic",
+                      "label":  "CEILING",
+                      "position":  {
+                                       "x":  85.24891832888147,
+                                       "y":  964.0530101616195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KI9LVF49Zml1StWiN0wUe",
+                      "type":  "label",
+                      "label":  "Numeric Functions",
+                      "position":  {
+                                       "x":  -11.279180891623469,
+                                       "y":  1017.5530101616196
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "5inpEqafeVCfqsURHzQQg",
+                      "type":  "subtopic",
+                      "label":  "CONCAT",
+                      "position":  {
+                                       "x":  -602.2510816711185,
+                                       "y":  922.8865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RH8DLiQpDUWqw3U1522q5",
+                      "type":  "subtopic",
+                      "label":  "LENGTH",
+                      "position":  {
+                                       "x":  -478.76200280604616,
+                                       "y":  922.8865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PnG_5D6q66NAKxXVOwA6N",
+                      "type":  "subtopic",
+                      "label":  "SUBSTRING",
+                      "position":  {
+                                       "x":  -602.9741508977197,
+                                       "y":  974.8865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VNbb3YPc0FtrROylRns8h",
+                      "type":  "subtopic",
+                      "label":  "REPLACE",
+                      "position":  {
+                                       "x":  -478.76200280604616,
+                                       "y":  974.8865696806382
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Othfo7NvTVzfyL906PLM1",
+                      "type":  "subtopic",
+                      "label":  "UPPER",
+                      "position":  {
+                                       "x":  -602.9741508977197,
+                                       "y":  1026.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "knTG6pAq2mYP24WMa29xI",
+                      "type":  "subtopic",
+                      "label":  "LOWER",
+                      "position":  {
+                                       "x":  -478.76200280604616,
+                                       "y":  1026.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Va_B9PyyGaQ_aX4ySyhUn",
+                      "type":  "label",
+                      "label":  "String Functions",
+                      "position":  {
+                                       "x":  -567.8883211898742,
+                                       "y":  1085.8865696806383
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "W2ePJHdfEiEJ3ZKoRQKt_",
+                      "type":  "subtopic",
+                      "label":  "CASE",
+                      "position":  {
+                                       "x":  -32.75108167111853,
+                                       "y":  1063.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KI6vngoYcHsnpIk8ErhhS",
+                      "type":  "subtopic",
+                      "label":  "NULLIF",
+                      "position":  {
+                                       "x":  71.24891832888147,
+                                       "y":  1063.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k7lZe4QRt9q4InUImFmvx",
+                      "type":  "subtopic",
+                      "label":  "COALESCE",
+                      "position":  {
+                                       "x":  -32.91017923766498,
+                                       "y":  1115.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K2k3gFdSE63CqWmHeFUEs",
+                      "type":  "label",
+                      "label":  "Conditional",
+                      "position":  {
+                                       "x":  21.248918328881473,
+                                       "y":  1171
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ivqo2wa-_NhGU3vGd0pUI",
+                      "type":  "subtopic",
+                      "label":  "DATE",
+                      "position":  {
+                                       "x":  -603.7510816711185,
+                                       "y":  1137.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "88KlrMqSza9_YaD7Dv61p",
+                      "type":  "subtopic",
+                      "label":  "TIME",
+                      "position":  {
+                                       "x":  -484.7510816711185,
+                                       "y":  1137.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7hEqkoxkdAWmakGZsMJx-",
+                      "type":  "subtopic",
+                      "label":  "TIMESTAMP",
+                      "position":  {
+                                       "x":  -603.7510816711185,
+                                       "y":  1190.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BJ4fQvagTO0B5UtXblyx8",
+                      "type":  "subtopic",
+                      "label":  "DATEPART",
+                      "position":  {
+                                       "x":  -603.7510816711185,
+                                       "y":  1243.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1E1WdWOyqxbbdiIbw26dZ",
+                      "type":  "subtopic",
+                      "label":  "DATEADD",
+                      "position":  {
+                                       "x":  -484.7510816711185,
+                                       "y":  1243.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KWHyyOO605SQTAwdt3um_",
+                      "type":  "label",
+                      "label":  "Date and Time",
+                      "position":  {
+                                       "x":  -556.7510816711185,
+                                       "y":  1297.8865696806383
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "2tyezwOIxV6O84N-Q3Awh",
+                      "type":  "topic",
+                      "label":  "Views",
+                      "position":  {
+                                       "x":  -314.2510816711185,
+                                       "y":  1098.3834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PcsGK4VBh0zNQIPZvNES4",
+                      "type":  "subtopic",
+                      "label":  "Creating Views",
+                      "position":  {
+                                       "x":  -306.2510816711185,
+                                       "y":  1155.3834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3eE-l-P93nOXoWfLr8PSW",
+                      "type":  "subtopic",
+                      "label":  "Modifying Views",
+                      "position":  {
+                                       "x":  -306.2510816711185,
+                                       "y":  1208.3834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MIOuWWcCjLAmgzog2DBC3",
+                      "type":  "subtopic",
+                      "label":  "Dropping Views",
+                      "position":  {
+                                       "x":  -306.2510816711185,
+                                       "y":  1261.3834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mwwbw0gZzeM27ewaUh49a",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -96.25108167111853,
+                                       "y":  1280.8834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LcljR70T-OnzSrJJDqOWf",
+                      "type":  "topic",
+                      "label":  "Indexes",
+                      "position":  {
+                                       "x":  204.97198755548254,
+                                       "y":  1266.3834408721723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NtxGd6Vx-REBclry7lZuE",
+                      "type":  "subtopic",
+                      "label":  "Managing Indexes",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  1121.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ps9Yv2s-bKvEegGAbPsiA",
+                      "type":  "subtopic",
+                      "label":  "Query Optimization",
+                      "position":  {
+                                       "x":  247.47198755548254,
+                                       "y":  1174.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OdaBXz2XBAVLsQ-m7xtAM",
+                      "type":  "topic",
+                      "label":  "Transactions",
+                      "position":  {
+                                       "x":  204.97198755548254,
+                                       "y":  1428.3990110065474
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7sTW1vwUhCFOMXYjScVEt",
+                      "type":  "subtopic",
+                      "label":  "BEGIN",
+                      "position":  {
+                                       "x":  321.97198755548254,
+                                       "y":  1511.9869221425392
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3cMECz5QPVDOFrk5duObs",
+                      "type":  "subtopic",
+                      "label":  "COMMIT",
+                      "position":  {
+                                       "x":  321.97198755548254,
+                                       "y":  1564.9869221425392
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xbD67KVlt3UhHpKh8HLx8",
+                      "type":  "subtopic",
+                      "label":  "ROLLBACK",
+                      "position":  {
+                                       "x":  321.97198755548254,
+                                       "y":  1617.9869221425392
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pJtYvXUo81aZfPuRjIbMq",
+                      "type":  "subtopic",
+                      "label":  "SAVEPOINT",
+                      "position":  {
+                                       "x":  321.97198755548254,
+                                       "y":  1670.9869221425392
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "igg34gLPl3HYVAmRNFGcV",
+                      "type":  "subtopic",
+                      "label":  "ACID",
+                      "position":  {
+                                       "x":  212.08982076233502,
+                                       "y":  1511.9869221425392
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ujeq8EIFcrqkBjoFizsJM",
+                      "type":  "subtopic",
+                      "label":  "Transaction Isolation Levels",
+                      "position":  {
+                                       "x":  29.089820762335023,
+                                       "y":  1343.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R1ktDJpXOz0PTllAcBrdu",
+                      "type":  "topic",
+                      "label":  "Data Integrity \u0026 Security",
+                      "position":  {
+                                       "x":  -193.26200280604616,
+                                       "y":  1428.3990110065474
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mBQ3Z8GlFcpIena3IB7D_",
+                      "type":  "subtopic",
+                      "label":  "Data Integrity Constraints",
+                      "position":  {
+                                       "x":  -264.01430668156826,
+                                       "y":  1343.8865696806383
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "03qMopxzjx_-dZbYw9b7J",
+                      "type":  "subtopic",
+                      "label":  "GRANT and Revoke",
+                      "position":  {
+                                       "x":  -264.01430668156826,
+                                       "y":  1515.0464993424512
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vhBZqqmUcEon6-Vwvla4q",
+                      "type":  "subtopic",
+                      "label":  "DB Security Best Practices",
+                      "position":  {
+                                       "x":  -264.01430668156826,
+                                       "y":  1568.0464993424512
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w7FNjdwqjY7X69aJqqBy4",
+                      "type":  "topic",
+                      "label":  "Stored Procedures \u0026 Functions",
+                      "position":  {
+                                       "x":  -607.4741508977197,
+                                       "y":  1428.3990110065474
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4rqCPpTb0dAgpheBKshRG",
+                      "type":  "topic",
+                      "label":  "Performance Optimization",
+                      "position":  {
+                                       "x":  -592.9741508977197,
+                                       "y":  1645.2523745261662
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9wOgP0i9G4HSeZGn2Gm7r",
+                      "type":  "subtopic",
+                      "label":  "Using Indexes",
+                      "position":  {
+                                       "x":  -591.9741508977197,
+                                       "y":  1813.4578222275159
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "C0dhS6uLf4TUSfvcWyXhv",
+                      "type":  "subtopic",
+                      "label":  "Optimizing Joins",
+                      "position":  {
+                                       "x":  -591.9741508977197,
+                                       "y":  1866.4578222275159
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UVTgbZrqpbYl1bQvQejcF",
+                      "type":  "subtopic",
+                      "label":  "Reducing Subqueries",
+                      "position":  {
+                                       "x":  -591.9741508977197,
+                                       "y":  1919.4578222275159
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w53CSY53nAAN0ux-XeJ4c",
+                      "type":  "subtopic",
+                      "label":  "Selective Projection",
+                      "position":  {
+                                       "x":  -591.9741508977197,
+                                       "y":  1972.4578222275159
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s7WusVSHajNBKOLoo1COz",
+                      "type":  "label",
+                      "label":  "Query Optimization Techniques",
+                      "position":  {
+                                       "x":  -591.9741508977197,
+                                       "y":  2032.4578222275159
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "C6P69YiFdS-ioPXMNfX07",
+                      "type":  "subtopic",
+                      "label":  "Query Analysis Techniques",
+                      "position":  {
+                                       "x":  -599.9741508977197,
+                                       "y":  1748.425681269572
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UDqbT1y-YzBrljfKSz_RG",
+                      "type":  "topic",
+                      "label":  "Advanced SQL",
+                      "position":  {
+                                       "x":  -261.26200280604616,
+                                       "y":  2002.9466965113045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TjgwabhEtaSoYMLNr6q9l",
+                      "type":  "subtopic",
+                      "label":  "Recursive Queries",
+                      "position":  {
+                                       "x":  22.917108454473976,
+                                       "y":  1949.9466965113045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nwFaz9i-1s0WVrVaFsoqb",
+                      "type":  "subtopic",
+                      "label":  "Pivot / Unpivot Operations",
+                      "position":  {
+                                       "x":  22.917108454473976,
+                                       "y":  2002.9466965113045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tBvXLLp5FKeSSN35Kj1X4",
+                      "type":  "subtopic",
+                      "label":  "Window Functions",
+                      "position":  {
+                                       "x":  22.917108454473976,
+                                       "y":  1896.9466965113045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tedQynR0xicVKhuR1oahw",
+                      "type":  "subtopic",
+                      "label":  "Common Table Expressions",
+                      "position":  {
+                                       "x":  22.917108454473976,
+                                       "y":  2055.9466965113043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "z5Sf0VU14ZCQ80kL1qOqc",
+                      "type":  "subtopic",
+                      "label":  "Dynamic SQL",
+                      "position":  {
+                                       "x":  22.917108454473976,
+                                       "y":  2108.9466965113043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zW27ZHdLwQY-85iqbBKQZ",
+                      "type":  "subtopic",
+                      "label":  "row_number",
+                      "position":  {
+                                       "x":  42.34043885768011,
+                                       "y":  1742.7884641029652
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cucCPw3KfetAP2OMFUs0X",
+                      "type":  "subtopic",
+                      "label":  "rank",
+                      "position":  {
+                                       "x":  42.34043885768011,
+                                       "y":  1586.7884641029652
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QM0ltgPu8lLLYc2MsTLj-",
+                      "type":  "subtopic",
+                      "label":  "dense_rank",
+                      "position":  {
+                                       "x":  42.34043885768011,
+                                       "y":  1638.7884641029652
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aJJjaGunRrwyh9MjQfJt-",
+                      "type":  "subtopic",
+                      "label":  "lead",
+                      "position":  {
+                                       "x":  42.34043885768011,
+                                       "y":  1690.7884641029652
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BcXdxY6bld5c0YNFSKkh-",
+                      "type":  "subtopic",
+                      "label":  "lag",
+                      "position":  {
+                                       "x":  111.34043885768011,
+                                       "y":  1690.7884641029652
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FcAeu8woDM7N51do6aiBV",
+                      "type":  "paragraph",
+                      "label":  "We just launched our premium SQL course, check it out below",
+                      "position":  {
+                                       "x":  -611.9219566015802,
+                                       "y":  -122.7695706291704
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5n6N956H6tfwlQ0vqXW7e",
+                      "type":  "button",
+                      "label":  "NEW / Premium SQL Course",
+                      "position":  {
+                                       "x":  -594.4219566015802,
+                                       "y":  -42.7695706291704
+                                   },
+                      "href":  "https://roadmap.sh/courses/sql",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  81.98750948177025,
+                                       "y":  -230.45354709361837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  95.61202169501337,
+                                       "y":  -148.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xp6G2Us7Y6LeKoYQh_AKl",
+                      "type":  "subtopic",
+                      "label":  "first_value",
+                      "position":  {
+                                       "x":  42.34043885768011,
+                                       "y":  1795.7884641029652
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "reactflow__edge-JDDG4KfhtIlw1rkNCzUliz2-gx4KaFqKgJX9n9_ZGMqlZy1",
+                      "source":  "nhUKKWyBH80nyKfGT8ErC",
+                      "target":  "gx4KaFqKgJX9n9_ZGMqlZ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-nhUKKWyBH80nyKfGT8ErCx2-JDDG4KfhtIlw1rkNCzUliw2",
+                      "source":  "nhUKKWyBH80nyKfGT8ErC",
+                      "target":  "JDDG4KfhtIlw1rkNCzUli",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-JDDG4KfhtIlw1rkNCzUliy2-6yoo7qC6X2jYDIjd3HIm7z1",
+                      "source":  "JDDG4KfhtIlw1rkNCzUli",
+                      "target":  "6yoo7qC6X2jYDIjd3HIm7",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-JDDG4KfhtIlw1rkNCzUliy2-tBzMDfCMh6MIagNaxCzinz1",
+                      "source":  "JDDG4KfhtIlw1rkNCzUli",
+                      "target":  "tBzMDfCMh6MIagNaxCzin",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-JDDG4KfhtIlw1rkNCzUliy2-ffwniprGJHZzJ7t3lQcXzz1",
+                      "source":  "JDDG4KfhtIlw1rkNCzUli",
+                      "target":  "ffwniprGJHZzJ7t3lQcXz",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-JDDG4KfhtIlw1rkNCzUliz2-xPOeXK1EPBNG56vgfG-VVy1",
+                      "source":  "JDDG4KfhtIlw1rkNCzUli",
+                      "target":  "xPOeXK1EPBNG56vgfG-VV",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-iogwMmOvub2ZF4zgg6WyFx2-nhUKKWyBH80nyKfGT8ErCw1",
+                      "source":  "iogwMmOvub2ZF4zgg6WyF",
+                      "target":  "nhUKKWyBH80nyKfGT8ErC",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-nhUKKWyBH80nyKfGT8ErCz2-R9DQNc0AyAQ2HLpP4HOk6y1",
+                      "source":  "nhUKKWyBH80nyKfGT8ErC",
+                      "target":  "R9DQNc0AyAQ2HLpP4HOk6",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-nhUKKWyBH80nyKfGT8ErCz2-fNTb9y3zs1HPYclAmu_Wvy1",
+                      "source":  "nhUKKWyBH80nyKfGT8ErC",
+                      "target":  "fNTb9y3zs1HPYclAmu_Wv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-LX9nzJ4uqznHN4SksoDvry2-bFEYMlqPZtTUYtDQxqHzTz1",
+                      "source":  "LX9nzJ4uqznHN4SksoDvr",
+                      "target":  "bFEYMlqPZtTUYtDQxqHzT",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-LX9nzJ4uqznHN4SksoDvry2-9aHYrOQDkA84tlxcVK5aDz1",
+                      "source":  "LX9nzJ4uqznHN4SksoDvr",
+                      "target":  "9aHYrOQDkA84tlxcVK5aD",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-LX9nzJ4uqznHN4SksoDvry2-YqDJq3fPxUZlwsdq0kJg7z2",
+                      "source":  "LX9nzJ4uqznHN4SksoDvr",
+                      "target":  "YqDJq3fPxUZlwsdq0kJg7",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-LX9nzJ4uqznHN4SksoDvry2-Zw8IHfCCMSxmVjx5Ho5ffz1",
+                      "source":  "LX9nzJ4uqznHN4SksoDvr",
+                      "target":  "Zw8IHfCCMSxmVjx5Ho5ff",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-LX9nzJ4uqznHN4SksoDvry2-HhICJpCK5__b-itUoEBESz1",
+                      "source":  "LX9nzJ4uqznHN4SksoDvr",
+                      "target":  "HhICJpCK5__b-itUoEBES",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-LX9nzJ4uqznHN4SksoDvrx2-8V6yw7kLaow-VVcv_K_pLy1",
+                      "source":  "LX9nzJ4uqznHN4SksoDvr",
+                      "target":  "qBios3sZVhcJMpXmj9f7B",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-qBios3sZVhcJMpXmj9f7Bx2-8V6yw7kLaow-VVcv_K_pLw2",
+                      "source":  "qBios3sZVhcJMpXmj9f7B",
+                      "target":  "8V6yw7kLaow-VVcv_K_pL",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-8V6yw7kLaow-VVcv_K_pLy2-86iZ8s8EdhSuYwgwAM_EOz2",
+                      "source":  "8V6yw7kLaow-VVcv_K_pL",
+                      "target":  "86iZ8s8EdhSuYwgwAM_EO",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-86iZ8s8EdhSuYwgwAM_EOy2-xkPJ2MYiXmzC4yqQWyB_7z1",
+                      "source":  "86iZ8s8EdhSuYwgwAM_EO",
+                      "target":  "xkPJ2MYiXmzC4yqQWyB_7",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-86iZ8s8EdhSuYwgwAM_EOy2-JZqS3Xapw6mfSPVgFW7avz1",
+                      "source":  "86iZ8s8EdhSuYwgwAM_EO",
+                      "target":  "JZqS3Xapw6mfSPVgFW7av",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-vTMd0bqz4eTgLnhfgY61hz2-6FdHTzqQwJqR4czP5qXAYy1",
+                      "source":  "vTMd0bqz4eTgLnhfgY61h",
+                      "target":  "6FdHTzqQwJqR4czP5qXAY",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-LcljR70T-OnzSrJJDqOWfx2-UDqbT1y-YzBrljfKSz_RGw1",
+                      "source":  "LcljR70T-OnzSrJJDqOWf",
+                      "target":  "OdaBXz2XBAVLsQ-m7xtAM",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-OdaBXz2XBAVLsQ-m7xtAMy2-UDqbT1y-YzBrljfKSz_RGz1",
+                      "source":  "OdaBXz2XBAVLsQ-m7xtAM",
+                      "target":  "R1ktDJpXOz0PTllAcBrdu",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-R1ktDJpXOz0PTllAcBrduy2-UDqbT1y-YzBrljfKSz_RGz1",
+                      "source":  "R1ktDJpXOz0PTllAcBrdu",
+                      "target":  "w7FNjdwqjY7X69aJqqBy4",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-w7FNjdwqjY7X69aJqqBy4x2-UDqbT1y-YzBrljfKSz_RGw1",
+                      "source":  "w7FNjdwqjY7X69aJqqBy4",
+                      "target":  "4rqCPpTb0dAgpheBKshRG",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-UDqbT1y-YzBrljfKSz_RGx2-C6P69YiFdS-ioPXMNfX07w1",
+                      "source":  "4rqCPpTb0dAgpheBKshRG",
+                      "target":  "C6P69YiFdS-ioPXMNfX07",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-4rqCPpTb0dAgpheBKshRGz2-UDqbT1y-YzBrljfKSz_RGw1",
+                      "source":  "4rqCPpTb0dAgpheBKshRG",
+                      "target":  "UDqbT1y-YzBrljfKSz_RG",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-UDqbT1y-YzBrljfKSz_RGz2-tBvXLLp5FKeSSN35Kj1X4y1",
+                      "source":  "UDqbT1y-YzBrljfKSz_RG",
+                      "target":  "tBvXLLp5FKeSSN35Kj1X4",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-UDqbT1y-YzBrljfKSz_RGz2-nwFaz9i-1s0WVrVaFsoqby2",
+                      "source":  "UDqbT1y-YzBrljfKSz_RG",
+                      "target":  "nwFaz9i-1s0WVrVaFsoqb",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-UDqbT1y-YzBrljfKSz_RGz2-TjgwabhEtaSoYMLNr6q9ly1",
+                      "source":  "UDqbT1y-YzBrljfKSz_RG",
+                      "target":  "TjgwabhEtaSoYMLNr6q9l",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-UDqbT1y-YzBrljfKSz_RGz2-tedQynR0xicVKhuR1oahwy1",
+                      "source":  "UDqbT1y-YzBrljfKSz_RG",
+                      "target":  "tedQynR0xicVKhuR1oahw",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-UDqbT1y-YzBrljfKSz_RGz2-z5Sf0VU14ZCQ80kL1qOqcy1",
+                      "source":  "UDqbT1y-YzBrljfKSz_RG",
+                      "target":  "z5Sf0VU14ZCQ80kL1qOqc",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-UDqbT1y-YzBrljfKSz_RGx2-GV_zWF6rSWg5bqgiXhOEfw1",
+                      "source":  "UDqbT1y-YzBrljfKSz_RG",
+                      "target":  "GV_zWF6rSWg5bqgiXhOEf",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-WigElh37ztiRYRstQR9NEz2-zEWmq0Y1LFPMQelpucrphy1",
+                      "source":  "WigElh37ztiRYRstQR9NE",
+                      "target":  "zEWmq0Y1LFPMQelpucrph",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  }
+              ]
+}

@@ -1,0 +1,3483 @@
+[
+    {
+        "id":  "GISOFMKvnBys0O0IMpz2J",
+        "label":  "Learn the Basics",
+        "endpoint":  "https://roadmap.sh/python/topic@GISOFMKvnBys0O0IMpz2J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tutorial Series: How to Code in Python",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program"
+                          },
+                          {
+                              "title":  "Google\u0027s Python Class",
+                              "type":  "article",
+                              "url":  "https://developers.google.com/edu/python"
+                          },
+                          {
+                              "title":  "Learn Python - Full Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4M87qBgpafk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6xRncUs3_vxVbDur567QA",
+        "label":  "Basic Syntax",
+        "endpoint":  "https://roadmap.sh/python/topic@6xRncUs3_vxVbDur567QA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Basics",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/python/python_basic_syntax.htm"
+                          },
+                          {
+                              "title":  "Fix \"Invalid Syntax\" in Python (8 Common Causes)",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/invalid-syntax"
+                          },
+                          {
+                              "title":  "Python Print New Line: Methods, Examples, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/print-new-line"
+                          },
+                          {
+                              "title":  "Python for Beginners - Learn Python in 1 Hour",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kqtD5dpn9C8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dEFLBGpiH6nbSMeR7ecaT",
+        "label":  "Variables and Data Types",
+        "endpoint":  "https://roadmap.sh/python/topic@dEFLBGpiH6nbSMeR7ecaT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Variables in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-variables"
+                          },
+                          {
+                              "title":  "Python for Beginners: Data Types",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/python-for-beginners-data-types/"
+                          },
+                          {
+                              "title":  "Python Null (None): Guide to Missing Values and NoneType",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/null"
+                          },
+                          {
+                              "title":  "Python Max Int: Understanding Arbitrary Precision Integers",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/max-int"
+                          },
+                          {
+                              "title":  "Python Variables and Data Types",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhN-sfWgCU1z_Qhakc1AGOn"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NP1kjSk0ujU0Gx-ajNHlR",
+        "label":  "Conditionals",
+        "endpoint":  "https://roadmap.sh/python/topic@NP1kjSk0ujU0Gx-ajNHlR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Conditional Statements in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-conditional-statements/"
+                          },
+                          {
+                              "title":  "Python Switch Statement 101: Match-case and alternatives",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/switch"
+                          },
+                          {
+                              "title":  "How to Use a Match Statement in Python",
+                              "type":  "article",
+                              "url":  "https://learnpython.com/blog/python-match-case-statement/"
+                          },
+                          {
+                              "title":  "Python not Operator: The Complete Guide to Logical Negation",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/not-operator"
+                          },
+                          {
+                              "title":  "The or Operator in Python: Complete Guide with Examples",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/or"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R9DQNc0AyAQ2HLpP4HOk6",
+        "label":  "Type Casting",
+        "endpoint":  "https://roadmap.sh/python/topic@R9DQNc0AyAQ2HLpP4HOk6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Conversion and Casting",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/python-programming/type-conversion-and-casting"
+                          },
+                          {
+                              "title":  "Python Division: Operators, Floor Division, and Examples",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/division"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fNTb9y3zs1HPYclAmu_Wv",
+        "label":  "Exceptions",
+        "endpoint":  "https://roadmap.sh/python/topic@fNTb9y3zs1HPYclAmu_Wv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Exceptions Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/errors.html#exceptions"
+                          },
+                          {
+                              "title":  "Python KeyError Exceptions: Causes and Fixes Explained",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/keyerror"
+                          },
+                          {
+                              "title":  "Fix \"Invalid Syntax\" in Python (8 Common Causes)",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/invalid-syntax"
+                          },
+                          {
+                              "title":  "Exception Handling in Python",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=V_NXT2-QIlE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-DJgS6l2qngfwurExlmmT",
+        "label":  "Functions, Builtin Functions",
+        "endpoint":  "https://roadmap.sh/python/topic@-DJgS6l2qngfwurExlmmT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in Functions in Python",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/functions.html"
+                          },
+                          {
+                              "title":  "Defining Python Functions",
+                              "type":  "article",
+                              "url":  "https://realpython.com/defining-your-own-python-function/"
+                          },
+                          {
+                              "title":  "How to Return Multiple Values in Python (and When to Use Each Method)",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/return-multiple-values"
+                          },
+                          {
+                              "title":  "Master Python Filter: Syntax, Examples, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/filter"
+                          },
+                          {
+                              "title":  "Python reduce(): The Complete Guide (With Examples)",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/reduce"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UT_SR7G-LYtzqooWrEtF1",
+        "label":  "Lists",
+        "endpoint":  "https://roadmap.sh/python/topic@UT_SR7G-LYtzqooWrEtF1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Official Documentation on Listsc",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/introduction.html#lists"
+                          },
+                          {
+                              "title":  "Python for Beginners: Lists",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/python-for-beginners-lists/"
+                          },
+                          {
+                              "title":  "Python Remove from List: Full Guide + Examples",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/remove-item-from-list"
+                          },
+                          {
+                              "title":  "Difference Between List, Tuple, Set and Dictionary in Python",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=n0krwG38SHI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i7xIGiXU-k5UIKHIhQPjE",
+        "label":  "Tuples",
+        "endpoint":  "https://roadmap.sh/python/topic@i7xIGiXU-k5UIKHIhQPjE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tuples Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences"
+                          },
+                          {
+                              "title":  "When and How to Use Tuples",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/"
+                          },
+                          {
+                              "title":  "Python Return Multiple Values: 4 Methods \u0026 Examples",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/return-multiple-values"
+                          },
+                          {
+                              "title":  "why are Tuples even a thing?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fR_D_KIAYrE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "soZFqivM3YBuljeX6PoaX",
+        "label":  "Sets",
+        "endpoint":  "https://roadmap.sh/python/topic@soZFqivM3YBuljeX6PoaX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Official Documentation on Sets",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/datastructures.html#sets"
+                          },
+                          {
+                              "title":  "An In-Depth Guide to Working with Python Sets",
+                              "type":  "article",
+                              "url":  "https://learnpython.com/blog/python-sets/"
+                          },
+                          {
+                              "title":  "Python Sets tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t9j8lCUGZXo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bc9CL_HMT-R6nXO1eR-gP",
+        "label":  "Dictionaries",
+        "endpoint":  "https://roadmap.sh/python/topic@bc9CL_HMT-R6nXO1eR-gP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dictionaries in Python",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/datastructures.html#dictionaries"
+                          },
+                          {
+                              "title":  "Dictionaries in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-dicts/"
+                          },
+                          {
+                              "title":  "Hashmaps in Python: Master Implementation and Use Cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/hashmap"
+                          },
+                          {
+                              "title":  "Python KeyError Exceptions: Causes and Fixes",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/keyerror"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Dvy7BnNzK55qbh_SgOk8m",
+        "label":  "Loops",
+        "endpoint":  "https://roadmap.sh/python/topic@Dvy7BnNzK55qbh_SgOk8m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python \"while\" Loops (Indefinite Iteration)",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-while-loop/"
+                          },
+                          {
+                              "title":  "Python \"for\" Loops (Definite Iteration)",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-for-loop/#the-guts-of-the-python-for-loop"
+                          },
+                          {
+                              "title":  "Python For Loops",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KWgYha0clzw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OPD4WdMO7q4gRZMcRCQh1",
+        "label":  "Arrays and Linked Lists",
+        "endpoint":  "https://roadmap.sh/python/topic@OPD4WdMO7q4gRZMcRCQh1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Arrays in Python",
+                              "type":  "article",
+                              "url":  "https://www.edureka.co/blog/arrays-in-python/"
+                          },
+                          {
+                              "title":  "Linked Lists vs Python Lists: When to Use Each",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/linked-list"
+                          },
+                          {
+                              "title":  "Array Data Structure | Illustrated Data Structures",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QJNwK2uJyGs"
+                          },
+                          {
+                              "title":  "Linked List Data Structure | Illustrated Data Structures",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=odW9FU8jPRQ"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0NlRczh6ZEaFLlT6LORWz",
+        "label":  "Heaps, Stacks and Queues",
+        "endpoint":  "https://roadmap.sh/python/topic@0NlRczh6ZEaFLlT6LORWz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Heaps, Stacks, Queues",
+                              "type":  "article",
+                              "url":  "https://stephanosterburg.gitbook.io/scrapbook/coding/coding-interview/data-structures/heaps-stacks-queues"
+                          },
+                          {
+                              "title":  "How to Implement Python Stack?",
+                              "type":  "article",
+                              "url":  "https://realpython.com/how-to-implement-python-stack/"
+                          },
+                          {
+                              "title":  "Python Stacks, Queues, and Priority Queues in Practice",
+                              "type":  "article",
+                              "url":  "https://realpython.com/queue-in-python/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DG4fi1e5ec2BVckPLsTJS",
+        "label":  "HashMaps",
+        "endpoint":  "https://roadmap.sh/python/topic@DG4fi1e5ec2BVckPLsTJS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hashmaps in Python: Master Implementation and Use Cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/hashmap"
+                          },
+                          {
+                              "title":  "Build a Hash Table in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-hash-table/"
+                          },
+                          {
+                              "title":  "Hash Tables and Hashmaps in Python",
+                              "type":  "article",
+                              "url":  "https://www.edureka.co/blog/hash-tables-and-hashmaps-in-python/"
+                          },
+                          {
+                              "title":  "Hash Table Data Structure | Illustrated Data Structures",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jalSiaIi8j4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uJIqgsqUbE62Tyo3K75Qx",
+        "label":  "Binary Search Tree",
+        "endpoint":  "https://roadmap.sh/python/topic@uJIqgsqUbE62Tyo3K75Qx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Binary search in Python 101: Implementation and use cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/binary-search"
+                          },
+                          {
+                              "title":  "How to Implement Binary Search Tree in Python",
+                              "type":  "article",
+                              "url":  "https://web.archive.org/web/20230601181553/https://www.section.io/engineering-education/implementing-binary-search-tree-using-python/"
+                          },
+                          {
+                              "title":  "Binary Search Tree in Python",
+                              "type":  "article",
+                              "url":  "https://www.pythonforbeginners.com/data-structures/binary-search-tree-in-python"
+                          },
+                          {
+                              "title":  "Tree Data Structure | Illustrated Data Structures",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=S2W3SXGPVyU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kLBgy_nxxjE8SxdVi04bq",
+        "label":  "Recursion",
+        "endpoint":  "https://roadmap.sh/python/topic@kLBgy_nxxjE8SxdVi04bq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Recursion in Python: An Introduction",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-recursion/"
+                          },
+                          {
+                              "title":  "Binary search in Python 101: Implementation and use cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/binary-search"
+                          },
+                          {
+                              "title":  "Merge Sort in Python: Step-by-Step Guide + Code",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/merge-sort"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vvTmjcWCVclOPY4f_5uB0",
+        "label":  "Sorting Algorithms",
+        "endpoint":  "https://roadmap.sh/python/topic@vvTmjcWCVclOPY4f_5uB0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sorting Algorithms in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/sorting-algorithms-python/"
+                          },
+                          {
+                              "title":  "Python - Sorting Algorithms",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm"
+                          },
+                          {
+                              "title":  "Merge Sort in Python: Step-by-Step Guide + Code",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/merge-sort"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "274uk28wzxn6EKWQzLpHs",
+        "label":  "Modules",
+        "endpoint":  "https://roadmap.sh/python/topic@274uk28wzxn6EKWQzLpHs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Modules",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/modules.html"
+                          },
+                          {
+                              "title":  "Modules in Python",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/python-programming/modules"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VJSIbYJcy2MC6MOFBrqXi",
+        "label":  "Data Structures \u0026 Algorithms",
+        "endpoint":  "https://roadmap.sh/python/topic@VJSIbYJcy2MC6MOFBrqXi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated DSA Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/datastructures-and-algorithms"
+                          },
+                          {
+                              "title":  "Hashmaps in Python: Master Implementation and Use Cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/hashmap"
+                          },
+                          {
+                              "title":  "Binary search in Python 101: Implementation and use cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/binary-search"
+                          },
+                          {
+                              "title":  "Data Structures Illustrated",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "08XifLQ20c4FKI_4AWNBQ",
+        "label":  "Builtin",
+        "endpoint":  "https://roadmap.sh/python/topic@08XifLQ20c4FKI_4AWNBQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Module Index",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/py-modindex.html"
+                          },
+                          {
+                              "title":  "Python Modules",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/python-modules"
+                          },
+                          {
+                              "title":  "Python - Built-In Modules",
+                              "type":  "article",
+                              "url":  "https://www.knowledgehut.com/tutorials/python-tutorial/python-built-in-modules"
+                          },
+                          {
+                              "title":  "How to Set Environment Variables in Python (Step-by-Step)",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/set-environment-variable"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l7k0qTYe42wYBTlT2-1cy",
+        "label":  "Custom",
+        "endpoint":  "https://roadmap.sh/python/topic@l7k0qTYe42wYBTlT2-1cy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Modules",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/modules.html"
+                          },
+                          {
+                              "title":  "Modules in Python",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/python-programming/modules"
+                          },
+                          {
+                              "title":  "Python Modules and Packages",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-modules-packages/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aWHgAk959DPUZL46CeRiI",
+        "label":  "Lambdas",
+        "endpoint":  "https://roadmap.sh/python/topic@aWHgAk959DPUZL46CeRiI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to use Lambda functions",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-lambda/"
+                          },
+                          {
+                              "title":  "Master Python Filter: Syntax, Examples, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/filter"
+                          },
+                          {
+                              "title":  "Python reduce(): The Complete Guide (With Examples)",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/reduce"
+                          },
+                          {
+                              "title":  "Python Lambda Functions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KR22jigJLok"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pIluLJkySqn_gI_GykV6G",
+        "label":  "Decorators",
+        "endpoint":  "https://roadmap.sh/python/topic@pIluLJkySqn_gI_GykV6G.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Learn Decorators in Python",
+                              "type":  "article",
+                              "url":  "https://pythonbasics.org/decorators/"
+                          },
+                          {
+                              "title":  "Decorators in Python",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=FXUUSfJO_J4"
+                          },
+                          {
+                              "title":  "Python Decorators in 1 Minute",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BE-L7xu8pO4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aB1LSQjDEQb_BxueOcnxU",
+        "label":  "Iterators",
+        "endpoint":  "https://roadmap.sh/python/topic@aB1LSQjDEQb_BxueOcnxU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Official Documentation on Iterators",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/classes.html#iterators"
+                          },
+                          {
+                              "title":  "Python Iterators",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/python-programming/iterator"
+                          },
+                          {
+                              "title":  "Iterators and Iterables in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-iterators-iterables/"
+                          },
+                          {
+                              "title":  "Master Python Filter: Syntax, Examples, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/filter"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7t6mJBsaFMWPi7o9fbhhq",
+        "label":  "Regular Expressions",
+        "endpoint":  "https://roadmap.sh/python/topic@7t6mJBsaFMWPi7o9fbhhq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Regular Expressions in Python",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/re.html"
+                          },
+                          {
+                              "title":  "Python Regular Expressions",
+                              "type":  "article",
+                              "url":  "https://developers.google.com/edu/python/regular-expressions"
+                          },
+                          {
+                              "title":  "Python - Regular Expressions",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/python/python_reg_expressions.htm"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P_Di-XPSDITmU3xKQew8G",
+        "label":  "Object Oriented Programming",
+        "endpoint":  "https://roadmap.sh/python/topic@P_Di-XPSDITmU3xKQew8G.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Object Oriented Programming in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python3-object-oriented-programming/"
+                          },
+                          {
+                              "title":  "Encapsulation in Python: All You Need to Know",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/encapsulation"
+                          },
+                          {
+                              "title":  "Object Oriented Programming (OOP) In Python - Beginner Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-pEs-Bss8Wc/"
+                          },
+                          {
+                              "title":  "Python OOP Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IbMDCwVm63M"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AqwzR8dZKLQIoj_6KKZ3t",
+        "label":  "Classes",
+        "endpoint":  "https://roadmap.sh/python/topic@AqwzR8dZKLQIoj_6KKZ3t.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Classes in Python",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/classes.html"
+                          },
+                          {
+                              "title":  "Encapsulation in Python: All You Need to Know",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/encapsulation"
+                          },
+                          {
+                              "title":  "Python super() and init: Multiple Inheritance Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/super-init"
+                          },
+                          {
+                              "title":  "Python OOP Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZDa-Z5JzLYM\u0026list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "S0FLE70szSVUPI0CDEQK7",
+        "label":  "Inheritance",
+        "endpoint":  "https://roadmap.sh/python/topic@S0FLE70szSVUPI0CDEQK7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Official Documentation on Inheritance",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/classes.html#inheritance"
+                          },
+                          {
+                              "title":  "Python super() and init: Multiple Inheritance Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/super-init"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zAS4YiEJ6VPsyABrkIG8i",
+        "label":  "Methods",
+        "endpoint":  "https://roadmap.sh/python/topic@zAS4YiEJ6VPsyABrkIG8i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Method vs Function in Python",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/difference-between-method-and-function-in-python"
+                          },
+                          {
+                              "title":  "Python - Magic or Dunder Methods",
+                              "type":  "article",
+                              "url":  "https://www.tutorialsteacher.com/python/magic-methods-in-python"
+                          },
+                          {
+                              "title":  "Python super() and init: Multiple Inheritance Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/super-init"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qeCMw-sJ2FR4UxvU9DDzv",
+        "label":  "Package Managers",
+        "endpoint":  "https://roadmap.sh/python/topic@qeCMw-sJ2FR4UxvU9DDzv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "pypa/pipx",
+                              "type":  "opensource",
+                              "url":  "https://github.com/pypa/pipx"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1dfOTOGsOk5XE3bnZs8Ht",
+        "label":  "PyPI",
+        "endpoint":  "https://roadmap.sh/python/topic@1dfOTOGsOk5XE3bnZs8Ht.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PyPI Website",
+                              "type":  "official",
+                              "url":  "https://pypi.org/"
+                          },
+                          {
+                              "title":  "How to Publish an Open-Source Python Package to PyPI",
+                              "type":  "article",
+                              "url":  "https://realpython.com/pypi-publish-python-package/"
+                          },
+                          {
+                              "title":  "Getting Started with Pip and PyPI in Python",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bPSfNKvhooA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iVhQnp6hpgVZDNJ0XoVra",
+        "label":  "Pip",
+        "endpoint":  "https://roadmap.sh/python/topic@iVhQnp6hpgVZDNJ0XoVra.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "pip Documentation",
+                              "type":  "official",
+                              "url":  "https://pip.pypa.io/en/stable/installation/"
+                          },
+                          {
+                              "title":  "Using Pythons pip to Manage Your Projects Dependencies",
+                              "type":  "article",
+                              "url":  "https://realpython.com/what-is-pip/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uh67D1u-Iv5cZamRgFEJg",
+        "label":  "Conda",
+        "endpoint":  "https://roadmap.sh/python/topic@uh67D1u-Iv5cZamRgFEJg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Conda Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.conda.io/en/latest/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uXd2B01GVBEQNXQE8RATT",
+        "label":  "Poetry",
+        "endpoint":  "https://roadmap.sh/python/topic@uXd2B01GVBEQNXQE8RATT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Poetry Docs",
+                              "type":  "official",
+                              "url":  "https://python-poetry.org/docs/"
+                          },
+                          {
+                              "title":  "Python Poetry - Basics",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Ji2XDxmXSOM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4gtmtYWYRWqwLdZRL0XMg",
+        "label":  "List Comprehensions",
+        "endpoint":  "https://roadmap.sh/python/topic@4gtmtYWYRWqwLdZRL0XMg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python List Comprehensions",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions"
+                          },
+                          {
+                              "title":  "Python List Comprehensions Quiz",
+                              "type":  "article",
+                              "url":  "https://realpython.com/quizzes/list-comprehension-python/"
+                          },
+                          {
+                              "title":  "Master Python Filter: Syntax, Examples, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/filter"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jnLIVRrWxcX3yq3Op91Vr",
+        "label":  "Generator Expressions",
+        "endpoint":  "https://roadmap.sh/python/topic@jnLIVRrWxcX3yq3Op91Vr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Official Documentation on Generator Expressions",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/classes.html#generator-expressions"
+                          },
+                          {
+                              "title":  "Python Generator Expressions",
+                              "type":  "article",
+                              "url":  "https://www.pythontutorial.net/advanced-python/python-generator-expressions/"
+                          },
+                          {
+                              "title":  "List Comprehensions in Python and Generator Expressions",
+                              "type":  "article",
+                              "url":  "https://djangostars.com/blog/list-comprehensions-and-generator-expressions/"
+                          },
+                          {
+                              "title":  "Master Python Filter: Syntax, Examples, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/filter"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4GU5HNi3W8yFkImVY9ZpW",
+        "label":  "Paradigms",
+        "endpoint":  "https://roadmap.sh/python/topic@4GU5HNi3W8yFkImVY9ZpW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Paradigms",
+                              "type":  "article",
+                              "url":  "https://opensource.com/article/19/10/python-programming-paradigms"
+                          },
+                          {
+                              "title":  "Learn Functional Programming - Python Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5QZYGU0C2OA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KAXF2kUAOvtBZhY8G9rkI",
+        "label":  "Context Manager",
+        "endpoint":  "https://roadmap.sh/python/topic@KAXF2kUAOvtBZhY8G9rkI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Context Libraries",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/contextlib.html"
+                          },
+                          {
+                              "title":  "Context Managers in Python",
+                              "type":  "article",
+                              "url":  "https://www.freecodecamp.org/news/context-managers-in-python/"
+                          },
+                          {
+                              "title":  "Context Managers",
+                              "type":  "article",
+                              "url":  "https://book.pythontips.com/en/latest/context_managers.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0-ShORjGnQlAdcwjtxdEB",
+        "label":  "Learn a Framework",
+        "endpoint":  "https://roadmap.sh/python/topic@0-ShORjGnQlAdcwjtxdEB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pyscript: A Browser-Based Python Framework",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/pyscript-a-browser-based-python-framework/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DHtskqATeAVKgaazdhXKD",
+        "label":  "Pyramid",
+        "endpoint":  "https://roadmap.sh/python/topic@DHtskqATeAVKgaazdhXKD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pyramid Website",
+                              "type":  "official",
+                              "url":  "https://trypyramid.com/"
+                          },
+                          {
+                              "title":  "Pyramid Documentation",
+                              "type":  "official",
+                              "url":  "https://trypyramid.com/documentation.html"
+                          },
+                          {
+                              "title":  "Pyramid Framework Introduction",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_pyramid_framework.htm"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7zcpXN3krnS3tMRWVNIVe",
+        "label":  "Plotly Dash",
+        "endpoint":  "https://roadmap.sh/python/topic@7zcpXN3krnS3tMRWVNIVe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Plotly Dash Documentation",
+                              "type":  "official",
+                              "url":  "https://dash.plotly.com/"
+                          },
+                          {
+                              "title":  "20 Minutes Tutorial",
+                              "type":  "official",
+                              "url":  "http://dash.plotly.com/tutorial"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "InUJIGmTnf0X4cSoLuCEQ",
+        "label":  "gevent",
+        "endpoint":  "https://roadmap.sh/python/topic@InUJIGmTnf0X4cSoLuCEQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "gevent Website",
+                              "type":  "official",
+                              "url":  "http://www.gevent.org/"
+                          },
+                          {
+                              "title":  "gevent/gevent",
+                              "type":  "opensource",
+                              "url":  "https://github.com/gevent/gevent"
+                          },
+                          {
+                              "title":  "gevent For the Working Python Developer",
+                              "type":  "article",
+                              "url":  "https://sdiehl.github.io/gevent-tutorial/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IBVAvFtN4mnIPbIuyUvEb",
+        "label":  "aiohttp",
+        "endpoint":  "https://roadmap.sh/python/topic@IBVAvFtN4mnIPbIuyUvEb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "aiohttp docs",
+                              "type":  "official",
+                              "url":  "https://docs.aiohttp.org/en/stable/"
+                          },
+                          {
+                              "title":  "Creating a RESTful API with Python and aiohttp",
+                              "type":  "article",
+                              "url":  "https://tutorialedge.net/python/create-rest-api-python-aiohttp/"
+                          },
+                          {
+                              "title":  "Python Asyncio, Requests, Aiohttp | Make faster API Calls",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nFn4_nA_yk8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zey2C6BdzsHJAlb_K3qrP",
+        "label":  "Tornado",
+        "endpoint":  "https://roadmap.sh/python/topic@zey2C6BdzsHJAlb_K3qrP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tornado Website",
+                              "type":  "official",
+                              "url":  "https://www.tornadoweb.org/"
+                          },
+                          {
+                              "title":  "A Step-by-Step Tutorial on Python Tornado",
+                              "type":  "article",
+                              "url":  "https://phrase.com/blog/posts/tornado-web-framework-i18n/"
+                          },
+                          {
+                              "title":  "Tornado Python Framework",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-gJ21qzpieA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9RGpqsj9jHz0_-r7EvRcw",
+        "label":  "Sanic",
+        "endpoint":  "https://roadmap.sh/python/topic@9RGpqsj9jHz0_-r7EvRcw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sanic Official Website",
+                              "type":  "official",
+                              "url":  "https://sanic.dev/en/"
+                          },
+                          {
+                              "title":  "Sanic User Guide – Getting Started",
+                              "type":  "official",
+                              "url":  "https://sanic.dev/en/guide/getting-started.html"
+                          },
+                          {
+                              "title":  "Sanic on GitHub",
+                              "type":  "opensource",
+                              "url":  "https://github.com/sanic-org/sanic"
+                          },
+                          {
+                              "title":  "Sanic Python Framework Tutorial (Tech With Tim)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=w4UQkgxKuaI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XeQSmvAsGSTi8dd7QVHxn",
+        "label":  "Fast API",
+        "endpoint":  "https://roadmap.sh/python/topic@XeQSmvAsGSTi8dd7QVHxn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "FastAPI Documentation",
+                              "type":  "official",
+                              "url":  "https://fastapi.tiangolo.com/"
+                          },
+                          {
+                              "title":  "Create an API with Fast-API (Full 19 Hour Course)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0sOvCWFmrtA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "x1V8GjdjANTnhP6YXMbgC",
+        "label":  "Django",
+        "endpoint":  "https://roadmap.sh/python/topic@x1V8GjdjANTnhP6YXMbgC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Django Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/django"
+                          },
+                          {
+                              "title":  "Getting Started",
+                              "type":  "official",
+                              "url":  "https://www.djangoproject.com/start/"
+                          },
+                          {
+                              "title":  "Is Django Synchronous or Asynchronous?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/58548089/django-is-synchronous-or-asynchronous"
+                          },
+                          {
+                              "title":  "Python Django Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rHux0gMZ3Eg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HKsGyRzntjh1UbRZSWh_4",
+        "label":  "Flask",
+        "endpoint":  "https://roadmap.sh/python/topic@HKsGyRzntjh1UbRZSWh_4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Flask Website",
+                              "type":  "official",
+                              "url":  "https://flask.palletsprojects.com/"
+                          },
+                          {
+                              "title":  "Flask Tutorial",
+                              "type":  "official",
+                              "url":  "https://flask.palletsprojects.com/en/3.0.x/tutorial/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "u4nRzWQ4zhDFMOrZ2I_uJ",
+        "label":  "Concurrency",
+        "endpoint":  "https://roadmap.sh/python/topic@u4nRzWQ4zhDFMOrZ2I_uJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Concurrent Execution",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/concurrency.html"
+                          },
+                          {
+                              "title":  "Python Concurrency",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-concurrency/"
+                          },
+                          {
+                              "title":  "Python Multithreading: The Most Practical Intro",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/multithreading"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bS7WeVKm2kEElu3sBKcIC",
+        "label":  "GIL",
+        "endpoint":  "https://roadmap.sh/python/topic@bS7WeVKm2kEElu3sBKcIC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is GIL?",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-gil/"
+                          },
+                          {
+                              "title":  "Python Multithreading: The Most Practical Intro",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/multithreading"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UIx0XYaOgXXlYbbQtjiPq",
+        "label":  "Threading",
+        "endpoint":  "https://roadmap.sh/python/topic@UIx0XYaOgXXlYbbQtjiPq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Threading Library",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/threading.html"
+                          },
+                          {
+                              "title":  "Python Multithreading: The Most Practical Intro",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/multithreading"
+                          },
+                          {
+                              "title":  "Introduction to Threading in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/intro-to-python-threading/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "Multithreading",
+                                "type":  "inline",
+                                "url":  "https://roadmap.sh/python/multithreading"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HSY5OUc_M5S6OcFXPRtkx",
+        "label":  "Multiprocessing",
+        "endpoint":  "https://roadmap.sh/python/topic@HSY5OUc_M5S6OcFXPRtkx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/multiprocessing.html"
+                          },
+                          {
+                              "title":  "Python Multithreading: The Most Practical Intro",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/multithreading"
+                          },
+                          {
+                              "title":  "Multiprocessing in Python with Example",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/python-multiprocessing-example"
+                          },
+                          {
+                              "title":  "Multiprocessing in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-multiprocessing/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Mow7RvropbC4ZGDpcGZmw",
+        "label":  "Asynchrony",
+        "endpoint":  "https://roadmap.sh/python/topic@Mow7RvropbC4ZGDpcGZmw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python AsyncIO library",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/asyncio.html"
+                          },
+                          {
+                              "title":  "Async IO in Python: A Complete Walkthrough",
+                              "type":  "article",
+                              "url":  "https://realpython.com/async-io-python/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "p3Frfs6oxpuciUzeCEsvb",
+        "label":  "uv",
+        "endpoint":  "https://roadmap.sh/python/topic@p3Frfs6oxpuciUzeCEsvb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "astral-sh/uv",
+                              "type":  "opensource",
+                              "url":  "https://github.com/astral-sh/uv"
+                          },
+                          {
+                              "title":  "@UV for Python",
+                              "type":  "article",
+                              "url":  "https://www.youtube.com/watch?v=qh98qOND6MI\u0026t"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GHKAY9gOykEbxkEeR30wL",
+        "label":  "pyproject.toml",
+        "endpoint":  "https://roadmap.sh/python/topic@GHKAY9gOykEbxkEeR30wL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Writing pyproject.toml files",
+                              "type":  "official",
+                              "url":  "https://packaging.python.org/en/latest/guides/writing-pyproject-toml/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IWq-tfkz-pSC1ztZl60vM",
+        "label":  "Pipenv",
+        "endpoint":  "https://roadmap.sh/python/topic@IWq-tfkz-pSC1ztZl60vM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pipenv Documentation",
+                              "type":  "official",
+                              "url":  "https://pipenv.pypa.io/en/latest/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "setup.py",
+                                "type":  "inline",
+                                "url":  "https://docs.python.org/3.11/distutils/setupscript.html"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_IXXTSwQOgYzYIUuKVWNE",
+        "label":  "virtualenv",
+        "endpoint":  "https://roadmap.sh/python/topic@_IXXTSwQOgYzYIUuKVWNE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Virtual Environments",
+                              "type":  "official",
+                              "url":  "https://virtualenv.pypa.io/en/latest/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N5VaKMbgQ0V_BC5tadV65",
+        "label":  "pyenv",
+        "endpoint":  "https://roadmap.sh/python/topic@N5VaKMbgQ0V_BC5tadV65.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "pyenv/pyenv",
+                              "type":  "opensource",
+                              "url":  "https://github.com/pyenv/pyenv"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1PXApuUpPmJjgi12cmWo4",
+        "label":  "Static Typing",
+        "endpoint":  "https://roadmap.sh/python/topic@1PXApuUpPmJjgi12cmWo4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Static Typing in Python",
+                              "type":  "official",
+                              "url":  "https://typing.readthedocs.io/en/latest/index.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W3VALz5evFo1qqkQbMN1R",
+        "label":  "Pydantic",
+        "endpoint":  "https://roadmap.sh/python/topic@W3VALz5evFo1qqkQbMN1R.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pydantic Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.pydantic.dev/latest/"
+                          },
+                          {
+                              "title":  "Pydantic: Simplifying Data Validation in Python – Real Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-pydantic/"
+                          },
+                          {
+                              "title":  "How to Set Environment Variables in Python (Step-by-Step)",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/set-environment-variable"
+                          },
+                          {
+                              "title":  "Pydantic Tutorial – Complete Python Data Validation (ArjanCodes)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XIdQ6gO3Anc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gIcJ3bUVQXqO1Wx4gUKd5",
+        "label":  "mypy",
+        "endpoint":  "https://roadmap.sh/python/topic@gIcJ3bUVQXqO1Wx4gUKd5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "mypy documentation",
+                              "type":  "official",
+                              "url":  "https://mypy-lang.org/"
+                          },
+                          {
+                              "title":  "python/mypy",
+                              "type":  "opensource",
+                              "url":  "https://github.com/python/mypy"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1q9HWgu9jDTK757hTNOmE",
+        "label":  "pyright",
+        "endpoint":  "https://roadmap.sh/python/topic@1q9HWgu9jDTK757hTNOmE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pyright Documentation",
+                              "type":  "official",
+                              "url":  "https://microsoft.github.io/pyright/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9mFR_ueXbIB2IrkqU2s85",
+        "label":  "pyre",
+        "endpoint":  "https://roadmap.sh/python/topic@9mFR_ueXbIB2IrkqU2s85.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "pyrefly Documentation",
+                              "type":  "official",
+                              "url":  "https://pyrefly.org"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0F0ppU_ClIUKZ23Q6BVZp",
+        "label":  "Code Formatting",
+        "endpoint":  "https://roadmap.sh/python/topic@0F0ppU_ClIUKZ23Q6BVZp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pylint for Python",
+                              "type":  "official",
+                              "url":  "https://www.pylint.org/"
+                          },
+                          {
+                              "title":  "Black Documentation",
+                              "type":  "official",
+                              "url":  "https://black.readthedocs.io/en/stable/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6cB0pvUO1-gvCtgqozP-Q",
+        "label":  "ruff",
+        "endpoint":  "https://roadmap.sh/python/topic@6cB0pvUO1-gvCtgqozP-Q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ruff documentation",
+                              "type":  "official",
+                              "url":  "https://docs.astral.sh/ruff/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DS6nuAUhUYcqiJDmQisKM",
+        "label":  "black",
+        "endpoint":  "https://roadmap.sh/python/topic@DS6nuAUhUYcqiJDmQisKM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started with Black",
+                              "type":  "official",
+                              "url":  "https://black.readthedocs.io/en/stable/getting_started.html"
+                          },
+                          {
+                              "title":  "Black Documentation",
+                              "type":  "official",
+                              "url":  "https://black.readthedocs.io/en/stable/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tsh_vbhzKz1-H9Vh69tsK",
+        "label":  "yapf",
+        "endpoint":  "https://roadmap.sh/python/topic@tsh_vbhzKz1-H9Vh69tsK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "google/yapf",
+                              "type":  "opensource",
+                              "url":  "https://github.com/google/yapf"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "maYNuTKYyZndxk1z29-UY",
+        "label":  "Sphinx",
+        "endpoint":  "https://roadmap.sh/python/topic@maYNuTKYyZndxk1z29-UY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sphinx Website",
+                              "type":  "official",
+                              "url":  "https://www.sphinx-doc.org/en/master/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_94NrQ3quc4t_PPOsFSN0",
+        "label":  "Common Packages",
+        "endpoint":  "https://roadmap.sh/python/topic@_94NrQ3quc4t_PPOsFSN0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "requests",
+                              "type":  "official",
+                              "url":  "https://docs.python-requests.org/en/latest/"
+                          },
+                          {
+                              "title":  "pathlib",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/pathlib.html"
+                          },
+                          {
+                              "title":  "asyncio",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/asyncio.html"
+                          },
+                          {
+                              "title":  "dataclasses",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/dataclasses.html"
+                          },
+                          {
+                              "title":  "python-dotenv",
+                              "type":  "official",
+                              "url":  "https://pypi.org/project/python-dotenv/"
+                          },
+                          {
+                              "title":  "numpy",
+                              "type":  "official",
+                              "url":  "https://numpy.org/doc/stable/"
+                          },
+                          {
+                              "title":  "pandas",
+                              "type":  "official",
+                              "url":  "https://pandas.pydata.org/docs/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WQOYjuwKIWB2meea4JnsV",
+        "label":  "Testing",
+        "endpoint":  "https://roadmap.sh/python/topic@WQOYjuwKIWB2meea4JnsV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Unit Testing in Python",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/unittest.html"
+                          },
+                          {
+                              "title":  "Python Testing Tutorial",
+                              "type":  "article",
+                              "url":  "https://realpython.com/python-testing/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aVclygxoA9ePU5IxaORSH",
+        "label":  "doctest",
+        "endpoint":  "https://roadmap.sh/python/topic@aVclygxoA9ePU5IxaORSH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Doctest Module",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/doctest.html"
+                          },
+                          {
+                              "title":  "How To Write Doctests in Python",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3FDwJpesfelEyJrNWtm0V",
+        "label":  "pytest",
+        "endpoint":  "https://roadmap.sh/python/topic@3FDwJpesfelEyJrNWtm0V.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pytest Docs",
+                              "type":  "official",
+                              "url":  "https://docs.pytest.org/"
+                          },
+                          {
+                              "title":  "Pytest Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/pytest/index.htm"
+                          },
+                          {
+                              "title":  "Effective Python Testing With Pytest",
+                              "type":  "article",
+                              "url":  "https://realpython.com/pytest-python-testing/"
+                          },
+                          {
+                              "title":  "Pytest Tutorial – How to Test Python Code",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cHYq1MRoyI0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b4he_RO17C3ScNeUd6v2b",
+        "label":  "unittest / pyUnit",
+        "endpoint":  "https://roadmap.sh/python/topic@b4he_RO17C3ScNeUd6v2b.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How To Use unittest to Write a Test Case for a Function in Python",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python"
+                          },
+                          {
+                              "title":  "A Gentle Introduction to Unit Testing in Python",
+                              "type":  "article",
+                              "url":  "https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "docs.python.org",
+                                "type":  "inline",
+                                "url":  "http://docs.python.org"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o1wi39VnjnFfWIC8XcuAK",
+        "label":  "typing",
+        "endpoint":  "https://roadmap.sh/python/topic@o1wi39VnjnFfWIC8XcuAK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Typing Module",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/typing.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jPFOiwbqfaGshaGDBWb5x",
+        "label":  "tox",
+        "endpoint":  "https://roadmap.sh/python/topic@jPFOiwbqfaGshaGDBWb5x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tox Documentation",
+                              "type":  "official",
+                              "url":  "https://tox.wiki/en/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Sg5w8zO2Ji-uDJKEoWey9",
+        "label":  "Working with Strings",
+        "endpoint":  "https://roadmap.sh/python/topic@Sg5w8zO2Ji-uDJKEoWey9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "string — Common string operations",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/library/string.html"
+                          },
+                          {
+                              "title":  "Python Print New Line: Methods, Examples, and Best Practices",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/print-new-line"
+                          },
+                          {
+                              "title":  "Python Multiline Strings: The Complete Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/multiline-strings"
+                          },
+                          {
+                              "title":  "String methods in Python are easy 〰️",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tb6EYiHtcXU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Nf3kRDSl_vas6QPXG7eVa",
+        "label":  "File Handling",
+        "endpoint":  "https://roadmap.sh/python/topic@Nf3kRDSl_vas6QPXG7eVa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python File open",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/python/python_file_handling.asp"
+                          },
+                          {
+                              "title":  "Working With Files in Python",
+                              "type":  "article",
+                              "url":  "https://realpython.com/working-with-files-in-python/"
+                          },
+                          {
+                              "title":  "Python glob Module: File Pattern Matching Explained",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/glob"
+                          },
+                          {
+                              "title":  "Python File Handling for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BRrem1k3904"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xDgXISgVUMRHh9hu4h6Hl",
+        "label":  "pdm",
+        "endpoint":  "https://roadmap.sh/python/topic@xDgXISgVUMRHh9hu4h6Hl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "pdm",
+                              "type":  "official",
+                              "url":  "https://pdm-project.org/en/latest/"
+                          },
+                          {
+                              "title":  "pdm",
+                              "type":  "opensource",
+                              "url":  "https://github.com/pdm-project/pdm"
+                          },
+                          {
+                              "title":  "Introduction to PDM: A Python Project and Dependency Manager",
+                              "type":  "article",
+                              "url":  "https://betterstack.com/community/guides/scaling-python/pdm-explained/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3dC2o3WXdx4plFhDP2Vqk",
+        "label":  "Encapsulation",
+        "endpoint":  "https://roadmap.sh/python/topic@3dC2o3WXdx4plFhDP2Vqk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Encapsulation in Python: All You Need to Know",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/encapsulation"
+                          },
+                          {
+                              "title":  "Encapsulation",
+                              "type":  "article",
+                              "url":  "https://programming-25.mooc.fi/part-9/3-encapsulation"
+                          },
+                          {
+                              "title":  "Encapsulation - Advanced Python Tutorial #5",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dzmYoSzL8ok"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3RNy7Sp28d-NMx0Yh4bdx",
+        "label":  "Variable Scope",
+        "endpoint":  "https://roadmap.sh/python/topic@3RNy7Sp28d-NMx0Yh4bdx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Nonlocal Keyword Explained by Our Experts",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/nonlocal"
+                          },
+                          {
+                              "title":  "Python Scope",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/python/python_scope.asp"
+                          },
+                          {
+                              "title":  "Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QVdf0LgmICw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bqnwMKY4R0rirup3q_hb_",
+        "label":  "glob",
+        "endpoint":  "https://roadmap.sh/python/topic@bqnwMKY4R0rirup3q_hb_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python glob Module: File Pattern Matching Explained",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/glob"
+                          },
+                          {
+                              "title":  "glob",
+                              "type":  "article",
+                              "url":  "https://realpython.com/ref/stdlib/glob/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "so95CO6Qw3I0S98ISENS-",
+        "label":  "Operators",
+        "endpoint":  "https://roadmap.sh/python/topic@so95CO6Qw3I0S98ISENS-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Operators",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/python/python_operators.asp"
+                          },
+                          {
+                              "title":  "Python Division: Operators, Floor Division, and Examples",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/division"
+                          },
+                          {
+                              "title":  "Python Modulo Operator (%): Complete Guide with Examples",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/modulo"
+                          },
+                          {
+                              "title":  "Python not Operator: The Complete Guide to Logical Negation",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/not-operator"
+                          },
+                          {
+                              "title":  "The or Operator in Python: Complete Guide with Examples",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/or"
+                          },
+                          {
+                              "title":  "Python Exponent: 5 Methods for Exponentiation + Applications",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/exponent"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "__ndo1gcuUUtzmBnMIAbR",
+        "label":  "Comments",
+        "endpoint":  "https://roadmap.sh/python/topic@__ndo1gcuUUtzmBnMIAbR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docstring Conventions",
+                              "type":  "official",
+                              "url":  "https://peps.python.org/pep-0257/"
+                          },
+                          {
+                              "title":  "Python Comments",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/python/python_comments.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "syV0DT_3ITgIFDbwPts8i",
+        "label":  "Type Annot.",
+        "endpoint":  "https://roadmap.sh/python/topic@syV0DT_3ITgIFDbwPts8i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Annotations",
+                              "type":  "official",
+                              "url":  "https://typing.python.org/en/latest/spec/annotations.html"
+                          },
+                          {
+                              "title":  "Understanding type annotation in Python",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/understanding-type-annotation-python/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/L0YnzL"
+                              },
+                              {
+                                  "title":  "DataCamp - Python Developer",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/vDW623"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tbR_h9NpZ5tBTYuCfwkcY",
+        "label":  "@",
+        "endpoint":  "https://roadmap.sh/python/topic@tbR_h9NpZ5tBTYuCfwkcY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "A dedicated infix operator for matrix multiplication",
+                              "type":  "official",
+                              "url":  "https://peps.python.org/pep-0465/"
+                          },
+                          {
+                              "title":  "Matrix Multiplication in Python: The Complete Decision Guide",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python-data-analysis/matrix-multiplication"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4XqSkc3Tuub-ZVXvGfMIT",
+        "label":  "Error Handling",
+        "endpoint":  "https://roadmap.sh/python/topic@4XqSkc3Tuub-ZVXvGfMIT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Errors and Exceptions",
+                              "type":  "official",
+                              "url":  "https://docs.python.org/3/tutorial/errors.html"
+                          },
+                          {
+                              "title":  "Python KeyError Exceptions: Causes and Fixes Explained",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/keyerror"
+                          },
+                          {
+                              "title":  "The Ultimate Guide to Error Handling in Python",
+                              "type":  "article",
+                              "url":  "https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python"
+                          },
+                          {
+                              "title":  "Learn Python EXCEPTION HANDLING in 5 minutes! 🚦",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=V_NXT2-QIlE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

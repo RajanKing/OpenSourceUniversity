@@ -1,0 +1,2358 @@
+{
+    "slug":  "javascript",
+    "source":  "https://roadmap.sh/javascript",
+    "title":  "JavaScript Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-04-06T09:20:34.848Z",
+    "nodes":  [
+                  {
+                      "id":  "RT5Y79D2bHy6PsH_R3ErB",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  285.5025092677304,
+                                       "y":  1826.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Vw9QlH1HRpkhY0MB_qYSl",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  162.55738234743455,
+                                       "y":  1725.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7_PNaE81zDfU_rrERJaut",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -174.30802068213768,
+                                       "y":  1798.7725047650335
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nIKq5h-D4CH0rTuyvIYrj",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -174.30802068213768,
+                                       "y":  1940.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vbQvUkXTW5X7Msi5h5bfU",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -110.62763977050781,
+                                       "y":  1940.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k92omG8sirMkkG21L2lIG",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -41.62763977050781,
+                                       "y":  1940.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0njVxhIA2YIJ9qKyVxjf8",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  86.55738234743455,
+                                       "y":  1303.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WVB_JzBBd0IBLQeOmLA8l",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  202.26672552017453,
+                                       "y":  1303.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-F3iMNrT9JSZDZLQGwebH",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -174.30802068213768,
+                                       "y":  1206.7725047650335
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H7egAB_mCOFfyVvVfE7Sq",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  470.5448461352869,
+                                       "y":  1103.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TN-WaRT4V6szTvQtqbw7U",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  354.0025092677304,
+                                       "y":  1103.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UhkFfLGkLhOZy7f98T7fi",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  173.17209364499,
+                                       "y":  1041.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "efeOuXHkhR2UBWM2Uz1Ih",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  315.93263762370384,
+                                       "y":  949.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DyhRrYJ78u0ZoxzC-4bF-",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  173.17209364499,
+                                       "y":  950.1019998033482
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JM16NHhFVOwwbwqCubmYw",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -212.7816601458129,
+                                       "y":  885.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iZjl6qe9LGLFqXyopMUFX",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -521.828125,
+                                       "y":  765.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H3WkCOmbGQhvqjbdp5lkI",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  265.5025092677304,
+                                       "y":  474.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NblxOcAnB1id7c9z6d6jL",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  25.766725520174532,
+                                       "y":  345.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SSqBPOJROQpX5poMFSJtJ",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -521.2332744798255,
+                                       "y":  286.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HQhfzCPLg18t6pGMaL0hv",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  272.0025092677304,
+                                       "y":  209.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o-91XV8kk0_35-alDkXtP",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  356.0025092677304,
+                                       "y":  222.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_kaSKWCyvpshv9dtT4kKM",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  438.0025092677304,
+                                       "y":  222.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WRMo2Zwtiar8b-40FntG6",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  345.5025092677304,
+                                       "y":  -10.269570629170403
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bV3JIUCFixDt8-D7HDfxc",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  433.0025092677304,
+                                       "y":  0.23042937082959725
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "13pndno5JSKQQaRHPTWdC",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  272.0025092677304,
+                                       "y":  -10.269570629170403
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iogwMmOvub2ZF4zgg6WyF",
+                      "type":  "title",
+                      "label":  "JavaScript",
+                      "position":  {
+                                       "x":  -91.45968546864998,
+                                       "y":  -155.26957062917046
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LEijbLyxg4RyutKEM2Y5g",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -15.45968546864998,
+                                       "y":  -230.76957062917046
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xwpc_KxehAruFM0pCQnie",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -145.62877362673999,
+                                       "y":  2526.9010423312407
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GV_zWF6rSWg5bqgiXhOEf",
+                      "type":  "paragraph",
+                      "label":  "Have a look at the following related roadmaps",
+                      "position":  {
+                                       "x":  -349.9596854686499,
+                                       "y":  2436.385077050813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZSrQoNGKiR484uALMWO9F",
+                      "type":  "button",
+                      "label":  "TypeScript",
+                      "position":  {
+                                       "x":  -124.2816601458129,
+                                       "y":  2495.0743589624644
+                                   },
+                      "href":  "https://roadmap.sh/typescript",
+                      "links":  null
+                  },
+                  {
+                      "id":  "P5IZjP0g1_fnvHy3YTR4q",
+                      "type":  "button",
+                      "label":  "Frontend",
+                      "position":  {
+                                       "x":  -338.2816601458129,
+                                       "y":  2495.0743589624644
+                                   },
+                      "href":  "https://roadmap.sh/frontend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "YD5y17K5nqmWaBwYcufZO",
+                      "type":  "legend",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -522.3080206821377,
+                                       "y":  -232.76957062917046
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6khAD6mzZ9S96JJuC5_j6",
+                      "type":  "topic",
+                      "label":  "Introduction to JavaScript",
+                      "position":  {
+                                       "x":  -126.95968546864998,
+                                       "y":  75.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UBB-8hUcwo4Mfd0cmEcdA",
+                      "type":  "subtopic",
+                      "label":  "What is JavaScript",
+                      "position":  {
+                                       "x":  -465.4974907322696,
+                                       "y":  4.230429370829597
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l-GKzcsBNA0r6Jax8hwnP",
+                      "type":  "subtopic",
+                      "label":  "History of JavaScript",
+                      "position":  {
+                                       "x":  -465.4974907322696,
+                                       "y":  57.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SFPsWnVpZBAw3_re7op4h",
+                      "type":  "subtopic",
+                      "label":  "JavaScript Versions",
+                      "position":  {
+                                       "x":  -465.4974907322696,
+                                       "y":  110.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uXsWIUUxtc4H_iRx3uZv0",
+                      "type":  "subtopic",
+                      "label":  "How to run JavaScript",
+                      "position":  {
+                                       "x":  -465.4974907322696,
+                                       "y":  163.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BqbAWt--Guqex-rrb4ZUv",
+                      "type":  "subtopic",
+                      "label":  "Variable Declarations",
+                      "position":  {
+                                       "x":  245.50250926773037,
+                                       "y":  43.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Lb5jLF91WO5V5CWpifciW",
+                      "type":  "subtopic",
+                      "label":  "Hoisting",
+                      "position":  {
+                                       "x":  245.50250926773037,
+                                       "y":  96.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HfieG3v3wnmpZDfNwEJvZ",
+                      "type":  "subtopic",
+                      "label":  "Variable Naming Rules",
+                      "position":  {
+                                       "x":  245.50250926773037,
+                                       "y":  149.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7iMJuaB7yKlSIbT4dBe5L",
+                      "type":  "subtopic",
+                      "label":  "Variable Scopes",
+                      "position":  {
+                                       "x":  245.50250926773037,
+                                       "y":  202.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JSjeM8qnBg4onXq9mn5gB",
+                      "type":  "subtopic",
+                      "label":  "var",
+                      "position":  {
+                                       "x":  242.50250926773037,
+                                       "y":  -28.769570629170403
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kDRa9G3pMp0Cb0mqYUawM",
+                      "type":  "subtopic",
+                      "label":  "let",
+                      "position":  {
+                                       "x":  323.5025092677304,
+                                       "y":  -28.769570629170403
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q85z6x1Lc-yLWepwtIT2_",
+                      "type":  "subtopic",
+                      "label":  "const",
+                      "position":  {
+                                       "x":  399.5025092677304,
+                                       "y":  -28.769570629170403
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uqEzHYx13Y2EpvTTRzykn",
+                      "type":  "subtopic",
+                      "label":  "Block",
+                      "position":  {
+                                       "x":  245.00250926773037,
+                                       "y":  267.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YMT7O6lrMSMtNo0EnmsnQ",
+                      "type":  "subtopic",
+                      "label":  "Function",
+                      "position":  {
+                                       "x":  319.0025092677304,
+                                       "y":  267.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oC4o6GLEES_nUgCJu9Q6I",
+                      "type":  "subtopic",
+                      "label":  "Global",
+                      "position":  {
+                                       "x":  413.0025092677304,
+                                       "y":  267.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kvActjpU4FUJdrmuFoFEe",
+                      "type":  "topic",
+                      "label":  "All about Variables",
+                      "position":  {
+                                       "x":  -126.95968546864998,
+                                       "y":  129.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-jbPPuEXacBR0d0CWPHgd",
+                      "type":  "topic",
+                      "label":  "Data Types",
+                      "position":  {
+                                       "x":  -214.62877362673987,
+                                       "y":  400.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1RcwBHU3jzx0YxxUGZic4",
+                      "type":  "subtopic",
+                      "label":  "string",
+                      "position":  {
+                                       "x":  -511.23327447982547,
+                                       "y":  303.23042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZLs0NKM0lrnOy5ATDhlk0",
+                      "type":  "subtopic",
+                      "label":  "undefined",
+                      "position":  {
+                                       "x":  -407.4974907322696,
+                                       "y":  303.23042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GZ_SXsWmP7AsXRTc4WUMw",
+                      "type":  "subtopic",
+                      "label":  "number",
+                      "position":  {
+                                       "x":  -511.23327447982547,
+                                       "y":  356.23042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6lUF0neW1piiP1RsaVxEX",
+                      "type":  "subtopic",
+                      "label":  "bigint",
+                      "position":  {
+                                       "x":  -407.4974907322696,
+                                       "y":  356.23042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "b1HvkoWA2t4kt8mS6FySm",
+                      "type":  "subtopic",
+                      "label":  "boolean",
+                      "position":  {
+                                       "x":  -511.23327447982547,
+                                       "y":  409.23042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CxyNyFMuTLS3owtRMgClD",
+                      "type":  "subtopic",
+                      "label":  "null",
+                      "position":  {
+                                       "x":  -407.4974907322696,
+                                       "y":  409.23042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R6ICrk6vjoBxx5nRGo4Jg",
+                      "type":  "subtopic",
+                      "label":  "Symbol",
+                      "position":  {
+                                       "x":  -511.23327447982547,
+                                       "y":  462.23042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AsJveV8cD6YH1VF156K4t",
+                      "type":  "label",
+                      "label":  "Primitive Types",
+                      "position":  {
+                                       "x":  -474.23327447982547,
+                                       "y":  521.7304293708296
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xe8HZ8Mt1fK8yJMcDPYHJ",
+                      "type":  "subtopic",
+                      "label":  "Object",
+                      "position":  {
+                                       "x":  -4.080988474536298,
+                                       "y":  375.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0I6dJE0ygXPGjeRAe8AtT",
+                      "type":  "subtopic",
+                      "label":  "Object Prototype",
+                      "position":  {
+                                       "x":  -2.233274479825468,
+                                       "y":  241.73042937082948
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xge6eru1hRGobnOEHLZqv",
+                      "type":  "subtopic",
+                      "label":  "Prototypal Inheritance",
+                      "position":  {
+                                       "x":  -2.233274479825468,
+                                       "y":  294.73042937082954
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RRACLQ6-aopkxImIp3Toc",
+                      "type":  "subtopic",
+                      "label":  "typeof operator",
+                      "position":  {
+                                       "x":  -4.080988474536298,
+                                       "y":  428.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D95ndkkwmT5X_HqboEn6E",
+                      "type":  "subtopic",
+                      "label":  "Built-in Objects",
+                      "position":  {
+                                       "x":  247.00250926773037,
+                                       "y":  375.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XPmBieVCXvL3WbWkYRoKr",
+                      "type":  "topic",
+                      "label":  "Type Casting",
+                      "position":  {
+                                       "x":  -126.95968546864998,
+                                       "y":  640.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Bo2YZqZ_gY35SLPML4T6",
+                      "type":  "subtopic",
+                      "label":  "Type Conversion vs Coercion",
+                      "position":  {
+                                       "x":  -524.4974907322696,
+                                       "y":  587.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1xhjrRN-Rfekei2JwwU7Y",
+                      "type":  "subtopic",
+                      "label":  "Explicit Type Casting",
+                      "position":  {
+                                       "x":  -524.4974907322696,
+                                       "y":  693.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pP42K_eH4RCdUdUS8BJlP",
+                      "type":  "subtopic",
+                      "label":  "Implicit Type Casting",
+                      "position":  {
+                                       "x":  -524.4974907322696,
+                                       "y":  640.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ADarwihuI2nBq1C3U7-Zr",
+                      "type":  "topic",
+                      "label":  "Data Structures",
+                      "position":  {
+                                       "x":  141.50250926773037,
+                                       "y":  640.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rhJrrqkRqy2Qw_he4SPGz",
+                      "type":  "subtopic",
+                      "label":  "Keyed Collections",
+                      "position":  {
+                                       "x":  128.50250926773037,
+                                       "y":  564.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xc0jL4rafpI-ixIaAxo9O",
+                      "type":  "subtopic",
+                      "label":  "Map",
+                      "position":  {
+                                       "x":  405.1719904951085,
+                                       "y":  457.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6icsjC4aisDgPWasVuCOt",
+                      "type":  "subtopic",
+                      "label":  "Weak Map",
+                      "position":  {
+                                       "x":  405.1719904951085,
+                                       "y":  510.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sciU68E13mcfL577y6Vim",
+                      "type":  "subtopic",
+                      "label":  "Set",
+                      "position":  {
+                                       "x":  405.1719904951085,
+                                       "y":  563.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DSFzj61N9ojz29mjExhVa",
+                      "type":  "subtopic",
+                      "label":  "Weak Set",
+                      "position":  {
+                                       "x":  405.1719904951085,
+                                       "y":  616.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lBOGoHZrmnIRatvryDwTm",
+                      "type":  "subtopic",
+                      "label":  "Indexed Collections",
+                      "position":  {
+                                       "x":  128.50250926773037,
+                                       "y":  742.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8X1mdQ3NDBVOZZWBbAFRE",
+                      "type":  "subtopic",
+                      "label":  "Typed Arrays",
+                      "position":  {
+                                       "x":  389.171875,
+                                       "y":  713.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NZedBxG9B9TRVOf2QE2yL",
+                      "type":  "subtopic",
+                      "label":  "Arrays",
+                      "position":  {
+                                       "x":  389.171875,
+                                       "y":  766.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JwLGAuSOTyZ5BHSqeBDU6",
+                      "type":  "subtopic",
+                      "label":  "Structured Data",
+                      "position":  {
+                                       "x":  129.50250926773037,
+                                       "y":  510.7304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bFNvtHp97OzKnPJgr7WaH",
+                      "type":  "subtopic",
+                      "label":  "JSON",
+                      "position":  {
+                                       "x":  255.50250926773037,
+                                       "y":  439.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "23Xa6q5VvRVlzc6Dx8vST",
+                      "type":  "topic",
+                      "label":  "Equality Comparisons",
+                      "position":  {
+                                       "x":  -212.7816601458129,
+                                       "y":  794.563720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RonBj1htt6jnBt3W7zoTA",
+                      "type":  "subtopic",
+                      "label":  "==",
+                      "position":  {
+                                       "x":  -510.828125,
+                                       "y":  781.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lJwcc6JoUIQoiQ6FkV2KW",
+                      "type":  "subtopic",
+                      "label":  "===",
+                      "position":  {
+                                       "x":  -446.828125,
+                                       "y":  781.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ATma3bLKdmWY_WTsPIKxh",
+                      "type":  "subtopic",
+                      "label":  "Object.is",
+                      "position":  {
+                                       "x":  -382.828125,
+                                       "y":  781.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w_jxbePkFlj8DO1erTIzf",
+                      "type":  "label",
+                      "label":  "Value Comparison Operators",
+                      "position":  {
+                                       "x":  -514.2332744798255,
+                                       "y":  832.063720703125
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PLallt_T33W6bUEn0Hc3W",
+                      "type":  "subtopic",
+                      "label":  "isLooselyEqual",
+                      "position":  {
+                                       "x":  -200.2816601458129,
+                                       "y":  934.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pcILon_Jjm2_XS10iUJ0E",
+                      "type":  "subtopic",
+                      "label":  "isStrictlyEqual",
+                      "position":  {
+                                       "x":  -200.2816601458129,
+                                       "y":  987.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fL3B2hkTgMb0oEwMiWJtK",
+                      "type":  "subtopic",
+                      "label":  "SameValueZero",
+                      "position":  {
+                                       "x":  -200.2816601458129,
+                                       "y":  1041.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Saqi1gQD3ddyJQ9tFIXqz",
+                      "type":  "label",
+                      "label":  "Equality Algorithms",
+                      "position":  {
+                                       "x":  -187.7816601458129,
+                                       "y":  894.2304293708296
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "YD-2l_amfqqqCdtc_Zdzo",
+                      "type":  "topic",
+                      "label":  "Loops and Iterations",
+                      "position":  {
+                                       "x":  127.55738234743455,
+                                       "y":  1013.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2M211rcaPSWbZ-sPoSEVR",
+                      "type":  "subtopic",
+                      "label":  "for",
+                      "position":  {
+                                       "x":  127.55738234743455,
+                                       "y":  826.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "57lO_3uxJaWsFXS-0J1AK",
+                      "type":  "subtopic",
+                      "label":  "do...while",
+                      "position":  {
+                                       "x":  127.55738234743455,
+                                       "y":  879.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9-MpHmzK_IiCi6IcvAlGM",
+                      "type":  "subtopic",
+                      "label":  "while",
+                      "position":  {
+                                       "x":  127.55738234743455,
+                                       "y":  932.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cq3vvFZoNnAAZJ6oEBUwb",
+                      "type":  "subtopic",
+                      "label":  "for...in loop",
+                      "position":  {
+                                       "x":  239.43263762370384,
+                                       "y":  932.9735702358665
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FBz6h_AmTJBXoBN-a38a5",
+                      "type":  "subtopic",
+                      "label":  "for...of loop",
+                      "position":  {
+                                       "x":  239.43263762370384,
+                                       "y":  879.9735702358665
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4oHFzn7R7xLxfuLpsJjr-",
+                      "type":  "subtopic",
+                      "label":  "break / continue",
+                      "position":  {
+                                       "x":  239.43263762370384,
+                                       "y":  826.9735702358665
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3tckJ2Sci7z-sNx9jx9eF",
+                      "type":  "topic",
+                      "label":  "Control Flow",
+                      "position":  {
+                                       "x":  86.55738234743455,
+                                       "y":  1194.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "34TKGxV9YziOWMh9rT_KE",
+                      "type":  "subtopic",
+                      "label":  "Exceptional Handling",
+                      "position":  {
+                                       "x":  311.0025092677304,
+                                       "y":  1226.3588589383112
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ttCsd2_H2SuRivCjGv1OX",
+                      "type":  "subtopic",
+                      "label":  "Conditional Statements",
+                      "position":  {
+                                       "x":  310.5025092677304,
+                                       "y":  1172.3588589383112
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ndbDXAx6bL4lZmpXv16Y_",
+                      "type":  "subtopic",
+                      "label":  "if...else",
+                      "position":  {
+                                       "x":  311.5162275376565,
+                                       "y":  1094.9435228468967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H_QlcUlavKKfcNK8CYAvb",
+                      "type":  "subtopic",
+                      "label":  "Switch",
+                      "position":  {
+                                       "x":  429.0448461352869,
+                                       "y":  1094.9435228468967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ReGIniyLYl5hGExchrJd2",
+                      "type":  "subtopic",
+                      "label":  "throw statement",
+                      "position":  {
+                                       "x":  310.27559437185573,
+                                       "y":  1303.7725047650335
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rbjEZe5vxCJ8reI1oZ-jf",
+                      "type":  "subtopic",
+                      "label":  "try/catch/finally",
+                      "position":  {
+                                       "x":  310.27559437185573,
+                                       "y":  1356.7725047650335
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-z-4VTaC3tOThqChgyoMs",
+                      "type":  "subtopic",
+                      "label":  "Error Objects",
+                      "position":  {
+                                       "x":  310.27559437185573,
+                                       "y":  1409.7725047650335
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "type":  "topic",
+                      "label":  "Expressions \u0026 Operators",
+                      "position":  {
+                                       "x":  -204.2816601458129,
+                                       "y":  1194.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IvBtUzIGnkgGXrJjqmjf4",
+                      "type":  "subtopic",
+                      "label":  "Assignment Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1142.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-v4_V4UuoZSgUk2sqOCim",
+                      "type":  "subtopic",
+                      "label":  "Comparison Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1195.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0PK1NwlgkNe2Vf-We4uLH",
+                      "type":  "subtopic",
+                      "label":  "Arithmetic Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1248.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ghjNJW67Wj5L5QK46xwL-",
+                      "type":  "subtopic",
+                      "label":  "Bitwise Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1301.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bo4SvzU4BrPl3c99zW7Y5",
+                      "type":  "subtopic",
+                      "label":  "Logical Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1354.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "udoz0DZi7f-vm30dSnYKu",
+                      "type":  "subtopic",
+                      "label":  "BigInt Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1407.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c38b6t5f17Zg2O2yg3eFP",
+                      "type":  "subtopic",
+                      "label":  "String Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1460.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "640mk-m5mB90Mme-7jcXV",
+                      "type":  "subtopic",
+                      "label":  "Conditional Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  982.6210062954669
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6_8EwyZY2jBkZr7xnfRY3",
+                      "type":  "subtopic",
+                      "label":  "Comma Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1035.621006295467
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k9rSR-YQ8B_iRcXNm2btP",
+                      "type":  "subtopic",
+                      "label":  "Unary Operators",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1088.621006295467
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k8bJH9qydZm8I9rhH7rXw",
+                      "type":  "topic",
+                      "label":  "Functions",
+                      "position":  {
+                                       "x":  -204.2816601458129,
+                                       "y":  1468.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R1D4fsZliHv7wIo8Tj-kp",
+                      "type":  "subtopic",
+                      "label":  "Function Parameters",
+                      "position":  {
+                                       "x":  9.766725520174532,
+                                       "y":  1362.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fr0NChxMXLpJizyMhXcXS",
+                      "type":  "subtopic",
+                      "label":  "Arrow Functions",
+                      "position":  {
+                                       "x":  9.766725520174532,
+                                       "y":  1415.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YZlCoPvZuX5MmpLOTj5d4",
+                      "type":  "subtopic",
+                      "label":  "IIFEs",
+                      "position":  {
+                                       "x":  9.766725520174532,
+                                       "y":  1468.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QLC7bW-qHskLH2HOA-Sko",
+                      "type":  "subtopic",
+                      "label":  "arguments object",
+                      "position":  {
+                                       "x":  9.766725520174532,
+                                       "y":  1521.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ISNzEYtrWe2v0R7Xfl5k-",
+                      "type":  "subtopic",
+                      "label":  "Scope \u0026 Function Stack",
+                      "position":  {
+                                       "x":  9.766725520174532,
+                                       "y":  1574.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s8wUJivWmetysJ8bt9FBC",
+                      "type":  "subtopic",
+                      "label":  "Built-in Functions",
+                      "position":  {
+                                       "x":  9.766725520174532,
+                                       "y":  1627.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8X8mRl-puL0Lp43dO5mha",
+                      "type":  "subtopic",
+                      "label":  "Default Params",
+                      "position":  {
+                                       "x":  8.766725520174532,
+                                       "y":  1286.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-_6q0bIjQrvAaCWrVkASO",
+                      "type":  "subtopic",
+                      "label":  "Rest",
+                      "position":  {
+                                       "x":  174.76672552017453,
+                                       "y":  1286.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YJGhhFuWmFvhRKOg6nwON",
+                      "type":  "subtopic",
+                      "label":  "Recursion",
+                      "position":  {
+                                       "x":  356.3723602294922,
+                                       "y":  1518.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q7b5iMJ1Lfka5A-K-YcaN",
+                      "type":  "subtopic",
+                      "label":  "Lexical Scoping",
+                      "position":  {
+                                       "x":  356.3723602294922,
+                                       "y":  1571.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "itS6B12I8I1KNCPvc0KCQ",
+                      "type":  "subtopic",
+                      "label":  "Closures",
+                      "position":  {
+                                       "x":  356.3723602294922,
+                                       "y":  1624.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xw8lb0xCWKmNs4KZfhBUy",
+                      "type":  "topic",
+                      "label":  "Strict Mode",
+                      "position":  {
+                                       "x":  -204.62877362673987,
+                                       "y":  1686.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fm2CuL1IZp3hnrLrPUX7U",
+                      "type":  "topic",
+                      "label":  "Using (this) keyword",
+                      "position":  {
+                                       "x":  -204.2816601458129,
+                                       "y":  1792.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3E5MuxPvEJU-dwgTrbQAR",
+                      "type":  "subtopic",
+                      "label":  "in a method",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1686.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "azsXq6Y5iCvQDgTWZpWQ3",
+                      "type":  "subtopic",
+                      "label":  "in a function",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1739.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qps2Mdm-lwa4Wr0IxKm0C",
+                      "type":  "subtopic",
+                      "label":  "using it alone",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1792.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JVbEBtVrTTFnTF3_yUIAC",
+                      "type":  "subtopic",
+                      "label":  "in event handlers",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1845.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P0190rTm2wLQmCzWOKour",
+                      "type":  "subtopic",
+                      "label":  "in arrow functions",
+                      "position":  {
+                                       "x":  -521.6276397705078,
+                                       "y":  1898.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EAN6DCiCfSq04R4vKgZ0q",
+                      "type":  "subtopic",
+                      "label":  "Function Borrowing",
+                      "position":  {
+                                       "x":  -203.1276397705078,
+                                       "y":  1869.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p2NhSwPYMtRiPRHjPaqmX",
+                      "type":  "subtopic",
+                      "label":  "Explicit Binding",
+                      "position":  {
+                                       "x":  -203.1276397705078,
+                                       "y":  1922.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gsyY3Oa3Jf0W5K_lyqBYO",
+                      "type":  "subtopic",
+                      "label":  "call",
+                      "position":  {
+                                       "x":  -199.6276397705078,
+                                       "y":  1996.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-BtF34cEzI6J8sZCDRlRE",
+                      "type":  "subtopic",
+                      "label":  "apply",
+                      "position":  {
+                                       "x":  -140.6276397705078,
+                                       "y":  1996.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dbercnxXVTJXMpYSDNGb2",
+                      "type":  "subtopic",
+                      "label":  "bind",
+                      "position":  {
+                                       "x":  -61.62763977050781,
+                                       "y":  1996.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sFOqx6_7poVIVuXhJVY0E",
+                      "type":  "topic",
+                      "label":  "Asynchronous JavaScript",
+                      "position":  {
+                                       "x":  103.55738234743455,
+                                       "y":  1793.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_bs5NNHVdHLWGBmpYwHMi",
+                      "type":  "subtopic",
+                      "label":  "Event Loop",
+                      "position":  {
+                                       "x":  106.55738234743455,
+                                       "y":  1708.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wXypuqEmFLIubx-QQvDIr",
+                      "type":  "subtopic",
+                      "label":  "setTimeout",
+                      "position":  {
+                                       "x":  108.6719904951085,
+                                       "y":  1874.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jaC3XXudd7OBKwwCpoPFf",
+                      "type":  "subtopic",
+                      "label":  "setInterval",
+                      "position":  {
+                                       "x":  108.6719904951085,
+                                       "y":  1927.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D8oGY7pdviRByaz6c9sU6",
+                      "type":  "subtopic",
+                      "label":  "Callbacks",
+                      "position":  {
+                                       "x":  389.171875,
+                                       "y":  1770.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yXSF5gGST7l2X-4z1g0d_",
+                      "type":  "subtopic",
+                      "label":  "Promises",
+                      "position":  {
+                                       "x":  389.171875,
+                                       "y":  1823.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PJSdqvh5OBwPCNpn3q_S5",
+                      "type":  "subtopic",
+                      "label":  "Callback Hell",
+                      "position":  {
+                                       "x":  389.171875,
+                                       "y":  1694.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Dn872mgexmxoLtbkIgIgz",
+                      "type":  "subtopic",
+                      "label":  "async/await",
+                      "position":  {
+                                       "x":  389.5025092677304,
+                                       "y":  1898.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q6vciQb_Jk-Up16Pk5NeE",
+                      "type":  "topic",
+                      "label":  "Working with APIs",
+                      "position":  {
+                                       "x":  163.9190115254637,
+                                       "y":  2098.2304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kL5rfWxXe4J44ENru1uJS",
+                      "type":  "subtopic",
+                      "label":  "Fetch",
+                      "position":  {
+                                       "x":  344.0025092677304,
+                                       "y":  2018.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LiuhBE7dIlkoWkthSoCsa",
+                      "type":  "subtopic",
+                      "label":  "XMLHTTPRequest",
+                      "position":  {
+                                       "x":  344.0025092677304,
+                                       "y":  1965.8694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "F_Lrj0F7UXriqJ0mhwxCy",
+                      "type":  "topic",
+                      "label":  "Classes",
+                      "position":  {
+                                       "x":  40.26672552017453,
+                                       "y":  2098.2304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TZ8XGdykSJjKBjX6Nivwo",
+                      "type":  "topic",
+                      "label":  "Iterators and Generators",
+                      "position":  {
+                                       "x":  -230.45968546864998,
+                                       "y":  2098.2304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hLnJlwnECFbVMeFpH0M5Q",
+                      "type":  "topic",
+                      "label":  "Modules in JavaScript",
+                      "position":  {
+                                       "x":  -523.328125,
+                                       "y":  2098.2304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4EXeGkOpfAViB9Uo4zL6O",
+                      "type":  "subtopic",
+                      "label":  "CommonJS",
+                      "position":  {
+                                       "x":  -483.328125,
+                                       "y":  1969.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jLNmYeo20Mbu4WRvVgvwU",
+                      "type":  "subtopic",
+                      "label":  "ESM",
+                      "position":  {
+                                       "x":  -483.328125,
+                                       "y":  2022.2304293708296
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MatU4SthAAhByJ40XdZQn",
+                      "type":  "topic",
+                      "label":  "Memory Management",
+                      "position":  {
+                                       "x":  -523.328125,
+                                       "y":  2200.2304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZR2WfH1cerA-V_kaPwRvm",
+                      "type":  "subtopic",
+                      "label":  "Memory Lifecycle",
+                      "position":  {
+                                       "x":  -510.328125,
+                                       "y":  2279.385077050813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bhuGtcyqPFKu-900aESYz",
+                      "type":  "topic",
+                      "label":  "DOM APIs",
+                      "position":  {
+                                       "x":  -203.1276397705078,
+                                       "y":  1578.3694458007812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KKyX8N4lTgN0w-Khm6Ztq",
+                      "type":  "subtopic",
+                      "label":  "Garbage Collection",
+                      "position":  {
+                                       "x":  -510.328125,
+                                       "y":  2332.385077050813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rc5WzBBOm2cus-rQl8EOE",
+                      "type":  "topic",
+                      "label":  "Using Browser DevTools",
+                      "position":  {
+                                       "x":  -228.95968546864998,
+                                       "y":  2200.2304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dhEtcgv7G9fNV-AUNJdWk",
+                      "type":  "subtopic",
+                      "label":  "Debugging Issues",
+                      "position":  {
+                                       "x":  136.6719904951085,
+                                       "y":  2200.7304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BA_ArmZMnVMaL_zl3W3Pt",
+                      "type":  "subtopic",
+                      "label":  "Debugging Memory Leaks",
+                      "position":  {
+                                       "x":  136.6719904951085,
+                                       "y":  2253.7304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ECxISKUAU7js_JsfSHzud",
+                      "type":  "subtopic",
+                      "label":  "Debugging Performance",
+                      "position":  {
+                                       "x":  137.6719904951085,
+                                       "y":  2306.7304293708294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U0fJo2a3vnaodNJhfZ78I",
+                      "type":  "button",
+                      "label":  "React",
+                      "position":  {
+                                       "x":  -219.2816601458129,
+                                       "y":  2495.0743589624644
+                                   },
+                      "href":  "https://roadmap.sh/react",
+                      "links":  null
+                  },
+                  {
+                      "id":  "iuSv7V59YxUZawN38Qlli",
+                      "type":  "button",
+                      "label":  "Node.js",
+                      "position":  {
+                                       "x":  7.718339854187093,
+                                       "y":  2495.0743589624644
+                                   },
+                      "href":  "https://roadmap.sh/nodejs",
+                      "links":  null
+                  },
+                  {
+                      "id":  "nfMrC0eoXZl72H4o3VFEP",
+                      "type":  "subtopic",
+                      "label":  "SameValue",
+                      "position":  {
+                                       "x":  -200.2816601458129,
+                                       "y":  1096.063720703125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  174.76672552017453,
+                                       "y":  -232.76957062917046
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  187.61202169501337,
+                                       "y":  -150.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zry2-UBB-8hUcwo4Mfd0cmEcdAz1",
+                      "source":  "6khAD6mzZ9S96JJuC5_j6",
+                      "target":  "UBB-8hUcwo4Mfd0cmEcdA",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zry2-l-GKzcsBNA0r6Jax8hwnPz2",
+                      "source":  "6khAD6mzZ9S96JJuC5_j6",
+                      "target":  "l-GKzcsBNA0r6Jax8hwnP",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zry2-SFPsWnVpZBAw3_re7op4hz1",
+                      "source":  "6khAD6mzZ9S96JJuC5_j6",
+                      "target":  "SFPsWnVpZBAw3_re7op4h",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zry2-uXsWIUUxtc4H_iRx3uZv0z1",
+                      "source":  "6khAD6mzZ9S96JJuC5_j6",
+                      "target":  "uXsWIUUxtc4H_iRx3uZv0",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-iogwMmOvub2ZF4zgg6WyFx2-ADarwihuI2nBq1C3U7-Zrw1",
+                      "source":  "iogwMmOvub2ZF4zgg6WyF",
+                      "target":  "6khAD6mzZ9S96JJuC5_j6",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrz2-7iMJuaB7yKlSIbT4dBe5Ly1",
+                      "source":  "kvActjpU4FUJdrmuFoFEe",
+                      "target":  "7iMJuaB7yKlSIbT4dBe5L",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrz2-HfieG3v3wnmpZDfNwEJvZy1",
+                      "source":  "kvActjpU4FUJdrmuFoFEe",
+                      "target":  "HfieG3v3wnmpZDfNwEJvZ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrz2-Lb5jLF91WO5V5CWpifciWy1",
+                      "source":  "kvActjpU4FUJdrmuFoFEe",
+                      "target":  "Lb5jLF91WO5V5CWpifciW",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrz2-BqbAWt--Guqex-rrb4ZUvy1",
+                      "source":  "kvActjpU4FUJdrmuFoFEe",
+                      "target":  "BqbAWt--Guqex-rrb4ZUv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-kvActjpU4FUJdrmuFoFEex2-ADarwihuI2nBq1C3U7-Zrw2",
+                      "source":  "kvActjpU4FUJdrmuFoFEe",
+                      "target":  "-jbPPuEXacBR0d0CWPHgd",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zry2-SSqBPOJROQpX5poMFSJtJz1",
+                      "source":  "-jbPPuEXacBR0d0CWPHgd",
+                      "target":  "SSqBPOJROQpX5poMFSJtJ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrz2-RRACLQ6-aopkxImIp3Tocy1",
+                      "source":  "-jbPPuEXacBR0d0CWPHgd",
+                      "target":  "xe8HZ8Mt1fK8yJMcDPYHJ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrz2-RRACLQ6-aopkxImIp3Tocy1",
+                      "source":  "-jbPPuEXacBR0d0CWPHgd",
+                      "target":  "RRACLQ6-aopkxImIp3Toc",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-xe8HZ8Mt1fK8yJMcDPYHJz2-D95ndkkwmT5X_HqboEn6Ey2",
+                      "source":  "xe8HZ8Mt1fK8yJMcDPYHJ",
+                      "target":  "D95ndkkwmT5X_HqboEn6E",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge--jbPPuEXacBR0d0CWPHgdx2-ADarwihuI2nBq1C3U7-Zrw1",
+                      "source":  "-jbPPuEXacBR0d0CWPHgd",
+                      "target":  "XPmBieVCXvL3WbWkYRoKr",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zry2-_Bo2YZqZ_gY35SLPML4T6z2",
+                      "source":  "XPmBieVCXvL3WbWkYRoKr",
+                      "target":  "_Bo2YZqZ_gY35SLPML4T6",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-XPmBieVCXvL3WbWkYRoKry2-pP42K_eH4RCdUdUS8BJlPz1",
+                      "source":  "XPmBieVCXvL3WbWkYRoKr",
+                      "target":  "pP42K_eH4RCdUdUS8BJlP",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-XPmBieVCXvL3WbWkYRoKry2-1xhjrRN-Rfekei2JwwU7Yz1",
+                      "source":  "XPmBieVCXvL3WbWkYRoKr",
+                      "target":  "1xhjrRN-Rfekei2JwwU7Y",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrw2-rhJrrqkRqy2Qw_he4SPGzx1",
+                      "source":  "ADarwihuI2nBq1C3U7-Zr",
+                      "target":  "rhJrrqkRqy2Qw_he4SPGz",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-rhJrrqkRqy2Qw_he4SPGzz2-Xc0jL4rafpI-ixIaAxo9Oy1",
+                      "source":  "rhJrrqkRqy2Qw_he4SPGz",
+                      "target":  "Xc0jL4rafpI-ixIaAxo9O",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-rhJrrqkRqy2Qw_he4SPGzz2-6icsjC4aisDgPWasVuCOty2",
+                      "source":  "rhJrrqkRqy2Qw_he4SPGz",
+                      "target":  "6icsjC4aisDgPWasVuCOt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-rhJrrqkRqy2Qw_he4SPGzz2-sciU68E13mcfL577y6Vimy2",
+                      "source":  "rhJrrqkRqy2Qw_he4SPGz",
+                      "target":  "sciU68E13mcfL577y6Vim",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-rhJrrqkRqy2Qw_he4SPGzz2-DSFzj61N9ojz29mjExhVay1",
+                      "source":  "rhJrrqkRqy2Qw_he4SPGz",
+                      "target":  "DSFzj61N9ojz29mjExhVa",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-XPmBieVCXvL3WbWkYRoKrz2-ADarwihuI2nBq1C3U7-Zry1",
+                      "source":  "XPmBieVCXvL3WbWkYRoKr",
+                      "target":  "ADarwihuI2nBq1C3U7-Zr",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zrx2-lBOGoHZrmnIRatvryDwTmw1",
+                      "source":  "ADarwihuI2nBq1C3U7-Zr",
+                      "target":  "lBOGoHZrmnIRatvryDwTm",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-lBOGoHZrmnIRatvryDwTmz2-8X1mdQ3NDBVOZZWBbAFREy1",
+                      "source":  "lBOGoHZrmnIRatvryDwTm",
+                      "target":  "8X1mdQ3NDBVOZZWBbAFRE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-lBOGoHZrmnIRatvryDwTmz2-NZedBxG9B9TRVOf2QE2yLy2",
+                      "source":  "lBOGoHZrmnIRatvryDwTm",
+                      "target":  "NZedBxG9B9TRVOf2QE2yL",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-ADarwihuI2nBq1C3U7-Zry2-YD-2l_amfqqqCdtc_Zdzoz1",
+                      "source":  "ADarwihuI2nBq1C3U7-Zr",
+                      "target":  "23Xa6q5VvRVlzc6Dx8vST",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-YD-2l_amfqqqCdtc_Zdzoy2-iZjl6qe9LGLFqXyopMUFXz1",
+                      "source":  "23Xa6q5VvRVlzc6Dx8vST",
+                      "target":  "iZjl6qe9LGLFqXyopMUFX",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-YD-2l_amfqqqCdtc_Zdzox2-JM16NHhFVOwwbwqCubmYww1",
+                      "source":  "23Xa6q5VvRVlzc6Dx8vST",
+                      "target":  "JM16NHhFVOwwbwqCubmYw",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-23Xa6q5VvRVlzc6Dx8vSTz2-YD-2l_amfqqqCdtc_Zdzoy1",
+                      "source":  "23Xa6q5VvRVlzc6Dx8vST",
+                      "target":  "YD-2l_amfqqqCdtc_Zdzo",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQz2-ttCsd2_H2SuRivCjGv1OXy2",
+                      "source":  "3tckJ2Sci7z-sNx9jx9eF",
+                      "target":  "ttCsd2_H2SuRivCjGv1OX",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQz2-34TKGxV9YziOWMh9rT_KEy1",
+                      "source":  "3tckJ2Sci7z-sNx9jx9eF",
+                      "target":  "34TKGxV9YziOWMh9rT_KE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-34TKGxV9YziOWMh9rT_KEx2-ReGIniyLYl5hGExchrJd2w1",
+                      "source":  "34TKGxV9YziOWMh9rT_KE",
+                      "target":  "ReGIniyLYl5hGExchrJd2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-3tckJ2Sci7z-sNx9jx9eFy2-_6vZa43gWjxO2OcD1iCCQz1",
+                      "source":  "3tckJ2Sci7z-sNx9jx9eF",
+                      "target":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-640mk-m5mB90Mme-7jcXVz1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "640mk-m5mB90Mme-7jcXV",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-6_8EwyZY2jBkZr7xnfRY3z1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "6_8EwyZY2jBkZr7xnfRY3",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-k9rSR-YQ8B_iRcXNm2btPz2",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "k9rSR-YQ8B_iRcXNm2btP",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-IvBtUzIGnkgGXrJjqmjf4z1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "IvBtUzIGnkgGXrJjqmjf4",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2--v4_V4UuoZSgUk2sqOCimz1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "-v4_V4UuoZSgUk2sqOCim",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-0PK1NwlgkNe2Vf-We4uLHz2",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "0PK1NwlgkNe2Vf-We4uLH",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-ghjNJW67Wj5L5QK46xwL-z1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "ghjNJW67Wj5L5QK46xwL-",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-bo4SvzU4BrPl3c99zW7Y5z1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "bo4SvzU4BrPl3c99zW7Y5",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-udoz0DZi7f-vm30dSnYKuz1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "udoz0DZi7f-vm30dSnYKu",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_6vZa43gWjxO2OcD1iCCQy2-c38b6t5f17Zg2O2yg3eFPz1",
+                      "source":  "_6vZa43gWjxO2OcD1iCCQ",
+                      "target":  "c38b6t5f17Zg2O2yg3eFP",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-k8bJH9qydZm8I9rhH7rXwz2-R1D4fsZliHv7wIo8Tj-kpy1",
+                      "source":  "k8bJH9qydZm8I9rhH7rXw",
+                      "target":  "R1D4fsZliHv7wIo8Tj-kp",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-k8bJH9qydZm8I9rhH7rXwz2-fr0NChxMXLpJizyMhXcXSy1",
+                      "source":  "k8bJH9qydZm8I9rhH7rXw",
+                      "target":  "fr0NChxMXLpJizyMhXcXS",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-k8bJH9qydZm8I9rhH7rXwz2-YZlCoPvZuX5MmpLOTj5d4y1",
+                      "source":  "k8bJH9qydZm8I9rhH7rXw",
+                      "target":  "YZlCoPvZuX5MmpLOTj5d4",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-k8bJH9qydZm8I9rhH7rXwz2-QLC7bW-qHskLH2HOA-Skoy1",
+                      "source":  "k8bJH9qydZm8I9rhH7rXw",
+                      "target":  "QLC7bW-qHskLH2HOA-Sko",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-k8bJH9qydZm8I9rhH7rXwz2-ISNzEYtrWe2v0R7Xfl5k-y1",
+                      "source":  "k8bJH9qydZm8I9rhH7rXw",
+                      "target":  "ISNzEYtrWe2v0R7Xfl5k-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-k8bJH9qydZm8I9rhH7rXwz2-s8wUJivWmetysJ8bt9FBCy1",
+                      "source":  "k8bJH9qydZm8I9rhH7rXw",
+                      "target":  "s8wUJivWmetysJ8bt9FBC",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ISNzEYtrWe2v0R7Xfl5k-z2-YJGhhFuWmFvhRKOg6nwONy1",
+                      "source":  "ISNzEYtrWe2v0R7Xfl5k-",
+                      "target":  "YJGhhFuWmFvhRKOg6nwON",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ISNzEYtrWe2v0R7Xfl5k-z2-q7b5iMJ1Lfka5A-K-YcaNy2",
+                      "source":  "ISNzEYtrWe2v0R7Xfl5k-",
+                      "target":  "q7b5iMJ1Lfka5A-K-YcaN",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-ISNzEYtrWe2v0R7Xfl5k-z2-itS6B12I8I1KNCPvc0KCQy1",
+                      "source":  "ISNzEYtrWe2v0R7Xfl5k-",
+                      "target":  "itS6B12I8I1KNCPvc0KCQ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-fm2CuL1IZp3hnrLrPUX7Uy2-3E5MuxPvEJU-dwgTrbQARz2",
+                      "source":  "fm2CuL1IZp3hnrLrPUX7U",
+                      "target":  "3E5MuxPvEJU-dwgTrbQAR",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-fm2CuL1IZp3hnrLrPUX7Uy2-azsXq6Y5iCvQDgTWZpWQ3z2",
+                      "source":  "fm2CuL1IZp3hnrLrPUX7U",
+                      "target":  "azsXq6Y5iCvQDgTWZpWQ3",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-fm2CuL1IZp3hnrLrPUX7Uy2-qps2Mdm-lwa4Wr0IxKm0Cz1",
+                      "source":  "fm2CuL1IZp3hnrLrPUX7U",
+                      "target":  "qps2Mdm-lwa4Wr0IxKm0C",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-fm2CuL1IZp3hnrLrPUX7Uy2-JVbEBtVrTTFnTF3_yUIACz2",
+                      "source":  "fm2CuL1IZp3hnrLrPUX7U",
+                      "target":  "JVbEBtVrTTFnTF3_yUIAC",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-fm2CuL1IZp3hnrLrPUX7Uy2-P0190rTm2wLQmCzWOKourz1",
+                      "source":  "fm2CuL1IZp3hnrLrPUX7U",
+                      "target":  "P0190rTm2wLQmCzWOKour",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-fm2CuL1IZp3hnrLrPUX7Uz2-sFOqx6_7poVIVuXhJVY0Ey1",
+                      "source":  "fm2CuL1IZp3hnrLrPUX7U",
+                      "target":  "sFOqx6_7poVIVuXhJVY0E",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-PJSdqvh5OBwPCNpn3q_S5x2-D8oGY7pdviRByaz6c9sU6w1",
+                      "source":  "PJSdqvh5OBwPCNpn3q_S5",
+                      "target":  "D8oGY7pdviRByaz6c9sU6",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-yXSF5gGST7l2X-4z1g0d_x2-Dn872mgexmxoLtbkIgIgzw2",
+                      "source":  "yXSF5gGST7l2X-4z1g0d_",
+                      "target":  "Dn872mgexmxoLtbkIgIgz",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-sFOqx6_7poVIVuXhJVY0Ez2-D8oGY7pdviRByaz6c9sU6y1",
+                      "source":  "sFOqx6_7poVIVuXhJVY0E",
+                      "target":  "D8oGY7pdviRByaz6c9sU6",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-sFOqx6_7poVIVuXhJVY0Ez2-yXSF5gGST7l2X-4z1g0d_y1",
+                      "source":  "sFOqx6_7poVIVuXhJVY0E",
+                      "target":  "yXSF5gGST7l2X-4z1g0d_",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-q6vciQb_Jk-Up16Pk5NeEy2-F_Lrj0F7UXriqJ0mhwxCyz1",
+                      "source":  "q6vciQb_Jk-Up16Pk5NeE",
+                      "target":  "F_Lrj0F7UXriqJ0mhwxCy",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-F_Lrj0F7UXriqJ0mhwxCyy2-TZ8XGdykSJjKBjX6Nivwoz1",
+                      "source":  "F_Lrj0F7UXriqJ0mhwxCy",
+                      "target":  "TZ8XGdykSJjKBjX6Nivwo",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-TZ8XGdykSJjKBjX6Nivwoy2-hLnJlwnECFbVMeFpH0M5Qz1",
+                      "source":  "TZ8XGdykSJjKBjX6Nivwo",
+                      "target":  "hLnJlwnECFbVMeFpH0M5Q",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-hLnJlwnECFbVMeFpH0M5Qw2-jLNmYeo20Mbu4WRvVgvwUx1",
+                      "source":  "hLnJlwnECFbVMeFpH0M5Q",
+                      "target":  "jLNmYeo20Mbu4WRvVgvwU",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-hLnJlwnECFbVMeFpH0M5Qx2-MatU4SthAAhByJ40XdZQnw1",
+                      "source":  "hLnJlwnECFbVMeFpH0M5Q",
+                      "target":  "MatU4SthAAhByJ40XdZQn",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-q6vciQb_Jk-Up16Pk5NeEz2-kL5rfWxXe4J44ENru1uJSx1",
+                      "source":  "q6vciQb_Jk-Up16Pk5NeE",
+                      "target":  "kL5rfWxXe4J44ENru1uJS",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-MatU4SthAAhByJ40XdZQnx2-KKyX8N4lTgN0w-Khm6Ztqw1",
+                      "source":  "MatU4SthAAhByJ40XdZQn",
+                      "target":  "ZR2WfH1cerA-V_kaPwRvm",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-MatU4SthAAhByJ40XdZQnz2-rc5WzBBOm2cus-rQl8EOEy1",
+                      "source":  "MatU4SthAAhByJ40XdZQn",
+                      "target":  "rc5WzBBOm2cus-rQl8EOE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-rc5WzBBOm2cus-rQl8EOEz2-dhEtcgv7G9fNV-AUNJdWky1",
+                      "source":  "rc5WzBBOm2cus-rQl8EOE",
+                      "target":  "dhEtcgv7G9fNV-AUNJdWk",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-rc5WzBBOm2cus-rQl8EOEz2-BA_ArmZMnVMaL_zl3W3Pty1",
+                      "source":  "rc5WzBBOm2cus-rQl8EOE",
+                      "target":  "BA_ArmZMnVMaL_zl3W3Pt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-rc5WzBBOm2cus-rQl8EOEz2-ECxISKUAU7js_JsfSHzudy1",
+                      "source":  "rc5WzBBOm2cus-rQl8EOE",
+                      "target":  "ECxISKUAU7js_JsfSHzud",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-rc5WzBBOm2cus-rQl8EOEx2-GV_zWF6rSWg5bqgiXhOEfw1",
+                      "source":  "rc5WzBBOm2cus-rQl8EOE",
+                      "target":  "GV_zWF6rSWg5bqgiXhOEf",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

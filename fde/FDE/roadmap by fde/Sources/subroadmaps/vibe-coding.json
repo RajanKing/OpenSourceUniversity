@@ -1,0 +1,1070 @@
+{
+    "slug":  "vibe-coding",
+    "source":  "https://roadmap.sh/vibe-coding",
+    "title":  "Vibe Coding",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-09-11T12:29:23.039Z",
+    "nodes":  [
+                  {
+                      "id":  "HLe584966_JgW5JZVncyu",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -491.80031541876815,
+                                       "y":  836.4864452894017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0w_riMBgN5LSG0so2hnuE",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -490.9386899261299,
+                                       "y":  2069.4864452894017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D0dI_Mvapz5dkfqgDHX--",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -484.7644599788903,
+                                       "y":  1844.486445289402
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "G5QPHEl2vmmiDWmaV9k_A",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -487.2226976989218,
+                                       "y":  1604.486445289402
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FGayx3WjV8yJSzo2t6ZeT",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -490.9386899261299,
+                                       "y":  1357.0111619204472
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P4qIsxcu4qG_4hr89_qtC",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -473.6562421081181,
+                                       "y":  325.0111619204471
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L2Zl-8ab7WyLOsT5tSCc7",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -480.2226976989218,
+                                       "y":  569.4809795978272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4_1icxVTzqa1edfrLjBux",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -487.2226976989218,
+                                       "y":  990.9407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VBe0OYUEv4uSgk20l-Xeo",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -143.65624210811808,
+                                       "y":  334.0111619204471
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "J5F4L4N2TqUaIBZcJ4ohB",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -512.1314720452491,
+                                       "y":  102.6636133754909
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-hMe4rZFP2tNx2EspNISu",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -335.6598004984543,
+                                       "y":  -68.77238424461837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hJTqFZ1Ot21tzcUzmnOxo",
+                      "type":  "title",
+                      "label":  "Vibe Coding",
+                      "position":  {
+                                       "x":  -703.6274368559735,
+                                       "y":  -44.92708680827377
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eHTAipqvkeuViUWq6jByT",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -616.6274368559735,
+                                       "y":  -122.58345077353724
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  11.07802322879462,
+                                       "y":  -68.77238424461837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zqZkyVgigifcRS1H7F_b",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  28.57802322879462,
+                                       "y":  17.272790285171652
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "type":  "paragraph",
+                      "label":  "Continue Learning with following relevant tracks",
+                      "position":  {
+                                       "x":  -420.92320831875736,
+                                       "y":  2385.1473623289207
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RLtk1C3gofHnLJ17x3o5b",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -146.22269769892182,
+                                       "y":  2505.741614304306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "slf6jmim4p9ti6ZRHOZe_",
+                      "type":  "button",
+                      "label":  "Claude Code",
+                      "position":  {
+                                       "x":  -405.9386899261299,
+                                       "y":  2439.2930197620303
+                                   },
+                      "href":  "https://roadmap.sh/claude-code",
+                      "links":  null
+                  },
+                  {
+                      "id":  "2ISyYe70R3Vc2I3juqCGw",
+                      "type":  "button",
+                      "label":  "AI Engineer",
+                      "position":  {
+                                       "x":  -226.93868992612988,
+                                       "y":  2439.2930197620303
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "LdhFo8UrT6EBs6IE42uLx",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  12.07802322879462,
+                                       "y":  77.22761575538163
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "qH0LPtPGcn4Lc1RhXwKVp",
+                                        "label":  "Claude Code Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/claude-code"
+                                    },
+                                    {
+                                        "id":  "lYZdNGa-RbSvjTZyyfsHK",
+                                        "label":  "AI Engineer Roadmap",
+                                        "url":  "https://roadmap.sh/ai-engineer"
+                                    },
+                                    {
+                                        "id":  "iEl2hP_MdzYqgWJV_gVVr",
+                                        "label":  "Prompt Engineering",
+                                        "url":  "https://roadmap.sh/prompt-engineering"
+                                    },
+                                    {
+                                        "id":  "u-kAuEWCb-IpLIAToHmSK",
+                                        "label":  "AI Agents Roadmap",
+                                        "url":  "https://roadmap.sh/ai-agents"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "lzHnwx_3gftRZbstk6INB",
+                      "type":  "topic",
+                      "label":  "What is vibe coding?",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  88.1636133754909
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LkLQ8GjBXDuw1XsrE4Cjj",
+                      "type":  "topic",
+                      "label":  "The vibe coder mindset",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  141.1636133754909
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wr5ddjutC-fX_ixysTHaT",
+                      "type":  "subtopic",
+                      "label":  "Claude Code",
+                      "position":  {
+                                       "x":  -323.6562421081181,
+                                       "y":  -4.825019288841702
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hzeEo8COf2l07iu5EdlFo",
+                      "type":  "subtopic",
+                      "label":  "Gemini",
+                      "position":  {
+                                       "x":  -169.65624210811808,
+                                       "y":  -4.825019288841702
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Xsl8mx6J182TxPPtNP471",
+                      "type":  "subtopic",
+                      "label":  "Devin",
+                      "position":  {
+                                       "x":  -323.6562421081181,
+                                       "y":  101.17498071115828
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MWhoqhNnBaoeCdN_8i15k",
+                      "type":  "subtopic",
+                      "label":  "Cursor",
+                      "position":  {
+                                       "x":  -169.65624210811808,
+                                       "y":  48.17498071115827
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eX9-1I_hC2zwJNiBYXFu6",
+                      "type":  "subtopic",
+                      "label":  "v0",
+                      "position":  {
+                                       "x":  -323.6562421081181,
+                                       "y":  193.0616405748195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5WogJrcXhNXewsXzSAME7",
+                      "type":  "subtopic",
+                      "label":  "Lovable",
+                      "position":  {
+                                       "x":  -169.65624210811808,
+                                       "y":  193.0616405748195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ubk4GN0Z4XlDJ3EbRXdxg",
+                      "type":  "subtopic",
+                      "label":  "Copilot",
+                      "position":  {
+                                       "x":  -169.65624210811808,
+                                       "y":  101.17498071115828
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D_UfkD8c3zjmOzl2FWqg2",
+                      "type":  "label",
+                      "label":  "AI Assisted Coding Tools",
+                      "position":  {
+                                       "x":  -272.6598004984543,
+                                       "y":  -51.58345077353724
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "jNuYPLUdJDr8ivsE9dwU_",
+                      "type":  "label",
+                      "label":  "Frontend-Focused",
+                      "position":  {
+                                       "x":  -249.65980049845427,
+                                       "y":  155.0616405748195
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Df3nTlTvSQkMGzpufRo9q",
+                      "type":  "button",
+                      "label":  "AI Agents",
+                      "position":  {
+                                       "x":  -47.93868992612988,
+                                       "y":  2439.2930197620303
+                                   },
+                      "href":  "https://roadmap.sh/ai-agents",
+                      "links":  null
+                  },
+                  {
+                      "id":  "pfgsxuQ-D7dTMPNWKG9OY",
+                      "type":  "topic",
+                      "label":  "Plan before you Code",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  314.0111619204471
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OPHuAD0L-GZ6zRhIhbmPL",
+                      "type":  "todo",
+                      "label":  "Plan what you need to develop (MVP, Different Phases)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  384.5831801961953
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CJV5OV_Whoz4_7L8yhDG1",
+                      "type":  "todo",
+                      "label":  "Work step by step rather than trying to build everything at once",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  422.5831801961953
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ODqMzOAN1je004chwATTl",
+                      "type":  "todo",
+                      "label":  "Illustrate AI with examples (mockups, code samples, images)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  460.5831801961953
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0Z5DkfaD0zv-R9SwKTpdD",
+                      "type":  "paragraph",
+                      "label":  "For example if you are using \"Claude Code\", tell the tool what you are trying to build, ask it to help refine the idea, establish the different phases, and once done ask it to document everything in a document so that you can refer to that when actually building the product.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  363.0111619204471
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1V1Z94mWfQkZkxJ_gLWnA",
+                      "type":  "label",
+                      "label":  "AI Tools can Help with Planning",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  316.66572843879584
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "GC4vVcOcFWE1RByD-sd4G",
+                      "type":  "topic",
+                      "label":  "Tech Stack and Coding",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  554.9809795978272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7mAZMKyiuZiEpKhrydp8J",
+                      "type":  "todo",
+                      "label":  "Pick a popular tech stack rather than new/niche ones",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  610.4692464457826
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QBeh16mppfb2s4OGt4aPy",
+                      "type":  "todo",
+                      "label":  "If you have style/coding preferences, document them for AI",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  649.4692464457826
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FoQ15wo0cV2Tntru6jV-1",
+                      "type":  "todo",
+                      "label":  "Ask AI to keep the code modular and aim for smaller modules/files",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  688.4692464457826
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fgjB9KJIBeeCHgMmN_pws",
+                      "type":  "label",
+                      "label":  "Establishing Standards Early is Important",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  553.6657284387959
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "qq_Q7rete4AcvWd2RnCw_",
+                      "type":  "paragraph",
+                      "label":  "When you\u0027re starting out, carefully review the AI\u0027s initial outputs - coding patterns, styles, architecture decisions. If you don\u0027t catch bad habits early, the AI will reinforce them with every iteration, and they\u0027ll compound fast.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  595.6657284387959
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NtQDPno95SYo5E88ls4v1",
+                      "type":  "todo",
+                      "label":  "Regularly ask the AI to review and refactor the codebase",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  727.4692464457826
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cr3_xbJvx06eZqsTTFFcZ",
+                      "type":  "paragraph",
+                      "label":  "AI will take the path of least resistance (appending code, growing files, skipping cleanup). Periodically ask it to step back and refactor: break things into smaller modules, remove dead code, improve performance.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  977.6657284387959
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5A6PwFtJdyI5a-wMyjcrn",
+                      "type":  "label",
+                      "label":  "Force refactoring sessions regularly",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  935.6657284387959
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "6GvIXEzWbSD8q6Qt-BsHP",
+                      "type":  "topic",
+                      "label":  "Prompting Best Practices",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  976.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JXtLbQ1JUQOPZorFy1ctF",
+                      "type":  "todo",
+                      "label":  "Be specific about what you want, rather than high-level, vague instructions",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1083.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HpbG5bcOEIZxYlVl9pwod",
+                      "type":  "todo",
+                      "label":  "Ask for one task at a time rather than five different items.",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1045.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3lHMW2Uje5tQawetE4I21",
+                      "type":  "todo",
+                      "label":  "Based on your previous coding sessions, tell AI what NOT to do",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1121.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6kVVt2lihBW8tPGV-ll3_",
+                      "type":  "todo",
+                      "label":  "Give AI mockups, reference files and material that can help it",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1159.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h2oehkZSKfMqlVBAgt46P",
+                      "type":  "todo",
+                      "label":  "Use \"act as\" framing when helpful (e.g. act as a UX researcher)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1197.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bnpY9GX1BGjDPJXwTFWTX",
+                      "type":  "todo",
+                      "label":  "Use skills created by others",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  765.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WypEm84Rr0t-IzCZiU92q",
+                      "type":  "todo",
+                      "label":  "Regularly update your context document (e.g. CLAUDE.md)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1235.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QLaDMi5MGg6Vqg4niE5MR",
+                      "type":  "label",
+                      "label":  "Keep Context Document Up to Date",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1152.665728438796
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "k6OwmlDJzCNBKhz-aMmyd",
+                      "type":  "paragraph",
+                      "label":  "If you see yourself repeating some instructions, document the instructions in the context document. One more thing that helps is: after a discussion session if you feel like AI can benefit from learnings in the session, ask it to update the context document (e.g. claude.md) with the learnings from the session.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1194.665728438796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "17nFgML7zVjQYiHIOSLlK",
+                      "type":  "todo",
+                      "label":  "Explicitly tell AI to \"think\" or \"brainstorm\" before complex problems",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1273.4407630081794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0ZJrFxKo5HyD9OgzG5LWp",
+                      "type":  "topic",
+                      "label":  "Context",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  1344.986445289402
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ikp1O_sss_6hDGl6p8LNJ",
+                      "type":  "todo",
+                      "label":  "If AI fails after 3 prompts, stop, and start a fresh chat",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1445.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CMnz6UFUGbxIGSH06ZdgH",
+                      "type":  "todo",
+                      "label":  "Leverage long context window when available and necessary",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1407.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "phtVEKzIUv9E1abazort0",
+                      "type":  "todo",
+                      "label":  "For unrelated tasks, proactively clean and start new sessions",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1483.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n5JxUpashrHKai2XESdd-",
+                      "type":  "todo",
+                      "label":  "Ask AI to use subagents, if possible",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1521.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VkipcGcTEIgpYOfaS8IPl",
+                      "type":  "label",
+                      "label":  "Clear Context Regularly",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1394.665728438796
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ORjzGvNnIA0195OStg_95",
+                      "type":  "paragraph",
+                      "label":  "Clear context for better results and to save token costs. Whenver you are about to start a new/unrelated task, it\u0027s better to clear the context and start fresh.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1436.665728438796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wvox8P3JLVUAsmLnFArC4",
+                      "type":  "label",
+                      "label":  "Let AI Debug, But Understand what Went Wrong",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1616.665728438796
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "J5tFxtigM1kgigpkwxgzq",
+                      "type":  "paragraph",
+                      "label":  "When something breaks, paste the error and relevant code and ask AI to explain the error. Don\u0027t just accept the fix — make sure you understand it. If you don\u0027t, ask AI it to explain in simple terms.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1660.486445289402
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mHChjJd39ofwPBS-v_sQY",
+                      "type":  "topic",
+                      "label":  "Debugging",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  1589.986445289402
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cz--AlEn0cc2-keXeuk9g",
+                      "type":  "todo",
+                      "label":  "If errors persist, ask Al to create a list of possible causes",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1690.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GW5I1z7D1945AxqYHbW6F",
+                      "type":  "todo",
+                      "label":  "Prompt error messages and let AI do the rest",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1652.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vnm51qAe2C1cszHfh-o6P",
+                      "type":  "todo",
+                      "label":  "Tell AI to add logs to find the bug faster",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1728.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KVb_TAsSD8Kgafij4iEXc",
+                      "type":  "todo",
+                      "label":  "Install and ask AI to use MCP (e.g. Playwright for browser), when possible",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1766.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q5lkCO_uGmkcJopjltg8j",
+                      "type":  "topic",
+                      "label":  "Master Version Control",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  1829.986445289402
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ScizaxaDFQ_OBiFZ540Xs",
+                      "type":  "todo",
+                      "label":  "Start each new feature with a clean Git slate",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1930.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wWs2PxN7T2-gDZNJJ1vTq",
+                      "type":  "todo",
+                      "label":  "Use `git commit` regularly (e.g. after every successful AI task)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1892.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "upZAMDEtzq1VklqTKG5mV",
+                      "type":  "todo",
+                      "label":  "If you need to revert, use Git rather than AI native revert functionality",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  1968.1405161079263
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vDSSzh5TwZ8zzY0rWRXu4",
+                      "type":  "todo",
+                      "label":  "Ask AI to handle your Git and GitHub CLI tasks",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  2006.1405161079265
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4bJRhuZzVc32x2Y0gGGrh",
+                      "type":  "topic",
+                      "label":  "Testing",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  2054.9864452894017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gr9WJ0tNmSsVHSA0Cx3xY",
+                      "type":  "todo",
+                      "label":  "Consider Test-driven development (TDD)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  2155.1405161079265
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WLOx62vbIhIlv73jcT8zM",
+                      "type":  "todo",
+                      "label":  "Ask AI to write tests (E2E tests can help build a stable product)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  2117.1405161079265
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "r-LrA1cGR1XMu1p2xIsN0",
+                      "type":  "todo",
+                      "label":  "When you find a bug, ask AI to write a breaking test and then fix",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  2193.1405161079265
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9BSermDg6ODL2MSRQiDZo",
+                      "type":  "todo",
+                      "label":  "Once tests are in place, refactor regularly",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  2241.1405161079265
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2omItZjkVFW9kMiNXdt-h",
+                      "type":  "topic",
+                      "label":  "Security Best Practices",
+                      "position":  {
+                                       "x":  -738.6274368559735,
+                                       "y":  821.9864452894017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aRnpJbSUg_rr9Z00RafYt",
+                      "type":  "todo",
+                      "label":  "Never hardcode or credentials; use env variables instead",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  922.1405161079265
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8VL5XHFrQUjin1pdAi7WZ",
+                      "type":  "todo",
+                      "label":  "Explicitly ask AI to perform a security audit of the application",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  884.1405161079265
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mBVnmXf0-SFbdVK8aLLUT",
+                      "type":  "label",
+                      "label":  "Commit Often, With Clear Messages",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1848.665728438796
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "J8EKetjt7IVYFBUzOmuVb",
+                      "type":  "paragraph",
+                      "label":  "After each working feature or fix, make a commit. Ask AI to suggest a clear commit message that describes what changed and why. This gives you a safe checkpoint to roll back to if something goes wrong later.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  1890.665728438796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2gTgoEBdxzT2Shkqcpvi8",
+                      "type":  "label",
+                      "label":  "Force AI To Test by Default",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  2078.6657284387957
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "X5rFjJHpijmZaTJY9PH6x",
+                      "type":  "paragraph",
+                      "label":  "Most AI tools\u0027 default behavior produces implementation-first code with minimal test coverage. Whenever AI builds a feature, force it to write basic tests right away to ensure that bugs get caught early.",
+                      "position":  {
+                                       "x":  -107.92197677120538,
+                                       "y":  2120.6657284387957
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7PD3hS-8933MPlkrFP-OU",
+                      "type":  "label",
+                      "label":  "Never Hardcode your Secrets",
+                      "position":  {
+                                       "x":  -110.25049426545795,
+                                       "y":  755.3776496355504
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "O7IdWdTSlyP2BtMWAxnZ1",
+                      "type":  "paragraph",
+                      "label":  "Never let the AI put passwords, API keys, or tokens directly in the code. If you see it doing this, stop it and ask it to use environment variables instead. ",
+                      "position":  {
+                                       "x":  -110.25049426545795,
+                                       "y":  797.3776496355504
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O9W3d1q1yJmfRJHnfognN",
+                      "type":  "todo",
+                      "label":  "Implement Spec-Driven Development (SDD)",
+                      "position":  {
+                                       "x":  -749.6801562444155,
+                                       "y":  500.5831801961953
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eMMFaVwsxY2tVE9uWz5qT",
+                      "type":  "subtopic",
+                      "label":  "Codex",
+                      "position":  {
+                                       "x":  -323.6562421081181,
+                                       "y":  48.17498071115827
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__hJTqFZ1Ot21tzcUzmnOxox2-lzHnwx_3gftRZbstk6INBw1",
+                      "source":  "hJTqFZ1Ot21tzcUzmnOxo",
+                      "target":  "lzHnwx_3gftRZbstk6INB",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__LkLQ8GjBXDuw1XsrE4Cjjx2-DjbYhSENk8A7tVyBiFYhQw1",
+                      "source":  "LkLQ8GjBXDuw1XsrE4Cjj",
+                      "target":  "pfgsxuQ-D7dTMPNWKG9OY",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

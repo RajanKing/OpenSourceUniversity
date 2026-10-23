@@ -1,0 +1,2764 @@
+[
+    {
+        "id":  "2TGq1y2QthnxxN-FfToSe",
+        "label":  "Learn the Basics",
+        "endpoint":  "https://roadmap.sh/java/topic@2TGq1y2QthnxxN-FfToSe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Java by Hyperskill (JetBrains Academy)",
+                              "type":  "course",
+                              "url":  "https://hyperskill.org/tracks/8"
+                          },
+                          {
+                              "title":  "Head First Java",
+                              "type":  "article",
+                              "url":  "https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771"
+                          },
+                          {
+                              "title":  "Thinking in Java",
+                              "type":  "article",
+                              "url":  "https://www.amazon.co.uk/Thinking-Java-Eckel-Bruce-February/dp/B00IBON6C6"
+                          },
+                          {
+                              "title":  "Effective Java",
+                              "type":  "article",
+                              "url":  "https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OlbQNB6YXZjO1J7D0lZU1",
+        "label":  "Basic Syntax",
+        "endpoint":  "https://roadmap.sh/java/topic@OlbQNB6YXZjO1J7D0lZU1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Language Basics",
+                              "type":  "official",
+                              "url":  "https://dev.java/learn/language-basics"
+                          },
+                          {
+                              "title":  "Java - Basic Syntax",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=81piDKqPxjQ"
+                          },
+                          {
+                              "title":  "Java Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RRubcjpTkks"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5g9mmi01WeZ4aDqNzwx_V",
+        "label":  "Data Types",
+        "endpoint":  "https://roadmap.sh/java/topic@5g9mmi01WeZ4aDqNzwx_V.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Data Types",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/variables.html"
+                          },
+                          {
+                              "title":  "What are Data Types \u0026 Variables?",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/data-types.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sG_3ZQIE1-FQXQkk-OduQ",
+        "label":  "Conditionals",
+        "endpoint":  "https://roadmap.sh/java/topic@sG_3ZQIE1-FQXQkk-OduQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Conditional statements?",
+                              "type":  "article",
+                              "url":  "https://www.educative.io/answers/what-are-conditional-statements-in-programming"
+                          },
+                          {
+                              "title":  "Conditionals and Loops in Java",
+                              "type":  "video",
+                              "url":  "https://youtu.be/ldYLYRNaucM"
+                          },
+                          {
+                              "title":  "Switch Statements + Nested Case in Java",
+                              "type":  "video",
+                              "url":  "https://youtu.be/mA23x39DjbI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5khApwg1FZ-0qorsLyH-F",
+        "label":  "Arrays ",
+        "endpoint":  "https://roadmap.sh/java/topic@5khApwg1FZ-0qorsLyH-F.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Arrays",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/arrays.html"
+                          },
+                          {
+                              "title":  "Java Arrays Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ei_4Nt7XWOw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JHUhVEjWFXTn6-wKcKevg",
+        "label":  "Loops",
+        "endpoint":  "https://roadmap.sh/java/topic@JHUhVEjWFXTn6-wKcKevg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Loops in Java.",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/java-programming/for-loop"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VBNcAO0STaZJ1iV9A7utv",
+        "label":  "Variables and Scopes",
+        "endpoint":  "https://roadmap.sh/java/topic@VBNcAO0STaZJ1iV9A7utv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Variables",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/variables.html"
+                          },
+                          {
+                              "title":  "Java Variable Scope",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-variable-scope"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yNDbk6r5wFqBi25xmIRF_",
+        "label":  "Type Casting",
+        "endpoint":  "https://roadmap.sh/java/topic@yNDbk6r5wFqBi25xmIRF_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Casting in Java: Everything You Need to Know",
+                              "type":  "article",
+                              "url":  "https://www.simplilearn.com/tutorials/java-tutorial/type-casting-in-java"
+                          },
+                          {
+                              "title":  "Java Type Casting (With Examples)",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/java-programming/typecasting"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aEaBobzFWv0mJHGAbgxKY",
+        "label":  "Strings and Methods",
+        "endpoint":  "https://roadmap.sh/java/topic@aEaBobzFWv0mJHGAbgxKY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Strings",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/strings.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ziD_XwzJSFQP_3iLjq9pA",
+        "label":  "Math Operations",
+        "endpoint":  "https://roadmap.sh/java/topic@ziD_XwzJSFQP_3iLjq9pA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Math",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/math-operators-and-math-class.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QgWalJLIb6Fw0HhN1wb02",
+        "label":  "Lifecycle of a Program",
+        "endpoint":  "https://roadmap.sh/java/topic@QgWalJLIb6Fw0HhN1wb02.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Life Cycle of a Java Program",
+                              "type":  "article",
+                              "url":  "https://www.startertutorials.com/corejava/life-cycle-java-program.html"
+                          },
+                          {
+                              "title":  "How the JVM Executes Java Code",
+                              "type":  "article",
+                              "url":  "https://www.cesarsotovalero.net/blog/how-the-jvm-executes-java-code.html"
+                          },
+                          {
+                              "title":  "JIT vs. AOT Compilation in Java",
+                              "type":  "article",
+                              "url":  "https://bell-sw.com/blog/compilation-in-java-jit-vs-aot/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LenPrQwxFsE1UVbXO_dE7",
+        "label":  "Classes and Objects",
+        "endpoint":  "https://roadmap.sh/java/topic@LenPrQwxFsE1UVbXO_dE7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Class and Objects",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/java-programming/class-objects"
+                          },
+                          {
+                              "title":  "Java Classes and Objects",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IUqKuGNasdM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xTwJYcA6ldgaw3yGmbDEd",
+        "label":  "Attributes and Methods",
+        "endpoint":  "https://roadmap.sh/java/topic@xTwJYcA6ldgaw3yGmbDEd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Classes",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/classes.html"
+                          },
+                          {
+                              "title":  "Java Methods",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/methods.html"
+                          },
+                          {
+                              "title":  "Java Properties",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/properties.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KYndNwfQcwRCf3zCXOwd_",
+        "label":  "Access Specifiers",
+        "endpoint":  "https://roadmap.sh/java/topic@KYndNwfQcwRCf3zCXOwd_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Access Modifiers",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/access-modifiers.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZcNxO6qIXIg7RaWYnZj2e",
+        "label":  "Static Keyword",
+        "endpoint":  "https://roadmap.sh/java/topic@ZcNxO6qIXIg7RaWYnZj2e.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Static Keyword Explained With Examples",
+                              "type":  "article",
+                              "url":  "https://www.freecodecamp.org/news/java-static-keyword-explained/"
+                          },
+                          {
+                              "title":  "Static and Non-static Fields in Java",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/fields.html#static-and-non-static-fields"
+                          },
+                          {
+                              "title":  "Guide to the Java \u0027static\u0027 Keyword",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-static"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zDBW20W2XMCtNTG3emJ_A",
+        "label":  "Nested Classes",
+        "endpoint":  "https://roadmap.sh/java/topic@zDBW20W2XMCtNTG3emJ_A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Nested Classes",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/nested-classes.html"
+                          },
+                          {
+                              "title":  "Guide to Nested Classes in Java",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-nested-classes"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DZ4BX4NYeCQbjGSj56lng",
+        "label":  "Basics of OOP",
+        "endpoint":  "https://roadmap.sh/java/topic@DZ4BX4NYeCQbjGSj56lng.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Classes and Objects",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/classes.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ax2ouIZgN1DpPzKDy4fwp",
+        "label":  "Method Chaining",
+        "endpoint":  "https://roadmap.sh/java/topic@Ax2ouIZgN1DpPzKDy4fwp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to achieve method chaining in Java",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/21180269/how-to-achieve-method-chaining-in-java"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ey1f8IsdAlDv1O3E_tNog",
+        "label":  "Enums",
+        "endpoint":  "https://roadmap.sh/java/topic@ey1f8IsdAlDv1O3E_tNog.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Enums",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/enums.html"
+                          },
+                          {
+                              "title":  "Java Enums",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/java-programming/enums"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ajuc_rHObqMQBXLqRIuxh",
+        "label":  "Final Keyword",
+        "endpoint":  "https://roadmap.sh/java/topic@Ajuc_rHObqMQBXLqRIuxh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Final Keyword",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-final"
+                          },
+                          {
+                              "title":  "How does the final keyword in Java work? I can still modify an object",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/15655012/how-does-the-final-keyword-in-java-work-i-can-still-modify-an-object"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3qowgj1pas1X7oRric9eU",
+        "label":  "Object Lifecycle",
+        "endpoint":  "https://roadmap.sh/java/topic@3qowgj1pas1X7oRric9eU.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qdA6bK9ZkP8p0_NH_wMuj",
+        "label":  "Abstraction",
+        "endpoint":  "https://roadmap.sh/java/topic@qdA6bK9ZkP8p0_NH_wMuj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Abstract Classes",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/abstract-classes.html"
+                          },
+                          {
+                              "title":  "Java Interfaces vs. Abstract Classes",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/interfaces-vs-abstract-classes.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PXpPEmCEBUKRjwP3B5LzJ",
+        "label":  "Inheritance",
+        "endpoint":  "https://roadmap.sh/java/topic@PXpPEmCEBUKRjwP3B5LzJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Inheritance",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/inheritance.html"
+                          },
+                          {
+                              "title":  "Inheritance in Java with Example",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/inheritance-java-example"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y-i56f1P_mMdvyBr7J4XE",
+        "label":  "Method Overloading / Overriding",
+        "endpoint":  "https://roadmap.sh/java/topic@y-i56f1P_mMdvyBr7J4XE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Overriding vs Overloading in Java",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/overriding-vs-overloading-in-java"
+                          },
+                          {
+                              "title":  "Java Inheritance Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/inheritance.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Kjdj862xnz8fqDYE3HKhC",
+        "label":  "Static vs Dynamic Binding",
+        "endpoint":  "https://roadmap.sh/java/topic@Kjdj862xnz8fqDYE3HKhC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Static and Dynamic Binding in Java",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-static-dynamic-binding"
+                          },
+                          {
+                              "title":  "Static and Dynamic Binding in Java with Examples",
+                              "type":  "article",
+                              "url":  "https://beginnersbook.com/2013/04/java-static-dynamic-binding/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6wTRN2PYC6zM_Txkekx53",
+        "label":  "Interfaces",
+        "endpoint":  "https://roadmap.sh/java/topic@6wTRN2PYC6zM_Txkekx53.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Interfaces in Java",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/interfaces.html"
+                          },
+                          {
+                              "title":  "A Guide to Java Interfaces",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-interfaces"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iH9wSsOK4a77pS7U0Yu5z",
+        "label":  "Encapsulation",
+        "endpoint":  "https://roadmap.sh/java/topic@iH9wSsOK4a77pS7U0Yu5z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java - Encapsulation",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/java/java_encapsulation.htm"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VqLV7kolfRFnvOuJAvzlg",
+        "label":  "Record",
+        "endpoint":  "https://roadmap.sh/java/topic@VqLV7kolfRFnvOuJAvzlg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Records",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/record.html"
+                          },
+                          {
+                              "title":  "Java Records",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xs7DiEIHW0U"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "60POZOjwHSdKYL6rfkyEy",
+        "label":  "Packages",
+        "endpoint":  "https://roadmap.sh/java/topic@60POZOjwHSdKYL6rfkyEy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Packages in Java",
+                              "type":  "article",
+                              "url":  "https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dg_UpaO8TzIN7w_QZ1n-6",
+        "label":  "Initializer Block",
+        "endpoint":  "https://roadmap.sh/java/topic@dg_UpaO8TzIN7w_QZ1n-6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Static and Instance Initializer Blocks in Java",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-static-instance-initializer-blocks"
+                          },
+                          {
+                              "title":  "All About Java Instance Initializer Blocks",
+                              "type":  "article",
+                              "url":  "https://blogs.oracle.com/javamagazine/post/java-instance-initializer-block"
+                          },
+                          {
+                              "title":  "What is an initialization block?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/3987428/what-is-an-initialization-block"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3r0Er9XZHovIZz3gNyj4A",
+        "label":  "Pass by Value / Pass by Reference",
+        "endpoint":  "https://roadmap.sh/java/topic@3r0Er9XZHovIZz3gNyj4A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java is Pass-by-Value, Not Pass-by-Reference",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-pass-by-value-or-pass-by-reference"
+                          },
+                          {
+                              "title":  "Is Java \"pass-by-reference\" or \"pass-by-value\"?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "c--y6GcKj9am0CBdu_Hnt",
+        "label":  "Annotations",
+        "endpoint":  "https://roadmap.sh/java/topic@c--y6GcKj9am0CBdu_Hnt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Annotations Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/annotations.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "00_q6I95eO-PUUrKpPFY8",
+        "label":  "Lambda Expressions",
+        "endpoint":  "https://roadmap.sh/java/topic@00_q6I95eO-PUUrKpPFY8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Lambda Expressions",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/lambda-expressions.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kdxy8Zssnc5lJjdmjUyMc",
+        "label":  "Modules",
+        "endpoint":  "https://roadmap.sh/java/topic@kdxy8Zssnc5lJjdmjUyMc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Modules",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/modules.html"
+                          },
+                          {
+                              "title":  "A Guide to Java 9 Modularity",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-modularity"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "a-EQiBUlSgdZba1mW36op",
+        "label":  "Array vs ArrayList",
+        "endpoint":  "https://roadmap.sh/java/topic@a-EQiBUlSgdZba1mW36op.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Arrays",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java/arrays.html"
+                          },
+                          {
+                              "title":  "Java ArrayLists",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/list.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XjkNd5WJ9yxW48dwHQNkZ",
+        "label":  "Set",
+        "endpoint":  "https://roadmap.sh/java/topic@XjkNd5WJ9yxW48dwHQNkZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Set",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/set.html"
+                          },
+                          {
+                              "title":  "Java Set Interface and Implementation",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/java-set"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eKtdDtiJygKQ4PuEylFQY",
+        "label":  "Map",
+        "endpoint":  "https://roadmap.sh/java/topic@eKtdDtiJygKQ4PuEylFQY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Generic Map in Java",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-generics/generic-map.html"
+                          },
+                          {
+                              "title":  "Java Map",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/map.html"
+                          },
+                          {
+                              "title":  "Java ConcurrentMap",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-util-concurrent/concurrentmap.html"
+                          },
+                          {
+                              "title":  "Java SortedMap",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/sortedmap.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ThoWhXb4vUvNfE70_wMfa",
+        "label":  "Queue",
+        "endpoint":  "https://roadmap.sh/java/topic@ThoWhXb4vUvNfE70_wMfa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Queue",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/queue.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DzfE_9WLAp-BrG3C1-MwU",
+        "label":  "Stack",
+        "endpoint":  "https://roadmap.sh/java/topic@DzfE_9WLAp-BrG3C1-MwU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Stack Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/stack.html"
+                          },
+                          {
+                              "title":  "Guide to Java Stack",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-stack"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DWO2-EPIUeKK5aQGiTuKc",
+        "label":  "Dequeue",
+        "endpoint":  "https://roadmap.sh/java/topic@DWO2-EPIUeKK5aQGiTuKc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Deque Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/deque.html"
+                          },
+                          {
+                              "title":  "Java Deque",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/java-programming/deque"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-17LFO72I8RKjJRMXct9k",
+        "label":  "Iterator",
+        "endpoint":  "https://roadmap.sh/java/topic@-17LFO72I8RKjJRMXct9k.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Iterator Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/iterator.html"
+                          },
+                          {
+                              "title":  "Java Iterable Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-collections/iterable.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eL4pc6SaNiKP48PzN7mNe",
+        "label":  "Generic Collections",
+        "endpoint":  "https://roadmap.sh/java/topic@eL4pc6SaNiKP48PzN7mNe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java - Generics",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/java/java_generics.htm"
+                          },
+                          {
+                              "title":  "Generics in Java",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XMvznsY02Mk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l9fxK8K9fcUqR7hs5TkWU",
+        "label":  "Optionals",
+        "endpoint":  "https://roadmap.sh/java/topic@l9fxK8K9fcUqR7hs5TkWU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Guide To Optionals",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-optional"
+                          },
+                          {
+                              "title":  "Java Optional",
+                              "type":  "article",
+                              "url":  "https://dzone.com/articles/optional-in-java"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "g9P3548F38tYGjevBc42w",
+        "label":  "Exception Handling",
+        "endpoint":  "https://roadmap.sh/java/topic@g9P3548F38tYGjevBc42w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Java Exceptions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=W-N2ltgU-X4"
+                          },
+                          {
+                              "title":  "Java Exception Handling",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1XAfapkBQjk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_W84u4UXMSY0zvy6RJvFi",
+        "label":  "Web Frameworks",
+        "endpoint":  "https://roadmap.sh/java/topic@_W84u4UXMSY0zvy6RJvFi.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xoryfi4SpJlkz-PV05ql6",
+        "label":  "Spring (Spring Boot)",
+        "endpoint":  "https://roadmap.sh/java/topic@xoryfi4SpJlkz-PV05ql6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Spring Boot Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/spring-boot"
+                          },
+                          {
+                              "title":  "Spring Boot",
+                              "type":  "official",
+                              "url":  "https://spring.io/projects/spring-boot/"
+                          },
+                          {
+                              "title":  "What is Spring Boot?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/cloud/learn/java-spring-boot"
+                          },
+                          {
+                              "title":  "Spring Boot Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.javaguides.net/2021/07/spring-boot-tutorial-for-beginners.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kN-mXxqUPNJNsJGQ0U_7J",
+        "label":  "Play Framework",
+        "endpoint":  "https://roadmap.sh/java/topic@kN-mXxqUPNJNsJGQ0U_7J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Play Framework Website",
+                              "type":  "official",
+                              "url":  "https://www.playframework.com/"
+                          },
+                          {
+                              "title":  "What is Play Framework?",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Play_Framework"
+                          },
+                          {
+                              "title":  "Intro to Play Framework",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-intro-to-the-play-framework"
+                          },
+                          {
+                              "title":  "Introduction to Play Framework",
+                              "type":  "video",
+                              "url":  "https://youtu.be/bLrmnjPQsZc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w-kcKPh8U0P_jtT90_1Xy",
+        "label":  "Quarkus",
+        "endpoint":  "https://roadmap.sh/java/topic@w-kcKPh8U0P_jtT90_1Xy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://quarkus.io/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "81N1cZLue_Ii0uD5CV6kZ",
+        "label":  "Build Tools",
+        "endpoint":  "https://roadmap.sh/java/topic@81N1cZLue_Ii0uD5CV6kZ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VdL_fAHxmRbuF0J627beA",
+        "label":  "Maven",
+        "endpoint":  "https://roadmap.sh/java/topic@VdL_fAHxmRbuF0J627beA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting started",
+                              "type":  "article",
+                              "url":  "https://maven.apache.org/guides/getting-started/"
+                          },
+                          {
+                              "title":  "Building Spring Projects with Maven",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/spring-with-maven"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rmDIm5dqtdlNfPhvpqS7-",
+        "label":  "Gradle",
+        "endpoint":  "https://roadmap.sh/java/topic@rmDIm5dqtdlNfPhvpqS7-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gradle",
+                              "type":  "official",
+                              "url":  "https://gradle.org/"
+                          },
+                          {
+                              "title":  "Building Spring Boot Projects with Gradle",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/spring-boot-gradle-plugin"
+                          },
+                          {
+                              "title":  "Gradle Tutorial",
+                              "type":  "video",
+                              "url":  "https://youtu.be/kONQCIAcWeI"
+                          },
+                          {
+                              "title":  "Working with Gradle",
+                              "type":  "video",
+                              "url":  "https://youtu.be/6V6G3RyxEMk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6FMj9tMAQPii_1kLtHJLk",
+        "label":  "Bazel",
+        "endpoint":  "https://roadmap.sh/java/topic@6FMj9tMAQPii_1kLtHJLk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting started with Bazel",
+                              "type":  "article",
+                              "url":  "https://bazel.build/start"
+                          },
+                          {
+                              "title":  "Build Java Projects with Bazel",
+                              "type":  "article",
+                              "url":  "https://earthly.dev/blog/build-java-projects-with-bazel/"
+                          },
+                          {
+                              "title":  "Introduction to the Bazel Build Tool",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/bazel-build-tool"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zItXmuluDtl6HkTYQ7qMh",
+        "label":  "Dependency Injection",
+        "endpoint":  "https://roadmap.sh/java/topic@zItXmuluDtl6HkTYQ7qMh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dependency Injection Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/dependency-injection/index.html"
+                          },
+                          {
+                              "title":  "Java Dependency Injection Design Pattern Example Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/java-dependency-injection-design-pattern-example-tutorial"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M0ybgK1JCycXhZ1dEpCFo",
+        "label":  "I/O Operations",
+        "endpoint":  "https://roadmap.sh/java/topic@M0ybgK1JCycXhZ1dEpCFo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java IO Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-io/index.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NowpzyPVFcX082j5YS5i8",
+        "label":  "File Operations",
+        "endpoint":  "https://roadmap.sh/java/topic@NowpzyPVFcX082j5YS5i8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How To Work With Files In Java",
+                              "type":  "article",
+                              "url":  "https://www.marcobehler.com/guides/java-files"
+                          },
+                          {
+                              "title":  "(old) Java HttpURLConnection Example - Java HTTP Request GET, POST",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/java-httpurlconnection-example-java-http-request-get-post"
+                          },
+                          {
+                              "title":  "New Java HttpClient",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-9-http-client"
+                          },
+                          {
+                              "title":  "5 ways to make HTTP requests in Java",
+                              "type":  "article",
+                              "url":  "https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "shqS9-hg__mkOtnnl_I4l",
+        "label":  "Concurrency",
+        "endpoint":  "https://roadmap.sh/java/topic@shqS9-hg__mkOtnnl_I4l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Concurrency and Multithreading Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-concurrency/index.html"
+                          },
+                          {
+                              "title":  "Java Concurrency in Practice",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-concurrency"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "u_YysD7Bpnq-xkFX5yJGz",
+        "label":  "Threads",
+        "endpoint":  "https://roadmap.sh/java/topic@u_YysD7Bpnq-xkFX5yJGz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Threads in Java",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-concurrency/index.html"
+                          },
+                          {
+                              "title":  "Java Threads Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=TCd8QIS-2KI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vJSq1GJLIMQ6IIB8CMK8g",
+        "label":  "Virtual Threads",
+        "endpoint":  "https://roadmap.sh/java/topic@vJSq1GJLIMQ6IIB8CMK8g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java 21 Virtual Threads: Dude, Where\u0027s My Lock?",
+                              "type":  "article",
+                              "url":  "https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d"
+                          },
+                          {
+                              "title":  "Virtual Thread vs Thread in Java",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-virtual-thread-vs-thread"
+                          },
+                          {
+                              "title":  "The Ultimate Guide to Java Virtual Threads",
+                              "type":  "article",
+                              "url":  "https://rockthejvm.com/articles/the-ultimate-guide-to-java-virtual-threads"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wEc7pSVU5G2c6Zqmtb_1k",
+        "label":  "Java Memory Model",
+        "endpoint":  "https://roadmap.sh/java/topic@wEc7pSVU5G2c6Zqmtb_1k.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Memory Model",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-concurrency/java-memory-model.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U4Wx3MH3LgJLa0n9Ne0Br",
+        "label":  "volatile keyword",
+        "endpoint":  "https://roadmap.sh/java/topic@U4Wx3MH3LgJLa0n9Ne0Br.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Volatile Keyword",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-concurrency/volatile.html"
+                          },
+                          {
+                              "title":  "Guide to the Volatile Keyword in Java",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-volatile"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_wV2VQq6MIY1rVHjK8pfu",
+        "label":  "Cryptography",
+        "endpoint":  "https://roadmap.sh/java/topic@_wV2VQq6MIY1rVHjK8pfu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Cryptography Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-cryptography/index.html"
+                          },
+                          {
+                              "title":  "Cryptography 101 for Java developers",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=itmNhVckTPc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9h20XVRli7TDq0QIJwX2U",
+        "label":  "Date and Time",
+        "endpoint":  "https://roadmap.sh/java/topic@9h20XVRli7TDq0QIJwX2U.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Date and Time API in Java",
+                              "type":  "article",
+                              "url":  "https://chamalwr.medium.com/datetime-api-in-java-2aef5df1c39b"
+                          },
+                          {
+                              "title":  "Introduction to Date and Time in Java",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-8-date-time-intro"
+                          },
+                          {
+                              "title":  "Java SE 8 Date and Time",
+                              "type":  "article",
+                              "url":  "https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1Mk_zXxCCcUoX-gFxtlnf",
+        "label":  "Functional Composition",
+        "endpoint":  "https://roadmap.sh/java/topic@1Mk_zXxCCcUoX-gFxtlnf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Functional Composition in Java",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-functional-programming/functional-composition.html"
+                          },
+                          {
+                              "title":  "Java Functional Programming",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-functional-programming"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dz6bCmB4dgA7VVZ448cN6",
+        "label":  "High Order Functions",
+        "endpoint":  "https://roadmap.sh/java/topic@dz6bCmB4dgA7VVZ448cN6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java High Order Functions",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-functional-programming/higher-order-functions.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SityDdjhhNZ9CO3Tg0VI9",
+        "label":  "Functional Interfaces",
+        "endpoint":  "https://roadmap.sh/java/topic@SityDdjhhNZ9CO3Tg0VI9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Functional Interfaces",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-functional-programming/functional-interfaces.html"
+                          },
+                          {
+                              "title":  "Java Functional Interfaces",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-8-functional-interfaces"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WHxAwfdKHQSOg0TLX05EG",
+        "label":  "Stream API",
+        "endpoint":  "https://roadmap.sh/java/topic@WHxAwfdKHQSOg0TLX05EG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Java 8 Stream API Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-8-streams"
+                          },
+                          {
+                              "title":  "Streams API Tutorial in Java 8+",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VNovNwHr9jY"
+                          },
+                          {
+                              "title":  "Java 8 Streams Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t1-YZ6bF-g0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JeMG0gU8IVRBZgczjXmPi",
+        "label":  "Networking",
+        "endpoint":  "https://roadmap.sh/java/topic@JeMG0gU8IVRBZgczjXmPi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sockets",
+                              "type":  "article",
+                              "url":  "https://docs.oracle.com/javase/tutorial/networking/sockets/index.html"
+                          },
+                          {
+                              "title":  "Java Networking",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/java/java_networking.htm"
+                          },
+                          {
+                              "title":  "What is Socket Programming?",
+                              "type":  "video",
+                              "url":  "https://youtu.be/BqBKEXLqdvI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "C7rB3jkshHFN7TkHRJPlz",
+        "label":  "Regular Expressions",
+        "endpoint":  "https://roadmap.sh/java/topic@C7rB3jkshHFN7TkHRJPlz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Java Regular Expressions Tutorial",
+                              "type":  "article",
+                              "url":  "https://jenkov.com/tutorials/java-regex/index.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fV-gW51jhna2__Ln2HIIh",
+        "label":  "Database Access",
+        "endpoint":  "https://roadmap.sh/java/topic@fV-gW51jhna2__Ln2HIIh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ORM tutorial",
+                              "type":  "article",
+                              "url":  "https://www.altexsoft.com/blog/object-relational-mapping/"
+                          },
+                          {
+                              "title":  "Java Databases: An Overview of Libraries \u0026 APIs",
+                              "type":  "article",
+                              "url":  "https://www.marcobehler.com/guides/java-databases"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WzWOxBUKKg6LeuBmVesc2",
+        "label":  "Spring Data JPA",
+        "endpoint":  "https://roadmap.sh/java/topic@WzWOxBUKKg6LeuBmVesc2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Spring Data JPA",
+                              "type":  "official",
+                              "url":  "https://spring.io/projects/spring-data-jpa"
+                          },
+                          {
+                              "title":  "Introduction to Spring Data JPA",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa"
+                          },
+                          {
+                              "title":  "Spring Data JPA Tutorial",
+                              "type":  "video",
+                              "url":  "https://youtu.be/XszpXoII9Sg"
+                          },
+                          {
+                              "title":  "Spring Boot Tutorial - Spring Data JPA",
+                              "type":  "video",
+                              "url":  "https://youtu.be/8SGI_XS5OPw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UEiDzzodyEu5O1xFAFDly",
+        "label":  "Hibernate",
+        "endpoint":  "https://roadmap.sh/java/topic@UEiDzzodyEu5O1xFAFDly.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hibernate",
+                              "type":  "official",
+                              "url":  "https://hibernate.org/"
+                          },
+                          {
+                              "title":  "Second-level caching explained",
+                              "type":  "article",
+                              "url":  "https://hazelcast.com/glossary/hibernate-second-level-cache/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "X2rJ3BY1ytFKsbJqJETFu",
+        "label":  "EBean",
+        "endpoint":  "https://roadmap.sh/java/topic@X2rJ3BY1ytFKsbJqJETFu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ebean",
+                              "type":  "official",
+                              "url":  "https://ebean.io/"
+                          },
+                          {
+                              "title":  "Ebean Documentation",
+                              "type":  "official",
+                              "url":  "https://ebean.io/docs/"
+                          },
+                          {
+                              "title":  "Guide to Ebean",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/ebean-orm"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "d9F5Wt8onY125DLuzNULg",
+        "label":  "Logging Frameworks",
+        "endpoint":  "https://roadmap.sh/java/topic@d9F5Wt8onY125DLuzNULg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Java Logging",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/java-logging-intro"
+                          },
+                          {
+                              "title":  "Java Logging Frameworks",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Java_logging_framework"
+                          },
+                          {
+                              "title":  "How to Do Logging In Java",
+                              "type":  "article",
+                              "url":  "https://www.marcobehler.com/guides/java-logging"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "okC1uMdyfIJAhX_R9Npsw",
+        "label":  "Logback",
+        "endpoint":  "https://roadmap.sh/java/topic@okC1uMdyfIJAhX_R9Npsw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "article",
+                              "url":  "https://logback.qos.ch/manual/configuration.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sFaNj_1MviaTc6UIfjXl6",
+        "label":  "Log4j2",
+        "endpoint":  "https://roadmap.sh/java/topic@sFaNj_1MviaTc6UIfjXl6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "article",
+                              "url":  "https://logging.apache.org/log4j/2.x/manual/configuration.html"
+                          },
+                          {
+                              "title":  "Log4j explained: Everything you need to know",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/whatis/feature/Log4j-explained-Everything-you-need-to-know"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LGlZHKqyQ-aWtHnhklhgn",
+        "label":  "SLF4J",
+        "endpoint":  "https://roadmap.sh/java/topic@LGlZHKqyQ-aWtHnhklhgn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "article",
+                              "url":  "https://www.slf4j.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Fn7aAaGbwYsAp4xLuuFud",
+        "label":  "TinyLog",
+        "endpoint":  "https://roadmap.sh/java/topic@Fn7aAaGbwYsAp4xLuuFud.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://tinylog.org/v1/"
+                          },
+                          {
+                              "title":  "TinyLog v2",
+                              "type":  "official",
+                              "url":  "https://tinylog.org/v2/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LgpsnXV0CTvTspjnsd0Rd",
+        "label":  "Testing",
+        "endpoint":  "https://roadmap.sh/java/topic@LgpsnXV0CTvTspjnsd0Rd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Software Testing?",
+                              "type":  "article",
+                              "url":  "https://www.guru99.com/software-testing-introduction-importance.html"
+                          },
+                          {
+                              "title":  "Testing Pyramid",
+                              "type":  "article",
+                              "url":  "https://www.browserstack.com/guide/testing-pyramid-for-test-automation"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9UbRG752qxJdUwmqEAjN3",
+        "label":  "JDBC",
+        "endpoint":  "https://roadmap.sh/java/topic@9UbRG752qxJdUwmqEAjN3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "IBM: What is JDBC",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/docs/en/informix-servers/12.10?topic=started-what-is-jdbc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hY1-sEpTmpaj1PregdkFf",
+        "label":  "JUnit",
+        "endpoint":  "https://roadmap.sh/java/topic@hY1-sEpTmpaj1PregdkFf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "JUnit",
+                              "type":  "official",
+                              "url":  "https://junit.org/junit5/"
+                          },
+                          {
+                              "title":  "JUnit Documentation",
+                              "type":  "official",
+                              "url":  "https://junit.org/junit5/docs/current/user-guide/"
+                          },
+                          {
+                              "title":  "JUnit tutorial",
+                              "type":  "article",
+                              "url":  "https://www.guru99.com/junit-tutorial.html"
+                          },
+                          {
+                              "title":  "Basic JUnit tutorial",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/junit-5"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XU2C8bF9ICej8LS7ZGTTv",
+        "label":  "TestNG",
+        "endpoint":  "https://roadmap.sh/java/topic@XU2C8bF9ICej8LS7ZGTTv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Testng",
+                              "type":  "official",
+                              "url":  "https://testng.org"
+                          },
+                          {
+                              "title":  "Testng Documentation",
+                              "type":  "official",
+                              "url":  "https://testng.org/"
+                          },
+                          {
+                              "title":  "Testng tutorial",
+                              "type":  "article",
+                              "url":  "https://www.guru99.com/all-about-testng-and-selenium.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gB4XUR9nCdF1-dOEwGcHi",
+        "label":  "REST Assured",
+        "endpoint":  "https://roadmap.sh/java/topic@gB4XUR9nCdF1-dOEwGcHi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rest-assured",
+                              "type":  "official",
+                              "url":  "https://rest-assured.io/"
+                          },
+                          {
+                              "title":  "Rest-assured Documentation",
+                              "type":  "opensource",
+                              "url":  "https://github.com/rest-assured/rest-assured/wiki"
+                          },
+                          {
+                              "title":  "A Guide to REST-assured",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/rest-assured-tutorial"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U2BqOY49HaII6mKQB3SVt",
+        "label":  "JMeter",
+        "endpoint":  "https://roadmap.sh/java/topic@U2BqOY49HaII6mKQB3SVt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Apache JMeter Website",
+                              "type":  "article",
+                              "url":  "https://jmeter.apache.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UFDy19TNkykRsKv4vRsVJ",
+        "label":  "Cucumber-JVM",
+        "endpoint":  "https://roadmap.sh/java/topic@UFDy19TNkykRsKv4vRsVJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cucumber",
+                              "type":  "official",
+                              "url":  "https://cucumber.io/"
+                          },
+                          {
+                              "title":  "Cucumber Documentation",
+                              "type":  "official",
+                              "url":  "https://cucumber.io/docs/cucumber/"
+                          },
+                          {
+                              "title":  "Cucumber-JVM for Java",
+                              "type":  "article",
+                              "url":  "https://automationpanda.com/2017/10/24/cucumber-jvm-for-java/"
+                          },
+                          {
+                              "title":  "Cucumber-JVM 5 with Enhanced Cucumber Expression",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jCzpxvAJoZM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mLM1HJf6_pxrUDOmb45ew",
+        "label":  "Mocking \u003e Mockito",
+        "endpoint":  "https://roadmap.sh/java/topic@mLM1HJf6_pxrUDOmb45ew.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mockito - Mocking Framework for Java",
+                              "type":  "article",
+                              "url":  "https://site.mockito.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OrkJa48HIDmrLOgCBpimA",
+        "label":  "Javalin",
+        "endpoint":  "https://roadmap.sh/java/topic@OrkJa48HIDmrLOgCBpimA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Javalin Website",
+                              "type":  "official",
+                              "url":  "https://javalin.io/"
+                          },
+                          {
+                              "title":  "Creating a REST API with Javalin",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/javalin-rest-microservices"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vRZAtylN3zfHIv3SidYkA",
+        "label":  "Documentation",
+        "endpoint":  "https://roadmap.sh/java/topic@vRZAtylN3zfHIv3SidYkA.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "d3Tsc7KPhtjS0eC4Zbq8B",
+        "label":  "Javadoc",
+        "endpoint":  "https://roadmap.sh/java/topic@d3Tsc7KPhtjS0eC4Zbq8B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "javadoc",
+                              "type":  "official",
+                              "url":  "https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html"
+                          },
+                          {
+                              "title":  "Javadocs",
+                              "type":  "article",
+                              "url":  "https://www.jetbrains.com/help/idea/javadocs.html"
+                          },
+                          {
+                              "title":  "Introduction to Javadoc",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/javadoc"
+                          },
+                          {
+                              "title":  "How to Write Doc Comments for the Javadoc Tool",
+                              "type":  "article",
+                              "url":  "https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Java Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/GbYnP9"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

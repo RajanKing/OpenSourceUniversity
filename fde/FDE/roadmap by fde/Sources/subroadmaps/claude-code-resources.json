@@ -1,0 +1,3709 @@
+[
+    {
+        "id":  "SKkeuO_5B18AbxlNGeazN",
+        "label":  "What is Vibe Coding?",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@SKkeuO_5B18AbxlNGeazN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Vibe Coding Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/vibe-coding"
+                          },
+                          {
+                              "title":  "What is vibe coding?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/vibe-coding"
+                          },
+                          {
+                              "title":  "What Is Vibe Coding? Building Software with Agentic AI",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Y68FF_nUSWE"
+                          },
+                          {
+                              "title":  "What is Vibe Coding?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5OWurmg41tI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LGxnQkrbwVu9z1PFB12P3",
+        "label":  "What is a Coding Agent?",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@LGxnQkrbwVu9z1PFB12P3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated AI Agents Roadmap",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/ai-agents"
+                          },
+                          {
+                              "title":  "What are AI agents?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/ai-agents"
+                          },
+                          {
+                              "title":  "What are AI agents? Definition, examples, and types | Google Cloud",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/discover/what-are-ai-agents"
+                          },
+                          {
+                              "title":  "AI Agents, Clearly Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=FwOTs4UxQS4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RqfeqVMhTSdC4w4GcsETP",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@RqfeqVMhTSdC4w4GcsETP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claude Code in Action",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/claude-code-in-action"
+                          },
+                          {
+                              "title":  "Claude Code 101",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/claude-code-101"
+                          },
+                          {
+                              "title":  "Claude Code overview",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/overview"
+                          },
+                          {
+                              "title":  "How Claude Code works",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3r-vFlVAEirxD1gaFOO4H",
+        "label":  "Claude CLI",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@3r-vFlVAEirxD1gaFOO4H.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started with Claude Code",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/quickstart"
+                          },
+                          {
+                              "title":  "Optimize your terminal setup",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/terminal-config"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_Un0jTJaFs5Pdn1DFGl61",
+        "label":  "Subscription",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@_Un0jTJaFs5Pdn1DFGl61.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Log in to your account",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/quickstart#step-2-log-in-to-your-account"
+                          },
+                          {
+                              "title":  "Subscription \u0026 Pricing",
+                              "type":  "official",
+                              "url":  "https://claude.com/pricing"
+                          },
+                          {
+                              "title":  "Claude Pricing Explained: Subscription Plans \u0026 API Costs",
+                              "type":  "article",
+                              "url":  "https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N6dDyEXIUJUA3-o1J9K_n",
+        "label":  "API usage",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@N6dDyEXIUJUA3-o1J9K_n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claude Console",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/"
+                          },
+                          {
+                              "title":  "Claude Code Analytics API",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/claude-code-analytics-api"
+                          },
+                          {
+                              "title":  "Claude Pricing Explained: Subscription Plans \u0026 API Costs",
+                              "type":  "article",
+                              "url":  "https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs"
+                          },
+                          {
+                              "title":  "Claude, Claude API, and Claude Code: What\u0027s the Difference?",
+                              "type":  "article",
+                              "url":  "https://eval.16x.engineer/blog/claude-vs-claude-api-vs-claude-code"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "thR8GUbuAkEL4sb4m3llJ",
+        "label":  "Ways to use Claude",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@thR8GUbuAkEL4sb4m3llJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claude 101",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/claude-101"
+                          },
+                          {
+                              "title":  "Use Claude Code everywhere",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/overview#use-claude-code-everywhere"
+                          },
+                          {
+                              "title":  "Claude Cowork vs. Code vs. Chat: When to use each",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/claude-code/vs-cowork-vs-chat"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "T6PklJYVOrmcAgNcCFhKt",
+        "label":  "CLAUDE.md",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@T6PklJYVOrmcAgNcCFhKt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Write an effective CLAUDE.md",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md"
+                          },
+                          {
+                              "title":  "The Complete Guide to CLAUDE.md",
+                              "type":  "article",
+                              "url":  "https://www.builder.io/blog/claude-md-guide"
+                          },
+                          {
+                              "title":  "Writing a good CLAUDE.md | HumanLayer Blog",
+                              "type":  "article",
+                              "url":  "https://www.humanlayer.dev/blog/writing-a-good-claude-md"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #2 - CLAUDE.md Files \u0026 /init - YouTube",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=i_OHQH4-M2Y"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iVa6piQwdPHIDkSRX8OSy",
+        "label":  "Skills",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@iVa6piQwdPHIDkSRX8OSy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to agent skills",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/introduction-to-agent-skills"
+                          },
+                          {
+                              "title":  "Agent Skills with Anthropic",
+                              "type":  "course",
+                              "url":  "https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/"
+                          },
+                          {
+                              "title":  "Extend Claude with skills",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/skills"
+                          },
+                          {
+                              "title":  "The Complete Guide to Building Skills for Claude",
+                              "type":  "official",
+                              "url":  "https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en"
+                          },
+                          {
+                              "title":  "Claude Code Skills \u0026 skills.sh - Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rcRS8-7OgBo"
+                          },
+                          {
+                              "title":  "MCP vs Skills: Which Is Right for Your AI Agent and LLMs?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=goU9VIXA8II"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "SKILL.md",
+                                "type":  "inline",
+                                "url":  "http://SKILL.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vB1d1mbiPJK3a1LbYZkH9",
+        "label":  "Tools",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@vB1d1mbiPJK3a1LbYZkH9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tools",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works#tools"
+                          },
+                          {
+                              "title":  "Tools available to Claude",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/settings#tools-available-to-claude"
+                          },
+                          {
+                              "title":  "Introducing advanced tool use on the Claude Developer Platform \\ Anthropic",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/engineering/advanced-tool-use"
+                          },
+                          {
+                              "title":  "Claude Code Built-in Tools Reference | vtrivedy",
+                              "type":  "article",
+                              "url":  "https://www.vtrivedy.com/posts/claudecode-tools-reference/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "C5tCsAJQxq2d-fOrjjloB",
+        "label":  "Context",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@C5tCsAJQxq2d-fOrjjloB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The context window",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works#the-context-window"
+                          },
+                          {
+                              "title":  "How large is the context window on paid Claude plans?",
+                              "type":  "official",
+                              "url":  "https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans"
+                          },
+                          {
+                              "title":  "What is a context window? | IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/context-window"
+                          },
+                          {
+                              "title":  "Claude Code’s Memory Problem (Solved in 12 Minutes) - YouTube",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=c0g_wYux6X4\u0026t=39s"
+                          },
+                          {
+                              "title":  "3 Ways to Fix Claude Code\u0027s Context - YouTube",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yBLwsBKPYSw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gcZCpCWHvIo5Ox0vVkdgV",
+        "label":  "Modes",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@gcZCpCWHvIo5Ox0vVkdgV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Configure permissions",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/permissions"
+                          },
+                          {
+                              "title":  "A complete guide to Claude Code permissions",
+                              "type":  "article",
+                              "url":  "https://www.eesel.ai/blog/claude-code-permissions"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #4 - Tools \u0026 Permissions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=TU0ZcDFq0e0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RHWW3QOFWRMqlaovGOLEO",
+        "label":  "Models",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@RHWW3QOFWRMqlaovGOLEO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Models",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works#models"
+                          },
+                          {
+                              "title":  "Models overview",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/about-claude/models/overview"
+                          },
+                          {
+                              "title":  "Choosing the right model",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/about-claude/models/choosing-a-model"
+                          },
+                          {
+                              "title":  "A practical guide to Claude Code model selection",
+                              "type":  "article",
+                              "url":  "https://www.eesel.ai/blog/claude-code-model-selection"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "29xiIXYlB0bjXKA794qap",
+        "label":  "Using Claude Code",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@29xiIXYlB0bjXKA794qap.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AI Capabilities and Limitations",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/ai-capabilities-and-limitations"
+                          },
+                          {
+                              "title":  "Best Practices for Claude Code - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices"
+                          },
+                          {
+                              "title":  "Prompting best practices - Claude API Docs",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices"
+                          },
+                          {
+                              "title":  "Vibe coding tutorial: Build your first app with Claude Code",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/vibe-coding/tutorial"
+                          },
+                          {
+                              "title":  "How I use Claude Code (+ my best tips)",
+                              "type":  "article",
+                              "url":  "https://www.builder.io/blog/claude-code"
+                          },
+                          {
+                              "title":  "How I use Claude Code (Meta Staff Engineer Tips) - YouTube",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=mZzhfPle9QU"
+                          },
+                          {
+                              "title":  "My top 6 tips \u0026 ways of using Claude Code efficiently - YouTube",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=WwdIYp5fuxY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rGtz0Nw4BgOrdm3WUmjwZ",
+        "label":  "Common Usecases",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@rGtz0Nw4BgOrdm3WUmjwZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What you can do",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/overview#what-you-can-do"
+                          },
+                          {
+                              "title":  "Common workflows",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/common-workflows"
+                          },
+                          {
+                              "title":  "20+ Real Use Cases That Prove Claude Code Is a Game-Changer",
+                              "type":  "article",
+                              "url":  "https://medium.com/@agencyai/20-real-use-cases-that-prove-claude-code-is-a-game-changer-46ceefaf19ed"
+                          },
+                          {
+                              "title":  "8 Insane Claude Code Use Cases (code anything!)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=akIHv-n--io"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FP6Lc-zqmP8yzBytuSsUc",
+        "label":  "Headless mode",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@FP6Lc-zqmP8yzBytuSsUc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run Claude Code programmatically",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/headless"
+                          },
+                          {
+                              "title":  "Headless Mode: Unleash AI in Your CI/CD Pipeline",
+                              "type":  "article",
+                              "url":  "https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm"
+                          },
+                          {
+                              "title":  "Building headless automation with Claude Code | Code w/ Claude",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dRsjO-88nBs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wxkAkdKFTwbNJEfwA9tGl",
+        "label":  "Git Worktrees",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@wxkAkdKFTwbNJEfwA9tGl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run parallel Claude Code sessions with Git worktrees",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/worktrees"
+                          },
+                          {
+                              "title":  "Using Git Worktrees for Parallel AI Development",
+                              "type":  "article",
+                              "url":  "https://stevekinney.com/courses/ai-development/git-worktrees"
+                          },
+                          {
+                              "title":  "Git Worktrees: The secret sauce to Claude Code!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=up91rbPEdVc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SCbZprU9r8BIX4BoyjYPE",
+        "label":  "Understand Claude Pricing",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@SCbZprU9r8BIX4BoyjYPE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pricing",
+                              "type":  "official",
+                              "url":  "https://claude.com/pricing"
+                          },
+                          {
+                              "title":  "Pricing in detail",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/about-claude/pricing"
+                          },
+                          {
+                              "title":  "Claude Pricing Explained: Subscription Plans \u0026 API Costs",
+                              "type":  "article",
+                              "url":  "https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "__3S2Z00hK_g_GQJxv_21",
+        "label":  "Be mindful of extensions",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@__3S2Z00hK_g_GQJxv_21.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Hidden Cost of MCP Servers (And When They\u0027re Worth It)",
+                              "type":  "article",
+                              "url":  "https://mariogiancini.com/the-hidden-cost-of-mcp-servers-and-when-theyre-worth-it"
+                          },
+                          {
+                              "title":  "Claude Skills are awesome, maybe a bigger deal than MCP",
+                              "type":  "article",
+                              "url":  "https://simonw.substack.com/p/claude-skills-are-awesome-maybe-a"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cdO7pKphZq1qvCeynxGKo",
+        "label":  "Thinking modes \u0026 Effort",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@cdO7pKphZq1qvCeynxGKo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Adjust effort level",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/model-config#adjust-ef"
+                          },
+                          {
+                              "title":  "Adjust extended thinking",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/costs#adjust-extended-thinking"
+                          },
+                          {
+                              "title":  "Effort",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/build-with-claude/effort"
+                          },
+                          {
+                              "title":  "Speed up responses with fast mode",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/fast-mode"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Dam_IG339RrYZXjXq3T8_",
+        "label":  "Prompt Caching",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@Dam_IG339RrYZXjXq3T8_.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CLAUDE.md",
+                                "type":  "inline",
+                                "url":  "http://CLAUDE.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8fXu3OX3xfwr3NTAIHU0z",
+        "label":  "Manage Context",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@8fXu3OX3xfwr3NTAIHU0z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Manage costs effectively",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/costs#reduce-token-usage"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TWN08Vx7aBK-mvOSQuFfu",
+        "label":  "Opus",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@TWN08Vx7aBK-mvOSQuFfu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claude Opus 4.6 \\ Anthropic",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/claude/opus"
+                          },
+                          {
+                              "title":  "What\u0027s new in Claude 4.6 - Claude API Docs",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6"
+                          },
+                          {
+                              "title":  "Introducing Claude Opus 4.6",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dPn3GBI8lII"
+                          },
+                          {
+                              "title":  "Claude Opus 4.6: The Biggest AI Jump I\u0027ve Covered--It\u0027s Not Close. (Here\u0027s What You Need to Know)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=JKk77rzOL34"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nDodLa7_UEeOmx6iM0Xp5",
+        "label":  "Sonnet",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@nDodLa7_UEeOmx6iM0Xp5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introducing Claude Sonnet 4.5 \\ Anthropic",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/news/claude-sonnet-4-5"
+                          },
+                          {
+                              "title":  "Claude Sonnet 4.5 \\ Anthropic",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/claude/sonnet"
+                          },
+                          {
+                              "title":  "Sonnet 4.5 is the best coding model in the world",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=uZBjVeyiYkk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y_euG-Rzj-OmCZhvMXegc",
+        "label":  "Haiku",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@y_euG-Rzj-OmCZhvMXegc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introducing Claude Haiku 4.5",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/news/claude-haiku-4-5"
+                          },
+                          {
+                              "title":  "Claude Haiku 4.5",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/claude/haiku"
+                          },
+                          {
+                              "title":  "Introducing Claude Haiku 4.5",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ccQSHQ3VGIc"
+                          },
+                          {
+                              "title":  "Anthropic’s Claude Haiku 4.5 in 6 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jC_rX86O1Q8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lcnfnGocMZIWDQqrmdCWL",
+        "label":  "claude",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@lcnfnGocMZIWDQqrmdCWL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CLI commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/cli-reference#cli-commands"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zSpldCAVxYoRpHDIR2oVa",
+        "label":  "claude \"query\"",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@zSpldCAVxYoRpHDIR2oVa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CLI commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/cli-reference"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2PKH3Ru9XgCz1MO75pDVr",
+        "label":  "claude -p",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@2PKH3Ru9XgCz1MO75pDVr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CLI commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/cli-reference#cli-commands"
+                          },
+                          {
+                              "title":  "Run Claude Code programmatically",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/headless"
+                          },
+                          {
+                              "title":  "Building headless automation with Claude Code | Code w/ Claude",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dRsjO-88nBs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XlCA3rx2C7wx_EcTYtr9_",
+        "label":  "claude -c",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@XlCA3rx2C7wx_EcTYtr9_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CLI commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/cli-reference#cli-commands"
+                          },
+                          {
+                              "title":  "Resume previous conversations",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/common-workflows#resume-previous-conversations"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zUxO8udwPhYK6J_3wAs2Z",
+        "label":  "claude -r",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@zUxO8udwPhYK6J_3wAs2Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CLI commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/cli-reference#cli-commands"
+                          },
+                          {
+                              "title":  "Resume or fork sessions",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works#resume-or-fork-sessions"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I4i_fKzuBy5pTC0JXyEl-",
+        "label":  "/help",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@I4i_fKzuBy5pTC0JXyEl-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #6 - Slash Commands",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=52KBhQqqHuc\u0026t=1s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N4YM2lqDcic5AiYgv0eRZ",
+        "label":  "/clear",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@N4YM2lqDcic5AiYgv0eRZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Claude Code Context Guide: Master CLAUDE.md \u0026 /clear",
+                              "type":  "article",
+                              "url":  "https://www.arsturn.com/blog/beyond-prompting-a-guide-to-managing-context-in-claude-code"
+                          },
+                          {
+                              "title":  "In claude code, what is the difference between doing /clear and starting a new chat? : r/ClaudeAI",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeAI/comments/1myr717/in_claude_code_what_is_the_difference_between/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MjZUaSJLSU5nDMgDJaWUh",
+        "label":  "/exit",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@MjZUaSJLSU5nDMgDJaWUh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PS0GH8e9sW9N4s3UeHhjH",
+        "label":  "/status",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@PS0GH8e9sW9N4s3UeHhjH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Customize your status line",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/statusline"
+                          },
+                          {
+                              "title":  "Your Claude Code Terminal Should Look Like This",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fiZfVTsPy-w"
+                          },
+                          {
+                              "title":  "Claude Code StatusLine Explained (Free Script Generator)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=PB9_Q2tfe90"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CPJulmusiWq3JQ6MmEJ0I",
+        "label":  "/usage",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@CPJulmusiWq3JQ6MmEJ0I.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vw9cc6_33nHnNPNyhLo_d",
+        "label":  "/cost",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@vw9cc6_33nHnNPNyhLo_d.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Using the /cost command",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/costs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eLlCNxa6bqQW0JsHxIdOa",
+        "label":  "/export",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@eLlCNxa6bqQW0JsHxIdOa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "1.0.44 has new /export command : r/ClaudeAI",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeAI/comments/1lw5r1l/1044_has_new_export_command/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-K5K7yT97VRC7u0IOzJyT",
+        "label":  "/rewind",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@-K5K7yT97VRC7u0IOzJyT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Checkpointing",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/checkpointing"
+                          },
+                          {
+                              "title":  "Rewind Changes Instantly with Checkpoints",
+                              "type":  "article",
+                              "url":  "https://wmedia.es/en/tips/rewind-changes-instantly-with-checkpoints"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6UHAXR4praMqGiEUgWAt8",
+        "label":  "/context",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@6UHAXR4praMqGiEUgWAt8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Monitor Token Usage with the /context Command",
+                              "type":  "article",
+                              "url":  "https://wmedia.es/en/tips/claude-code-context-command-token-usage"
+                          },
+                          {
+                              "title":  "3 Ways to Fix Claude Code\u0027s Context",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yBLwsBKPYSw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "65s0P7d39fFR2yhy4JKEZ",
+        "label":  "/compact",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@65s0P7d39fFR2yhy4JKEZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "What Actually Happens When You Run /compact in Claude Code",
+                              "type":  "article",
+                              "url":  "https://dev.to/rigby_/what-actually-happens-when-you-run-compact-in-claude-code-3kl9"
+                          },
+                          {
+                              "title":  "3 Ways to Fix Claude Code\u0027s Context",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yBLwsBKPYSw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l7ECu0Q5bW9_OgVH7Ih4S",
+        "label":  "/memory",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@l7ECu0Q5bW9_OgVH7Ih4S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Manage Claude\u0027s memory",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/memory#directly-edit-memories-with-memory"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CLAUDE.md",
+                                "type":  "inline",
+                                "url":  "http://CLAUDE.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oucDNnTIc8gv3dlEibDB2",
+        "label":  "/init",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@oucDNnTIc8gv3dlEibDB2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Write an effective CLAUDE.md",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md"
+                          },
+                          {
+                              "title":  "Build your own /init command like Claude Code",
+                              "type":  "article",
+                              "url":  "https://kau.sh/blog/build-ai-init-command/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CLAUDE.md",
+                                "type":  "inline",
+                                "url":  "http://CLAUDE.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UOSXh1o8bRY8Wcm6uYIgR",
+        "label":  "/config",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@UOSXh1o8bRY8Wcm6uYIgR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Claude Code settings",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/settings"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8rKpgtmO92EUFAKlWVuO5",
+        "label":  "/permissions",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@8rKpgtmO92EUFAKlWVuO5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Manage permissions",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/permissions"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NMBBRdBWwCphjwQuFAp9W",
+        "label":  "/model",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@NMBBRdBWwCphjwQuFAp9W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Model configuration",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/model-config#setting-your-model"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IzHlnmGAqG1lpwuX1Oh4p",
+        "label":  "/doctor",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@IzHlnmGAqG1lpwuX1Oh4p.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Claude Code Installation Guide: Using irm Script, npm Setup, and https://claude.ai/install.ps1 Script",
+                              "type":  "article",
+                              "url":  "https://vibecodingwithfred.com/blog/claude-code-installation-guide/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FgQXBQ6oJ5sfW_ar0u6ez",
+        "label":  "claude --add-dir",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@FgQXBQ6oJ5sfW_ar0u6ez.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cMGYb_X1UK8sWI6brFj9S",
+        "label":  "SessionStart",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@cMGYb_X1UK8sWI6brFj9S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          },
+                          {
+                              "title":  "Claude Code Session Hooks: Make Every Session Start Smart (and End Clean)",
+                              "type":  "article",
+                              "url":  "https://medium.com/@CodeCoup/claude-code-session-hooks-make-every-session-start-smart-and-end-clean-e505e6914d45"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "x5U0F5WWAqnNCC8f-qjr7",
+        "label":  "SessionEnd",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@x5U0F5WWAqnNCC8f-qjr7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          },
+                          {
+                              "title":  "Claude Code Session Hooks: Make Every Session Start Smart (and End Clean)",
+                              "type":  "article",
+                              "url":  "https://medium.com/@CodeCoup/claude-code-session-hooks-make-every-session-start-smart-and-end-clean-e505e6914d45"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FWf5hyCRo9UQ2QPalLVYn",
+        "label":  "PreToolUse",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@FWf5hyCRo9UQ2QPalLVYn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          },
+                          {
+                              "title":  "Secure Your Claude Skills with Custom PreToolUse Hooks",
+                              "type":  "article",
+                              "url":  "https://egghead.io/secure-your-claude-skills-with-custom-pre-tool-use-hooks~dhqko"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TBrr5EscwLZu7cOJoWbPy",
+        "label":  "PostToolUse",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@TBrr5EscwLZu7cOJoWbPy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Zrqdx4Z8uAS5yhI65Xh6z",
+        "label":  "UserPromptSubmit",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@Zrqdx4Z8uAS5yhI65Xh6z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          },
+                          {
+                              "title":  "Rewrite Prompts on the Fly with UserPromptSubmit Hooks",
+                              "type":  "article",
+                              "url":  "https://egghead.io/lessons/rewrite-prompts-on-the-fly-with-user-prompt-submit-hooks~76rrt"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v-gjhrW3oVZTe3EpUCjhY",
+        "label":  "Stop",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@v-gjhrW3oVZTe3EpUCjhY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PYjuzInrTOWebl-OyYfMa",
+        "label":  "!",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@PYjuzInrTOWebl-OyYfMa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bash mode with ! prefix",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode#bash-mode-with-prefix"
+                          },
+                          {
+                              "title":  "Claude Code and Bash Scripts | Developing with AI Tools | Steve Kinney",
+                              "type":  "article",
+                              "url":  "https://stevekinney.com/courses/ai-development/claude-code-and-bash-scripts"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N6z45nuFeUqRB2f-8b_Ku",
+        "label":  "\\",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@N6z45nuFeUqRB2f-8b_Ku.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Multiline input",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode#multiline-input"
+                          },
+                          {
+                              "title":  "Line breaks",
+                              "type":  "official",
+                              "url":  "http://code.claude.com/docs/en/terminal-config#line-breaks"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "La3uarrUxC5oTszf4oaWr",
+        "label":  "@",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@La3uarrUxC5oTszf4oaWr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Quick commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode#built-in-commands"
+                          },
+                          {
+                              "title":  "CLAUDE.md imports",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/memory#claude-md-imports"
+                          },
+                          {
+                              "title":  "Referencing Files and Resources in Claude Code | Developing with AI Tools | Steve Kinney",
+                              "type":  "article",
+                              "url":  "https://stevekinney.com/courses/ai-development/referencing-files-in-claude-code"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gpg2cfEUUKI5J9FMxn5QD",
+        "label":  "Shift+Tab",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@gpg2cfEUUKI5J9FMxn5QD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Interactive mode - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Claude Code Plan Mode | Developing with AI Tools | Steve Kinney",
+                              "type":  "article",
+                              "url":  "https://stevekinney.com/courses/ai-development/claude-code-plan-mode"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JeotqE91kV1n-YRoXN9gX",
+        "label":  "Slash Commands (/)",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@JeotqE91kV1n-YRoXN9gX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode#built-in-commands"
+                          },
+                          {
+                              "title":  "How to Use Claude Code: A Guide to Slash Commands, Agents, Skills, and Plug-ins",
+                              "type":  "article",
+                              "url":  "https://www.producttalk.org/how-to-use-claude-code-features/"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #6 - Slash Commands",
+                              "type":  "article",
+                              "url":  "https://www.youtube.com/watch?v=52KBhQqqHuc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dD0TlpfC4GzYWINplekKw",
+        "label":  "Ctrl+C",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@dD0TlpfC4GzYWINplekKw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Interactive mode - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "How I use Claude Code (+ my best tips)",
+                              "type":  "article",
+                              "url":  "https://www.builder.io/blog/claude-code"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2pu6b0Z5BQAz44Hx69Pzk",
+        "label":  "Esc",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@2pu6b0Z5BQAz44Hx69Pzk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Interactive mode - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R7YJyNd0taUVJvXDPHBn5",
+        "label":  "Ctrl+R",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@R7YJyNd0taUVJvXDPHBn5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Interactive mode - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Reverse search with Ctrl+R",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode#reverse-search-with-ctrl+r"
+                          },
+                          {
+                              "title":  "Ctrl+R: Stop Retyping That Perfect Prompt You Wrote Last Week - DEV Community",
+                              "type":  "article",
+                              "url":  "https://dev.to/rajeshroyal/ctrlr-stop-retyping-that-perfect-prompt-you-wrote-last-week-19ae"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8xqKBvdDfTLeZXeGeqQZr",
+        "label":  "Esc + Esc",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@8xqKBvdDfTLeZXeGeqQZr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Interactive mode - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode#reverse-search-with-ctrl+r"
+                          },
+                          {
+                              "title":  "Checkpointing - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/checkpointing"
+                          },
+                          {
+                              "title":  "Your Time Machine for Code: Double Esc to Rewind When Things Go Wrong - DEV Community",
+                              "type":  "article",
+                              "url":  "https://dev.to/rajeshroyal/your-time-machine-for-code-double-esc-to-rewind-when-things-go-wrong-53pa"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sx2GRmZbQEYxeb05HpHQH",
+        "label":  "/agents",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@sx2GRmZbQEYxeb05HpHQH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Create custom subagents",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/sub-agents#use-the-agents-command"
+                          },
+                          {
+                              "title":  "Agents flag format",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/cli-reference"
+                          },
+                          {
+                              "title":  "Claude Code NEW Sub Agents in 7 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DNGxMX7ym44"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3ZYaw7kTiErPiLVwMf3J8",
+        "label":  "/plan",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@3ZYaw7kTiErPiLVwMf3J8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Use Plan Mode for safe code analysis",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/common-workflows#use-plan-mode-for-safe-code-analysis"
+                          },
+                          {
+                              "title":  "What Actually Is Claude Code’s Plan Mode?",
+                              "type":  "article",
+                              "url":  "https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Lyl4h5cvdY1YVpzBo_LEB",
+        "label":  "/mcp",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@Lyl4h5cvdY1YVpzBo_LEB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Connect Claude Code to tools via MCP",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/mcp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OTpU2G6mnbkFhthKAkxlM",
+        "label":  "/hooks",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@OTpU2G6mnbkFhthKAkxlM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Built-in commands",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/interactive-mode"
+                          },
+                          {
+                              "title":  "Hooks reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "The /hooks menu",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks#the-hooks-menu"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rIG8F-Rc-fMeXZ5n0UTwi",
+        "label":  "Desktop App",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@rIG8F-Rc-fMeXZ5n0UTwi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claude Code on desktop",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/desktop"
+                          },
+                          {
+                              "title":  "I Discovered Claude Code Desktop: The (New) Way to Build Faster Than Your Terminal",
+                              "type":  "article",
+                              "url":  "https://medium.com/@joe.njenga/i-discovered-claude-code-desktop-the-new-way-to-build-faster-than-your-terminal-1679aa6ce790"
+                          },
+                          {
+                              "title":  "Claude Code on desktop",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zrcCS9oHjtI"
+                          },
+                          {
+                              "title":  "Claude Code for Desktop is the BEST way to build apps with AI EVER",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pZ2N7CJFbBk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TCWd5vobMAhP7I97Q1rTq",
+        "label":  "CLAUDE.md",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@TCWd5vobMAhP7I97Q1rTq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Manage Claude\u0027s memory",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/memory#manage-claudes-memory"
+                          },
+                          {
+                              "title":  "The Complete Guide to CLAUDE.md",
+                              "type":  "article",
+                              "url":  "https://www.builder.io/blog/claude-md-guide"
+                          },
+                          {
+                              "title":  "What is the point of CLAUDE.md? : r/ClaudeAI",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeAI/comments/1nokaln/what_is_the_point_of_claudemd/"
+                          },
+                          {
+                              "title":  "How to Use CLAUDE.md in Claude Code in 5 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=h7QJL2_gEXA"
+                          },
+                          {
+                              "title":  "CLAUDE.md \u0026 /init",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=i_OHQH4-M2Y\u0026list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CLAUDE.md",
+                                "type":  "inline",
+                                "url":  "http://CLAUDE.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OJIfG7DRO4jgQEcberkNx",
+        "label":  "Skills",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@OJIfG7DRO4jgQEcberkNx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agent Skills with Anthropic",
+                              "type":  "course",
+                              "url":  "https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/"
+                          },
+                          {
+                              "title":  "Introduction to agent skills",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/introduction-to-agent-skills"
+                          },
+                          {
+                              "title":  "Extend Claude with skills",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/skills#extend-claude-with-skills"
+                          },
+                          {
+                              "title":  "The Complete Guide to Building Skills for Claude",
+                              "type":  "official",
+                              "url":  "https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en"
+                          },
+                          {
+                              "title":  "Claude Code Skills \u0026 skills.sh - Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rcRS8-7OgBo"
+                          },
+                          {
+                              "title":  "MCP vs Skills: Which Is Right for Your AI Agent and LLMs?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=goU9VIXA8II"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EsbasCHDQOBZcBfHIrTbE",
+        "label":  " Subagents",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@EsbasCHDQOBZcBfHIrTbE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Create custom subagents",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/sub-agents"
+                          },
+                          {
+                              "title":  "Claude Code Subagents: Complete Guide to Multi-Agent Architecture",
+                              "type":  "article",
+                              "url":  "https://wmedia.es/en/writing/claude-code-subagents-guide-ai"
+                          },
+                          {
+                              "title":  "Building with Claude Code Subagents (My Beloved Minions) | by Yee Fei | Medium",
+                              "type":  "article",
+                              "url":  "https://medium.com/@ooi_yee_fei/building-with-claude-code-subagents-my-beloved-minions-b5a9a4318ba5"
+                          },
+                          {
+                              "title":  "99% of Developers Haven’t Seen Claude Code Sub Agents (It Changes Everything)",
+                              "type":  "article",
+                              "url":  "https://medium.com/vibe-coding/99-of-developers-havent-seen-claude-code-sub-agents-it-changes-everything-c8b80ed79b97"
+                          },
+                          {
+                              "title":  "Claude Code NEW Sub Agents in 7 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DNGxMX7ym44\u0026pp=ygUVY2xhdWRlIGNvZGUgc3ViYWdlbnRz"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #8 - Subagents",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Phr7vBx9yFQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "svhWAC463Y9CUkFb524Fd",
+        "label":  "Usage Best Practices",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@svhWAC463Y9CUkFb524Fd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Best Practices for Claude Code",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices#best-practices-for-claude-code"
+                          },
+                          {
+                              "title":  "Vibe Coding Best Practices: How To Get Consistent Results",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/vibe-coding/best-practices"
+                          },
+                          {
+                              "title":  "What are your \"best practices\" for Claude Code? : r/ClaudeCode",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeCode/comments/1nris9w/what_are_your_best_practices_for_claude_code/"
+                          },
+                          {
+                              "title":  "How I use Claude Code (+ my best tips)",
+                              "type":  "article",
+                              "url":  "https://www.builder.io/blog/claude-code"
+                          },
+                          {
+                              "title":  "Claude Code Workflows That Will 10x Your Productivity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yZvDo_n12ns\u0026t=145s"
+                          },
+                          {
+                              "title":  "Claude Code - 47 PRO TIPS in 9 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=TiNpzxoBPz0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "801KNtjf61FTiLS1yrDSB",
+        "label":  "Hooks",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@801KNtjf61FTiLS1yrDSB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Automate workflows with hooks - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          },
+                          {
+                              "title":  "Automate Your AI Workflows with Claude Code Hooks | Butler\u0027s Log",
+                              "type":  "article",
+                              "url":  "https://blog.gitbutler.com/automate-your-ai-workflows-with-claude-code-hooks"
+                          },
+                          {
+                              "title":  "How Claude Code Hooks Save Me HOURS Daily",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Q4gsvJvRjCU"
+                          },
+                          {
+                              "title":  "Claude Code hooks are Officially Awesome",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=eFjqogpmNkQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_iAIq8mwW0cIGbvrfmSJ5",
+        "label":  "Claude Workflow",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@_iAIq8mwW0cIGbvrfmSJ5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How Claude Code Works",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works"
+                          },
+                          {
+                              "title":  "Common workflows",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/common-workflows"
+                          },
+                          {
+                              "title":  "My Best Workflow for Working with Claude Code : r/ClaudeAI",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeAI/comments/1m3pol4/my_best_workflow_for_working_with_claude_code/"
+                          },
+                          {
+                              "title":  "Claude Code Workflows That Will 10x Your Productivity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yZvDo_n12ns"
+                          },
+                          {
+                              "title":  "The greatest Claude Code workflow ever (10x your speed)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=WdD6uD_kupY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CLAUDE.md",
+                                "type":  "inline",
+                                "url":  "http://CLAUDE.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y8VCGx-h97udP-dRzsSAI",
+        "label":  "Permission Modes",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@y8VCGx-h97udP-dRzsSAI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Permission modes",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/permissions#permission-modes"
+                          },
+                          {
+                              "title":  "A complete guide to Claude Code permissions",
+                              "type":  "article",
+                              "url":  "https://www.eesel.ai/blog/claude-code-permissions"
+                          },
+                          {
+                              "title":  "3 Things You Must Know About /permissions in Claude Code",
+                              "type":  "article",
+                              "url":  "https://wmedia.es/en/tips/claude-code-permissions-3-key-concepts"
+                          },
+                          {
+                              "title":  "Claude Code on Loop: The Ultimate YOLO Mode",
+                              "type":  "article",
+                              "url":  "https://mfyz.com/claude-code-on-loop-autonomous-ai-coding/"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #4 - Tools \u0026 Permissions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=TU0ZcDFq0e0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0HKJlqhoSCMNKf1lRIEy1",
+        "label":  "Resume",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@0HKJlqhoSCMNKf1lRIEy1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Resume previous conversations",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/common-workflows#resume-previous-conversations"
+                          },
+                          {
+                              "title":  "Resume conversations",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices#resume-conversations"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rlj-GMcqgdKM5_7rs7yz9",
+        "label":  "Manage Sessions",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@rlj-GMcqgdKM5_7rs7yz9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Work with sessions",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works#work-with-sessions"
+                          },
+                          {
+                              "title":  "Claude Code Session Management | Developing with AI Tools | Steve Kinney",
+                              "type":  "article",
+                              "url":  "https://stevekinney.com/courses/ai-development/claude-code-session-management"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cW0a112UVj2M3wBDA8UDj",
+        "label":  "Rewind",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@cW0a112UVj2M3wBDA8UDj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rewind and summarize",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/checkpointing#rewind-and-summarize"
+                          },
+                          {
+                              "title":  "Rewind with checkpoints",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices#rewind-with-checkpoints"
+                          },
+                          {
+                              "title":  "Claude Code Checkpoints: 5 Patterns for Disaster Recovery | Medium",
+                              "type":  "article",
+                              "url":  "https://alirezarezvani.medium.com/claude-code-rewind-5-patterns-after-a-3-hour-disaster-a9de9bce0372"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7ZD0nOke-7vqaibxBx24Y",
+        "label":  "How to Structure",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@7ZD0nOke-7vqaibxBx24Y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Write an effective CLAUDE.md",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md"
+                          },
+                          {
+                              "title":  "How to structure your CLAUDE.md file",
+                              "type":  "article",
+                              "url":  "https://www.builder.io/blog/claude-md-guide"
+                          },
+                          {
+                              "title":  "How we structure our CLAUDE.md file (and why) : r/ClaudeAI",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeAI/comments/1mecx5t/how_we_structure_our_claudemd_file_and_why/"
+                          },
+                          {
+                              "title":  "# Writing a good CLAUDE.md",
+                              "type":  "article",
+                              "url":  "https://www.humanlayer.dev/blog/writing-a-good-claude-md"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CLAUDE.md",
+                                "type":  "inline",
+                                "url":  "http://CLAUDE.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ho_DTKqMZnx_nlxjWfrW2",
+        "label":  "Locations",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@Ho_DTKqMZnx_nlxjWfrW2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Write an effective CLAUDE.md",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices"
+                          },
+                          {
+                              "title":  "Determine memory type",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/memory#determine-memory-type"
+                          },
+                          {
+                              "title":  "The Complete Guide to CLAUDE.md",
+                              "type":  "article",
+                              "url":  "https://www.builder.io/blog/claude-md-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CLAUDE.md",
+                                "type":  "inline",
+                                "url":  "http://CLAUDE.md"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6WsAQV_e_2XJKl2KlN2dl",
+        "label":  "Creating Skills",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@6WsAQV_e_2XJKl2KlN2dl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Agent Skills with Anthropic",
+                              "type":  "course",
+                              "url":  "https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/"
+                          },
+                          {
+                              "title":  "Extend Claude with skills",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/skills#extend-claude-with-skills"
+                          },
+                          {
+                              "title":  "How to create custom Skills",
+                              "type":  "official",
+                              "url":  "https://support.claude.com/en/articles/12512198-how-to-create-custom-skills"
+                          },
+                          {
+                              "title":  "Build Your First Claude Code Agent Skill: A Simple Project Memory System That Saves Hours",
+                              "type":  "article",
+                              "url":  "https://pub.spillwave.com/build-your-first-claude-code-skill-a-simple-project-memory-system-that-saves-hours-1d13f21aff9e"
+                          },
+                          {
+                              "title":  "Claude Code Skills \u0026 skills.sh - Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rcRS8-7OgBo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5uIBv9rk7Wzc_bXny0B27",
+        "label":  "Skill Best Practices",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@5uIBv9rk7Wzc_bXny0B27.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HnrD1-Wc39ZRH5R6bptqX",
+        "label":  "Creating Subagents",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@HnrD1-Wc39ZRH5R6bptqX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Create custom subagents",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/sub-agents"
+                          },
+                          {
+                              "title":  "Building with Claude Code Subagents (My Beloved Minions)",
+                              "type":  "article",
+                              "url":  "https://medium.com/@ooi_yee_fei/building-with-claude-code-subagents-my-beloved-minions-b5a9a4318ba5"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #8 - Subagents",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Phr7vBx9yFQ"
+                          },
+                          {
+                              "title":  "Master Claude Code Sub‑Agents in 10 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=mEt-i8FunG8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Dutj1C19nrbonQ7OpqBnv",
+        "label":  "Plan Mode",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@Dutj1C19nrbonQ7OpqBnv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to use Plan Mode",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/common-workflows#how-to-use-plan-mode"
+                          },
+                          {
+                              "title":  "Explore first, then plan, then code",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/best-practices#explore-first-then-plan-then-code"
+                          },
+                          {
+                              "title":  "What Actually Is Claude Code’s Plan Mode?",
+                              "type":  "article",
+                              "url":  "https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/"
+                          },
+                          {
+                              "title":  "Claude Code Plan Mode | Developing with AI Tools | Steve Kinney",
+                              "type":  "article",
+                              "url":  "https://stevekinney.com/courses/ai-development/claude-code-plan-mode"
+                          },
+                          {
+                              "title":  "I was an AI skeptic. Then I tried plan mode",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=WNx-s-RxVxk\u0026t=70s"
+                          },
+                          {
+                              "title":  "How I Use Claude Code Plan Mode: 3 Examples",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=altX5elI-1k"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Gwsh4g1SxI2hJcS84p9it",
+        "label":  "Hook Inputs \u0026 Outputs",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@Gwsh4g1SxI2hJcS84p9it.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hook Inputs \u0026 Outputs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks#hook-input-and-output"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uC2PkMsCK-vaBo5Ygha2P",
+        "label":  "Hook Types",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@uC2PkMsCK-vaBo5Ygha2P.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hook Types",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks"
+                          },
+                          {
+                              "title":  "Prompt-based hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide#prompt-based-hooks"
+                          },
+                          {
+                              "title":  "Agent-based hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide#agent-based-hooks"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nq8aLrgh7qNQnwZbS7d9Z",
+        "label":  "Hook Events \u0026 Matchers",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@nq8aLrgh7qNQnwZbS7d9Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hook Events",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks#hook-events"
+                          },
+                          {
+                              "title":  "Event Matchers",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks#matcher-patterns"
+                          },
+                          {
+                              "title":  "Hooks: Automating Event Reactions",
+                              "type":  "article",
+                              "url":  "https://angelo-lima.fr/en/claude-code-hooks/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fI90DtG5CoZbDyJUqLGoy",
+        "label":  "Agent Team",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@fI90DtG5CoZbDyJUqLGoy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Orchestrate teams of Claude Code sessions",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/agent-teams"
+                          },
+                          {
+                              "title":  "Building a C compiler with a team of parallel Claudes",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/engineering/building-c-compiler"
+                          },
+                          {
+                              "title":  "How to Set Up Claude Code Agent Teams (Full Walkthrough + What Actually Changed)",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeCode/comments/1qz8tyy/how_to_set_up_claude_code_agent_teams_full/"
+                          },
+                          {
+                              "title":  "Claude Code\u0027s Agent Teams Are Insane - Multiple AI Agents Coding Together in Real Time",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-1K_ZWDKpU0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i3K2_8VcOGGSPdj1Jb4Im",
+        "label":  "Output Styles",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@i3K2_8VcOGGSPdj1Jb4Im.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Output styles",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/output-styles#output-styles"
+                          },
+                          {
+                              "title":  "Share your Claude Code output styles",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/ClaudeAI/comments/1mqp4g4/share_your_claude_code_output_styles/"
+                          },
+                          {
+                              "title":  "A practical guide to output styles in Claude Code",
+                              "type":  "article",
+                              "url":  "https://www.eesel.ai/blog/output-styles-claude-code"
+                          },
+                          {
+                              "title":  "New Claude Code Output Styles Are HUGE",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IokDmpuXTrQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xEu9-kBz5SbM3Mrrwu446",
+        "label":  "Customize Status Line",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@xEu9-kBz5SbM3Mrrwu446.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Customize Status Line",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/statusline"
+                          },
+                          {
+                              "title":  "Your Claude Code Terminal Should Look Like This",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fiZfVTsPy-w"
+                          },
+                          {
+                              "title":  "Claude Code StatusLine Explained (Free Script Generator)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=PB9_Q2tfe90"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Tq83zphFUA1J8spMEyN8H",
+        "label":  "Model Configuration",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@Tq83zphFUA1J8spMEyN8H.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Model configuration",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/model-config#model-configuration"
+                          },
+                          {
+                              "title":  "A complete guide to model configuration in Claude Code",
+                              "type":  "article",
+                              "url":  "https://www.eesel.ai/blog/model-configuration-claude-code"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ip2bq52qRah-7db6dORO8",
+        "label":  "Scaling Claude",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@ip2bq52qRah-7db6dORO8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run agents in parallel",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/agents"
+                          },
+                          {
+                              "title":  "Agent view",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/agent-view"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YjRDJcSK_h82DooDWY2k4",
+        "label":  "Use /compact and /clear",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@YjRDJcSK_h82DooDWY2k4.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-P9o-aiDM7CDtLimppkjM",
+        "label":  "Use subagents and hooks",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@-P9o-aiDM7CDtLimppkjM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claude Code Subagents: Complete Guide to Multi-Agent Architecture",
+                              "type":  "official",
+                              "url":  "https://wmedia.es/en/writing/claude-code-subagents-guide-ai"
+                          },
+                          {
+                              "title":  "Automate workflows with hooks",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          },
+                          {
+                              "title":  "Delegate verbose operations to subagents",
+                              "type":  "article",
+                              "url":  "https://code.claude.com/docs/en/costs#delegate-verbose-operations-to-subagents"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WVrC8-nf8xn1jckCHO3h4",
+        "label":  "Security Best Practices",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@WVrC8-nf8xn1jckCHO3h4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Security",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/security#security"
+                          },
+                          {
+                              "title":  "Sandboxing",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/sandboxing"
+                          },
+                          {
+                              "title":  "Beyond permission prompts: making Claude Code more secure and autonomous",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/engineering/claude-code-sandboxing"
+                          },
+                          {
+                              "title":  "A deep dive into security for Claude Code in 2025",
+                              "type":  "article",
+                              "url":  "https://www.eesel.ai/blog/security-claude-code"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OBtJvLaEV3giUhvGFofKv",
+        "label":  "Connecting Tools with MCP",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@OBtJvLaEV3giUhvGFofKv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Model Context Protocol: Advanced Topics",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/model-context-protocol-advanced-topics"
+                          },
+                          {
+                              "title":  "Connect Claude Code to tools via MCP",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/mcp"
+                          },
+                          {
+                              "title":  "What is the Model Context Protocol (MCP)?",
+                              "type":  "article",
+                              "url":  "https://modelcontextprotocol.io/docs/getting-started/intro"
+                          },
+                          {
+                              "title":  "Claude Code MCP: How to Add MCP Servers (Complete Guide)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DfWHX7kszQI"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #7 - MCP Servers",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=X7lgIa6guKg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oV7YG_TnJ4ZyVVjqRwPkR",
+        "label":  "Plugins",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@oV7YG_TnJ4ZyVVjqRwPkR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Discover and install prebuilt plugins through marketplaces - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/discover-plugins"
+                          },
+                          {
+                              "title":  "Plugins",
+                              "type":  "official",
+                              "url":  "https://claude.com/plugins"
+                          },
+                          {
+                              "title":  "plugins",
+                              "type":  "opensource",
+                              "url":  "https://github.com/anthropics/claude-code/tree/main/plugins"
+                          },
+                          {
+                              "title":  "Claude Code Now Has SUPERPOWERS! (plugin)",
+                              "type":  "article",
+                              "url":  "https://www.youtube.com/watch?v=vfVQP2AbUHo"
+                          },
+                          {
+                              "title":  "Claude Code Plugins Just Changed My Workflow Forever",
+                              "type":  "article",
+                              "url":  "https://www.youtube.com/watch?v=-KusSduAP1A"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qg6ZTF0LCz5zo5G1a3BEf",
+        "label":  " Code Intelligence",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@qg6ZTF0LCz5zo5G1a3BEf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Code intelligence",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/discover-plugins#code-intelligence"
+                          },
+                          {
+                              "title":  "LSP server",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/plugins-reference#lsp-servers"
+                          },
+                          {
+                              "title":  "Language Server Protocol",
+                              "type":  "article",
+                              "url":  "https://microsoft.github.io/language-server-protocol/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aHi-EWuBbn1xvK5osHOUM",
+        "label":  "Opusplan",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@aHi-EWuBbn1xvK5osHOUM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "opusplan model setting",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/model-config#opusplan-model-setting"
+                          },
+                          {
+                              "title":  "Claude Code Opus Plan Mode // 1M Context // Testing ++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=I2aAkp7q_uY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XApGUujmnvp2VYUyEj1Kc",
+        "label":  "Setting up Claude",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@XApGUujmnvp2VYUyEj1Kc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting started with Claude Code",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/quickstart"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ONhEanq8I2RE-Jc_YY3Wa",
+        "label":  "Editor Extensions",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@ONhEanq8I2RE-Jc_YY3Wa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Use Claude Code in VS Code",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/vs-code"
+                          },
+                          {
+                              "title":  "JetBrains IDEs - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/jetbrains"
+                          },
+                          {
+                              "title":  "Introducing Claude Agent in JetBrains IDEs",
+                              "type":  "article",
+                              "url":  "https://blog.jetbrains.com/ai/2025/09/introducing-claude-agent-in-jetbrains-ides/"
+                          },
+                          {
+                              "title":  "How to Install Claude Code in VS Code in 3 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ph5DRCX_g6s"
+                          },
+                          {
+                              "title":  "Introducing Claude Agent in JetBrains IDEs",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=k3XsDxMYCHQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "e12uqC2SEzaMfmBbz7VZf",
+        "label":  "Community Tools",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@e12uqC2SEzaMfmBbz7VZf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Conductor",
+                              "type":  "official",
+                              "url":  "https://docs.conductor.build/"
+                          },
+                          {
+                              "title":  "A Hands-On Review of Conductor, an AI Parallel Runner App",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/a-hands-on-review-of-conductor-an-ai-parallel-runner-app/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8Nd9CdGb1_Jl4YLBvew4z",
+        "label":  "MCP",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@8Nd9CdGb1_Jl4YLBvew4z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Model Context Protocol",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/introduction-to-model-context-protocol"
+                          },
+                          {
+                              "title":  "Model Context Protocol: Advanced Topics",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/model-context-protocol-advanced-topics"
+                          },
+                          {
+                              "title":  "Connect Claude Code to tools via MCP - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/mcp"
+                          },
+                          {
+                              "title":  "What is the Model Context Protocol (MCP)?",
+                              "type":  "article",
+                              "url":  "https://modelcontextprotocol.io/docs/getting-started/intro"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #7 - MCP Servers",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=X7lgIa6guKg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wd9T37TIM_1JU4o_2Fb0h",
+        "label":  "Plugins",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@wd9T37TIM_1JU4o_2Fb0h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Discover and install prebuilt plugins through marketplaces - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/discover-plugins"
+                          },
+                          {
+                              "title":  "Plugins",
+                              "type":  "official",
+                              "url":  "https://claude.com/plugins"
+                          },
+                          {
+                              "title":  "plugins",
+                              "type":  "opensource",
+                              "url":  "https://github.com/anthropics/claude-code/tree/main/plugins"
+                          },
+                          {
+                              "title":  "Claude Code Now Has SUPERPOWERS! (plugin)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vfVQP2AbUHo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uOowDiCXVKyMFrZO1pnXv",
+        "label":  "What is Agentic Loop?",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@uOowDiCXVKyMFrZO1pnXv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Claude Code Agentic Loop",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/how-claude-code-works#the-agentic-loop"
+                          },
+                          {
+                              "title":  "What is an Agent Loop?",
+                              "type":  "article",
+                              "url":  "https://huggingface.co/learn/agents-course/en/unit1/agent-steps-and-structure"
+                          },
+                          {
+                              "title":  "Let\u0027s Build your Own Agentic Loop",
+                              "type":  "article",
+                              "url":  "https://www.reddit.com/r/AI_Agents/comments/1js1xjz/lets_build_our_own_agentic_loop_running_in_our/"
+                          },
+                          {
+                              "title":  "What is Agentic RAG?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0z9_MhcYvcY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qPH0w52-8MvzZdFdsNMap",
+        "label":  "Hooks",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@qPH0w52-8MvzZdFdsNMap.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Automate workflows with hooks - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/hooks-guide"
+                          },
+                          {
+                              "title":  "Automate Your AI Workflows with Claude Code Hooks | Butler\u0027s Log",
+                              "type":  "article",
+                              "url":  "https://blog.gitbutler.com/automate-your-ai-workflows-with-claude-code-hooks"
+                          },
+                          {
+                              "title":  "How Claude Code Hooks Save Me HOURS Daily",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Q4gsvJvRjCU"
+                          },
+                          {
+                              "title":  "Claude Code hooks are Officially Awesome",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=eFjqogpmNkQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wFxYfNu7LtzV72a224WTZ",
+        "label":  "Subagents",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@wFxYfNu7LtzV72a224WTZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to subagents",
+                              "type":  "course",
+                              "url":  "https://anthropic.skilljar.com/introduction-to-subagents"
+                          },
+                          {
+                              "title":  "Create custom subagents - Claude Code Docs",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/sub-agents"
+                          },
+                          {
+                              "title":  "Stop Using Claude Code Like This (Use Sub-Agents Instead) -",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=P60LqQg1RH8"
+                          },
+                          {
+                              "title":  "Claude Code NEW Sub Agents in 7 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DNGxMX7ym44"
+                          },
+                          {
+                              "title":  "Claude Code Tutorial #8 - Subagents",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Phr7vBx9yFQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U22jPxfQWbu7-54OcsqkV",
+        "label":  "Skills for MCP",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@U22jPxfQWbu7-54OcsqkV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Complete Guide to Building Skills for Claude",
+                              "type":  "official",
+                              "url":  "https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en"
+                          },
+                          {
+                              "title":  "Anthropic Skills Guide",
+                              "type":  "opensource",
+                              "url":  "https://github.com/darraghh1/my-claude-setup/blob/main/docs/research/anthropic-skills-guide.md"
+                          },
+                          {
+                              "title":  "Claude Skills Library",
+                              "type":  "article",
+                              "url":  "https://mcpservers.org/claude-skills"
+                          },
+                          {
+                              "title":  "MCP vs Skills: Which Is Right for Your AI Agent and LLMs?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=goU9VIXA8II"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KgXvbrUuYyiBn52QCRoLl",
+        "label":  "Claude Code Security",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@KgXvbrUuYyiBn52QCRoLl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Making frontier cybersecurity capabilities available to defenders",
+                              "type":  "official",
+                              "url":  "https://www.anthropic.com/news/claude-code-security"
+                          },
+                          {
+                              "title":  "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+                              "type":  "article",
+                              "url":  "https://red.anthropic.com/2026/zero-days/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wLaM_NHs7-ANFhtjYiY-F",
+        "label":  "Mobile (Channels)",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@wLaM_NHs7-ANFhtjYiY-F.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Push events into a running session with channels",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/channels"
+                          },
+                          {
+                              "title":  "Channels reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/channels-reference"
+                          },
+                          {
+                              "title":  "Claude Code Channels in 8 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QZXaAc80OL0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GhJI9_4w3RM0_BfWNXbim",
+        "label":  "Channels",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@GhJI9_4w3RM0_BfWNXbim.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Push events into a running session with channels",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/channels"
+                          },
+                          {
+                              "title":  "Channels reference",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/channels-reference"
+                          },
+                          {
+                              "title":  "Claude Code Channels in 8 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QZXaAc80OL0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DDEgVgkdu8PR4x8pHfD5Y",
+        "label":  "Scheduling Jobs",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@DDEgVgkdu8PR4x8pHfD5Y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run prompts on a schedule",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/scheduled-tasks"
+                          },
+                          {
+                              "title":  "Schedule tasks on the web",
+                              "type":  "official",
+                              "url":  "https://code.claude.com/docs/en/web-scheduled-tasks"
+                          },
+                          {
+                              "title":  "Claude Code Loop vs Scheduled Tasks: Which Should You Use?",
+                              "type":  "article",
+                              "url":  "https://www.mindstudio.ai/blog/claude-code-loop-vs-scheduled-tasks"
+                          },
+                          {
+                              "title":  "Claude Code Scheduled Tasks Are Insane",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=U_cDKkDvPAQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q26hZANRABWXI8bzE0ai2",
+        "label":  "Tunnels",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@q26hZANRABWXI8bzE0ai2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MCP Tunnels",
+                              "type":  "official",
+                              "url":  "https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/overview"
+                          },
+                          {
+                              "title":  "How to connect enterprise MCP servers to Claude via Anthropic MCP Tunnels",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DlCP7PKN-dU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pIJ4J0QpqrnXxAX-ceZlJ",
+        "label":  "Loops",
+        "endpoint":  "https://roadmap.sh/claude-code/topic@pIJ4J0QpqrnXxAX-ceZlJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run a prompt repeatedly with /loop",
+                              "type":  "article",
+                              "url":  "https://code.claude.com/docs/en/scheduled-tasks#run-a-prompt-repeatedly-with-/loop"
+                          },
+                          {
+                              "title":  "What Is the Claude Code /loop Command?",
+                              "type":  "article",
+                              "url":  "https://www.mindstudio.ai/blog/what-is-claude-code-loop-command-recurring-tasks"
+                          },
+                          {
+                              "title":  "Stop Prompting Claude. Start Loop Engineering.",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=YAS4ojuhbW4"
+                          },
+                          {
+                              "title":  "Claude Code Loops in 7 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pWZh37iRnDA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

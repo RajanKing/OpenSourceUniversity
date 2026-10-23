@@ -1,0 +1,3099 @@
+{
+    "slug":  "scala",
+    "source":  "https://roadmap.sh/scala",
+    "title":  "Scala",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-03-19T14:05:02.831Z",
+    "nodes":  [
+                  {
+                      "id":  "U3Tjpi2ErOOKGaQeD_1U2",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -735.2093525451216,
+                                       "y":  1202.372746545052
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PipCRV0nRToZnrS791HFt",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -403.14932813305285,
+                                       "y":  1999.6404132108973
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CiynfTX_2oBiaMqZBbD7N",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  170.4162612153072
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9nkUsjGqQLRn9TExOUay2",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  46.28423746866201,
+                                       "y":  141.4162612153072
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "27BzLCgA7EdtxfnotemHU",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  615.5002799977873
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v2LkoRsazQ4KYi97IlsRl",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  46.28423746866201,
+                                       "y":  565.4162612153073
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gbsj4SxcOBz6RiVtT7jwG",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  92.60670855401003,
+                                       "y":  1549.4417842813718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "84UU8V7bhwOAWU0iiGP0m",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -705.715762531338,
+                                       "y":  1979.1404132108973
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e_JBNNr0vmXN70dFqUGCA",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -708.7075691658036,
+                                       "y":  2584.4250002776294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cW2_cxTFj4acsBFtmjq11",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -705.2653488120183,
+                                       "y":  3164.0977224151784
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-I4bKEjHcX-DFTLvu2vTc",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  42.449863738702476,
+                                       "y":  3030.5658166915327
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1Sta1SaLtMY0V_Q_jIqFW",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  41.34731288260605,
+                                       "y":  3644.9867279845907
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lfJsW0z_tyu_usrkX3gFW",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -405.715762531338,
+                                       "y":  2857.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "d6UvuYismtAm5Ijmk21Sm",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -305.715762531338,
+                                       "y":  1070.1341283828986
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6imPvPtYluOYkwDsVWq6C",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -485.715762531338,
+                                       "y":  1060.1341283828986
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SvcoNtQSp2a4uh1cnYfKt",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -408.715762531338,
+                                       "y":  634.4085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4fI7TM2Bp6v8XAFGP2K_O",
+                      "type":  "vertical",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -196.64932813305285,
+                                       "y":  -213.0113120051177
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IUSgamqbfkB1SaffnTRAa",
+                      "type":  "title",
+                      "label":  "Scala",
+                      "position":  {
+                                       "x":  -290.87589063305285,
+                                       "y":  -118.01131200511769
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LdhFo8UrT6EBs6IE42uLx",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -710.4914541545951,
+                                       "y":  -38.0113120051177
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "qH0LPtPGcn4Lc1RhXwKVp",
+                                        "label":  "Backend Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/backend"
+                                    },
+                                    {
+                                        "id":  "lYZdNGa-RbSvjTZyyfsHK",
+                                        "label":  "Data Engineer Roadmap",
+                                        "url":  "https://roadmap.sh/data-engineer"
+                                    },
+                                    {
+                                        "id":  "iEl2hP_MdzYqgWJV_gVVr",
+                                        "label":  "MLOps Roadmap",
+                                        "url":  "https://roadmap.sh/mlops"
+                                    },
+                                    {
+                                        "id":  "dandVttilkzynPnZUxh_4",
+                                        "label":  "Java Roadmap",
+                                        "url":  "https://roadmap.sh/java"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -13.304093080521042,
+                                       "y":  -235.62725345494812
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zqZkyVgigifcRS1H7F_b",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  -0.8040930805210422,
+                                       "y":  -146.62725345494812
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ojvTMCBlgUf6ywgsgCQM1",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  8.241038998764612
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D5djqvuGs8v__c9DrfOIT",
+                      "type":  "topic",
+                      "label":  "Setting Up Scala",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  167.18306329896217
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8y1PVezqKI2Tz0u3W5lOT",
+                      "type":  "label",
+                      "label":  "Pick your IDE",
+                      "position":  {
+                                       "x":  -617.715762531338,
+                                       "y":  177.0129962302476
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zDXDdfzObrUlrIkgxCouq",
+                      "type":  "subtopic",
+                      "label":  "IntelliJ IDEA",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  219.09698733259103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kK2gLsPax0kj_cUlfwaYm",
+                      "type":  "subtopic",
+                      "label":  "VS Code",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  272.096987332591
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZmrehlOEUkjVJXiejyWt7",
+                      "type":  "subtopic",
+                      "label":  "Vim",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  368.93898322005316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uvw1H2RybuU979G7yZWy6",
+                      "type":  "subtopic",
+                      "label":  "Zed",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  421.93898322005316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2DzNpAlPbM9afJj2cvz7_",
+                      "type":  "label",
+                      "label":  "Secondary Options",
+                      "position":  {
+                                       "x":  -639.215762531338,
+                                       "y":  329.10696542474005
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "JSzlu4UNQA016AtE5xxml",
+                      "type":  "subtopic",
+                      "label":  "Emacs",
+                      "position":  {
+                                       "x":  -556.715762531338,
+                                       "y":  368.93898322005316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RXBh4SW__eVXjiTP8v07G",
+                      "type":  "subtopic",
+                      "label":  "Sublime",
+                      "position":  {
+                                       "x":  -556.715762531338,
+                                       "y":  421.93898322005316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "76xr2DP_Acb8xeKIyMZVR",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -408.715762531338,
+                                       "y":  181.68306329896217
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dewDgZqwqWrcKaRQaug4L",
+                      "type":  "label",
+                      "label":  "Find Resources",
+                      "position":  {
+                                       "x":  203.62610248319524,
+                                       "y":  -60.13621058375398
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "I_Bs6mryYyEAnwT_oPQ5A",
+                      "type":  "subtopic",
+                      "label":  "Docs",
+                      "position":  {
+                                       "x":  46.28423746866201,
+                                       "y":  -18.816936701037832
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yzVo7NtvU5HdGqg7T7XAh",
+                      "type":  "subtopic",
+                      "label":  "Courses",
+                      "position":  {
+                                       "x":  46.28423746866201,
+                                       "y":  34.18306329896217
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kXP-YrnwQ1zPuBuTHA35l",
+                      "type":  "subtopic",
+                      "label":  "Books",
+                      "position":  {
+                                       "x":  198.284237468662,
+                                       "y":  -18.816936701037832
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ToGJzk3ZpvQsUwOFicxW2",
+                      "type":  "subtopic",
+                      "label":  "YouTube",
+                      "position":  {
+                                       "x":  198.284237468662,
+                                       "y":  34.18306329896217
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nqBGWIXetwVez7jC9us4g",
+                      "type":  "label",
+                      "label":  "Learn the Basics",
+                      "position":  {
+                                       "x":  -271.14932813305285,
+                                       "y":  267.93898322005316
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "9sYmBVtJhOegHWE8mgs5c",
+                      "type":  "topic",
+                      "label":  "Operators",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  407.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PDoJZATYO9SmMfebmvORn",
+                      "type":  "topic",
+                      "label":  "Conditionals",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  460.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VVO1Cmn0HwVKeMZNJiixa",
+                      "type":  "topic",
+                      "label":  "Loops",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  566.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4NPM4TQawMx6-uD0E2blP",
+                      "type":  "topic",
+                      "label":  "Try/Catch",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  619.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UmX7kymkWSROjDZjnoEFg",
+                      "type":  "subtopic",
+                      "label":  "Class",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  513.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vKPb5IZgfciKwUZismkHJ",
+                      "type":  "subtopic",
+                      "label":  "Trait",
+                      "position":  {
+                                       "x":  -606.715762531338,
+                                       "y":  513.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-qLeSRC44_V-c8hoHyMqA",
+                      "type":  "topic",
+                      "label":  "Variables \u0026 Constants",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  354.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Ggnf67Ye0kFvroqqSg_D",
+                      "type":  "subtopic",
+                      "label":  "Object",
+                      "position":  {
+                                       "x":  -504.715762531338,
+                                       "y":  513.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ACR-ncVRUYN0LXm5x6NhS",
+                      "type":  "topic",
+                      "label":  "Data Structures",
+                      "position":  {
+                                       "x":  -311.64932813305285,
+                                       "y":  513.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Dfrh1gTS7CiCSqXGW-APm",
+                      "type":  "subtopic",
+                      "label":  "Mutable Collections",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  767.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MUFzLeEVW90YHOVI9CH4o",
+                      "type":  "label",
+                      "label":  "Main Data Types",
+                      "position":  {
+                                       "x":  124.28423746866201,
+                                       "y":  142.0129962302476
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xNMXubCcKuaSkYIgz0YVk",
+                      "type":  "subtopic",
+                      "label":  "Integers",
+                      "position":  {
+                                       "x":  66.28423746866201,
+                                       "y":  184.09698733259103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cwhAAcKtzUKcXBSEUdIAQ",
+                      "type":  "subtopic",
+                      "label":  "Strings",
+                      "position":  {
+                                       "x":  66.28423746866201,
+                                       "y":  237.09698733259103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D_2hxCGaYnaQf1Tu0Y-ty",
+                      "type":  "subtopic",
+                      "label":  "Array",
+                      "position":  {
+                                       "x":  66.28423746866201,
+                                       "y":  608.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IBkdiusI08JFfHDS6VKsO",
+                      "type":  "subtopic",
+                      "label":  "Seq",
+                      "position":  {
+                                       "x":  66.28423746866201,
+                                       "y":  661.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jI4May68xCT3f2zho1ElX",
+                      "type":  "label",
+                      "label":  "Collections",
+                      "position":  {
+                                       "x":  145.784237468662,
+                                       "y":  572.6730590147827
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "IN_mRFxfaDiW2_iNDdrHk",
+                      "type":  "subtopic",
+                      "label":  "Range",
+                      "position":  {
+                                       "x":  198.284237468662,
+                                       "y":  608.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HCXshB5qPYlYmyg3ufA4a",
+                      "type":  "subtopic",
+                      "label":  "List",
+                      "position":  {
+                                       "x":  154.284237468662,
+                                       "y":  661.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bOSckrStDRgoLAGWi6QfZ",
+                      "type":  "subtopic",
+                      "label":  "Booleans",
+                      "position":  {
+                                       "x":  198.284237468662,
+                                       "y":  237.09698733259103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nvUwMAiZdkKbMsFzc2h3r",
+                      "type":  "subtopic",
+                      "label":  "Unit",
+                      "position":  {
+                                       "x":  66.28423746866201,
+                                       "y":  290.096987332591
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3MO2hkUs5wh1Xkcs1Yr7s",
+                      "type":  "subtopic",
+                      "label":  "Float",
+                      "position":  {
+                                       "x":  198.284237468662,
+                                       "y":  184.09698733259103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MVNwvGwzYyse8YUc9fwnL",
+                      "type":  "subtopic",
+                      "label":  "Nothing",
+                      "position":  {
+                                       "x":  198.284237468662,
+                                       "y":  290.096987332591
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p3FdTk1pqQoBK3_NKmLDb",
+                      "type":  "subtopic",
+                      "label":  "Vector",
+                      "position":  {
+                                       "x":  242.284237468662,
+                                       "y":  661.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4yYOxlOkQgkxZS6_94CT-",
+                      "type":  "subtopic",
+                      "label":  "Set",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  714.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i4gSxrJSki5um_6dfLUYK",
+                      "type":  "subtopic",
+                      "label":  "Map",
+                      "position":  {
+                                       "x":  197.2519413797951,
+                                       "y":  714.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "X7VBG6pQy3r2puGyIgRZV",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -94.14932813305285,
+                                       "y":  278.93898322005316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IGtJMrfgdJ-o8BMilnNKp",
+                      "type":  "label",
+                      "label":  "Functions \u0026 Methods",
+                      "position":  {
+                                       "x":  -648.215762531338,
+                                       "y":  622.0970150127276
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "e1dvY1Wd6ZYw2ULKETc49",
+                      "type":  "subtopic",
+                      "label":  "Functions \u0026 Methods",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  664.181006115071
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w_GDO8UjtaM-XTbyQOBsQ",
+                      "type":  "subtopic",
+                      "label":  "Method Calls",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  717.181006115071
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jkV_FWlv79nxyNiT_WFOr",
+                      "type":  "subtopic",
+                      "label":  "Anonymous Func / Lambda",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  769.181006115071
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eje4CLMuZobVwd0EBwwim",
+                      "type":  "subtopic",
+                      "label":  "Total/Partial Funcs",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  822.181006115071
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eSzfUe1nYv7TA3Nl9h2aN",
+                      "type":  "subtopic",
+                      "label":  "Funcs returning Funcs",
+                      "position":  {
+                                       "x":  -688.715762531338,
+                                       "y":  875.181006115071
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XD-siLTSY1uoPb_2VQqGp",
+                      "type":  "label",
+                      "label":  "Common Collection Methods",
+                      "position":  {
+                                       "x":  77.28423746866201,
+                                       "y":  832.596987332591
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "nCPJKbcDfc4w4c4TroBRe",
+                      "type":  "subtopic",
+                      "label":  "collect / collectFirst",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  1032.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qU8svc-H5L2-QeBSXgp_8",
+                      "type":  "subtopic",
+                      "label":  "find",
+                      "position":  {
+                                       "x":  66.28423746866201,
+                                       "y":  873.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hK_E1meVZkK6ICUs5qmIP",
+                      "type":  "subtopic",
+                      "label":  "filter",
+                      "position":  {
+                                       "x":  198.284237468662,
+                                       "y":  873.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zEJeNsQcCz4hk7t7fDuVL",
+                      "type":  "subtopic",
+                      "label":  "flatMap",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  979.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GUvy5sUdY32NJ_9aIzMr9",
+                      "type":  "subtopic",
+                      "label":  "foldLeft",
+                      "position":  {
+                                       "x":  197.2519413797951,
+                                       "y":  979.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MEwfeQ3yolH5bLVtHocaA",
+                      "type":  "subtopic",
+                      "label":  "foreach",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  926.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zhRrfAotX8wq6HjR3s13B",
+                      "type":  "subtopic",
+                      "label":  "map",
+                      "position":  {
+                                       "x":  197.2519413797951,
+                                       "y":  926.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Z_cGu1NZ6wh7qkEw2Knyf",
+                      "type":  "topic",
+                      "label":  "Working with Strings",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  1125.960161138799
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P607jVa4002JaBDku4V4O",
+                      "type":  "subtopic",
+                      "label":  "Regex",
+                      "position":  {
+                                       "x":  -514.715762531338,
+                                       "y":  1032.9389832200532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5BGQb1CZQwDwYxDA9bvn4",
+                      "type":  "topic",
+                      "label":  "Pattern Matching",
+                      "position":  {
+                                       "x":  -313.30409308052106,
+                                       "y":  1125.960161138799
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EnTEDC1dzHf6H7P73Tlv5",
+                      "type":  "subtopic",
+                      "label":  "Case Classes",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  704.2981994656814
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-5hM5DFinTWjkzlubUclR",
+                      "type":  "subtopic",
+                      "label":  "Sealed Traits",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  757.2981994656814
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v6KrScCfuNH8i1aTBGVI4",
+                      "type":  "subtopic",
+                      "label":  "apply Method",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  809.2981994656814
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bSZbsqY1yzq9uKbFlgwkF",
+                      "type":  "subtopic",
+                      "label":  "Enums",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  862.2981994656814
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0dptTJpHmNf_Nyo-ib20m",
+                      "type":  "subtopic",
+                      "label":  "Case Objects",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  915.2981994656814
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NcGlkEvp1t46EmX5GQRkD",
+                      "type":  "subtopic",
+                      "label":  "unapply Method",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  968.2981994656814
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vQuroqQFEBeNdhVJBrbJ4",
+                      "type":  "label",
+                      "label":  "Generic Types",
+                      "position":  {
+                                       "x":  132.784237468662,
+                                       "y":  347.0129962302476
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "3zKEn33pENf2eNDGvjEAP",
+                      "type":  "subtopic",
+                      "label":  "Type Hierarchy",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  384.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_6s7NV9qbJj_Y4z4_ge4f",
+                      "type":  "subtopic",
+                      "label":  "Type Parameters",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  437.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OdcjkyWs3s86CqtUnAdxx",
+                      "type":  "subtopic",
+                      "label":  "Conversions",
+                      "position":  {
+                                       "x":  65.25194137979511,
+                                       "y":  490.9085680972321
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YqAClVg7U1mb-Be_rnv-L",
+                      "type":  "topic",
+                      "label":  "Laziness",
+                      "position":  {
+                                       "x":  -299.80409308052106,
+                                       "y":  1402.5093011336571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1T7yhzZMoFKUvgS4ZWiPc",
+                      "type":  "topic",
+                      "label":  "Error Handling",
+                      "position":  {
+                                       "x":  -299.80409308052106,
+                                       "y":  1264.2907003912378
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PPrcoA800FmTFT48H789J",
+                      "type":  "subtopic",
+                      "label":  "Option",
+                      "position":  {
+                                       "x":  43.12795230877812,
+                                       "y":  1264.2907003912378
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P0Vo-2ShpFVfBxIrupLll",
+                      "type":  "subtopic",
+                      "label":  "Either",
+                      "position":  {
+                                       "x":  145.1279523087781,
+                                       "y":  1264.2907003912378
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y4sElb6dWw0vpGNPgRrvC",
+                      "type":  "subtopic",
+                      "label":  "Try",
+                      "position":  {
+                                       "x":  247.1279523087781,
+                                       "y":  1264.2907003912378
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pk6KQObR5AhAXj0wf5a3p",
+                      "type":  "subtopic",
+                      "label":  "for comprehension",
+                      "position":  {
+                                       "x":  46.28423746866201,
+                                       "y":  1145.1706062092053
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w59GmNK0wHo6tADDTaaQS",
+                      "type":  "topic",
+                      "label":  "Scope \u0026 Visibility",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  1594.5239389786411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Hrl2L3vdhAub1jnQVuTRF",
+                      "type":  "topic",
+                      "label":  "Recursion",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  1781.8240672332222
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qEdusMVJk68GRdH-vP6ts",
+                      "type":  "subtopic",
+                      "label":  "Tail Recursion",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  1781.8240672332222
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VV-Drj_JlIppItHq4PRFc",
+                      "type":  "subtopic",
+                      "label":  "Trampolines",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  1834.8240672332222
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mHdNAYbL4yCZZYv0Z_s1w",
+                      "type":  "subtopic",
+                      "label":  "private / protected",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  1594.5239389786411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RVwd5ZY4e_RUhsIi1NZFu",
+                      "type":  "subtopic",
+                      "label":  "package",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  1647.5239389786411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9PiyO8DlNgas10ZjZJCkA",
+                      "type":  "subtopic",
+                      "label":  "Implicit Parameter",
+                      "position":  {
+                                       "x":  -708.715762531338,
+                                       "y":  1700.5239389786411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "votWwsha27Bt9i5GhHRvA",
+                      "type":  "subtopic",
+                      "label":  "Early returns",
+                      "position":  {
+                                       "x":  92.60670855401003,
+                                       "y":  1781.8240672332222
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iMe2czy5d7uNpB2Uv2KTK",
+                      "type":  "subtopic",
+                      "label":  "Lazy vals",
+                      "position":  {
+                                       "x":  92.60670855401003,
+                                       "y":  1349.5093011336571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_GMHFAt8BulTAb9msdUb9",
+                      "type":  "subtopic",
+                      "label":  "by-name Parameters",
+                      "position":  {
+                                       "x":  92.60670855401003,
+                                       "y":  1402.5093011336571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kRdh-HUAWJi7d8gdynGUS",
+                      "type":  "subtopic",
+                      "label":  "Lazy Collections",
+                      "position":  {
+                                       "x":  92.60670855401003,
+                                       "y":  1455.5093011336571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jMqwWE2Aebd7wT4iogIIW",
+                      "type":  "subtopic",
+                      "label":  "Iterators",
+                      "position":  {
+                                       "x":  107.60670855401003,
+                                       "y":  1566.8240672332222
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "52RX2tDml7raPbQpZCbnx",
+                      "type":  "subtopic",
+                      "label":  "Views",
+                      "position":  {
+                                       "x":  107.60670855401003,
+                                       "y":  1619.8240672332222
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zk07chk34XuM1mac4oe4-",
+                      "type":  "subtopic",
+                      "label":  "LazyList",
+                      "position":  {
+                                       "x":  107.60670855401003,
+                                       "y":  1672.8240672332222
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5YQiDVSOm0o5USOLCZ8hB",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -593.715762531338,
+                                       "y":  941.9601611387991
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8CUdn6regbif99X16f5WA",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  43.83813662783653,
+                                       "y":  1242.7623751831698
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mx3wHAd6pj_YXnEhjvxFS",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  186.284237468662,
+                                       "y":  1194.1706062092053
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PNYaJPsB-p_bXBgnJFhUX",
+                      "type":  "label",
+                      "label":  "Tools, Ecosystem \u0026 Platforms",
+                      "position":  {
+                                       "x":  -328.215762531338,
+                                       "y":  1882.897742361707
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "TYW3j_DfD6DsrHE6MjJ8N",
+                      "type":  "topic",
+                      "label":  "Build Tools",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  1985.1404132108973
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bx5Lik8eQih_W-9or8AyY",
+                      "type":  "label",
+                      "label":  "Scala-centered",
+                      "position":  {
+                                       "x":  -621.5709390304552,
+                                       "y":  1985.7371482258377
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "AleJKnVNfSoksZxhR-oXc",
+                      "type":  "subtopic",
+                      "label":  "ScalaCLI",
+                      "position":  {
+                                       "x":  -684.5709390304552,
+                                       "y":  2027.821139328181
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V0zIDfz8b2LBrNwz81xlR",
+                      "type":  "subtopic",
+                      "label":  "sbt",
+                      "position":  {
+                                       "x":  -684.5709390304552,
+                                       "y":  2080.821139328181
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SY6uRGxuo_sXA_R0t8uLJ",
+                      "type":  "subtopic",
+                      "label":  "Mill",
+                      "position":  {
+                                       "x":  -552.5709390304552,
+                                       "y":  2080.821139328181
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NHq1GX58konJ837P1P09I",
+                      "type":  "label",
+                      "label":  "Common to JVM",
+                      "position":  {
+                                       "x":  -625.5709390304552,
+                                       "y":  2135.7371482258377
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "tYMRMVFon8V--pXLeye0U",
+                      "type":  "subtopic",
+                      "label":  "Gradle",
+                      "position":  {
+                                       "x":  -684.5709390304552,
+                                       "y":  2175.821139328181
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6D5cj3ekHNkZPy1Z8ONaQ",
+                      "type":  "subtopic",
+                      "label":  "Maven",
+                      "position":  {
+                                       "x":  -552.5709390304552,
+                                       "y":  2175.821139328181
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BIeOReaWlfP0SkFl1B44M",
+                      "type":  "topic",
+                      "label":  "Ecosystems",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2088.1404132108973
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5A-62SFAXUd4OAEGd_RRz",
+                      "type":  "subtopic",
+                      "label":  "Cats",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  1928.3731212174937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e7zcJd-SAYV_LGAZPCnSa",
+                      "type":  "subtopic",
+                      "label":  "ZIO",
+                      "position":  {
+                                       "x":  219.4369168494347,
+                                       "y":  1928.3731212174937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OYiz0dgiVjYilNRSjh9la",
+                      "type":  "subtopic",
+                      "label":  "Li Haoyi",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  1981.3731212174937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vsfwt3tvLDhJoRyA82bM1",
+                      "type":  "subtopic",
+                      "label":  "Akka / Pekko",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2034.3731212174935
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1pq3RFK0DokxqYAuwfdF8",
+                      "type":  "subtopic",
+                      "label":  "No Ecosystem",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2087.3731212174935
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pYZHgxBvh3Au3bCFuLWn2",
+                      "type":  "topic",
+                      "label":  "Platforms",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2191.3731212174935
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gy7AaiqSL_38yB73C5W5B",
+                      "type":  "subtopic",
+                      "label":  "JVM",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2191.3731212174935
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4_gOylCtzBT6n1_GBzZdD",
+                      "type":  "subtopic",
+                      "label":  "Scala Native",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2244.3731212174935
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "phv4IeRtLcWcLJuiradiv",
+                      "type":  "subtopic",
+                      "label":  "Scala.js",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2297.3731212174935
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BlHpoWs1mHaaUpwBRQ1sM",
+                      "type":  "label",
+                      "label":  "Advanced Topics",
+                      "position":  {
+                                       "x":  -272.715762531338,
+                                       "y":  2277.897742361707
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qm2AQa8AJtmMo_eidqCrz",
+                      "type":  "topic",
+                      "label":  "Referencial Transparency",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2363.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "glMo7kvwKxS3M6pBrGhNn",
+                      "type":  "subtopic",
+                      "label":  "Pure Functions",
+                      "position":  {
+                                       "x":  -710.4914541545951,
+                                       "y":  2363.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PEQNPOy-j2BdL_NQYoq7g",
+                      "type":  "topic",
+                      "label":  "Monads",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2416.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1mSU2_4W0bAMAph5jf7KC",
+                      "type":  "subtopic",
+                      "label":  "Category Theory",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2416.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "upZK3qxWKokNL3tlFKhK6",
+                      "type":  "subtopic",
+                      "label":  "Variance",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2575.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "96F_G2PY8VG_Et9g4DFX2",
+                      "type":  "subtopic",
+                      "label":  "Context Bounds",
+                      "position":  {
+                                       "x":  92.43691684943471,
+                                       "y":  2628.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RNBawkn6jQsX4fAjMBfo2",
+                      "type":  "topic",
+                      "label":  "Typeclasses",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2522.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kbO0eO3UhUzPGaPvZKc_N",
+                      "type":  "subtopic",
+                      "label":  "Capture Checking",
+                      "position":  {
+                                       "x":  -707.699262000777,
+                                       "y":  2469.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kRM_HTRUvZ7xXjffu53Aw",
+                      "type":  "topic",
+                      "label":  "Capabilities",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2469.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pvYS9XusP0WPCMvrOtHgr",
+                      "type":  "topic",
+                      "label":  "Type System",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2575.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mq3uKXW57PdAkbuSBsznD",
+                      "type":  "topic",
+                      "label":  "Macros",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2628.557669421477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fhNTUNX7xEFAG--1IlgBA",
+                      "type":  "label",
+                      "label":  "Frameworks and Libraries",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2739.35125520594
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "B-akazRqoFzc1EOuF7qQx",
+                      "type":  "topic",
+                      "label":  "Testing",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2841.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u25XECxq8xJ3MiDMJFoXF",
+                      "type":  "label",
+                      "label":  "Unit Testing",
+                      "position":  {
+                                       "x":  -612.2075691658036,
+                                       "y":  2591.0217352925697
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "9JxLFMiWH7YAINTpoMhCA",
+                      "type":  "subtopic",
+                      "label":  "ScalaTest",
+                      "position":  {
+                                       "x":  -687.5627456649208,
+                                       "y":  2633.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Oel8HKCRp5AlaDrsVMRu4",
+                      "type":  "subtopic",
+                      "label":  "mUnit",
+                      "position":  {
+                                       "x":  -687.5627456649208,
+                                       "y":  2686.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ja0keWOyCECHo-dXgwFK8",
+                      "type":  "subtopic",
+                      "label":  "uTest",
+                      "position":  {
+                                       "x":  -555.5627456649208,
+                                       "y":  2686.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ARq7VjhKhzpFdvqz552GE",
+                      "type":  "label",
+                      "label":  "Integration / Performance Testing",
+                      "position":  {
+                                       "x":  -696.2075691658036,
+                                       "y":  2798.105726394913
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "iD1fWHJi5mS38R5mQ7g3_",
+                      "type":  "subtopic",
+                      "label":  "ScalaTest",
+                      "position":  {
+                                       "x":  -687.5627456649208,
+                                       "y":  2841.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "55CbOuD2qX3oWzSIfBRlu",
+                      "type":  "subtopic",
+                      "label":  "Gatling",
+                      "position":  {
+                                       "x":  -555.5627456649208,
+                                       "y":  2841.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qKy9u6fJoMfRAMlnTv816",
+                      "type":  "subtopic",
+                      "label":  "JUnit",
+                      "position":  {
+                                       "x":  -555.5627456649208,
+                                       "y":  2633.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7ki2PYRU5cJqwqMbC4wOz",
+                      "type":  "subtopic",
+                      "label":  "ZIO Test",
+                      "position":  {
+                                       "x":  -687.5627456649208,
+                                       "y":  2739.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "99N6zSHIiXLnSWroEpZZm",
+                      "type":  "subtopic",
+                      "label":  "specs2",
+                      "position":  {
+                                       "x":  -555.5627456649208,
+                                       "y":  2739.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GJVtKkllXuiMqUb3K7mUc",
+                      "type":  "subtopic",
+                      "label":  "Cats Effect",
+                      "position":  {
+                                       "x":  -707.699262000777,
+                                       "y":  2987.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y4ulspoL7KKUilPG98KWd",
+                      "type":  "subtopic",
+                      "label":  "ZIO",
+                      "position":  {
+                                       "x":  -707.699262000777,
+                                       "y":  3040.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JuFghXpaI3uHtTckgmYeb",
+                      "type":  "topic",
+                      "label":  "Effect Systems",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  3040.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RpAAmXmhMgIhuzgRBFcPj",
+                      "type":  "topic",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  2938.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mGxkqA78ZW3oV79RPWz5J",
+                      "type":  "subtopic",
+                      "label":  "Scalatra",
+                      "position":  {
+                                       "x":  194.44986373870248,
+                                       "y":  2830.9730164111043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Igr2iwZBn3qO6X5ol3YMt",
+                      "type":  "subtopic",
+                      "label":  "sttp",
+                      "position":  {
+                                       "x":  42.449863738702476,
+                                       "y":  2830.9730164111043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "82TpZ2W8LJBEEEjTo8_kD",
+                      "type":  "subtopic",
+                      "label":  "AkkaHTTP",
+                      "position":  {
+                                       "x":  42.449863738702476,
+                                       "y":  2936.9730164111043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VDbh6YkcPssmp2hcZdOt1",
+                      "type":  "subtopic",
+                      "label":  "Play",
+                      "position":  {
+                                       "x":  42.449863738702476,
+                                       "y":  2883.9730164111043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2esx4ofgIGIGmdwHyDQg2",
+                      "type":  "subtopic",
+                      "label":  "Tapir",
+                      "position":  {
+                                       "x":  194.44986373870248,
+                                       "y":  2883.9730164111043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LATumtt9T5nfP6-jSoM6i",
+                      "type":  "subtopic",
+                      "label":  "http4s",
+                      "position":  {
+                                       "x":  194.44986373870248,
+                                       "y":  2936.9730164111043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jf3fxng9tN6PCycXyy5PE",
+                      "type":  "topic",
+                      "label":  "GUI",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  3165.105726394913
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MAsfpdZSMpl9P3ulQbl4i",
+                      "type":  "topic",
+                      "label":  "Concurrency",
+                      "position":  {
+                                       "x":  -313.715762531338,
+                                       "y":  3290.0977224151784
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "STbiR-fcScKwFwkGDoTh8",
+                      "type":  "topic",
+                      "label":  "Data Handling",
+                      "position":  {
+                                       "x":  -315.0581320628302,
+                                       "y":  3660.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QaJAFu-xHUAGK7fjncQJB",
+                      "type":  "topic",
+                      "label":  "Distributed Computing",
+                      "position":  {
+                                       "x":  -315.0581320628302,
+                                       "y":  3497.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vwvykjlIYXiNi2yfWZcrq",
+                      "type":  "topic",
+                      "label":  "Video game Engines",
+                      "position":  {
+                                       "x":  -315.0581320628302,
+                                       "y":  3775.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sWzy6blDheaOBOpwg5lou",
+                      "type":  "topic",
+                      "label":  "Macros \u0026 the Type System",
+                      "position":  {
+                                       "x":  -315.0581320628302,
+                                       "y":  3916.849151423744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mp7N98NLWQptk6w5totGR",
+                      "type":  "subtopic",
+                      "label":  "GraalVM Native Image",
+                      "position":  {
+                                       "x":  69.1279523087781,
+                                       "y":  3567.424040085515
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rG1Xfa4gmO_U61MTW_QPd",
+                      "type":  "subtopic",
+                      "label":  "Slinky",
+                      "position":  {
+                                       "x":  63.594687239585284,
+                                       "y":  3133.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tMM4YlW3c3e8HYW16SOqS",
+                      "type":  "subtopic",
+                      "label":  "Calico",
+                      "position":  {
+                                       "x":  195.59468723958528,
+                                       "y":  3080.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pU1ELrp98okX5IOW8sNiX",
+                      "type":  "subtopic",
+                      "label":  "ScalaFX",
+                      "position":  {
+                                       "x":  63.594687239585284,
+                                       "y":  3322.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V0CMqxJh3IZ3Npvp2z7Af",
+                      "type":  "subtopic",
+                      "label":  "JavaFX",
+                      "position":  {
+                                       "x":  195.59468723958528,
+                                       "y":  3322.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZH55uB8H48i9mKBtCDciZ",
+                      "type":  "subtopic",
+                      "label":  "Laminar",
+                      "position":  {
+                                       "x":  63.594687239585284,
+                                       "y":  3080.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vsG9D5ZmCMvPaTRmVgYyn",
+                      "type":  "subtopic",
+                      "label":  "scala-android-plugin",
+                      "position":  {
+                                       "x":  63.594687239585284,
+                                       "y":  3420.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LWum40Gr36CMuCgoTCNHM",
+                      "type":  "subtopic",
+                      "label":  "Scala on Android",
+                      "position":  {
+                                       "x":  63.594687239585284,
+                                       "y":  3473.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "b14D-LsFhr97s50xz0HOE",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -63.71576253133799,
+                                       "y":  3181.5083242981996
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WQt7alRCuvDiBPkq0f-oM",
+                      "type":  "label",
+                      "label":  "Android",
+                      "position":  {
+                                       "x":  154.94986373870248,
+                                       "y":  3376.5658166915327
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "A9CpbbZ_Q9zIkVX5Rgyp6",
+                      "type":  "subtopic",
+                      "label":  "React.js",
+                      "position":  {
+                                       "x":  63.594687239585284,
+                                       "y":  3223.2465428088162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JtWvs_uDnUyXjU1b1sKTi",
+                      "type":  "label",
+                      "label":  "Desktop",
+                      "position":  {
+                                       "x":  152.44986373870248,
+                                       "y":  3282.5658166915327
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "_jLkEHBeDwB6hu3mJO-7b",
+                      "type":  "label",
+                      "label":  "Web",
+                      "position":  {
+                                       "x":  167.44986373870248,
+                                       "y":  3040.5658166915327
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "eHbMh_KO2ezvMm-LyhkCR",
+                      "type":  "subtopic",
+                      "label":  "Ox",
+                      "position":  {
+                                       "x":  -684.1205253111355,
+                                       "y":  3187.778448532462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ERnBDDZA1VjdRryqQ-iOy",
+                      "type":  "subtopic",
+                      "label":  "FS2",
+                      "position":  {
+                                       "x":  -684.1205253111355,
+                                       "y":  3240.778448532462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AhgoqMHyHn4lX6eMJuxZt",
+                      "type":  "subtopic",
+                      "label":  "Kyo",
+                      "position":  {
+                                       "x":  -552.1205253111355,
+                                       "y":  3240.778448532462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2P3gp1ABR67qX0FI6A1kF",
+                      "type":  "label",
+                      "label":  "Streaming",
+                      "position":  {
+                                       "x":  -602.2653488120183,
+                                       "y":  3302.778448532462
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "g1CpD832hLdZruCtNf7SX",
+                      "type":  "subtopic",
+                      "label":  "Akka \u0026 Peko Streams",
+                      "position":  {
+                                       "x":  -684.1205253111355,
+                                       "y":  3345.778448532462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0d5OXgNaqc1_iwcGYiYmw",
+                      "type":  "subtopic",
+                      "label":  "Gears",
+                      "position":  {
+                                       "x":  -552.1205253111355,
+                                       "y":  3187.778448532462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jkWYgSLimg3O7ddN_8rb-",
+                      "type":  "subtopic",
+                      "label":  "ZIO Streams",
+                      "position":  {
+                                       "x":  -684.1205253111355,
+                                       "y":  3398.778448532462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "z6TGywyQRmvbZaHnF_-eQ",
+                      "type":  "subtopic",
+                      "label":  "Spark",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3497.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bXliqiEXUKvqlJ391hHE1",
+                      "type":  "subtopic",
+                      "label":  "Akka",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3550.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dS2USmMlQb4EjY9hvG_by",
+                      "type":  "subtopic",
+                      "label":  "Pekko",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3642.053538991808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LWErSn-L9QJ2KZvsufp3C",
+                      "type":  "label",
+                      "label":  "Database",
+                      "position":  {
+                                       "x":  146.34731288260605,
+                                       "y":  3651.583462999531
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "L8g7EogMi61pF7Rxv5Srn",
+                      "type":  "subtopic",
+                      "label":  "Slick",
+                      "position":  {
+                                       "x":  194.49213638348886,
+                                       "y":  3746.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pNLTISa5Lh7bxLNX64Kqu",
+                      "type":  "label",
+                      "label":  "JSON",
+                      "position":  {
+                                       "x":  160.84731288260605,
+                                       "y":  3798.6674541018742
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "gT46TnxsNzWOIfBvxPb5n",
+                      "type":  "subtopic",
+                      "label":  "PlayJSON",
+                      "position":  {
+                                       "x":  62.492136383488855,
+                                       "y":  3841.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "J5RuMesa74X122XHVgnFY",
+                      "type":  "subtopic",
+                      "label":  "Circe",
+                      "position":  {
+                                       "x":  194.49213638348886,
+                                       "y":  3841.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qc8YYIBFQb2JzHRTPVn86",
+                      "type":  "subtopic",
+                      "label":  "ScalikeJDBC",
+                      "position":  {
+                                       "x":  194.49213638348886,
+                                       "y":  3693.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SYZPgKGQUqX729Yo54eZk",
+                      "type":  "subtopic",
+                      "label":  "Doobie",
+                      "position":  {
+                                       "x":  62.492136383488855,
+                                       "y":  3693.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Fa8GRqxvzE5dq-nD4heEI",
+                      "type":  "subtopic",
+                      "label":  "Quill",
+                      "position":  {
+                                       "x":  62.492136383488855,
+                                       "y":  3746.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kyYPX8_vvnjixMeZQTPqA",
+                      "type":  "subtopic",
+                      "label":  "Jsoniter",
+                      "position":  {
+                                       "x":  62.492136383488855,
+                                       "y":  3894.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4GXTv2Rq2oyp5fZ5EqaMz",
+                      "type":  "subtopic",
+                      "label":  "uPickle",
+                      "position":  {
+                                       "x":  194.49213638348886,
+                                       "y":  3894.6674541018742
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hA72Tp-zg2BeBBnoxyIkf",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -65.05813206283023,
+                                       "y":  3675.0354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XUg4x7MQTvXzmDkgkET7S",
+                      "type":  "subtopic",
+                      "label":  "Indigo",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3722.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Rz9OCeWj0y2cwfLrGuXqR",
+                      "type":  "subtopic",
+                      "label":  "CosPlay",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3775.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yogv_RewIk12S8Rh_FEtJ",
+                      "type":  "subtopic",
+                      "label":  "LibGDX w/ Scala",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3828.5354577011126
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DHdpzJxOlUnRRx5WhhWHi",
+                      "type":  "subtopic",
+                      "label":  "Monocle",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3916.849151423744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TwS5Ms3BlAsR6E9aI81aF",
+                      "type":  "subtopic",
+                      "label":  "Shapeless",
+                      "position":  {
+                                       "x":  -555.0958487212226,
+                                       "y":  3969.849151423744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ISX09NZJh4HhKb5_d42sQ",
+                      "type":  "subtopic",
+                      "label":  "Chimney",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  3969.849151423744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sJqixwq4_tCCRBE3XKNuw",
+                      "type":  "subtopic",
+                      "label":  "Scalameta",
+                      "position":  {
+                                       "x":  -555.0958487212226,
+                                       "y":  4022.849151423744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YWog0o_t3XWQgGpjkzsnd",
+                      "type":  "subtopic",
+                      "label":  "Magnolia",
+                      "position":  {
+                                       "x":  -707.0958487212226,
+                                       "y":  4022.849151423744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QaWH-1EplhGtLCrM_rwUE",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -200.05813206283023,
+                                       "y":  4182.5212144246725
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O5dely89N5UCMBeUfh8ud",
+                      "type":  "paragraph",
+                      "label":  "Visit the following roadmaps to keep learning",
+                      "position":  {
+                                       "x":  -349.0642200774682,
+                                       "y":  4052.5212144246725
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cyCi36GIPZkvXKc6hxDN1",
+                      "type":  "button",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  -326.06422007746835,
+                                       "y":  4111.8399655880385
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "HfoXNLtpPamsiy8mq98rT",
+                      "type":  "button",
+                      "label":  "Java",
+                      "position":  {
+                                       "x":  -162.06422007746835,
+                                       "y":  4111.8399655880385
+                                   },
+                      "href":  "https://roadmap.sh/java",
+                      "links":  null
+                  },
+                  {
+                      "id":  "gicTj-0_wXtgirYEqHDq_",
+                      "type":  "button",
+                      "label":  "MLOps",
+                      "position":  {
+                                       "x":  1.9357799225316512,
+                                       "y":  4111.8399655880385
+                                   },
+                      "href":  "https://roadmap.sh/mlops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZU36zvbYT-R3anWJVIqAq",
+                      "type":  "button",
+                      "label":  "Data Engineer",
+                      "position":  {
+                                       "x":  165.93577992253165,
+                                       "y":  4111.8399655880385
+                                   },
+                      "href":  "https://roadmap.sh/data-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "F8OXFKzyYCGhwxCiYRxZE",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -200.05813206283023,
+                                       "y":  3965.849151423744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FbfHP9hFBuISrGzKaX-qm",
+                      "type":  "paragraph",
+                      "label":  "Shout out to Maciej Gorywoda who helped make this roadmap.",
+                      "position":  {
+                                       "x":  -713.7029425589054,
+                                       "y":  -212.48322707852935
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "10tIWw5D6x9aGtyhBQUe0",
+                      "type":  "button",
+                      "label":  "LinkedIn Profile",
+                      "position":  {
+                                       "x":  -700.2029425589054,
+                                       "y":  -130.86966520294163
+                                   },
+                      "href":  "https://www.linkedin.com/in/mgorywoda/",
+                      "links":  null
+                  },
+                  {
+                      "id":  "c6Z_iDDuOsWPDt_HWYpdv",
+                      "type":  "paragraph",
+                      "label":  "A concept that connects multiple language features, helping you how they work together.",
+                      "position":  {
+                                       "x":  -656.2029425589054,
+                                       "y":  1257.7907003912378
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AIe1pJbemAcbF2c-vNQiY",
+                      "type":  "paragraph",
+                      "label":  "Links related concepts that are complementary or alternative ways of doing the same thing.",
+                      "position":  {
+                                       "x":  -655.2029425589054,
+                                       "y":  1362.0093011336571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-I2xIkYxxMhrTaajRQmG3",
+                      "type":  "subtopic",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -706.715762531338,
+                                       "y":  1277.1706062092053
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zyBQxyBZFdiN6UKkHZbSo",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -707.715762531338,
+                                       "y":  1383.5093011336571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "08UDGQa1epGVD8bVi2wVN",
+                      "type":  "paragraph",
+                      "label":  "You don\u0027t need to learn advanced topics linearly, pick them as you explore libraries and frameworks",
+                      "position":  {
+                                       "x":  -655.2029425589054,
+                                       "y":  1444.4417842813718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TWcgS3WWD3g4GIuk2PS-g",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -706.2029425589054,
+                                       "y":  1468.0093011336571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "J-n_lF-cv-DC0UwlkJonM",
+                      "type":  "label",
+                      "label":  "What different items mean",
+                      "position":  {
+                                       "x":  -710.4914541545951,
+                                       "y":  1226.2907003912378
+                                   },
+                      "href":  "",
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__IUSgamqbfkB1SaffnTRAax2-D5djqvuGs8v__c9DrfOITw1",
+                      "source":  "IUSgamqbfkB1SaffnTRAa",
+                      "target":  "ojvTMCBlgUf6ywgsgCQM1",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__D5djqvuGs8v__c9DrfOITx2-nqBGWIXetwVez7jC9us4gw1",
+                      "source":  "D5djqvuGs8v__c9DrfOIT",
+                      "target":  "nqBGWIXetwVez7jC9us4g",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__ojvTMCBlgUf6ywgsgCQM1z2-I_Bs6mryYyEAnwT_oPQ5Ay1",
+                      "source":  "ojvTMCBlgUf6ywgsgCQM1",
+                      "target":  "I_Bs6mryYyEAnwT_oPQ5A",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__ojvTMCBlgUf6ywgsgCQM1z2-yzVo7NtvU5HdGqg7T7XAhy1",
+                      "source":  "ojvTMCBlgUf6ywgsgCQM1",
+                      "target":  "yzVo7NtvU5HdGqg7T7XAh",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__-qLeSRC44_V-c8hoHyMqAw2-nqBGWIXetwVez7jC9us4gx1",
+                      "source":  "-qLeSRC44_V-c8hoHyMqA",
+                      "target":  "nqBGWIXetwVez7jC9us4g",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__ACR-ncVRUYN0LXm5x6NhSy2-_Ggnf67Ye0kFvroqqSg_Dz1",
+                      "source":  "ACR-ncVRUYN0LXm5x6NhS",
+                      "target":  "_Ggnf67Ye0kFvroqqSg_D",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__Z_cGu1NZ6wh7qkEw2Knyfz2-1T7yhzZMoFKUvgS4ZWiPcy1",
+                      "source":  "Z_cGu1NZ6wh7qkEw2Knyf",
+                      "target":  "5BGQb1CZQwDwYxDA9bvn4",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__NcGlkEvp1t46EmX5GQRkDx2-1T7yhzZMoFKUvgS4ZWiPcw1",
+                      "source":  "NcGlkEvp1t46EmX5GQRkD",
+                      "target":  "5BGQb1CZQwDwYxDA9bvn4",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__zEJeNsQcCz4hk7t7fDuVLy2-pk6KQObR5AhAXj0wf5a3py1",
+                      "source":  "zEJeNsQcCz4hk7t7fDuVL",
+                      "target":  "pk6KQObR5AhAXj0wf5a3p",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__5BGQb1CZQwDwYxDA9bvn4x2-1T7yhzZMoFKUvgS4ZWiPcw2",
+                      "source":  "5BGQb1CZQwDwYxDA9bvn4",
+                      "target":  "1T7yhzZMoFKUvgS4ZWiPc",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__Hrl2L3vdhAub1jnQVuTRFw2-1T7yhzZMoFKUvgS4ZWiPcx1",
+                      "source":  "YqAClVg7U1mb-Be_rnv-L",
+                      "target":  "1T7yhzZMoFKUvgS4ZWiPc",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__w59GmNK0wHo6tADDTaaQSw2-YqAClVg7U1mb-Be_rnv-Lx1",
+                      "source":  "w59GmNK0wHo6tADDTaaQS",
+                      "target":  "YqAClVg7U1mb-Be_rnv-L",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__w59GmNK0wHo6tADDTaaQSx2-Hrl2L3vdhAub1jnQVuTRFw2",
+                      "source":  "w59GmNK0wHo6tADDTaaQS",
+                      "target":  "Hrl2L3vdhAub1jnQVuTRF",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__1T7yhzZMoFKUvgS4ZWiPcz2-PPrcoA800FmTFT48H789Jy1",
+                      "source":  "1T7yhzZMoFKUvgS4ZWiPc",
+                      "target":  "PPrcoA800FmTFT48H789J",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__YqAClVg7U1mb-Be_rnv-Lz2-iMe2czy5d7uNpB2Uv2KTKy1",
+                      "source":  "YqAClVg7U1mb-Be_rnv-L",
+                      "target":  "iMe2czy5d7uNpB2Uv2KTK",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__YqAClVg7U1mb-Be_rnv-Lz2-_GMHFAt8BulTAb9msdUb9y1",
+                      "source":  "YqAClVg7U1mb-Be_rnv-L",
+                      "target":  "_GMHFAt8BulTAb9msdUb9",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__YqAClVg7U1mb-Be_rnv-Lz2-kRdh-HUAWJi7d8gdynGUSy1",
+                      "source":  "YqAClVg7U1mb-Be_rnv-L",
+                      "target":  "kRdh-HUAWJi7d8gdynGUS",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__Hrl2L3vdhAub1jnQVuTRFz2-votWwsha27Bt9i5GhHRvAy1",
+                      "source":  "Hrl2L3vdhAub1jnQVuTRF",
+                      "target":  "votWwsha27Bt9i5GhHRvA",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__w59GmNK0wHo6tADDTaaQSy2-mHdNAYbL4yCZZYv0Z_s1wz1",
+                      "source":  "w59GmNK0wHo6tADDTaaQS",
+                      "target":  "mHdNAYbL4yCZZYv0Z_s1w",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__RVwd5ZY4e_RUhsIi1NZFuz2-w59GmNK0wHo6tADDTaaQSy1",
+                      "source":  "RVwd5ZY4e_RUhsIi1NZFu",
+                      "target":  "w59GmNK0wHo6tADDTaaQS",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__9PiyO8DlNgas10ZjZJCkAz2-w59GmNK0wHo6tADDTaaQSy1",
+                      "source":  "9PiyO8DlNgas10ZjZJCkA",
+                      "target":  "w59GmNK0wHo6tADDTaaQS",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__kRdh-HUAWJi7d8gdynGUSx2-Gbsj4SxcOBz6RiVtT7jwGw1",
+                      "source":  "kRdh-HUAWJi7d8gdynGUS",
+                      "target":  "Gbsj4SxcOBz6RiVtT7jwG",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__Gbsj4SxcOBz6RiVtT7jwGx2-votWwsha27Bt9i5GhHRvAw1",
+                      "source":  "Gbsj4SxcOBz6RiVtT7jwG",
+                      "target":  "votWwsha27Bt9i5GhHRvA",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__Hrl2L3vdhAub1jnQVuTRFy2-qEdusMVJk68GRdH-vP6tsz2",
+                      "source":  "Hrl2L3vdhAub1jnQVuTRF",
+                      "target":  "qEdusMVJk68GRdH-vP6ts",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__Hrl2L3vdhAub1jnQVuTRFy2-VV-Drj_JlIppItHq4PRFcz1",
+                      "source":  "Hrl2L3vdhAub1jnQVuTRF",
+                      "target":  "VV-Drj_JlIppItHq4PRFc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__Hrl2L3vdhAub1jnQVuTRFx2-PNYaJPsB-p_bXBgnJFhUXw1",
+                      "source":  "Hrl2L3vdhAub1jnQVuTRF",
+                      "target":  "PNYaJPsB-p_bXBgnJFhUX",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__PNYaJPsB-p_bXBgnJFhUXx2-TYW3j_DfD6DsrHE6MjJ8Nw2",
+                      "source":  "PNYaJPsB-p_bXBgnJFhUX",
+                      "target":  "TYW3j_DfD6DsrHE6MjJ8N",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__BIeOReaWlfP0SkFl1B44Mz2-5A-62SFAXUd4OAEGd_RRzy1",
+                      "source":  "BIeOReaWlfP0SkFl1B44M",
+                      "target":  "5A-62SFAXUd4OAEGd_RRz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__BIeOReaWlfP0SkFl1B44Mz2-OYiz0dgiVjYilNRSjh9lay1",
+                      "source":  "BIeOReaWlfP0SkFl1B44M",
+                      "target":  "OYiz0dgiVjYilNRSjh9la",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__BIeOReaWlfP0SkFl1B44Mz2-vsfwt3tvLDhJoRyA82bM1y1",
+                      "source":  "BIeOReaWlfP0SkFl1B44M",
+                      "target":  "vsfwt3tvLDhJoRyA82bM1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__BIeOReaWlfP0SkFl1B44Mz2-1pq3RFK0DokxqYAuwfdF8y1",
+                      "source":  "BIeOReaWlfP0SkFl1B44M",
+                      "target":  "1pq3RFK0DokxqYAuwfdF8",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__BIeOReaWlfP0SkFl1B44Mx2-pYZHgxBvh3Au3bCFuLWn2w1",
+                      "source":  "BIeOReaWlfP0SkFl1B44M",
+                      "target":  "pYZHgxBvh3Au3bCFuLWn2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__TYW3j_DfD6DsrHE6MjJ8Nx2-BIeOReaWlfP0SkFl1B44Mw2",
+                      "source":  "TYW3j_DfD6DsrHE6MjJ8N",
+                      "target":  "BIeOReaWlfP0SkFl1B44M",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__pYZHgxBvh3Au3bCFuLWn2z2-Gy7AaiqSL_38yB73C5W5By1",
+                      "source":  "pYZHgxBvh3Au3bCFuLWn2",
+                      "target":  "Gy7AaiqSL_38yB73C5W5B",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__4_gOylCtzBT6n1_GBzZdDy2-pYZHgxBvh3Au3bCFuLWn2z1",
+                      "source":  "4_gOylCtzBT6n1_GBzZdD",
+                      "target":  "pYZHgxBvh3Au3bCFuLWn2",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__phv4IeRtLcWcLJuiradivy2-pYZHgxBvh3Au3bCFuLWn2z2",
+                      "source":  "phv4IeRtLcWcLJuiradiv",
+                      "target":  "pYZHgxBvh3Au3bCFuLWn2",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__pYZHgxBvh3Au3bCFuLWn2x2-BlHpoWs1mHaaUpwBRQ1sMw1",
+                      "source":  "pYZHgxBvh3Au3bCFuLWn2",
+                      "target":  "BlHpoWs1mHaaUpwBRQ1sM",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__pvYS9XusP0WPCMvrOtHgrz2-upZK3qxWKokNL3tlFKhK6y1",
+                      "source":  "pvYS9XusP0WPCMvrOtHgr",
+                      "target":  "upZK3qxWKokNL3tlFKhK6",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__pvYS9XusP0WPCMvrOtHgrz2-96F_G2PY8VG_Et9g4DFX2y1",
+                      "source":  "pvYS9XusP0WPCMvrOtHgr",
+                      "target":  "96F_G2PY8VG_Et9g4DFX2",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__mq3uKXW57PdAkbuSBsznDx2-fhNTUNX7xEFAG--1IlgBAw1",
+                      "source":  "mq3uKXW57PdAkbuSBsznD",
+                      "target":  "fhNTUNX7xEFAG--1IlgBA",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__fhNTUNX7xEFAG--1IlgBAx2-B-akazRqoFzc1EOuF7qQxw1",
+                      "source":  "fhNTUNX7xEFAG--1IlgBA",
+                      "target":  "B-akazRqoFzc1EOuF7qQx",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__RpAAmXmhMgIhuzgRBFcPjz2-Igr2iwZBn3qO6X5ol3YMty1",
+                      "source":  "RpAAmXmhMgIhuzgRBFcPj",
+                      "target":  "Igr2iwZBn3qO6X5ol3YMt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__RpAAmXmhMgIhuzgRBFcPjz2-VDbh6YkcPssmp2hcZdOt1y1",
+                      "source":  "RpAAmXmhMgIhuzgRBFcPj",
+                      "target":  "VDbh6YkcPssmp2hcZdOt1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__RpAAmXmhMgIhuzgRBFcPjz2-82TpZ2W8LJBEEEjTo8_kDy1",
+                      "source":  "RpAAmXmhMgIhuzgRBFcPj",
+                      "target":  "82TpZ2W8LJBEEEjTo8_kD",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__Gy7AaiqSL_38yB73C5W5Bz2-Mp7N98NLWQptk6w5totGRz1",
+                      "source":  "Gy7AaiqSL_38yB73C5W5B",
+                      "target":  "Mp7N98NLWQptk6w5totGR",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__4_gOylCtzBT6n1_GBzZdDz2-Mp7N98NLWQptk6w5totGRz1",
+                      "source":  "4_gOylCtzBT6n1_GBzZdD",
+                      "target":  "Mp7N98NLWQptk6w5totGR",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__rG1Xfa4gmO_U61MTW_QPdx2-A9CpbbZ_Q9zIkVX5Rgyp6w2",
+                      "source":  "rG1Xfa4gmO_U61MTW_QPd",
+                      "target":  "A9CpbbZ_Q9zIkVX5Rgyp6",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__LWum40Gr36CMuCgoTCNHMx2-Mp7N98NLWQptk6w5totGRw2",
+                      "source":  "LWum40Gr36CMuCgoTCNHM",
+                      "target":  "Mp7N98NLWQptk6w5totGR",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__MAsfpdZSMpl9P3ulQbl4ix2-QaJAFu-xHUAGK7fjncQJBw2",
+                      "source":  "MAsfpdZSMpl9P3ulQbl4i",
+                      "target":  "QaJAFu-xHUAGK7fjncQJB",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__Jf3fxng9tN6PCycXyy5PEw2-JuFghXpaI3uHtTckgmYebx1",
+                      "source":  "Jf3fxng9tN6PCycXyy5PE",
+                      "target":  "JuFghXpaI3uHtTckgmYeb",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__Jf3fxng9tN6PCycXyy5PEx2-MAsfpdZSMpl9P3ulQbl4iw2",
+                      "source":  "Jf3fxng9tN6PCycXyy5PE",
+                      "target":  "MAsfpdZSMpl9P3ulQbl4i",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__MAsfpdZSMpl9P3ulQbl4iy2-cW2_cxTFj4acsBFtmjq11z1",
+                      "source":  "MAsfpdZSMpl9P3ulQbl4i",
+                      "target":  "cW2_cxTFj4acsBFtmjq11",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__JuFghXpaI3uHtTckgmYeby2-GJVtKkllXuiMqUb3K7mUcz1",
+                      "source":  "JuFghXpaI3uHtTckgmYeb",
+                      "target":  "GJVtKkllXuiMqUb3K7mUc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__JuFghXpaI3uHtTckgmYeby2-y4ulspoL7KKUilPG98KWdz1",
+                      "source":  "JuFghXpaI3uHtTckgmYeb",
+                      "target":  "y4ulspoL7KKUilPG98KWd",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__RpAAmXmhMgIhuzgRBFcPjx2-JuFghXpaI3uHtTckgmYebw1",
+                      "source":  "RpAAmXmhMgIhuzgRBFcPj",
+                      "target":  "JuFghXpaI3uHtTckgmYeb",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__B-akazRqoFzc1EOuF7qQxx2-RpAAmXmhMgIhuzgRBFcPjw1",
+                      "source":  "B-akazRqoFzc1EOuF7qQx",
+                      "target":  "RpAAmXmhMgIhuzgRBFcPj",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__bXliqiEXUKvqlJ391hHE1x2-dS2USmMlQb4EjY9hvG_byw1",
+                      "source":  "bXliqiEXUKvqlJ391hHE1",
+                      "target":  "dS2USmMlQb4EjY9hvG_by",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__STbiR-fcScKwFwkGDoTh8w2-QaJAFu-xHUAGK7fjncQJBx2",
+                      "source":  "STbiR-fcScKwFwkGDoTh8",
+                      "target":  "QaJAFu-xHUAGK7fjncQJB",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__STbiR-fcScKwFwkGDoTh8x2-vwvykjlIYXiNi2yfWZcrqw2",
+                      "source":  "STbiR-fcScKwFwkGDoTh8",
+                      "target":  "vwvykjlIYXiNi2yfWZcrq",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__QaJAFu-xHUAGK7fjncQJBy2-z6TGywyQRmvbZaHnF_-eQz1",
+                      "source":  "QaJAFu-xHUAGK7fjncQJB",
+                      "target":  "z6TGywyQRmvbZaHnF_-eQ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__bXliqiEXUKvqlJ391hHE1z2-QaJAFu-xHUAGK7fjncQJBy2",
+                      "source":  "bXliqiEXUKvqlJ391hHE1",
+                      "target":  "QaJAFu-xHUAGK7fjncQJB",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__vwvykjlIYXiNi2yfWZcrqy2-XUg4x7MQTvXzmDkgkET7Sz1",
+                      "source":  "vwvykjlIYXiNi2yfWZcrq",
+                      "target":  "XUg4x7MQTvXzmDkgkET7S",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__vwvykjlIYXiNi2yfWZcrqy2-Rz9OCeWj0y2cwfLrGuXqRz1",
+                      "source":  "vwvykjlIYXiNi2yfWZcrq",
+                      "target":  "Rz9OCeWj0y2cwfLrGuXqR",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__yogv_RewIk12S8Rh_FEtJz2-vwvykjlIYXiNi2yfWZcrqy1",
+                      "source":  "yogv_RewIk12S8Rh_FEtJ",
+                      "target":  "vwvykjlIYXiNi2yfWZcrq",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__vwvykjlIYXiNi2yfWZcrqx2-sWzy6blDheaOBOpwg5louw1",
+                      "source":  "vwvykjlIYXiNi2yfWZcrq",
+                      "target":  "sWzy6blDheaOBOpwg5lou",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__mq3uKXW57PdAkbuSBsznDz2-sWzy6blDheaOBOpwg5louz1",
+                      "source":  "mq3uKXW57PdAkbuSBsznD",
+                      "target":  "sWzy6blDheaOBOpwg5lou",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__sWzy6blDheaOBOpwg5louy2-DHdpzJxOlUnRRx5WhhWHiz1",
+                      "source":  "sWzy6blDheaOBOpwg5lou",
+                      "target":  "DHdpzJxOlUnRRx5WhhWHi",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__sWzy6blDheaOBOpwg5louy2-TwS5Ms3BlAsR6E9aI81aFz1",
+                      "source":  "sWzy6blDheaOBOpwg5lou",
+                      "target":  "TwS5Ms3BlAsR6E9aI81aF",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__sWzy6blDheaOBOpwg5louy2-sJqixwq4_tCCRBE3XKNuwz1",
+                      "source":  "sWzy6blDheaOBOpwg5lou",
+                      "target":  "sJqixwq4_tCCRBE3XKNuw",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__ojvTMCBlgUf6ywgsgCQM1x2-D5djqvuGs8v__c9DrfOITw2",
+                      "source":  "ojvTMCBlgUf6ywgsgCQM1",
+                      "target":  "D5djqvuGs8v__c9DrfOIT",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__Qm2AQa8AJtmMo_eidqCrzw2-BlHpoWs1mHaaUpwBRQ1sMx2",
+                      "source":  "Qm2AQa8AJtmMo_eidqCrz",
+                      "target":  "BlHpoWs1mHaaUpwBRQ1sM",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__Qm2AQa8AJtmMo_eidqCrzy2-glMo7kvwKxS3M6pBrGhNnz1",
+                      "source":  "Qm2AQa8AJtmMo_eidqCrz",
+                      "target":  "glMo7kvwKxS3M6pBrGhNn",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__1mSU2_4W0bAMAph5jf7KCy2-PEQNPOy-j2BdL_NQYoq7gz1",
+                      "source":  "1mSU2_4W0bAMAph5jf7KC",
+                      "target":  "PEQNPOy-j2BdL_NQYoq7g",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__kbO0eO3UhUzPGaPvZKc_Nz2-kRM_HTRUvZ7xXjffu53Awy1",
+                      "source":  "kbO0eO3UhUzPGaPvZKc_N",
+                      "target":  "kRM_HTRUvZ7xXjffu53Aw",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__BlHpoWs1mHaaUpwBRQ1sMy2-fhNTUNX7xEFAG--1IlgBAy1",
+                      "source":  "BlHpoWs1mHaaUpwBRQ1sM",
+                      "target":  "fhNTUNX7xEFAG--1IlgBA",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "y1"
+                  }
+              ]
+}

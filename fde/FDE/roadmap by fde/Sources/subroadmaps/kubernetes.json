@@ -1,0 +1,1182 @@
+{
+    "slug":  "kubernetes",
+    "source":  "https://roadmap.sh/kubernetes",
+    "title":  "Kubernetes Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-09-23T12:44:58.809Z",
+    "nodes":  [
+                  {
+                      "id":  "ef-jFKMs8jw3Ti94jem96",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -206.97152060532687,
+                                       "y":  2002.6547713337786
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k_AR2YBSv077a6RwpCpZT",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -205.1381872719935,
+                                       "y":  1819.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p9_mj6m2RpT7Uqa1I1YjI",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -206.47152060532687,
+                                       "y":  1696.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FtrR19NFsdQoYcZzWtj5k",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -589.6381872719935,
+                                       "y":  1408.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nnN56cWEfaCaQNN_dD6tE",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -434.1381872719935,
+                                       "y":  1169.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ta1gWy3SFfNu_oM2FplxU",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -589.6381872719935,
+                                       "y":  1164.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3r36j_pf19jd_cr4oFE5m",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -589.6381872719935,
+                                       "y":  840.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HU7wZWiES3m3xl1-NYP6F",
+                      "type":  "title",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  -288.1381872719935,
+                                       "y":  -43.599251777651034
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uqyE79OItPOX33E5FoGel",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -205.1381872719935,
+                                       "y":  -134.0992517776511
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y7KjVfSI6CAduyHd4mBFT",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -315.1381872719935,
+                                       "y":  119.40074822234897
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qLeEEwBvlGt1fP5Qcreah",
+                      "type":  "subtopic",
+                      "label":  "Overview of Kubernetes",
+                      "position":  {
+                                       "x":  41.8618127280065,
+                                       "y":  50.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q-Ky0ietZGpyUcBQfh-BJ",
+                      "type":  "subtopic",
+                      "label":  "Why use Kubernetes?",
+                      "position":  {
+                                       "x":  41.8618127280065,
+                                       "y":  103.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9oo2fxTM2_p0VYPBroqxa",
+                      "type":  "subtopic",
+                      "label":  "Key Concepts and Terminologies",
+                      "position":  {
+                                       "x":  41.8618127280065,
+                                       "y":  156.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3fzuXKH7az_LVnmnoXB1p",
+                      "type":  "subtopic",
+                      "label":  "Kubernetes Alternatives",
+                      "position":  {
+                                       "x":  41.8618127280065,
+                                       "y":  209.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HGmeYvRf7_XusZl_K4x9k",
+                      "type":  "topic",
+                      "label":  "Containers",
+                      "position":  {
+                                       "x":  -315.1381872719935,
+                                       "y":  172.40074822234897
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3OpGaQhyNtk1n1MLp-tlb",
+                      "type":  "topic",
+                      "label":  "Setting up Kubernetes",
+                      "position":  {
+                                       "x":  -315.1381872719935,
+                                       "y":  225.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zrbSJa3k7a3TE0aYbWi9c",
+                      "type":  "subtopic",
+                      "label":  "Deploying your First Application",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  174.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qSatCdBTDXPu-IFWzUI99",
+                      "type":  "subtopic",
+                      "label":  "Choosing a Managed Provider",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  227.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YaIs8lquWIe1D7RCUBZmC",
+                      "type":  "subtopic",
+                      "label":  "Installing a Local Cluster",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  280.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1MdrzhktCWjpmxiYYBdz7",
+                      "type":  "topic",
+                      "label":  "Running Applications",
+                      "position":  {
+                                       "x":  -315.1381872719935,
+                                       "y":  384.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-d2PIXm0V_Iehe8cws8zK",
+                      "type":  "subtopic",
+                      "label":  "Pods",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  332.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IF09l0-pryGpMbDt__ocr",
+                      "type":  "subtopic",
+                      "label":  "ReplicaSets",
+                      "position":  {
+                                       "x":  191.8618127280065,
+                                       "y":  332.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TUGQX7y1gs-aKPge2F1NU",
+                      "type":  "subtopic",
+                      "label":  "Deployments",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  385.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AJiRBEaKU8qYEm0fqN389",
+                      "type":  "subtopic",
+                      "label":  "StatefulSets",
+                      "position":  {
+                                       "x":  191.8618127280065,
+                                       "y":  385.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "r3fzAN5DzratAKnnT8hzb",
+                      "type":  "subtopic",
+                      "label":  "Jobs",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  439.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aUJ_w2L8nxNq3DfAW97Gd",
+                      "type":  "topic",
+                      "label":  "Services and Networking",
+                      "position":  {
+                                       "x":  -315.1381872719935,
+                                       "y":  535.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jUOlITLqnIvSu97I_3nBz",
+                      "type":  "subtopic",
+                      "label":  "External Access to Services",
+                      "position":  {
+                                       "x":  -377.1381872719935,
+                                       "y":  619.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qelo1YvAcUoX5PA-RYbNp",
+                      "type":  "subtopic",
+                      "label":  "Load Balancing",
+                      "position":  {
+                                       "x":  -377.1381872719935,
+                                       "y":  672.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "44rhdieUCWsGFC_1__9kk",
+                      "type":  "subtopic",
+                      "label":  "Networking \u0026 Pod-to-Pod Communication",
+                      "position":  {
+                                       "x":  -377.1381872719935,
+                                       "y":  725.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dj7Tb2XTX4kxRUYiTjlhM",
+                      "type":  "topic",
+                      "label":  "Configuration Management",
+                      "position":  {
+                                       "x":  -710.1381872719935,
+                                       "y":  535.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u24UlZKI86vaguj_VpMv1",
+                      "type":  "subtopic",
+                      "label":  "Injecting Pod Config with ConfigMaps",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  391.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "S0CwGC2gMG-SqnLNldqBD",
+                      "type":  "subtopic",
+                      "label":  "Using Secrets for Sensitive Data",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  444.9007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eWKkdiBhD5x2sGYajmHEs",
+                      "type":  "topic",
+                      "label":  "Resource Management",
+                      "position":  {
+                                       "x":  -710.1381872719935,
+                                       "y":  825.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8RLR6gRjIyTn6GCugEfgk",
+                      "type":  "subtopic",
+                      "label":  "Setting Resource Requests and Limits",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  923.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OHz4QMmA3lqL_C7aWL8Ga",
+                      "type":  "subtopic",
+                      "label":  "Assigning Quotas to Namespaces",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  976.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PP4ld_vvjpY3QltBBsXKD",
+                      "type":  "subtopic",
+                      "label":  "Monitoring \u0026 Optimizing Resource Usage",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1030.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SG3wtV2rt9nmLEkgrp_zP",
+                      "type":  "topic",
+                      "label":  "Security",
+                      "position":  {
+                                       "x":  81.8618127280065,
+                                       "y":  825.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jOq0WwLrq8tlmOgo64QDc",
+                      "type":  "subtopic",
+                      "label":  "Role Based Access Control (RBAC)",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  619.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s0gHg8CqwrSylpSPu8arA",
+                      "type":  "subtopic",
+                      "label":  "Network Security",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  672.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Nja7IFWcFTLsPcqbvRNm9",
+                      "type":  "subtopic",
+                      "label":  "Container and Pod Security",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  725.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AgsQnQjyTLUFhFpRdcE13",
+                      "type":  "topic",
+                      "label":  "Monitoring and Logging",
+                      "position":  {
+                                       "x":  81.8618127280065,
+                                       "y":  977.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-XxQtiLDAkXs7IFM_Ddw6",
+                      "type":  "subtopic",
+                      "label":  "Logs",
+                      "position":  {
+                                       "x":  -299.1381872719935,
+                                       "y":  924.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nqUBHBFUYFdYqCKZvfXBR",
+                      "type":  "subtopic",
+                      "label":  "Metrics",
+                      "position":  {
+                                       "x":  -205.1381872719935,
+                                       "y":  924.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ldYTEPt_hI4PXxr3tgJi5",
+                      "type":  "subtopic",
+                      "label":  "Traces",
+                      "position":  {
+                                       "x":  -111.1381872719935,
+                                       "y":  924.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pDjNsK5vI9FmKZbQm0lDP",
+                      "type":  "subtopic",
+                      "label":  "Resource Health",
+                      "position":  {
+                                       "x":  -299.1381872719935,
+                                       "y":  977.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FANswgUhUb5Iuah2fni3L",
+                      "type":  "subtopic",
+                      "label":  "Observability Engines",
+                      "position":  {
+                                       "x":  -299.1381872719935,
+                                       "y":  1030.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "03mGA5AyL7mpF6y3EMW7A",
+                      "type":  "topic",
+                      "label":  "Autoscaling",
+                      "position":  {
+                                       "x":  81.8618127280065,
+                                       "y":  1132.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "044IUUCgZP4oQ9UxUG2iy",
+                      "type":  "subtopic",
+                      "label":  "Horizontal Pod Autoscaler (HPA)",
+                      "position":  {
+                                       "x":  52.3618127280065,
+                                       "y":  1222.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c1KVczGRjh9bhMpbPP6sA",
+                      "type":  "subtopic",
+                      "label":  "Vertical Pod Autoscaler (VPA)",
+                      "position":  {
+                                       "x":  52.3618127280065,
+                                       "y":  1275.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RC5MoYtG2rom-d4FW5qD2",
+                      "type":  "subtopic",
+                      "label":  "Cluster Autoscaling",
+                      "position":  {
+                                       "x":  52.3618127280065,
+                                       "y":  1328.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xZDXM_8qb4VL15tNGG0ws",
+                      "type":  "topic",
+                      "label":  "Scheduling",
+                      "position":  {
+                                       "x":  -224.6381872719935,
+                                       "y":  1132.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "70lTSIVh0AD6M8fMMuWzY",
+                      "type":  "subtopic",
+                      "label":  "Basics",
+                      "position":  {
+                                       "x":  -284.1381872719935,
+                                       "y":  1224.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zXUsHAI1HFhcY2BFAcypv",
+                      "type":  "subtopic",
+                      "label":  "Taints and Tolerations",
+                      "position":  {
+                                       "x":  -284.1381872719935,
+                                       "y":  1277.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CL0hKTcml40InmyVUXpY2",
+                      "type":  "subtopic",
+                      "label":  "Topology Spread Constraints",
+                      "position":  {
+                                       "x":  -284.1381872719935,
+                                       "y":  1330.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Gva1eGcYqpmZNPyV03lt",
+                      "type":  "subtopic",
+                      "label":  "Pod Priorities",
+                      "position":  {
+                                       "x":  -284.1381872719935,
+                                       "y":  1383.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TRKzlDW2PQN9bWTyz3NWL",
+                      "type":  "subtopic",
+                      "label":  "Evictions",
+                      "position":  {
+                                       "x":  -128.1381872719935,
+                                       "y":  1383.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "URnYf9jMprFz-o26fbU2P",
+                      "type":  "topic",
+                      "label":  "Storage and Volumes",
+                      "position":  {
+                                       "x":  -627.1381872719935,
+                                       "y":  1132.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "55RV9psPCmcg8G_P_zQo9",
+                      "type":  "subtopic",
+                      "label":  "CSI Drivers",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1217.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LJUJ1NIUsajb1AUdvJjqW",
+                      "type":  "subtopic",
+                      "label":  "Stateful Applications",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1270.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0l0xpsabglvs_t6oAP-XG",
+                      "type":  "topic",
+                      "label":  "Deployment Patterns",
+                      "position":  {
+                                       "x":  -627.1381872719935,
+                                       "y":  1383.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Pymc9H-lRHVPy7M9eSaPD",
+                      "type":  "subtopic",
+                      "label":  "CI / CD Integration",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1472.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dATdEyNWlpDNKjedCXLyb",
+                      "type":  "subtopic",
+                      "label":  "GitOps",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1525.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FAEFOhLdp7xrmctHFxiOM",
+                      "type":  "subtopic",
+                      "label":  "Helm Charts",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1578.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "88IGeC3dAopHLGtLozxdY",
+                      "type":  "subtopic",
+                      "label":  "Canary Deployments",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1631.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yMSXdwDO36CLtp2TBC7aB",
+                      "type":  "subtopic",
+                      "label":  "Rolling Updates / Rollbacks",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1737.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vdbcHzRz-_WnvhOemTw3R",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -425.1381872719935,
+                                       "y":  1799.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t8SJbGVXsUDECxePLDk_w",
+                      "type":  "topic",
+                      "label":  "Advanced Topics",
+                      "position":  {
+                                       "x":  -288.9715206053269,
+                                       "y":  1784.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L9rVPEEXFwisQOwT_LQ4v",
+                      "type":  "subtopic",
+                      "label":  "Creating Custom Controllers",
+                      "position":  {
+                                       "x":  -364.4715206053269,
+                                       "y":  1471.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1-Nb8rCMJEZrYm20sEcRJ",
+                      "type":  "subtopic",
+                      "label":  "Custom Schedulers and Extenders",
+                      "position":  {
+                                       "x":  -364.4715206053269,
+                                       "y":  1524.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9P7l-RBOkUxs3Z_UpKQO-",
+                      "type":  "subtopic",
+                      "label":  "Custom Resource Definitions (CRDs)",
+                      "position":  {
+                                       "x":  -364.4715206053269,
+                                       "y":  1577.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UeJcKv3jhenjNzHM-0R86",
+                      "type":  "subtopic",
+                      "label":  "Kubernetes Extensions and APIs",
+                      "position":  {
+                                       "x":  -364.4715206053269,
+                                       "y":  1631.400748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZrVhYTw63aVVIFAEJDG5r",
+                      "type":  "subtopic",
+                      "label":  "Should you manage your own Cluster?",
+                      "position":  {
+                                       "x":  -15.804853938660187,
+                                       "y":  1470.0674148890157
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M-iTb_7EWZIJ3JpdViICx",
+                      "type":  "subtopic",
+                      "label":  "Installing the Control Plane",
+                      "position":  {
+                                       "x":  -15.804853938660187,
+                                       "y":  1523.0674148890157
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2cQKTxln3dIk5IjX2UZdM",
+                      "type":  "subtopic",
+                      "label":  "Adding and Managing Worker Nodes",
+                      "position":  {
+                                       "x":  -15.804853938660187,
+                                       "y":  1576.0674148890157
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "auZgEQ6FC3nUjuyx0zANh",
+                      "type":  "subtopic",
+                      "label":  "Multi-Cluster Management",
+                      "position":  {
+                                       "x":  -17.138187271993502,
+                                       "y":  1629.0674148890157
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-M6ZVzI35DVZwl9hGpYFQ",
+                      "type":  "label",
+                      "label":  "Cluster Operations",
+                      "position":  {
+                                       "x":  -13.138187271993502,
+                                       "y":  1700.5674148890157
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "A3PLMcJN35yJJUuZJbRMx",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -364.4715206053269,
+                                       "y":  1684.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "type":  "paragraph",
+                      "label":  "Continue learning with following roadmaps",
+                      "position":  {
+                                       "x":  -445.74416945365664,
+                                       "y":  1899.509113900669
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UloavCkIvZnD1XMFohYVT",
+                      "type":  "button",
+                      "label":  "DevOps",
+                      "position":  {
+                                       "x":  -430.74416945365664,
+                                       "y":  1953.6547713337786
+                                   },
+                      "href":  "https://roadmap.sh/devops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "StxLh1r3qXqyRSqfJGird",
+                      "type":  "button",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  -115.1381872719935,
+                                       "y":  1953.6547713337786
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "OIcmPSbdsuWapb6HZ4BEi",
+                      "type":  "button",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  -289.1381872719935,
+                                       "y":  1953.6547713337786
+                                   },
+                      "href":  "https://roadmap.sh/docker",
+                      "links":  null
+                  },
+                  {
+                      "id":  "wx-CpX3NJtKrdr_dQHZi9",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  -123.59925177765109
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "9u_-wRTq9TR6LcGC8XMEv",
+                                        "label":  "Docker Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/docker"
+                                    },
+                                    {
+                                        "id":  "hyMuCrj97vtFIGZsyOc-9",
+                                        "label":  "Backend Roadmap",
+                                        "url":  "https://roadmap.sh/backend"
+                                    },
+                                    {
+                                        "id":  "cz2Ix_SQSiLkXGKeCrD-f",
+                                        "label":  "DevOps Roadmap",
+                                        "url":  "https://roadmap.sh/devops"
+                                    },
+                                    {
+                                        "id":  "I3dEtFD87s18bQaP2zbl1",
+                                        "label":  "System Design Roadmap",
+                                        "url":  "https://roadmap.sh/system-design"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "9-oaTlzKmcxTfaRycz1w3",
+                      "type":  "subtopic",
+                      "label":  "Blue-Green Deployments",
+                      "position":  {
+                                       "x":  -745.1381872719935,
+                                       "y":  1684.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -20.012490518229754,
+                                       "y":  -116.45354709361837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  -6.387978304986632,
+                                       "y":  -34.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "rgHgNU_aLUibLhl_Cyw3F",
+                      "type":  "subtopic",
+                      "label":  "Gateway API",
+                      "position":  {
+                                       "x":  40.8618127280065,
+                                       "y":  535.900748222349
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__HU7wZWiES3m3xl1-NYP6Fx2-t8SJbGVXsUDECxePLDk_ww1",
+                      "source":  "HU7wZWiES3m3xl1-NYP6F",
+                      "target":  "y7KjVfSI6CAduyHd4mBFT",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wz2-qLeEEwBvlGt1fP5Qcreahy2",
+                      "source":  "y7KjVfSI6CAduyHd4mBFT",
+                      "target":  "qLeEEwBvlGt1fP5Qcreah",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wz2-q-Ky0ietZGpyUcBQfh-BJy1",
+                      "source":  "y7KjVfSI6CAduyHd4mBFT",
+                      "target":  "q-Ky0ietZGpyUcBQfh-BJ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wz2-9oo2fxTM2_p0VYPBroqxay2",
+                      "source":  "y7KjVfSI6CAduyHd4mBFT",
+                      "target":  "9oo2fxTM2_p0VYPBroqxa",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wz2-3fzuXKH7az_LVnmnoXB1py1",
+                      "source":  "y7KjVfSI6CAduyHd4mBFT",
+                      "target":  "3fzuXKH7az_LVnmnoXB1p",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wy2-zrbSJa3k7a3TE0aYbWi9cz2",
+                      "source":  "3OpGaQhyNtk1n1MLp-tlb",
+                      "target":  "zrbSJa3k7a3TE0aYbWi9c",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wy2-qSatCdBTDXPu-IFWzUI99z1",
+                      "source":  "3OpGaQhyNtk1n1MLp-tlb",
+                      "target":  "qSatCdBTDXPu-IFWzUI99",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wy2-YaIs8lquWIe1D7RCUBZmCz2",
+                      "source":  "3OpGaQhyNtk1n1MLp-tlb",
+                      "target":  "YaIs8lquWIe1D7RCUBZmC",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__3OpGaQhyNtk1n1MLp-tlbx2-t8SJbGVXsUDECxePLDk_ww1",
+                      "source":  "3OpGaQhyNtk1n1MLp-tlb",
+                      "target":  "1MdrzhktCWjpmxiYYBdz7",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wz2-TUGQX7y1gs-aKPge2F1NUy1",
+                      "source":  "1MdrzhktCWjpmxiYYBdz7",
+                      "target":  "TUGQX7y1gs-aKPge2F1NU",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wz2--d2PIXm0V_Iehe8cws8zKy1",
+                      "source":  "1MdrzhktCWjpmxiYYBdz7",
+                      "target":  "-d2PIXm0V_Iehe8cws8zK",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wz2-r3fzAN5DzratAKnnT8hzby1",
+                      "source":  "1MdrzhktCWjpmxiYYBdz7",
+                      "target":  "r3fzAN5DzratAKnnT8hzb",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__1MdrzhktCWjpmxiYYBdz7x2-t8SJbGVXsUDECxePLDk_ww1",
+                      "source":  "1MdrzhktCWjpmxiYYBdz7",
+                      "target":  "aUJ_w2L8nxNq3DfAW97Gd",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wx2-jUOlITLqnIvSu97I_3nBzw1",
+                      "source":  "aUJ_w2L8nxNq3DfAW97Gd",
+                      "target":  "jUOlITLqnIvSu97I_3nBz",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__aUJ_w2L8nxNq3DfAW97Gdy2-t8SJbGVXsUDECxePLDk_wz2",
+                      "source":  "aUJ_w2L8nxNq3DfAW97Gd",
+                      "target":  "dj7Tb2XTX4kxRUYiTjlhM",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_ww2-S0CwGC2gMG-SqnLNldqBDx2",
+                      "source":  "dj7Tb2XTX4kxRUYiTjlhM",
+                      "target":  "S0CwGC2gMG-SqnLNldqBD",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__dj7Tb2XTX4kxRUYiTjlhMx2-t8SJbGVXsUDECxePLDk_ww2",
+                      "source":  "dj7Tb2XTX4kxRUYiTjlhM",
+                      "target":  "eWKkdiBhD5x2sGYajmHEs",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__eWKkdiBhD5x2sGYajmHEsz2-t8SJbGVXsUDECxePLDk_wy2",
+                      "source":  "eWKkdiBhD5x2sGYajmHEs",
+                      "target":  "SG3wtV2rt9nmLEkgrp_zP",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__SG3wtV2rt9nmLEkgrp_zPx2-t8SJbGVXsUDECxePLDk_ww1",
+                      "source":  "SG3wtV2rt9nmLEkgrp_zP",
+                      "target":  "AgsQnQjyTLUFhFpRdcE13",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wy2-pDjNsK5vI9FmKZbQm0lDPz1",
+                      "source":  "AgsQnQjyTLUFhFpRdcE13",
+                      "target":  "pDjNsK5vI9FmKZbQm0lDP",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wy2-ldYTEPt_hI4PXxr3tgJi5z1",
+                      "source":  "AgsQnQjyTLUFhFpRdcE13",
+                      "target":  "ldYTEPt_hI4PXxr3tgJi5",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wy2-FANswgUhUb5Iuah2fni3Lz1",
+                      "source":  "AgsQnQjyTLUFhFpRdcE13",
+                      "target":  "FANswgUhUb5Iuah2fni3L",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__AgsQnQjyTLUFhFpRdcE13x2-t8SJbGVXsUDECxePLDk_ww1",
+                      "source":  "AgsQnQjyTLUFhFpRdcE13",
+                      "target":  "03mGA5AyL7mpF6y3EMW7A",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wx2-RC5MoYtG2rom-d4FW5qD2w2",
+                      "source":  "03mGA5AyL7mpF6y3EMW7A",
+                      "target":  "044IUUCgZP4oQ9UxUG2iy",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__03mGA5AyL7mpF6y3EMW7Ay2-t8SJbGVXsUDECxePLDk_wz2",
+                      "source":  "03mGA5AyL7mpF6y3EMW7A",
+                      "target":  "xZDXM_8qb4VL15tNGG0ws",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__t8SJbGVXsUDECxePLDk_wx2-70lTSIVh0AD6M8fMMuWzYw1",
+                      "source":  "xZDXM_8qb4VL15tNGG0ws",
+                      "target":  "70lTSIVh0AD6M8fMMuWzY",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__xZDXM_8qb4VL15tNGG0wsy2-t8SJbGVXsUDECxePLDk_wz1",
+                      "source":  "xZDXM_8qb4VL15tNGG0ws",
+                      "target":  "URnYf9jMprFz-o26fbU2P",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__SG3wtV2rt9nmLEkgrp_zPw2-Nja7IFWcFTLsPcqbvRNm9x1",
+                      "source":  "SG3wtV2rt9nmLEkgrp_zP",
+                      "target":  "Nja7IFWcFTLsPcqbvRNm9",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__aUJ_w2L8nxNq3DfAW97Gdz2-rgHgNU_aLUibLhl_Cyw3Fy1",
+                      "source":  "aUJ_w2L8nxNq3DfAW97Gd",
+                      "target":  "rgHgNU_aLUibLhl_Cyw3F",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  }
+              ]
+}

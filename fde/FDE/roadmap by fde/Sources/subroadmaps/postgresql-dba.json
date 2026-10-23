@@ -1,0 +1,2831 @@
+{
+    "slug":  "postgresql-dba",
+    "source":  "https://roadmap.sh/postgresql-dba",
+    "title":  "PostgreSQL DBA",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-01-06T16:31:51.969Z",
+    "nodes":  [
+                  {
+                      "id":  "LyLFP5Kqx60f2ABDGTA-c",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -387.8435707542325,
+                                       "y":  2805.521312862793
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nqRjLCEL647UnNdBfNXY9",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -125.01466960238349,
+                                       "y":  2427.0839460902976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TJSsoD5U78tOydPhxuPzK",
+                      "type":  "paragraph",
+                      "label":  "Fine-grained Tuning",
+                      "position":  {
+                                       "x":  -120.22350405074945,
+                                       "y":  2428.0839460902976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QfyHG6cVuKQ3iqdEtoFSU",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  225.5786133976277,
+                                       "y":  2426.505711967801
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PO-0otvLzR0IdSjr3qrHi",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -174.6924284234059,
+                                       "y":  2460.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uhaumgDGlmTZxRGoZ_R0Z",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -505.25634421460154,
+                                       "y":  2362.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1zofI1RXzy1el0L0Pjxtx",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -267.261518097656,
+                                       "y":  2128.960169404955
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L4zzOZ0ZQnziJTXiOeMhP",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -114.89209645977337,
+                                       "y":  2109.570839668701
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xi5uZ_VOH4rVNu_0ZLAX9",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -508.9061969910332,
+                                       "y":  1550.9782199198892
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eyeqQi-eX9foNzlSHGQJ1",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -81.3711635383321,
+                                       "y":  1260.7417239948313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WoNjhRXtGtxFsK_vR0ouB",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -24.369723263420383,
+                                       "y":  1031.037958500518
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cc_6hISv1nfvZb0UXierZ",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  156.41769176852483,
+                                       "y":  578.7771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "92MmgBQ4x0d2GeDCVtCNN",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -185.54650833868743,
+                                       "y":  1307.862069498634
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ah3lQJ1nNiHmclKD3E25r",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  204.238410041698,
+                                       "y":  410.27717232299847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "T83jSeQ6bB_lW1WIH3GWv",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -259.58230823147517,
+                                       "y":  488.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iogwMmOvub2ZF4zgg6WyF",
+                      "type":  "title",
+                      "label":  "PostgreSQL",
+                      "position":  {
+                                       "x":  -190.24744704168165,
+                                       "y":  -194.72152351445328
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LEijbLyxg4RyutKEM2Y5g",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -104.24744704168165,
+                                       "y":  -275.7215235144533
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lDIy56RyC1XM7IfORsSLD",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -229.24744704168165,
+                                       "y":  -12.151066995470956
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "soar-NBWCr4xVKj7ttfnc",
+                      "type":  "subtopic",
+                      "label":  "What are Relational Databases?",
+                      "position":  {
+                                       "x":  152.06761605808623,
+                                       "y":  -92.3122831371636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p3AmRr_y_ZBKzAU5eh7OU",
+                      "type":  "subtopic",
+                      "label":  "RDBMS Benefits and Limitations",
+                      "position":  {
+                                       "x":  151.4095159810638,
+                                       "y":  -39.312283137163604
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IAKERTzTpTds5kZLMCapM",
+                      "type":  "subtopic",
+                      "label":  "PostgreSQL vs Other RDBMS",
+                      "position":  {
+                                       "x":  149.9095159810637,
+                                       "y":  66.6877168628364
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D0doJTtLu-1MmFOfavCXN",
+                      "type":  "subtopic",
+                      "label":  "PostgreSQL vs NoSQL Databases",
+                      "position":  {
+                                       "x":  149.9095159810637,
+                                       "y":  13.687716862836396
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-M9EFgiDSSAzj9ISk-aeh",
+                      "type":  "topic",
+                      "label":  "Basic RDBMS Concepts",
+                      "position":  {
+                                       "x":  -229.24744704168165,
+                                       "y":  145.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RoYP1tYw5dvhmkVTo1HS-",
+                      "type":  "topic",
+                      "label":  "Object Model",
+                      "position":  {
+                                       "x":  -503.58230823147517,
+                                       "y":  146.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xVocG4LuFdtphwoOxiJTa",
+                      "type":  "subtopic",
+                      "label":  "Queries",
+                      "position":  {
+                                       "x":  -504.58230823147517,
+                                       "y":  -118.15106699547096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4Pw7udOMIsiaKr7w9CRxc",
+                      "type":  "subtopic",
+                      "label":  "Data Types",
+                      "position":  {
+                                       "x":  -504.58230823147517,
+                                       "y":  -65.15106699547096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Rd3RLpyLMGQZzrxQrxDGo",
+                      "type":  "subtopic",
+                      "label":  "Rows",
+                      "position":  {
+                                       "x":  -504.58230823147517,
+                                       "y":  -12.151066995470956
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cty2IjgS1BWltbYmuxxuV",
+                      "type":  "subtopic",
+                      "label":  "Columns",
+                      "position":  {
+                                       "x":  -398.58230823147517,
+                                       "y":  -12.151066995470956
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W8NhR4SqteMLfso8AD6H8",
+                      "type":  "subtopic",
+                      "label":  "Tables",
+                      "position":  {
+                                       "x":  -504.58230823147517,
+                                       "y":  40.848933004529044
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mF6qAlo2ULJ3lECG2m0h7",
+                      "type":  "subtopic",
+                      "label":  "Schemas",
+                      "position":  {
+                                       "x":  -398.58230823147517,
+                                       "y":  40.848933004529044
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DU-D3-j9h6i9Nj5ci8hlX",
+                      "type":  "subtopic",
+                      "label":  "Databases",
+                      "position":  {
+                                       "x":  -503.58230823147517,
+                                       "y":  93.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mDVbjdVN0spY7dI_8k1YW",
+                      "type":  "topic",
+                      "label":  "Relational Model",
+                      "position":  {
+                                       "x":  -503.58230823147517,
+                                       "y":  230.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-LuxJvI5IaOx6NqzK0d8S",
+                      "type":  "subtopic",
+                      "label":  "Domains",
+                      "position":  {
+                                       "x":  -503.58230823147517,
+                                       "y":  284.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XvZMSveMWqmAlXOxwWzdk",
+                      "type":  "subtopic",
+                      "label":  "Attributes",
+                      "position":  {
+                                       "x":  -402.58230823147517,
+                                       "y":  284.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vJhvgGwNV3JB-wWn_0gMb",
+                      "type":  "subtopic",
+                      "label":  "Tuples",
+                      "position":  {
+                                       "x":  -503.58230823147517,
+                                       "y":  337.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2hM2IPAnNYq-LlEbcFp2Z",
+                      "type":  "subtopic",
+                      "label":  "Relations",
+                      "position":  {
+                                       "x":  -402.58230823147517,
+                                       "y":  337.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "j9ikSpCD3yM5pTRFuJjZs",
+                      "type":  "subtopic",
+                      "label":  "Constraints",
+                      "position":  {
+                                       "x":  -503.58230823147517,
+                                       "y":  390.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "91eOGK8mtJulWRlhKyv0F",
+                      "type":  "subtopic",
+                      "label":  "NULL",
+                      "position":  {
+                                       "x":  -387.58230823147517,
+                                       "y":  390.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_BSR2mo1lyXEFXbKYb1ZG",
+                      "type":  "topic",
+                      "label":  "High Level Database Concepts",
+                      "position":  {
+                                       "x":  151.4095159810638,
+                                       "y":  148.1877168628364
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9u7DPbfybqmldisiePq0m",
+                      "type":  "subtopic",
+                      "label":  "ACID",
+                      "position":  {
+                                       "x":  151.4095159810638,
+                                       "y":  201.1877168628364
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-_ADJsTVGAgXq7_-8bdIO",
+                      "type":  "subtopic",
+                      "label":  "MVCC",
+                      "position":  {
+                                       "x":  225.4095159810638,
+                                       "y":  201.1877168628364
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yFG_hVD3dB_qK8yphrRY5",
+                      "type":  "subtopic",
+                      "label":  "Transactions",
+                      "position":  {
+                                       "x":  309.4095159810638,
+                                       "y":  201.1877168628364
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9sadNsbHLqejbRPHWhx-w",
+                      "type":  "subtopic",
+                      "label":  "Write-ahead Log",
+                      "position":  {
+                                       "x":  151.4095159810638,
+                                       "y":  254.1877168628364
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qk14b9WyeCp9RV9WAwojt",
+                      "type":  "subtopic",
+                      "label":  "Query Processing",
+                      "position":  {
+                                       "x":  151.4095159810638,
+                                       "y":  307.1877168628364
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5MjJIAcn5zABCK6JsFf4k",
+                      "type":  "subtopic",
+                      "label":  "Using Docker",
+                      "position":  {
+                                       "x":  -501.08230823147517,
+                                       "y":  488.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pEtQy1nuW98YUwrbfs7Np",
+                      "type":  "subtopic",
+                      "label":  "Package Managers",
+                      "position":  {
+                                       "x":  -501.08230823147517,
+                                       "y":  541.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mMf2Mq9atIKk37IMWuoJs",
+                      "type":  "subtopic",
+                      "label":  "Connect using `psql`",
+                      "position":  {
+                                       "x":  -501.08230823147517,
+                                       "y":  594.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6SCcxpkpLmmRe0rS8WAPZ",
+                      "type":  "subtopic",
+                      "label":  "Deployment in Cloud",
+                      "position":  {
+                                       "x":  -501.08230823147517,
+                                       "y":  647.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7OIljP-vhWasB78rZPEGQ",
+                      "type":  "label",
+                      "label":  "Managing Postgres",
+                      "position":  {
+                                       "x":  -251.58230823147517,
+                                       "y":  495.248933004529
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "P1Hm6ZlrhCRxbxOJkBHlL",
+                      "type":  "subtopic",
+                      "label":  "Using `systemd`",
+                      "position":  {
+                                       "x":  -251.58230823147517,
+                                       "y":  533.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "a4j0Rs8Tl6-k9WP5zjaep",
+                      "type":  "subtopic",
+                      "label":  "Using `pg_ctl`",
+                      "position":  {
+                                       "x":  -251.58230823147517,
+                                       "y":  586.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v3SoKmeCh6uxKW5GAAMje",
+                      "type":  "subtopic",
+                      "label":  "Using `pg_ctlcluster`",
+                      "position":  {
+                                       "x":  -251.58230823147517,
+                                       "y":  639.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hftk9puFrq1P-LSVAupLm",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -498.58230823147517,
+                                       "y":  463.748933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kV8RIgCJT60d8gTI13Oay",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -106.08230823147517,
+                                       "y":  413.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FtPiBWMFhjakyXsmSL_CI",
+                      "type":  "topic",
+                      "label":  "Installation and Setup",
+                      "position":  {
+                                       "x":  -210.24744704168165,
+                                       "y":  386.84893300452904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ANUgfkADLI_du7iRvnUdi",
+                      "type":  "topic",
+                      "label":  "Learn SQL",
+                      "position":  {
+                                       "x":  32.91383938967235,
+                                       "y":  564.2771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h0v46Glkt60lHmdq5B5mY",
+                      "type":  "label",
+                      "label":  "DDL Queries",
+                      "position":  {
+                                       "x":  220.238410041698,
+                                       "y":  421.77717232299847
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "KMdF9efNGULualk5o1W0_",
+                      "type":  "subtopic",
+                      "label":  "For Schemas",
+                      "position":  {
+                                       "x":  219.238410041698,
+                                       "y":  463.27717232299847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ga8ZiuPc42XvZ3-iVh8T1",
+                      "type":  "subtopic",
+                      "label":  "ForTables",
+                      "position":  {
+                                       "x":  220.238410041698,
+                                       "y":  516.2771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fvEgtFP7xvkq_D4hYw3gz",
+                      "type":  "subtopic",
+                      "label":  "Data Types",
+                      "position":  {
+                                       "x":  220.238410041698,
+                                       "y":  569.2771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FeqeChgV-XTMJD4slWfni",
+                      "type":  "label",
+                      "label":  "DML Queries",
+                      "position":  {
+                                       "x":  384.738410041698,
+                                       "y":  420.77717232299847
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "BEJyz0ohCglDucxfyuAy4",
+                      "type":  "subtopic",
+                      "label":  "Querying Data",
+                      "position":  {
+                                       "x":  373.238410041698,
+                                       "y":  462.27717232299847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dd2lTNsNzYdfB7rRFMNmC",
+                      "type":  "subtopic",
+                      "label":  "Filtering Data",
+                      "position":  {
+                                       "x":  373.238410041698,
+                                       "y":  515.2771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "G2NKhjlZqAY9l32H0LPNQ",
+                      "type":  "subtopic",
+                      "label":  "Modifying Data",
+                      "position":  {
+                                       "x":  373.238410041698,
+                                       "y":  569.2771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Hura0LImG9pyPxaEIDo3X",
+                      "type":  "subtopic",
+                      "label":  "Joining Tables",
+                      "position":  {
+                                       "x":  373.238410041698,
+                                       "y":  623.2771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "umNNMpJh4Al1dEpT6YkrA",
+                      "type":  "subtopic",
+                      "label":  "Import / Export Using `COPY`",
+                      "position":  {
+                                       "x":  221.738410041698,
+                                       "y":  690.2771723229985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ghgyAXJ72dZmF2JpDvu9U",
+                      "type":  "subtopic",
+                      "label":  "Transactions",
+                      "position":  {
+                                       "x":  221.738410041698,
+                                       "y":  798.2771723229987
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Y-omKcWZOxto-xJka7su",
+                      "type":  "subtopic",
+                      "label":  "Subqueries",
+                      "position":  {
+                                       "x":  221.738410041698,
+                                       "y":  851.2771723229987
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uwd_CaeHQQ3ZWojbmtbPh",
+                      "type":  "subtopic",
+                      "label":  "Grouping",
+                      "position":  {
+                                       "x":  221.738410041698,
+                                       "y":  904.2771723229986
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fsZvmH210bC_3dBD_X8-z",
+                      "type":  "subtopic",
+                      "label":  "CTE",
+                      "position":  {
+                                       "x":  373.238410041698,
+                                       "y":  797.2771723229987
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fTsoMSLcXU1mgd5-vekbT",
+                      "type":  "subtopic",
+                      "label":  "Lateral Join",
+                      "position":  {
+                                       "x":  373.238410041698,
+                                       "y":  850.2771723229987
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kOwhnSZBwIhIbIsoAXQ50",
+                      "type":  "subtopic",
+                      "label":  "Set Operations",
+                      "position":  {
+                                       "x":  373.238410041698,
+                                       "y":  903.2771723229986
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JA4Ltc-6oE7kqbP5TvQGO",
+                      "type":  "label",
+                      "label":  "Advanced Topics",
+                      "position":  {
+                                       "x":  312.738410041698,
+                                       "y":  754.2771723229984
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "T819BZ-CZgUX_BY7Gna0J",
+                      "type":  "topic",
+                      "label":  "Configuring",
+                      "position":  {
+                                       "x":  -169.8711635383321,
+                                       "y":  727.4140718147354
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yl3gxfQs4nOE0N7uGqR0d",
+                      "type":  "subtopic",
+                      "label":  "Resource Usage",
+                      "position":  {
+                                       "x":  -509.08230823147517,
+                                       "y":  894.037958500518
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9VmQ-vN3nPyf1pTFIcj40",
+                      "type":  "subtopic",
+                      "label":  "Write-ahead Log",
+                      "position":  {
+                                       "x":  -509.08230823147517,
+                                       "y":  947.037958500518
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zoaqBP0Jbf0HpTH8Q3LkJ",
+                      "type":  "subtopic",
+                      "label":  "Vacuums",
+                      "position":  {
+                                       "x":  -509.08230823147517,
+                                       "y":  1000.037958500518
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "A3YTrZSUxNBq77iIrNdZ4",
+                      "type":  "subtopic",
+                      "label":  "Replication",
+                      "position":  {
+                                       "x":  -368.08230823147517,
+                                       "y":  1000.037958500518
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hOPwVdIzesselbsI_rRxt",
+                      "type":  "subtopic",
+                      "label":  "Query Planner",
+                      "position":  {
+                                       "x":  -509.08230823147517,
+                                       "y":  1053.037958500518
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3pLn1mhRnekG537ejHUYA",
+                      "type":  "subtopic",
+                      "label":  "Checkpoints / Background Writer",
+                      "position":  {
+                                       "x":  -509.08230823147517,
+                                       "y":  1106.037958500518
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "507TY35b8iExakbBMrHgZ",
+                      "type":  "subtopic",
+                      "label":  "Reporting Logging \u0026 Statistics",
+                      "position":  {
+                                       "x":  -506.9997388263719,
+                                       "y":  727.4140718147354
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VAf9VzPx70hUf4H6i3Z2t",
+                      "type":  "subtopic",
+                      "label":  "Adding Extra Extensions",
+                      "position":  {
+                                       "x":  -506.9997388263719,
+                                       "y":  780.4140718147354
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wnD1QnUDoGLDiryETIsKR",
+                      "type":  "paragraph",
+                      "label":  "Following postgres.conf configuration",
+                      "position":  {
+                                       "x":  -507.24744704168165,
+                                       "y":  846.0661978189876
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Zg8R5gs9LMQOcOMZtoPk",
+                      "type":  "topic",
+                      "label":  "Security",
+                      "position":  {
+                                       "x":  -169.8711635383321,
+                                       "y":  1126.66628957926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "S20aJB-VuSpXYyd0-0S8c",
+                      "type":  "subtopic",
+                      "label":  "Object Privileges",
+                      "position":  {
+                                       "x":  -48.22888579966218,
+                                       "y":  995.0419261268062
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o1WSsw-ZIaAb8JF3P0mfR",
+                      "type":  "subtopic",
+                      "label":  "Grant / Revoke",
+                      "position":  {
+                                       "x":  -48.22888579966218,
+                                       "y":  942.0419261268062
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t18XjeHP4uRyERdqhHpl5",
+                      "type":  "subtopic",
+                      "label":  "Default Privileges",
+                      "position":  {
+                                       "x":  -48.22888579966218,
+                                       "y":  889.0419261268062
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "09QX_zjCUajxUqcNZKy0x",
+                      "type":  "subtopic",
+                      "label":  "Advanced Topics",
+                      "position":  {
+                                       "x":  356.19228872227364,
+                                       "y":  1073.66628957926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bokFf6VNrLcilI9Hid386",
+                      "type":  "subtopic",
+                      "label":  "Row-Level Security",
+                      "position":  {
+                                       "x":  356.19228872227364,
+                                       "y":  1126.66628957926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GvpIJF-eaGELwcpWq5_3r",
+                      "type":  "subtopic",
+                      "label":  "SELinux",
+                      "position":  {
+                                       "x":  356.19228872227364,
+                                       "y":  1179.66628957926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gb75xOcAr-q8TcA6_l1GZ",
+                      "type":  "subtopic",
+                      "label":  "Authentication Models",
+                      "position":  {
+                                       "x":  114.22376611000715,
+                                       "y":  1073.7864148020974
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l0lpaPy12JFCJ-RRYVSqz",
+                      "type":  "subtopic",
+                      "label":  "Roles",
+                      "position":  {
+                                       "x":  114.22376611000715,
+                                       "y":  1126.7864148020974
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Y2W29M4piaQsTn2cpyR7Q",
+                      "type":  "subtopic",
+                      "label":  "pg_hba.conf",
+                      "position":  {
+                                       "x":  219.22376611000715,
+                                       "y":  1126.7864148020974
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EKwO6edtFnUw8cPCcVwKJ",
+                      "type":  "subtopic",
+                      "label":  "SSL Settings",
+                      "position":  {
+                                       "x":  114.22376611000715,
+                                       "y":  1179.7864148020974
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zlqSX0tl7HD9C1yEGkvoM",
+                      "type":  "topic",
+                      "label":  "Infrastructure Skills",
+                      "position":  {
+                                       "x":  -169.8711635383321,
+                                       "y":  1221.7417239948313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cJYlZJ9f3kdptNrTlpMNU",
+                      "type":  "subtopic",
+                      "label":  "Using `pg_upgrade`",
+                      "position":  {
+                                       "x":  -172.83693407184376,
+                                       "y":  1472.000355466286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MVVWAf9Hk3Fom-wBhO64R",
+                      "type":  "subtopic",
+                      "label":  "Using Logical Replication",
+                      "position":  {
+                                       "x":  -172.83693407184376,
+                                       "y":  1525.000355466286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rNp3ZC6axkcKtAWYCPvdR",
+                      "type":  "subtopic",
+                      "label":  "Simple Stateful Setup",
+                      "position":  {
+                                       "x":  -167.261518097656,
+                                       "y":  1790.8192391913342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QHbdwiMQ8otxnVIUVV2NT",
+                      "type":  "subtopic",
+                      "label":  "Helm",
+                      "position":  {
+                                       "x":  -167.261518097656,
+                                       "y":  1843.8192391913342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nRJKfjW2UrmKmVUrGIfCC",
+                      "type":  "subtopic",
+                      "label":  "Operators",
+                      "position":  {
+                                       "x":  -62.261518097655994,
+                                       "y":  1843.8192391913342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Z2PuOmgOqScGFbhvrvrA1",
+                      "type":  "subtopic",
+                      "label":  "PostgreSQL Anonymizer",
+                      "position":  {
+                                       "x":  -171.261518097656,
+                                       "y":  1360.6981361521084
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V8_zJRwOX9664bUvAGgff",
+                      "type":  "subtopic",
+                      "label":  "HAProxy",
+                      "position":  {
+                                       "x":  -166.75848083257222,
+                                       "y":  1951.6557349828333
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IkB28gO0LK1q1-KjdI9Oz",
+                      "type":  "subtopic",
+                      "label":  "Consul",
+                      "position":  {
+                                       "x":  -35.223504050749455,
+                                       "y":  1950.6557349828333
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xk2G-HUS-dviNW3BAMmJv",
+                      "type":  "subtopic",
+                      "label":  "KeepAlived",
+                      "position":  {
+                                       "x":  -166.75848083257222,
+                                       "y":  2004.6557349828333
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kCw6oEVGdKokCz4wYizIT",
+                      "type":  "subtopic",
+                      "label":  "Etcd",
+                      "position":  {
+                                       "x":  -35.223504050749455,
+                                       "y":  2004.6557349828333
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XmBeM01NAy-_nfyNdk9ZV",
+                      "type":  "subtopic",
+                      "label":  "Prometheus",
+                      "position":  {
+                                       "x":  100.65017017167162,
+                                       "y":  1870.7354491981566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "z3VD68R2uyu1s-3giRxKr",
+                      "type":  "subtopic",
+                      "label":  "Zabbix",
+                      "position":  {
+                                       "x":  257.8872234914349,
+                                       "y":  1870.7354491981566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WiOgUt5teG9UVRa6zo4h3",
+                      "type":  "subtopic",
+                      "label":  "check_pgactivity",
+                      "position":  {
+                                       "x":  100.65017017167162,
+                                       "y":  1925.530058061681
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aXG68inOu3trBWOmg9Yqx",
+                      "type":  "subtopic",
+                      "label":  "temBoard",
+                      "position":  {
+                                       "x":  405.6465257138355,
+                                       "y":  1870.7354491981566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DDPuDDUFxubWZmWXCmF7L",
+                      "type":  "subtopic",
+                      "label":  "check_pgbackrest",
+                      "position":  {
+                                       "x":  313.3872234914349,
+                                       "y":  1925.530058061681
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-XhONB0FBA6UslbDWoTDv",
+                      "type":  "subtopic",
+                      "label":  "barman",
+                      "position":  {
+                                       "x":  85.6465257138355,
+                                       "y":  1442.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4gQSzH-WKFAvmkwlX_oyR",
+                      "type":  "subtopic",
+                      "label":  "WAL-G",
+                      "position":  {
+                                       "x":  190.6465257138355,
+                                       "y":  1442.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5LLYxCj22RE6Nf0fVm8GO",
+                      "type":  "subtopic",
+                      "label":  "pgbackrest",
+                      "position":  {
+                                       "x":  85.6465257138355,
+                                       "y":  1495.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Id_17Ya-NUvoXxijAZvmW",
+                      "type":  "subtopic",
+                      "label":  "pg_probackup",
+                      "position":  {
+                                       "x":  87.6465257138355,
+                                       "y":  1548.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XZ922juBJ8Om0WyGtSYT5",
+                      "type":  "subtopic",
+                      "label":  "pg_dump",
+                      "position":  {
+                                       "x":  300.1465257138355,
+                                       "y":  1440.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QmV-J6fPYQ5CcdGUkBs7y",
+                      "type":  "subtopic",
+                      "label":  "pg_dumpall",
+                      "position":  {
+                                       "x":  410.1465257138355,
+                                       "y":  1440.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YSprRhPHkzV8SzDYpIVmp",
+                      "type":  "subtopic",
+                      "label":  "pg_restore",
+                      "position":  {
+                                       "x":  301.1465257138355,
+                                       "y":  1493.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XYaVsj5_48CSnoTSGXBbN",
+                      "type":  "subtopic",
+                      "label":  "pg_basebackup",
+                      "position":  {
+                                       "x":  300.1465257138355,
+                                       "y":  1546.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "te4PZaqt6-5Qu8rU0w6a1",
+                      "type":  "subtopic",
+                      "label":  "Backup Validation Procedures",
+                      "position":  {
+                                       "x":  87.6465257138355,
+                                       "y":  1601.400520645447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aKQI7aX4bT_39bZgjmfoW",
+                      "type":  "subtopic",
+                      "label":  "PgBouncer",
+                      "position":  {
+                                       "x":  312.03795446099986,
+                                       "y":  1716.0594786320532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3V1PPIeB0i9qNUsT8-4O-",
+                      "type":  "subtopic",
+                      "label":  "PgBouncer Alternatives",
+                      "position":  {
+                                       "x":  312.03795446099986,
+                                       "y":  1769.0594786320532
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Bf2zDZzFifTcULQLTgo3P",
+                      "type":  "label",
+                      "label":  "Connection Pooling",
+                      "position":  {
+                                       "x":  305.6465257138355,
+                                       "y":  1671.0745904996627
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "rmsIw9CQa1qcQ_REw76NK",
+                      "type":  "subtopic",
+                      "label":  "Logical Replication",
+                      "position":  {
+                                       "x":  89.28920267440282,
+                                       "y":  1716.561157912725
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MwLlVbqceQ-GTgPJlgoQY",
+                      "type":  "subtopic",
+                      "label":  "Streaming Replication",
+                      "position":  {
+                                       "x":  89.28920267440282,
+                                       "y":  1769.561157912725
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oLEw-0OJNVb0NtJXwEvVA",
+                      "type":  "label",
+                      "label":  "Replication",
+                      "position":  {
+                                       "x":  87.6465257138355,
+                                       "y":  1671.0745904996627
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "MhvAej3EBOtNyugTxGRD6",
+                      "type":  "label",
+                      "label":  "Anonymization",
+                      "position":  {
+                                       "x":  -115.3654446070235,
+                                       "y":  1324.6981361521084
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Maec9Io8FTVVn3bu5uw79",
+                      "type":  "label",
+                      "label":  "Upgrade Procedures",
+                      "position":  {
+                                       "x":  -140.33693407184376,
+                                       "y":  1429.495555762713
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "AZ_6pNlCVU_bGkecvnLEy",
+                      "type":  "label",
+                      "label":  "Cluster Management",
+                      "position":  {
+                                       "x":  -140.77942699446805,
+                                       "y":  1590.5525768330726
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "mm0K_8TFicrYdZQvWFkH4",
+                      "type":  "subtopic",
+                      "label":  "Patroni",
+                      "position":  {
+                                       "x":  -173.27942699446805,
+                                       "y":  1630.0194143577883
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TZvZ_jNjWnM535ZktyhQN",
+                      "type":  "subtopic",
+                      "label":  "Patroni Alternatives",
+                      "position":  {
+                                       "x":  -173.27942699446805,
+                                       "y":  1683.019414357788
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h1PbeATiyrCni1ukpDbUo",
+                      "type":  "label",
+                      "label":  "Kubernetes Deployment",
+                      "position":  {
+                                       "x":  -152.77942699446805,
+                                       "y":  1748.5689821437797
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "BEiM6o6lMRF_g9BKmfbrL",
+                      "type":  "label",
+                      "label":  "Monitoring",
+                      "position":  {
+                                       "x":  243.58122640407913,
+                                       "y":  1830.1128135809029
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "4ESFSjY5k92rOjeFTIV2J",
+                      "type":  "label",
+                      "label":  "Load Balancing / Discovery",
+                      "position":  {
+                                       "x":  -164.261518097656,
+                                       "y":  1909.7354491981566
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "7RoBFFZ0V_9T-z2vYjX75",
+                      "type":  "paragraph",
+                      "label":  "Backup \u0026 Recovery Tools",
+                      "position":  {
+                                       "x":  190.6465257138355,
+                                       "y":  1329.6981361521084
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZqeSG0CHxGiCzoVkwee17",
+                      "type":  "label",
+                      "label":  "3rd Party",
+                      "position":  {
+                                       "x":  137.39672700316152,
+                                       "y":  1401.400520645447
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "HiTZlR-asfVa80gY0ear1",
+                      "type":  "label",
+                      "label":  "Builtin Tools",
+                      "position":  {
+                                       "x":  341.58122640407913,
+                                       "y":  1401.400520645447
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "SNnc8CIKuHUAEZaJ_qEar",
+                      "type":  "subtopic",
+                      "label":  "Resource Usage / Provisioning / Capacity Planning",
+                      "position":  {
+                                       "x":  100.65017017167162,
+                                       "y":  1999.6557349828333
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e5s7-JRqNy-OhfnjTScZI",
+                      "type":  "topic",
+                      "label":  "Learn to Automate",
+                      "position":  {
+                                       "x":  -508.9061969910332,
+                                       "y":  1508.4717029098988
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-clI2RmfhK8F8beHULaIB",
+                      "type":  "subtopic",
+                      "label":  "Shell Scripts",
+                      "position":  {
+                                       "x":  -498.48351490802224,
+                                       "y":  1569.7552985426937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "j5YeixkCKRv0sfq_gFVr9",
+                      "type":  "subtopic",
+                      "label":  "Any Programming Language",
+                      "position":  {
+                                       "x":  -498.48351490802224,
+                                       "y":  1622.7552985426937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OGRy7USAwdS-LY1ySoApZ",
+                      "type":  "label",
+                      "label":  "Configuration Management",
+                      "position":  {
+                                       "x":  -480.98351490802224,
+                                       "y":  1733.1457727641146
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "RqSfBR_RuvHrwHfPn1jwZ",
+                      "type":  "subtopic",
+                      "label":  "Ansible",
+                      "position":  {
+                                       "x":  -493.1554275639239,
+                                       "y":  1774.7447164890727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Q_B9dlXNMXZIRYQC74uIf",
+                      "type":  "subtopic",
+                      "label":  "Salt",
+                      "position":  {
+                                       "x":  -341.6035205674037,
+                                       "y":  1773.0283121218679
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7EHZ9YsNjCyTAN-LDWYMS",
+                      "type":  "subtopic",
+                      "label":  "Chef",
+                      "position":  {
+                                       "x":  -341.6035205674037,
+                                       "y":  1827.0283121218679
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e39bceamU-lq3F2pmLz6v",
+                      "type":  "subtopic",
+                      "label":  "Puppet",
+                      "position":  {
+                                       "x":  -493.1554275639239,
+                                       "y":  1828.7447164890727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dKQCVkcZtmiT3grOBax04",
+                      "type":  "label",
+                      "label":  "Migrations",
+                      "position":  {
+                                       "x":  6.404016712677219,
+                                       "y":  2125.2517236629
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "AtZcMhy2Idmgonp5O8RSQ",
+                      "type":  "subtopic",
+                      "label":  "Practical Patterns / Antipatterns",
+                      "position":  {
+                                       "x":  -97.59598328732278,
+                                       "y":  2166.110318916681
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3Lcy7kBKeV6hx9Ctp_20M",
+                      "type":  "subtopic",
+                      "label":  "Migration Related Tools",
+                      "position":  {
+                                       "x":  -98.09598328732278,
+                                       "y":  2219.110318916681
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cc4S7ugIphyBZr-f6X0qi",
+                      "type":  "subtopic",
+                      "label":  "Bulk Loading / Processing Data",
+                      "position":  {
+                                       "x":  218.6411324103895,
+                                       "y":  2161.2517236629
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OiGRtLsc28Tv35vIut6B6",
+                      "type":  "subtopic",
+                      "label":  "Data Partitioning",
+                      "position":  {
+                                       "x":  218.6411324103895,
+                                       "y":  2214.2517236629
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "r6Blr7Q4wOnvJ-m6NvPyP",
+                      "type":  "subtopic",
+                      "label":  "Sharding Patterns",
+                      "position":  {
+                                       "x":  218.6411324103895,
+                                       "y":  2267.2517236629
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Fcl7AD2M6WrMbxdvnl-ub",
+                      "type":  "subtopic",
+                      "label":  "Normalization / Normal Forms",
+                      "position":  {
+                                       "x":  218.6411324103895,
+                                       "y":  2320.2517236629
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "x0wCPs7cFL6eYJtzwNR-B",
+                      "type":  "label",
+                      "label":  "Queues",
+                      "position":  {
+                                       "x":  16.40401671267722,
+                                       "y":  2280.2517236629
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "rnXcM62rgq3p6FQ9AWW1R",
+                      "type":  "subtopic",
+                      "label":  "Patterns / Antipatterns",
+                      "position":  {
+                                       "x":  -95.91476085746939,
+                                       "y":  2322.5996049592895
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WCBWPubUS84r3tOXpnZT3",
+                      "type":  "subtopic",
+                      "label":  "PgQ",
+                      "position":  {
+                                       "x":  129.1624795387022,
+                                       "y":  2322.5996049592895
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jsv3UNZuDaksU49g6Xjm0",
+                      "type":  "label",
+                      "label":  "Data and Processing",
+                      "position":  {
+                                       "x":  289.1411324103895,
+                                       "y":  2118.570839668701
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "C0MAuAb1CfohTuTMkCjso",
+                      "type":  "paragraph",
+                      "label":  "Application Skills",
+                      "position":  {
+                                       "x":  -463.98351490802224,
+                                       "y":  2103.070839668701
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ctKJI9oHts6Agrg4eFfjy",
+                      "type":  "paragraph",
+                      "label":  "Advanced Topics",
+                      "position":  {
+                                       "x":  -468.08230823147517,
+                                       "y":  2248.2517236629
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_WTzpL-AciqaT0QGudYGL",
+                      "type":  "label",
+                      "label":  "Low Level Internals",
+                      "position":  {
+                                       "x":  -430.58230823147517,
+                                       "y":  2369.2517236629
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "v2J6PZT0fHvqA7GwlqBU7",
+                      "type":  "subtopic",
+                      "label":  "Processes \u0026 Memory Architecture",
+                      "position":  {
+                                       "x":  -498.25634421460154,
+                                       "y":  2411.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dJzJP1uo4kVFThWgglPfk",
+                      "type":  "subtopic",
+                      "label":  "Vacuum Processing",
+                      "position":  {
+                                       "x":  -498.25634421460154,
+                                       "y":  2464.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KeBUzfrkorgFWpR8A-xmJ",
+                      "type":  "subtopic",
+                      "label":  "Buffer Management",
+                      "position":  {
+                                       "x":  -498.25634421460154,
+                                       "y":  2517.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pOkafV7nDHme4jk-hA8Cn",
+                      "type":  "subtopic",
+                      "label":  "Lock Management",
+                      "position":  {
+                                       "x":  -498.25634421460154,
+                                       "y":  2570.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gweDHAB58gKswdwfpnRQT",
+                      "type":  "subtopic",
+                      "label":  "Physical Storage and File Layout",
+                      "position":  {
+                                       "x":  -498.25634421460154,
+                                       "y":  2623.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lDuBFA7cEMnd7Cl9MDgnf",
+                      "type":  "subtopic",
+                      "label":  "System Catalog",
+                      "position":  {
+                                       "x":  -498.25634421460154,
+                                       "y":  2676.170810596315
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u0GTzhPjUoERqgIiTAVNR",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -377.98351490802224,
+                                       "y":  2309.051213173421
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "msm4QCAA-MRVI1psf6tt3",
+                      "type":  "subtopic",
+                      "label":  "Per-User, Per-Database Setting",
+                      "position":  {
+                                       "x":  -111.99979100380307,
+                                       "y":  2478.831856459073
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4VrT_K9cZZ0qE1EheSQy0",
+                      "type":  "subtopic",
+                      "label":  "Storage Parameters",
+                      "position":  {
+                                       "x":  -111.09619492348355,
+                                       "y":  2531.831856459073
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FNiWebesMOSYuYeNHmfEA",
+                      "type":  "label",
+                      "label":  "Workload-Dependant Tuning",
+                      "position":  {
+                                       "x":  -87.24744704168165,
+                                       "y":  2585
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "VekAMpcrugHGuvSbyPZVv",
+                      "type":  "subtopic",
+                      "label":  "OLTP",
+                      "position":  {
+                                       "x":  -106.28514889760959,
+                                       "y":  2625.4010782829546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WI3-7hFAnJw5f7GIn-5kp",
+                      "type":  "subtopic",
+                      "label":  "OLAP",
+                      "position":  {
+                                       "x":  -27.145028544109323,
+                                       "y":  2625.4010782829546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rHDlm78yroRrrAAcabEAl",
+                      "type":  "subtopic",
+                      "label":  "HTAP",
+                      "position":  {
+                                       "x":  74.90380507651646,
+                                       "y":  2625.4010782829546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ur23UVs_nXaltytF1WJD8",
+                      "type":  "subtopic",
+                      "label":  "PL/pgSQL",
+                      "position":  {
+                                       "x":  237.74800532678137,
+                                       "y":  2475.6751038969546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LiF2Yh818D-zEF58v5Fgr",
+                      "type":  "subtopic",
+                      "label":  "Procedures and Functions",
+                      "position":  {
+                                       "x":  237.74800532678137,
+                                       "y":  2528.6751038969546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ps2KK88QA1n5udn2ochIn",
+                      "type":  "subtopic",
+                      "label":  "Triggers",
+                      "position":  {
+                                       "x":  237.74800532678137,
+                                       "y":  2581.6751038969546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "A1LGOqqaka0ILcYwybclP",
+                      "type":  "subtopic",
+                      "label":  "Recursive CTE",
+                      "position":  {
+                                       "x":  369.0666234855813,
+                                       "y":  2581.6751038969546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iQqEC1CnVAoM7x455jO_S",
+                      "type":  "subtopic",
+                      "label":  "Aggregate and Window functions",
+                      "position":  {
+                                       "x":  237.06662348558132,
+                                       "y":  2635.6751038969546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "g007fG2EVP9RDAq7wKaP4",
+                      "type":  "paragraph",
+                      "label":  "Advanced SQL",
+                      "position":  {
+                                       "x":  273.5666234855813,
+                                       "y":  2431.0839460902976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yjCh_34KRPysCR_1-ham3",
+                      "type":  "paragraph",
+                      "label":  "Troubleshooting Techniques",
+                      "position":  {
+                                       "x":  237.24800532678137,
+                                       "y":  2738.521312862793
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wn4ccLOsN1n0fhUHnvid4",
+                      "type":  "label",
+                      "label":  "Operating System Tools",
+                      "position":  {
+                                       "x":  284.06761605808623,
+                                       "y":  2818.5445362219575
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "pvj33qDiG3sSjtiW6sUra",
+                      "type":  "subtopic",
+                      "label":  "top",
+                      "position":  {
+                                       "x":  271.43581282229604,
+                                       "y":  2857.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0hRQtRsteGDnKO5XgLF1R",
+                      "type":  "subtopic",
+                      "label":  "sysstat",
+                      "position":  {
+                                       "x":  338.0911527840548,
+                                       "y":  2857.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n8oHT7YwhHhFdU5_7DZ_F",
+                      "type":  "subtopic",
+                      "label":  "iotop",
+                      "position":  {
+                                       "x":  423.76795344629994,
+                                       "y":  2857.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zexZ__L0kaSUxjRP-1Uhz",
+                      "type":  "label",
+                      "label":  "Profiling Tools",
+                      "position":  {
+                                       "x":  92.22376611000715,
+                                       "y":  2819.713928151111
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yIdUhfE2ZTQhDAdQsXrnH",
+                      "type":  "subtopic",
+                      "label":  "gdb",
+                      "position":  {
+                                       "x":  59.573778566485316,
+                                       "y":  2911.921899410043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "C_cUfEufYeUlAdVfdUvsK",
+                      "type":  "subtopic",
+                      "label":  "strace",
+                      "position":  {
+                                       "x":  156.5122485433766,
+                                       "y":  2911.921899410043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QarPFu_wU6-F9P5YHo6CO",
+                      "type":  "subtopic",
+                      "label":  "ebpf",
+                      "position":  {
+                                       "x":  59.573778566485316,
+                                       "y":  3017.921899410043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wH447bS-csqmGbk-jaGqp",
+                      "type":  "subtopic",
+                      "label":  "perf-tools",
+                      "position":  {
+                                       "x":  59.573778566485316,
+                                       "y":  2858.921899410043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-CIezYPHTcXJF_p4T55-c",
+                      "type":  "subtopic",
+                      "label":  "Core Dumps",
+                      "position":  {
+                                       "x":  59.573778566485316,
+                                       "y":  2964.921899410043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Uu08Kq8FE8k60XpenSW3q",
+                      "type":  "label",
+                      "label":  "Log Analysis",
+                      "position":  {
+                                       "x":  318.5035187295112,
+                                       "y":  2919.8914958677256
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "V2iW8tJQXwsRknnZXoHGd",
+                      "type":  "subtopic",
+                      "label":  "pgBadger",
+                      "position":  {
+                                       "x":  265.00351872951126,
+                                       "y":  3020.6488032119946
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ISuU1lWH_zVDlCHnWXbf9",
+                      "type":  "subtopic",
+                      "label":  "pgCluu",
+                      "position":  {
+                                       "x":  265.00351872951126,
+                                       "y":  2967.6488032119946
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HJCRntic0aGVvdmCN45aP",
+                      "type":  "subtopic",
+                      "label":  "awk",
+                      "position":  {
+                                       "x":  265.00351872951126,
+                                       "y":  3073.6488032119946
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cFtrSgboZRJ3Q63eaqEBf",
+                      "type":  "subtopic",
+                      "label":  "grep",
+                      "position":  {
+                                       "x":  329.02625639487707,
+                                       "y":  3073.6488032119946
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hVL6OtsXrE8BvjKpRjB-9",
+                      "type":  "subtopic",
+                      "label":  "sed",
+                      "position":  {
+                                       "x":  415.24853520948136,
+                                       "y":  3073.6488032119946
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "shk69Z5f0lxNWHP75T2OQ",
+                      "type":  "label",
+                      "label":  "Posgres System Views",
+                      "position":  {
+                                       "x":  -369.25634421460154,
+                                       "y":  2819.713928151111
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "_NL5pGGTLNxCFx4axOqfu",
+                      "type":  "subtopic",
+                      "label":  "pg_stat_activity",
+                      "position":  {
+                                       "x":  -375.50018768087136,
+                                       "y":  2858.921899410043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wLMGOUaULW7ZALRr-shTz",
+                      "type":  "subtopic",
+                      "label":  "pg_stat_statements",
+                      "position":  {
+                                       "x":  -375.50018768087136,
+                                       "y":  2911.921899410043
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7KjUtZMy9sNJMny47ybS1",
+                      "type":  "label",
+                      "label":  "Posgres Tools",
+                      "position":  {
+                                       "x":  -121.08616061032765,
+                                       "y":  3029.4542454380176
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "TytU0IpWgwhr4w4W4H3Vx",
+                      "type":  "subtopic",
+                      "label":  "pgcenter",
+                      "position":  {
+                                       "x":  -162.08616061032765,
+                                       "y":  3075.9542454380176
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K2YbL7Gg1eUHokcxpqLcv",
+                      "type":  "label",
+                      "label":  "Query Analysis",
+                      "position":  {
+                                       "x":  -124.08616061032765,
+                                       "y":  2818.5445362219575
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "n2OjwxzIHnATraRWi5Ddl",
+                      "type":  "subtopic",
+                      "label":  "EXPLAIN",
+                      "position":  {
+                                       "x":  -162.08616061032765,
+                                       "y":  2857.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rVlncpLO20WK6mjyqLerL",
+                      "type":  "subtopic",
+                      "label":  "Depesz",
+                      "position":  {
+                                       "x":  -57.7723738950946,
+                                       "y":  2857.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9RyMU36KEP__-RzTTz_eo",
+                      "type":  "subtopic",
+                      "label":  "PEV2",
+                      "position":  {
+                                       "x":  -162.08616061032765,
+                                       "y":  2910.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xEu5n6U9-WKVxjlT5YUgx",
+                      "type":  "subtopic",
+                      "label":  "Tensor",
+                      "position":  {
+                                       "x":  -59.13649229997341,
+                                       "y":  2910.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UZ1vRFRjiQAVu6BygqwEL",
+                      "type":  "subtopic",
+                      "label":  "explain.dalibo.com",
+                      "position":  {
+                                       "x":  -162.08616061032765,
+                                       "y":  2963.7525074808896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fFsO0ayNwjSzeyl2LRjlg",
+                      "type":  "label",
+                      "label":  "Techniques",
+                      "position":  {
+                                       "x":  -327.50018768087136,
+                                       "y":  2976.7525074808896
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "QWi84EjdHw5ChYsuwUhPC",
+                      "type":  "subtopic",
+                      "label":  "USE",
+                      "position":  {
+                                       "x":  -375.50018768087136,
+                                       "y":  3024.123637367171
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qBkpTmfbyCv2L-OJW9pPI",
+                      "type":  "subtopic",
+                      "label":  "RED",
+                      "position":  {
+                                       "x":  -270.66434384862157,
+                                       "y":  3024.123637367171
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oX-bdPPjaHJnQKgUhDSF2",
+                      "type":  "subtopic",
+                      "label":  "Golden Signals",
+                      "position":  {
+                                       "x":  -375.50018768087136,
+                                       "y":  3077.123637367171
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xOLVCPum_oCJo00obtZfJ",
+                      "type":  "paragraph",
+                      "label":  "SQL Optimization Techniques",
+                      "position":  {
+                                       "x":  229.738410041698,
+                                       "y":  3194.521312862793
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wnUa4XkpZGB9fkHH0rNXA",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  384.738410041698,
+                                       "y":  3140.521312862793
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FDuiJyU1yWUQ9IsfS3CeZ",
+                      "type":  "topic",
+                      "label":  "Schema Design Patterns / Anti-patterns",
+                      "position":  {
+                                       "x":  -210.24744704168165,
+                                       "y":  3256.521312862793
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "G9DB1ZQjgXaHxJ4Lm6xGx",
+                      "type":  "topic",
+                      "label":  "SQL Query Patterns / Anti-patterns",
+                      "position":  {
+                                       "x":  -210.24744704168165,
+                                       "y":  3203.521312862793
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Dhhyg23dBMyAKCFwZmu71",
+                      "type":  "topic",
+                      "label":  "Indexes and their Usecases",
+                      "position":  {
+                                       "x":  -210.24744704168165,
+                                       "y":  3376.7508733941395
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jihXOJq9zYlDOpvJvpFO-",
+                      "type":  "subtopic",
+                      "label":  "B-Tree",
+                      "position":  {
+                                       "x":  269.4194612473742,
+                                       "y":  3322.5814814649857
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2yWYyXt1uLOdQg4YsgdVq",
+                      "type":  "subtopic",
+                      "label":  "Hash",
+                      "position":  {
+                                       "x":  389.34964343548074,
+                                       "y":  3376.865334418593
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2chGkn5Y_WTjYllpgL0LJ",
+                      "type":  "subtopic",
+                      "label":  "GiST",
+                      "position":  {
+                                       "x":  269.4194612473742,
+                                       "y":  3375.5814814649857
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LT5qRETR3pAI8Tk6k5idg",
+                      "type":  "subtopic",
+                      "label":  "SP-GiST",
+                      "position":  {
+                                       "x":  269.4194612473742,
+                                       "y":  3428.5814814649857
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FJhJyDWOj9w_Rd_uKcouT",
+                      "type":  "subtopic",
+                      "label":  "GIN",
+                      "position":  {
+                                       "x":  389.34964343548074,
+                                       "y":  3429.865334418593
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "43oFhZuXjJd4QHbUoLtft",
+                      "type":  "subtopic",
+                      "label":  "BRIN",
+                      "position":  {
+                                       "x":  389.34964343548074,
+                                       "y":  3323.865334418593
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NhodBD8myUTljNdn3y40I",
+                      "type":  "topic",
+                      "label":  "Get Involved in Development",
+                      "position":  {
+                                       "x":  -210.24744704168165,
+                                       "y":  3505.3839856010422
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8H7hJhGKxr1nrjkHv9Xao",
+                      "type":  "subtopic",
+                      "label":  "Mailing Lists",
+                      "position":  {
+                                       "x":  -504.52150114684144,
+                                       "y":  3452.8758098135813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jy0G0ZnHPOM8hba_PbwuA",
+                      "type":  "subtopic",
+                      "label":  "Reviewing Patches",
+                      "position":  {
+                                       "x":  -504.52150114684144,
+                                       "y":  3505.8758098135813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eQzMU_KyQmHJQ6gzyk0-1",
+                      "type":  "subtopic",
+                      "label":  "Writing Patches",
+                      "position":  {
+                                       "x":  -504.52150114684144,
+                                       "y":  3558.8758098135813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "X3IC3D4MqkxpS6s99vdj-",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -506.9997388263719,
+                                       "y":  -276.89091544360696
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "dA8pyw5Eq2PCZrMKfg5qH",
+                                        "label":  "MongoDB Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/mongodb"
+                                    },
+                                    {
+                                        "id":  "Wf1doH-r2O2KQg10KlDTg",
+                                        "label":  "Backend Roadmap",
+                                        "url":  "https://roadmap.sh/backend"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Ju00mr0KLGN2BV6yEQGPt",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -39.81517696418065,
+                                       "y":  3752.8165374261
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sVXZrBCsiSzWBBYWTm-nQ",
+                      "type":  "paragraph",
+                      "label":  "Visit the following relevant roadmaps",
+                      "position":  {
+                                       "x":  -238.7204568104537,
+                                       "y":  3665.460512650745
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gC8lsIdYLRzo3HzwVqtm1",
+                      "type":  "button",
+                      "label":  "MongoDB",
+                      "position":  {
+                                       "x":  -215.49883835983408,
+                                       "y":  3721.1421947384497
+                                   },
+                      "href":  "https://roadmap.sh/mongodb",
+                      "links":  null
+                  },
+                  {
+                      "id":  "uSLzfLPXxS5-P7ozscvjZ",
+                      "type":  "button",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  -42.09048401893634,
+                                       "y":  3721.1421947384497
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "7RR4BlugrhJQpI0MeMj8V",
+                      "type":  "button",
+                      "label":  "DevOps Roadmap",
+                      "position":  {
+                                       "x":  -497.4061969910332,
+                                       "y":  1679.0194143577883
+                                   },
+                      "href":  "https://roadmap.sh/devops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  189.49718479195076,
+                                       "y":  -281.15106699547107
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zqZkyVgigifcRS1H7F_b",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  202.7005592047509,
+                                       "y":  -199.1655035777258
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "reactflow__edge-lDIy56RyC1XM7IfORsSLDz2-D0doJTtLu-1MmFOfavCXNy1",
+                      "source":  "lDIy56RyC1XM7IfORsSLD",
+                      "target":  "D0doJTtLu-1MmFOfavCXN",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-lDIy56RyC1XM7IfORsSLDz2-soar-NBWCr4xVKj7ttfncy1",
+                      "source":  "lDIy56RyC1XM7IfORsSLD",
+                      "target":  "soar-NBWCr4xVKj7ttfnc",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-lDIy56RyC1XM7IfORsSLDz2-p3AmRr_y_ZBKzAU5eh7OUy1",
+                      "source":  "lDIy56RyC1XM7IfORsSLD",
+                      "target":  "p3AmRr_y_ZBKzAU5eh7OU",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-lDIy56RyC1XM7IfORsSLDz2-IAKERTzTpTds5kZLMCapMy1",
+                      "source":  "lDIy56RyC1XM7IfORsSLD",
+                      "target":  "IAKERTzTpTds5kZLMCapM",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-iogwMmOvub2ZF4zgg6WyFx2-lDIy56RyC1XM7IfORsSLDw1",
+                      "source":  "iogwMmOvub2ZF4zgg6WyF",
+                      "target":  "lDIy56RyC1XM7IfORsSLD",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-lDIy56RyC1XM7IfORsSLDx2-VjQ71xorBoxxDn-wSmUjmw2",
+                      "source":  "lDIy56RyC1XM7IfORsSLD",
+                      "target":  "-M9EFgiDSSAzj9ISk-aeh",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-VjQ71xorBoxxDn-wSmUjmy2-RoYP1tYw5dvhmkVTo1HS-z1",
+                      "source":  "-M9EFgiDSSAzj9ISk-aeh",
+                      "target":  "RoYP1tYw5dvhmkVTo1HS-",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-RoYP1tYw5dvhmkVTo1HS-x2-_BSR2mo1lyXEFXbKYb1ZGw2",
+                      "source":  "RoYP1tYw5dvhmkVTo1HS-",
+                      "target":  "mDVbjdVN0spY7dI_8k1YW",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge--M9EFgiDSSAzj9ISk-aehz2-_BSR2mo1lyXEFXbKYb1ZGy2",
+                      "source":  "-M9EFgiDSSAzj9ISk-aeh",
+                      "target":  "_BSR2mo1lyXEFXbKYb1ZG",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge--M9EFgiDSSAzj9ISk-aehx2-VjQ71xorBoxxDn-wSmUjmw2",
+                      "source":  "-M9EFgiDSSAzj9ISk-aeh",
+                      "target":  "FtPiBWMFhjakyXsmSL_CI",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-7RoBFFZ0V_9T-z2vYjX75x2-ZqeSG0CHxGiCzoVkwee17w1",
+                      "source":  "7RoBFFZ0V_9T-z2vYjX75",
+                      "target":  "ZqeSG0CHxGiCzoVkwee17",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-7RoBFFZ0V_9T-z2vYjX75x2-HiTZlR-asfVa80gY0ear1w1",
+                      "source":  "7RoBFFZ0V_9T-z2vYjX75",
+                      "target":  "HiTZlR-asfVa80gY0ear1",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-FtPiBWMFhjakyXsmSL_CIz2-ANUgfkADLI_du7iRvnUdiw1",
+                      "source":  "FtPiBWMFhjakyXsmSL_CI",
+                      "target":  "ANUgfkADLI_du7iRvnUdi",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ANUgfkADLI_du7iRvnUdix2-T819BZ-CZgUX_BY7Gna0Jz1",
+                      "source":  "ANUgfkADLI_du7iRvnUdi",
+                      "target":  "T819BZ-CZgUX_BY7Gna0J",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-T819BZ-CZgUX_BY7Gna0Jy2-507TY35b8iExakbBMrHgZz2",
+                      "source":  "T819BZ-CZgUX_BY7Gna0J",
+                      "target":  "507TY35b8iExakbBMrHgZ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-T819BZ-CZgUX_BY7Gna0Jx2-2Zg8R5gs9LMQOcOMZtoPkw1",
+                      "source":  "T819BZ-CZgUX_BY7Gna0J",
+                      "target":  "2Zg8R5gs9LMQOcOMZtoPk",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-2Zg8R5gs9LMQOcOMZtoPkz2-gb75xOcAr-q8TcA6_l1GZy2",
+                      "source":  "2Zg8R5gs9LMQOcOMZtoPk",
+                      "target":  "gb75xOcAr-q8TcA6_l1GZ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-2Zg8R5gs9LMQOcOMZtoPkz2-l0lpaPy12JFCJ-RRYVSqzy2",
+                      "source":  "2Zg8R5gs9LMQOcOMZtoPk",
+                      "target":  "l0lpaPy12JFCJ-RRYVSqz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-2Zg8R5gs9LMQOcOMZtoPkz2-EKwO6edtFnUw8cPCcVwKJy1",
+                      "source":  "2Zg8R5gs9LMQOcOMZtoPk",
+                      "target":  "EKwO6edtFnUw8cPCcVwKJ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-2Zg8R5gs9LMQOcOMZtoPkx2-VjQ71xorBoxxDn-wSmUjmw1",
+                      "source":  "2Zg8R5gs9LMQOcOMZtoPk",
+                      "target":  "zlqSX0tl7HD9C1yEGkvoM",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-zlqSX0tl7HD9C1yEGkvoMy2-VjQ71xorBoxxDn-wSmUjmw1",
+                      "source":  "zlqSX0tl7HD9C1yEGkvoM",
+                      "target":  "e5s7-JRqNy-OhfnjTScZI",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-xi5uZ_VOH4rVNu_0ZLAX9x2-ctKJI9oHts6Agrg4eFfjyw2",
+                      "source":  "xi5uZ_VOH4rVNu_0ZLAX9",
+                      "target":  "C0MAuAb1CfohTuTMkCjso",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-C0MAuAb1CfohTuTMkCjsox2-ctKJI9oHts6Agrg4eFfjyw1",
+                      "source":  "C0MAuAb1CfohTuTMkCjso",
+                      "target":  "ctKJI9oHts6Agrg4eFfjy",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-TJSsoD5U78tOydPhxuPzKz2-g007fG2EVP9RDAq7wKaP4y1",
+                      "source":  "TJSsoD5U78tOydPhxuPzK",
+                      "target":  "g007fG2EVP9RDAq7wKaP4",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-QfyHG6cVuKQ3iqdEtoFSUx2-xOLVCPum_oCJo00obtZfJw1",
+                      "source":  "QfyHG6cVuKQ3iqdEtoFSU",
+                      "target":  "yjCh_34KRPysCR_1-ham3",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-xOLVCPum_oCJo00obtZfJy2-G9DB1ZQjgXaHxJ4Lm6xGxz2",
+                      "source":  "xOLVCPum_oCJo00obtZfJ",
+                      "target":  "G9DB1ZQjgXaHxJ4Lm6xGx",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-FDuiJyU1yWUQ9IsfS3CeZx2-NhodBD8myUTljNdn3y40Iw1",
+                      "source":  "FDuiJyU1yWUQ9IsfS3CeZ",
+                      "target":  "Dhhyg23dBMyAKCFwZmu71",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-NhodBD8myUTljNdn3y40Iz2-jihXOJq9zYlDOpvJvpFO-y2",
+                      "source":  "Dhhyg23dBMyAKCFwZmu71",
+                      "target":  "jihXOJq9zYlDOpvJvpFO-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-NhodBD8myUTljNdn3y40Iz2-2chGkn5Y_WTjYllpgL0LJy1",
+                      "source":  "Dhhyg23dBMyAKCFwZmu71",
+                      "target":  "2chGkn5Y_WTjYllpgL0LJ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-NhodBD8myUTljNdn3y40Iz2-LT5qRETR3pAI8Tk6k5idgy1",
+                      "source":  "Dhhyg23dBMyAKCFwZmu71",
+                      "target":  "LT5qRETR3pAI8Tk6k5idg",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Dhhyg23dBMyAKCFwZmu71x2-NhodBD8myUTljNdn3y40Iw2",
+                      "source":  "Dhhyg23dBMyAKCFwZmu71",
+                      "target":  "NhodBD8myUTljNdn3y40I",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-NhodBD8myUTljNdn3y40Iy2-8H7hJhGKxr1nrjkHv9Xaoz1",
+                      "source":  "NhodBD8myUTljNdn3y40I",
+                      "target":  "8H7hJhGKxr1nrjkHv9Xao",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-NhodBD8myUTljNdn3y40Iy2-Jy0G0ZnHPOM8hba_PbwuAz1",
+                      "source":  "NhodBD8myUTljNdn3y40I",
+                      "target":  "Jy0G0ZnHPOM8hba_PbwuA",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-NhodBD8myUTljNdn3y40Iy2-eQzMU_KyQmHJQ6gzyk0-1z1",
+                      "source":  "NhodBD8myUTljNdn3y40I",
+                      "target":  "eQzMU_KyQmHJQ6gzyk0-1",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-NhodBD8myUTljNdn3y40Ix2-sVXZrBCsiSzWBBYWTm-nQw1",
+                      "source":  "NhodBD8myUTljNdn3y40I",
+                      "target":  "sVXZrBCsiSzWBBYWTm-nQ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

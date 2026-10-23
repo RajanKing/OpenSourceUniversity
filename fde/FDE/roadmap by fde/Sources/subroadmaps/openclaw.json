@@ -1,0 +1,1923 @@
+{
+    "slug":  "openclaw",
+    "source":  "https://roadmap.sh/openclaw",
+    "title":  "OpenClaw",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-09-10T11:04:25.517Z",
+    "nodes":  [
+                  {
+                      "id":  "Q18fssl-Hrf8kJja_Vl3z",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -279.70958936489546,
+                                       "y":  805.8732377559194
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XkSX72YeKVRTl9rHxIK6i",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -279.70958936489546,
+                                       "y":  654.4719516259264
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Yu_AR9bvTLwmy-RlP1uc",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -277.0916936926652,
+                                       "y":  2807.688468570411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NgN_RPelfMorCvmQTsFDw",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -279.70958936489546,
+                                       "y":  264.4719516259264
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IF_hLQ-Eb5zRJT6fF1V5d",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -801.2095893648955,
+                                       "y":  401.4719516259264
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UW7-NMuz4OSaSSAdLTgaA",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -806.2095893648955,
+                                       "y":  2419.046833506304
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Y1qFNcQEtFwQUThYRBcm",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -277.0916936926652,
+                                       "y":  2645.5744554963007
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QRUT2d0Bou9vHaa0Ly_iF",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -279.70958936489546,
+                                       "y":  2099.9385939900294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6C_NO3cZhb5xA17Y08hqt",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -439.0916936926652,
+                                       "y":  2150.5744554963007
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4QxGfE7LbisuqWVwIStwO",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -807.2095893648955,
+                                       "y":  1233.081420874682
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_xANogVmwF5PvOWGReICc",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -506.20958936489546,
+                                       "y":  1314.1409825705796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "E9JqZMe5J9sWX7G8PWXTl",
+                      "type":  "vertical",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -279.70958936489546,
+                                       "y":  -178.33333333333337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4WN7z6NnQKXdanHl-C_vD",
+                      "type":  "title",
+                      "label":  "OpenClaw",
+                      "position":  {
+                                       "x":  -373.93615186489546,
+                                       "y":  -78.33333333333337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4u53an-SHGNCAh87GTd7C",
+                      "type":  "subtopic",
+                      "label":  "OpenClaw vs Claude Code",
+                      "position":  {
+                                       "x":  -805.0916936926652,
+                                       "y":  121.73931383834713
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6VS0lRVk60w49FvRiCRWK",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  121.84643052951239
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EggP8_uXPbgQeNKQFP4JJ",
+                      "type":  "topic",
+                      "label":  "How OpenClaw Works",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  175.73931383834713
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u9hCwPYZucGkb_zChmpzj",
+                      "type":  "topic",
+                      "label":  "Setting up OpenClaw",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  227.84643052951242
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WeEz693z_j7kIL39uFyHF",
+                      "type":  "topic",
+                      "label":  "Usage Best Practices",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1299.6409825705796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "F9qB_OgCXZyTjepJUagfX",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -804.0916936926652,
+                                       "y":  -135.4492747831638
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "qH0LPtPGcn4Lc1RhXwKVp",
+                                        "label":  "Claude Code Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/claude-code"
+                                    },
+                                    {
+                                        "id":  "lYZdNGa-RbSvjTZyyfsHK",
+                                        "label":  "Vibe Coding Roadmap",
+                                        "url":  "https://roadmap.sh/vibe-coding"
+                                    },
+                                    {
+                                        "id":  "iEl2hP_MdzYqgWJV_gVVr",
+                                        "label":  "AI Agents Roadmap",
+                                        "url":  "https://roadmap.sh/ai-agents"
+                                    },
+                                    {
+                                        "id":  "lsjRtZzxtjHQAeSZ315FT",
+                                        "label":  "AI Engineer Roadmap",
+                                        "url":  "https://roadmap.sh/ai-engineer"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "DoQwnxlPrx8suV2GRbF17",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -99.05547617969097,
+                                       "y":  -185.9492747831638
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VtqrDBk_y5m5UsknaxVv-",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  -86.55547617969097,
+                                       "y":  -106.94927478316379
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "1Rgx751ZZAiOjBWqBF9Jx",
+                      "type":  "paragraph",
+                      "label":  "Visit the following roadmaps to keep learning",
+                      "position":  {
+                                       "x":  -438.0916936926652,
+                                       "y":  2699.3697174070453
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JcO-Kx6lO_xlkV8V5ltxT",
+                      "type":  "button",
+                      "label":  "Claude Code",
+                      "position":  {
+                                       "x":  -408.1561002029217,
+                                       "y":  2758.000333066992
+                                   },
+                      "href":  "https://roadmap.sh/claude-code",
+                      "links":  null
+                  },
+                  {
+                      "id":  "p_PAgT1-5TSbkZFI-fnOG",
+                      "type":  "button",
+                      "label":  "Vibe Coding",
+                      "position":  {
+                                       "x":  -204.15610020292172,
+                                       "y":  2758.000333066992
+                                   },
+                      "href":  "https://roadmap.sh/vibe-coding",
+                      "links":  null
+                  },
+                  {
+                      "id":  "qVAObgWYkzMbA-uvgBnra",
+                      "type":  "button",
+                      "label":  "AI Engineer",
+                      "position":  {
+                                       "x":  -0.15610020292172067,
+                                       "y":  2758.688468570411
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "bmvpZKVx3YgUBEC3WfrWA",
+                      "type":  "subtopic",
+                      "label":  "channels list",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1645.3954620956683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GUlO2ZchQ4EFcvDWpVQVV",
+                      "type":  "subtopic",
+                      "label":  "channels login",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1698.3954620956683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7pTIsu7dh8ue2Aju270Ec",
+                      "type":  "subtopic",
+                      "label":  "channels add --channel",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1751.3954620956683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rjTLUR9vhsyqmHV4xRPyv",
+                      "type":  "subtopic",
+                      "label":  "channels status --probe",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1857.3954620956683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YS-u4nfgmr9pOq_NLrdCA",
+                      "type":  "subtopic",
+                      "label":  "models list | set | status",
+                      "position":  {
+                                       "x":  -791.1907619622664,
+                                       "y":  1954.2819875987198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OJb7PnYnN2RW4fqLV-vnl",
+                      "type":  "subtopic",
+                      "label":  "models auth setup-token",
+                      "position":  {
+                                       "x":  -791.1907619622664,
+                                       "y":  2060.2819875987198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ce3e7IMiN-n3wX9PvJXoW",
+                      "type":  "subtopic",
+                      "label":  "models auth add",
+                      "position":  {
+                                       "x":  -791.1907619622664,
+                                       "y":  2007.2819875987198
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0NpspxLPvMqvmeIq8hdd1",
+                      "type":  "subtopic",
+                      "label":  "cron list",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  2151.5921126452663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lHePFHLUR1BKK9mC0HWLU",
+                      "type":  "subtopic",
+                      "label":  "cron add",
+                      "position":  {
+                                       "x":  -654.2095893648955,
+                                       "y":  2151.5921126452663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D79q0eP_HbXBGWgDB6XgW",
+                      "type":  "subtopic",
+                      "label":  "/status",
+                      "position":  {
+                                       "x":  -653.2997562758054,
+                                       "y":  2481.1345971203737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5ah4uCTo83YTFtn3kkH-l",
+                      "type":  "subtopic",
+                      "label":  "/new",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2481.1345971203737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-sFXMyN-4VvXdJCaU8qiK",
+                      "type":  "subtopic",
+                      "label":  "/model",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2534.1345971203737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kotkvs1mJRlHaEZA5NyDp",
+                      "type":  "subtopic",
+                      "label":  "/context",
+                      "position":  {
+                                       "x":  -652.5364873942598,
+                                       "y":  2534.1345971203737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nNM3q26rXk3_HoxyOYxcV",
+                      "type":  "subtopic",
+                      "label":  "/compact",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2587.1345971203737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Bz_gfPslArn4PH1clLiWl",
+                      "type":  "subtopic",
+                      "label":  "memory index --all",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  2204.5921126452663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eEXTZXgd2F51OAQQ6jELC",
+                      "type":  "subtopic",
+                      "label":  "memory search \"\u003cquery\u003e\"",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  2257.5921126452663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bH9ebjEofXA3mwnmqRzW1",
+                      "type":  "subtopic",
+                      "label":  "gateway",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1495.6409825705796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZCY_hUhVIMLPoXnRXVpkN",
+                      "type":  "subtopic",
+                      "label":  "gateway start | stop | restart ",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1548.6409825705796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qAL663Fl50skXD_zd1I7c",
+                      "type":  "subtopic",
+                      "label":  "doctor --deep",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1346.6409825705796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LwrRyjL1Quic8u-dfrSIS",
+                      "type":  "label",
+                      "label":  "Command Cheatsheet",
+                      "position":  {
+                                       "x":  -751.2095893648955,
+                                       "y":  1245.6409825705794
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "mEX-OT8LLwMW-ZKrYPpbd",
+                      "type":  "label",
+                      "label":  "Setup \u0026 Health",
+                      "position":  {
+                                       "x":  -722.2095893648955,
+                                       "y":  1453.6409825705796
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zqeuYyqd5pMPQLFfPnskC",
+                      "type":  "subtopic",
+                      "label":  "security audit",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1399.6409825705796
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Phj_imdYA3Fr4HTcfyidD",
+                      "type":  "subtopic",
+                      "label":  "doctor",
+                      "position":  {
+                                       "x":  -655.2095893648955,
+                                       "y":  1293.6409825705794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PJBBIqwu0ZytFeQac8AQd",
+                      "type":  "label",
+                      "label":  "Gateway",
+                      "position":  {
+                                       "x":  -697.2095893648955,
+                                       "y":  1603.2187894785025
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "NFneg4WvszhOBUWwhyDBg",
+                      "type":  "label",
+                      "label":  "Models",
+                      "position":  {
+                                       "x":  -689.4868006711215,
+                                       "y":  2111.356013564365
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "jQwU2VQFmjyWQHn5PpViF",
+                      "type":  "subtopic",
+                      "label":  "/help",
+                      "position":  {
+                                       "x":  -652.5364873942598,
+                                       "y":  2587.1345971203737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BJ3iFyZjmakxbeh4IsXkw",
+                      "type":  "subtopic",
+                      "label":  "/reset",
+                      "position":  {
+                                       "x":  -652.5364873942598,
+                                       "y":  2642.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jhDkMmSD6bMZoTNOjZUnr",
+                      "type":  "subtopic",
+                      "label":  "/stop",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2642.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7_QUsiC57I4xcaySZYAoc",
+                      "type":  "topic",
+                      "label":  "Skills",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1772.86050826938
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fSHA8tY7RmDbD8zn3DDhu",
+                      "type":  "topic",
+                      "label":  " Multi-Agents",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  2056.9385939900294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rEUJIhqOUyLORy6cnlAAj",
+                      "type":  "subtopic",
+                      "label":  "Installing from ClawHub",
+                      "position":  {
+                                       "x":  -47.213661191160284,
+                                       "y":  1719.86050826938
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xRDXMh4n8LghBX5TH0LIu",
+                      "type":  "subtopic",
+                      "label":  "Creating Skills",
+                      "position":  {
+                                       "x":  -47.213661191160284,
+                                       "y":  1666.86050826938
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9wAYWJQBiWy_RF2AfQsqn",
+                      "type":  "subtopic",
+                      "label":  "Security Risks",
+                      "position":  {
+                                       "x":  -47.213661191160284,
+                                       "y":  1772.86050826938
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_tmV2qJyrkBBZdCL_xWh1",
+                      "type":  "subtopic",
+                      "label":  "Routing Rules",
+                      "position":  {
+                                       "x":  -47.213661191160284,
+                                       "y":  2056.9385939900294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B4SyJwbv0HnI34BW81Ong",
+                      "type":  "subtopic",
+                      "label":  "Auth \u0026 Model Providers",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  859.9013838088881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MbZFK1Q6ndoaDMsrf15Xi",
+                      "type":  "subtopic",
+                      "label":  "Adding First Channel",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  912.9013838088881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wGp4nsoZNTbM4wgAmrqjj",
+                      "type":  "subtopic",
+                      "label":  "Adding Daemon",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1071.901383808888
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wp7wX-xbOKG5Aemo-rl4g",
+                      "type":  "subtopic",
+                      "label":  "Workspace Settings",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  965.9013838088881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3bSTQ3nt5GdvKOder9J5R",
+                      "type":  "subtopic",
+                      "label":  "Anthropic",
+                      "position":  {
+                                       "x":  -805.0916936926652,
+                                       "y":  805.8732377559194
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vLQ7hJJS3yXgbi0b-RAlb",
+                      "type":  "subtopic",
+                      "label":  "OpenAI",
+                      "position":  {
+                                       "x":  -653.0916936926652,
+                                       "y":  805.8732377559194
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Le0uptRoIlwTZ7crU3rMQ",
+                      "type":  "subtopic",
+                      "label":  "Gemini",
+                      "position":  {
+                                       "x":  -805.0916936926652,
+                                       "y":  858.8732377559195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2qAGs1j1MDaoQFCDpF37Z",
+                      "type":  "subtopic",
+                      "label":  "Ollama",
+                      "position":  {
+                                       "x":  -653.0916936926652,
+                                       "y":  858.8732377559195
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NhAOeGOqfUjkXth5DntKA",
+                      "type":  "subtopic",
+                      "label":  "Why and Why not?",
+                      "position":  {
+                                       "x":  -770.3986882266184,
+                                       "y":  475.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EzEJOUOwLlVfA4q5NXC88",
+                      "type":  "subtopic",
+                      "label":  "Use cases",
+                      "position":  {
+                                       "x":  -805.0916936926652,
+                                       "y":  174.73931383834713
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nU3pnqImGhRO3QwK4CLeM",
+                      "type":  "subtopic",
+                      "label":  "Gateway Settings",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1018.9013838088881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Q_8oajglt6_eaTONoYSm4",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -47.091693692665224,
+                                       "y":  -25.379239055610597
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7bgIwJ5S-b6DXdLe-pWlI",
+                      "type":  "subtopic",
+                      "label":  "Context Window",
+                      "position":  {
+                                       "x":  -29.591693692665217,
+                                       "y":  146.40599324577502
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c9fsU9OeThY79MYbpzbA0",
+                      "type":  "subtopic",
+                      "label":  "Memory System",
+                      "position":  {
+                                       "x":  -29.591693692665217,
+                                       "y":  252.40599324577505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w8Vwf1Ak_gNdvgXOgU1Fo",
+                      "type":  "subtopic",
+                      "label":  "Gateway",
+                      "position":  {
+                                       "x":  -29.591693692665217,
+                                       "y":  40.40599324577505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-K12VwV2QQiQNjjjr-ENW",
+                      "type":  "subtopic",
+                      "label":  "Channels",
+                      "position":  {
+                                       "x":  -29.591693692665217,
+                                       "y":  199.40599324577502
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H4EXzyftWkvdFlMfU7ydG",
+                      "type":  "subtopic",
+                      "label":  "Skills",
+                      "position":  {
+                                       "x":  107.40830630733478,
+                                       "y":  199.40599324577502
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qzVRzcGnImdqVDw0W-Z7H",
+                      "type":  "subtopic",
+                      "label":  "Proactive Core",
+                      "position":  {
+                                       "x":  -29.591693692665217,
+                                       "y":  305.40599324577505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i5pSML-UG6dqXETubMEs6",
+                      "type":  "subtopic",
+                      "label":  "Agents",
+                      "position":  {
+                                       "x":  107.40830630733478,
+                                       "y":  40.799744179771096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Hlvfyolqm5o7Q9w7n-49r",
+                      "type":  "label",
+                      "label":  "Understand the Differences",
+                      "position":  {
+                                       "x":  -8.591693692665217,
+                                       "y":  -7.333333333333371
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "HebyE2mjSdCLBEbiJAbsC",
+                      "type":  "subtopic",
+                      "label":  "MEMORY.md",
+                      "position":  {
+                                       "x":  -652.8389166161113,
+                                       "y":  1020.4349186123577
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4CT2VNLkpdqeartj2z0lt",
+                      "type":  "subtopic",
+                      "label":  "AGENTS.md",
+                      "position":  {
+                                       "x":  -804.8389166161113,
+                                       "y":  967.0411676783617
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M1zIUsUO6qKhIXzxE9sho",
+                      "type":  "subtopic",
+                      "label":  "SOUL.md",
+                      "position":  {
+                                       "x":  -652.8389166161113,
+                                       "y":  967.4349186123577
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "S7qSTFNATTfamM6XMnm-O",
+                      "type":  "subtopic",
+                      "label":  "USER.md",
+                      "position":  {
+                                       "x":  -804.8389166161113,
+                                       "y":  1020.0411676783617
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7Nvwyi3YFerTpDKkA0Uzo",
+                      "type":  "subtopic",
+                      "label":  "Other Workspace Files",
+                      "position":  {
+                                       "x":  -804.8389166161113,
+                                       "y":  1126.0411676783617
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U1W-s3E2Iu74sFyf4U-vQ",
+                      "type":  "subtopic",
+                      "label":  "memory/YYYY-MM-DD.md",
+                      "position":  {
+                                       "x":  -804.8389166161113,
+                                       "y":  1073.0411676783617
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oaXblhElJYZoLT4OS-7TQ",
+                      "type":  "subtopic",
+                      "label":  "Agent Loop",
+                      "position":  {
+                                       "x":  -29.591693692665217,
+                                       "y":  93.40599324577502
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ouy9TRfFrXcsTKh_E2qjq",
+                      "type":  "subtopic",
+                      "label":  "iMessage",
+                      "position":  {
+                                       "x":  -48.36746027212895,
+                                       "y":  857.9021139247479
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gFGGZE4AUBm8PxKHrF8_g",
+                      "type":  "subtopic",
+                      "label":  "Telegram",
+                      "position":  {
+                                       "x":  -48.36746027212895,
+                                       "y":  804.9021139247479
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4XYMS1wQa3ZwWCQNBnwpd",
+                      "type":  "subtopic",
+                      "label":  "Slack",
+                      "position":  {
+                                       "x":  103.63253972787103,
+                                       "y":  857.9021139247482
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y6qWd-k0SiMhLFexkyQb5",
+                      "type":  "subtopic",
+                      "label":  "WhatsApp",
+                      "position":  {
+                                       "x":  103.63253972787103,
+                                       "y":  804.9021139247479
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fQy4bPkN79tbBaEENeMiM",
+                      "type":  "label",
+                      "label":  "Open Claw in Action",
+                      "position":  {
+                                       "x":  -368.20958936489546,
+                                       "y":  1209.8259982666618
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ghi0M5P_JMm7D_JhIwJXC",
+                      "type":  "subtopic",
+                      "label":  "Discord",
+                      "position":  {
+                                       "x":  -48.36746027212895,
+                                       "y":  910.9021139247479
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0a08Q6vTfqbG94tcJYxN2",
+                      "type":  "subtopic",
+                      "label":  "Signal",
+                      "position":  {
+                                       "x":  103.63253972787103,
+                                       "y":  910.9021139247479
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QbcsFFPpZt7k_R_70jLxe",
+                      "type":  "topic",
+                      "label":  "Plugins",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1854.6566259807564
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uX7uZBFzUyVJ4aKjyjBHq",
+                      "type":  "topic",
+                      "label":  "Automating Tasks",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1421.307649237246
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p1mYLXmX2Tz7BSms3CfzA",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -49.01770343050305,
+                                       "y":  1002.0062566409904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KJ_Y5N8D-FWZIz52ajcO8",
+                      "type":  "topic",
+                      "label":  "Hooks",
+                      "position":  {
+                                       "x":  -49.01770343050305,
+                                       "y":  998.5517813272998
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "F0jyMHHjeAbftNw2BjrUi",
+                      "type":  "topic",
+                      "label":  "Webhooks",
+                      "position":  {
+                                       "x":  -49.01770343050305,
+                                       "y":  1181.5517813272998
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XCpfUKOalyeNAx6Z5DPVG",
+                      "type":  "topic",
+                      "label":  "Heartbeats",
+                      "position":  {
+                                       "x":  -49.01770343050305,
+                                       "y":  1312.5219130504586
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3v3VJETUQ1x1eKWUo8jhf",
+                      "type":  "topic",
+                      "label":  "Cron Jobs",
+                      "position":  {
+                                       "x":  -49.01770343050305,
+                                       "y":  1500.5219130504586
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aezBZ3XK1cXgMn1QTvBMs",
+                      "type":  "subtopic",
+                      "label":  "Managing \u0026 Disabling Jobs",
+                      "position":  {
+                                       "x":  -32.929485753946565,
+                                       "y":  1568.5219130504586
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HnF_CCNL3pssicFlGNta3",
+                      "type":  "subtopic",
+                      "label":  "Event Types",
+                      "position":  {
+                                       "x":  -34.26615549244572,
+                                       "y":  1116.9245500359145
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yxty1gRUtcy-GoPFV4ybO",
+                      "type":  "subtopic",
+                      "label":  "Hook Structure",
+                      "position":  {
+                                       "x":  -34.26615549244572,
+                                       "y":  1063.9245500359145
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "abWTw0gTCO4R3VygeDqsL",
+                      "type":  "subtopic",
+                      "label":  "Securing Webhooks",
+                      "position":  {
+                                       "x":  -34.01770343050306,
+                                       "y":  1248.0254917392765
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eXo_Wxhg-i7v6lx12NqAu",
+                      "type":  "subtopic",
+                      "label":  "HEARTBEAT.md",
+                      "position":  {
+                                       "x":  -34.266155492445606,
+                                       "y":  1433.3362888906443
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D8VJRcsVLzwCLSZX5TkoR",
+                      "type":  "subtopic",
+                      "label":  "Interval \u0026 Active Hours",
+                      "position":  {
+                                       "x":  -34.266155492445606,
+                                       "y":  1380.3362888906443
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w47parvnilLgCGKfgTJMy",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -120.92948575394657,
+                                       "y":  1435.807649237246
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vFjddVdOJvkTDptambYt0",
+                      "type":  "topic",
+                      "label":  "MCP",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1960.6566259807564
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YGLOsfOt3_b3Q3k8w58tE",
+                      "type":  "label",
+                      "label":  "Security checkist",
+                      "position":  {
+                                       "x":  -408.1561002029217,
+                                       "y":  2168.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OPHuAD0L-GZ6zRhIhbmPL",
+                      "type":  "todo",
+                      "label":  "Deploy on an isolated VPS, VM, or dedicated device, not your PC",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2210.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CJV5OV_Whoz4_7L8yhDG1",
+                      "type":  "todo",
+                      "label":  "Run OpenClaw as a non-root user",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2248.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ODqMzOAN1je004chwATTl",
+                      "type":  "todo",
+                      "label":  "Bind the gateway to localhost, not `0.0.0.0` and secure ports 18789 and 18793",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2286.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O9W3d1q1yJmfRJHnfognN",
+                      "type":  "todo",
+                      "label":  "Set a strong gateway auth token before exposing any service",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2326.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qlMuVy6jwwsrSvS-xE9NT",
+                      "type":  "todo",
+                      "label":  "Enable device pairing and maintain a minimal sender allowlist",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2365.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "naqlnPdoywxf16KaHtNyw",
+                      "type":  "todo",
+                      "label":  "Never hardcode API keys:  use environment variables",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2403.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dL_II2-0sUvm8UyFgQLfC",
+                      "type":  "todo",
+                      "label":  "Start in read-only mode and widen permissions deliberately",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2441.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lISj5JCtAnk4qjoCiG0gD",
+                      "type":  "todo",
+                      "label":  "Never trust external content (emails, web pages) to prevent prompt injection",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2481.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gNSp_eg81GgVvR5g-XJr-",
+                      "type":  "todo",
+                      "label":  "Run `openclaw security audit --deep` after every config change",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2520.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ieHfFGH1RbnxZdVgCfxge",
+                      "type":  "todo",
+                      "label":  "Update OpenClaw regularly: many security fixes ship in patch releases",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2558.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V15_eZ8CpPDvjbcF9NWU0",
+                      "type":  "todo",
+                      "label":  "Rotate all credentials immediately if a breach is suspected",
+                      "position":  {
+                                       "x":  -418.18582983403974,
+                                       "y":  2596.386677638858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l4jRfrWA0ATEsywdoZQyv",
+                      "type":  "subtopic",
+                      "label":  "Creating Plugins",
+                      "position":  {
+                                       "x":  -47.213661191160284,
+                                       "y":  1907.6566259807564
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "reIkqx-GGIq31cv2cHXbZ",
+                      "type":  "subtopic",
+                      "label":  "Installing Plugins",
+                      "position":  {
+                                       "x":  -47.213661191160284,
+                                       "y":  1854.6566259807564
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ijP9pXkkknKWM43JZojLg",
+                      "type":  "label",
+                      "label":  "Channels",
+                      "position":  {
+                                       "x":  -706.4868006711215,
+                                       "y":  1913.1566259807564
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "BczmS7SR1jk9FJqlQmqVb",
+                      "type":  "subtopic",
+                      "label":  "channels remove --channel",
+                      "position":  {
+                                       "x":  -791.2095893648955,
+                                       "y":  1804.3954620956683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WblCEWQzvYDzVdn3XEIa8",
+                      "type":  "subtopic",
+                      "label":  "onboard",
+                      "position":  {
+                                       "x":  -792.2095893648955,
+                                       "y":  1293.6409825705794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "N_MjCNrpXy8lN9jq5kQL_",
+                      "type":  "label",
+                      "label":  "Memory \u0026 Cron",
+                      "position":  {
+                                       "x":  -721.9432562297063,
+                                       "y":  2369.2200109721916
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "f8WQ8qOiCFpW3sTJbIc2D",
+                      "type":  "subtopic",
+                      "label":  "backup create",
+                      "position":  {
+                                       "x":  -790.9432562297063,
+                                       "y":  2310.5921126452663
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "T9amVUgox62xsqrdIRwE-",
+                      "type":  "label",
+                      "label":  "Slash Commands (/)",
+                      "position":  {
+                                       "x":  -743.2095893648955,
+                                       "y":  2432.2200109721916
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "1qsX8SiXVlpVrOXZE-5mg",
+                      "type":  "subtopic",
+                      "label":  "/usage",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2695.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xBl2Xgvbi6f_zwl4uPJhu",
+                      "type":  "subtopic",
+                      "label":  "/think",
+                      "position":  {
+                                       "x":  -652.5364873942598,
+                                       "y":  2695.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RZ2afehxi2PlKAFp9WY_3",
+                      "type":  "subtopic",
+                      "label":  "/fast",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2748.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M6sqVDIh4d4lYNefJqKX5",
+                      "type":  "subtopic",
+                      "label":  "/reasoning",
+                      "position":  {
+                                       "x":  -652.5364873942598,
+                                       "y":  2748.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v4nwaFwHjh2UQ8rsBiTOo",
+                      "type":  "subtopic",
+                      "label":  "/allowlist",
+                      "position":  {
+                                       "x":  -652.5364873942598,
+                                       "y":  2801.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "T8qUFenL-CKPWnwOEe8lS",
+                      "type":  "subtopic",
+                      "label":  "/config",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2801.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kPrB8vWCQkXdiEm42TVel",
+                      "type":  "subtopic",
+                      "label":  "/mcp",
+                      "position":  {
+                                       "x":  -790.2997562758054,
+                                       "y":  2854.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MeNsZrMsNU_xZR9hmLkQz",
+                      "type":  "subtopic",
+                      "label":  "/plugins",
+                      "position":  {
+                                       "x":  -652.5364873942598,
+                                       "y":  2854.7296281383847
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gN2oNDE7FXPyBh_5ZOu_Z",
+                      "type":  "subtopic",
+                      "label":  "Security Risks",
+                      "position":  {
+                                       "x":  -47.213661191160284,
+                                       "y":  1960.6566259807564
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9VueIssjIAIObpRADqJxv",
+                      "type":  "label",
+                      "label":  "Choose your Installation Method",
+                      "position":  {
+                                       "x":  -804.8389166161113,
+                                       "y":  364.40599324577505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "02A7y4sZ-qg3-dx1wmxwj",
+                      "type":  "topic",
+                      "label":  "Local Machine",
+                      "position":  {
+                                       "x":  -770.3986882266184,
+                                       "y":  422.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y29FvjAzA1KhzlC49XPfh",
+                      "type":  "subtopic",
+                      "label":  "Security Best Practices",
+                      "position":  {
+                                       "x":  -770.3986882266184,
+                                       "y":  528.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bnyEeJVvaysPBkIevTCBa",
+                      "type":  "topic",
+                      "label":  "VPS/Cloud",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  422.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y8n10TL6_mWldqclw1Dcz",
+                      "type":  "topic",
+                      "label":  "Dedicated Hardware",
+                      "position":  {
+                                       "x":  -69.70958936489546,
+                                       "y":  422.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CE3p60gkIzzHBh69kKiIw",
+                      "type":  "subtopic",
+                      "label":  "Raspberry Pi",
+                      "position":  {
+                                       "x":  -69.70958936489546,
+                                       "y":  528.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oEAIlEf0PqO8TWl-w2NUC",
+                      "type":  "subtopic",
+                      "label":  "Mac Mini",
+                      "position":  {
+                                       "x":  88.29041063510454,
+                                       "y":  528.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SipCWJCUVP2cJGa-usjji",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -120.87136307619869,
+                                       "y":  190.23931383834713
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nVzj2P826S2LjUCpdYGVo",
+                      "type":  "subtopic",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  -804.0916936926652,
+                                       "y":  723.901383808888
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iuo-ZjboOJEe9rxMLqBBn",
+                      "type":  "label",
+                      "label":  "Isolated Install",
+                      "position":  {
+                                       "x":  -719.0916936926652,
+                                       "y":  685.901383808888
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2JiT8CS9PSVSfIeao29hq",
+                      "type":  "topic",
+                      "label":  "Installation",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  723.901383808888
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sI6wvGO8kZN8M_RIjQ7FN",
+                      "type":  "topic",
+                      "label":  "Onboarding",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  776.901383808888
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4XsdBdveBxrTIg3WdzzOO",
+                      "type":  "topic",
+                      "label":  "Sessions",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  1618.5219130504586
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v2fsulkH_nGktwcdk8QWR",
+                      "type":  "subtopic",
+                      "label":  "Why and Why not?",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  475.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qDidhG0fztZ38BSMv76YI",
+                      "type":  "subtopic",
+                      "label":  "Security Best Practices",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  528.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "htT_HpzKKNXSbxhWf4dCJ",
+                      "type":  "subtopic",
+                      "label":  "Why and Why not?",
+                      "position":  {
+                                       "x":  -69.70958936489546,
+                                       "y":  475.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HgvUjBAWLLmT_QBYeSyli",
+                      "type":  "subtopic",
+                      "label":  "Pick a Provider",
+                      "position":  {
+                                       "x":  -419.70958936489546,
+                                       "y":  581.8394634177199
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "M1arD1UdXwicC3M_q785l",
+                      "source":  "4WN7z6NnQKXdanHl-C_vD",
+                      "target":  "6VS0lRVk60w49FvRiCRWK",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "3p_hGOqliwMBCkjnviVqt",
+                      "source":  "xRDXMh4n8LghBX5TH0LIu",
+                      "target":  "7_QUsiC57I4xcaySZYAoc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "Wr28nOKROhey44Y-xppTn",
+                      "source":  "rEUJIhqOUyLORy6cnlAAj",
+                      "target":  "7_QUsiC57I4xcaySZYAoc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "UAcFKiPMNE9JDvbcoh5zi",
+                      "source":  "9wAYWJQBiWy_RF2AfQsqn",
+                      "target":  "7_QUsiC57I4xcaySZYAoc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "Z6PniCBoqJAEReLf4qxFj",
+                      "source":  "fSHA8tY7RmDbD8zn3DDhu",
+                      "target":  "_tmV2qJyrkBBZdCL_xWh1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__6VS0lRVk60w49FvRiCRWKy2-4u53an-SHGNCAh87GTd7Cz1",
+                      "source":  "6VS0lRVk60w49FvRiCRWK",
+                      "target":  "4u53an-SHGNCAh87GTd7C",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__6VS0lRVk60w49FvRiCRWKy2-EzEJOUOwLlVfA4q5NXC88z2",
+                      "source":  "6VS0lRVk60w49FvRiCRWK",
+                      "target":  "EzEJOUOwLlVfA4q5NXC88",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__fQy4bPkN79tbBaEENeMiMx2-WeEz693z_j7kIL39uFyHFw2",
+                      "source":  "fQy4bPkN79tbBaEENeMiM",
+                      "target":  "WeEz693z_j7kIL39uFyHF",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__WeEz693z_j7kIL39uFyHFx2-uX7uZBFzUyVJ4aKjyjBHqw1",
+                      "source":  "WeEz693z_j7kIL39uFyHF",
+                      "target":  "uX7uZBFzUyVJ4aKjyjBHq",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__QbcsFFPpZt7k_R_70jLxez2-reIkqx-GGIq31cv2cHXbZy1",
+                      "source":  "QbcsFFPpZt7k_R_70jLxe",
+                      "target":  "reIkqx-GGIq31cv2cHXbZ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__QbcsFFPpZt7k_R_70jLxez2-l4jRfrWA0ATEsywdoZQyvy1",
+                      "source":  "QbcsFFPpZt7k_R_70jLxe",
+                      "target":  "l4jRfrWA0ATEsywdoZQyv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__QbcsFFPpZt7k_R_70jLxez2-gN2oNDE7FXPyBh_5ZOu_Zy1",
+                      "source":  "QbcsFFPpZt7k_R_70jLxe",
+                      "target":  "gN2oNDE7FXPyBh_5ZOu_Z",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__B4SyJwbv0HnI34BW81Ongy2-vLQ7hJJS3yXgbi0b-RAlbz1",
+                      "source":  "B4SyJwbv0HnI34BW81Ong",
+                      "target":  "vLQ7hJJS3yXgbi0b-RAlb",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__B4SyJwbv0HnI34BW81Ongy2-2qAGs1j1MDaoQFCDpF37Zz1",
+                      "source":  "B4SyJwbv0HnI34BW81Ong",
+                      "target":  "2qAGs1j1MDaoQFCDpF37Z",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__MbZFK1Q6ndoaDMsrf15Xiz2-gFGGZE4AUBm8PxKHrF8_gy1",
+                      "source":  "MbZFK1Q6ndoaDMsrf15Xi",
+                      "target":  "gFGGZE4AUBm8PxKHrF8_g",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__MbZFK1Q6ndoaDMsrf15Xiz2-ouy9TRfFrXcsTKh_E2qjqy1",
+                      "source":  "MbZFK1Q6ndoaDMsrf15Xi",
+                      "target":  "ouy9TRfFrXcsTKh_E2qjq",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__MbZFK1Q6ndoaDMsrf15Xiz2-ghi0M5P_JMm7D_JhIwJXCy1",
+                      "source":  "MbZFK1Q6ndoaDMsrf15Xi",
+                      "target":  "ghi0M5P_JMm7D_JhIwJXC",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__wp7wX-xbOKG5Aemo-rl4gy2-M1zIUsUO6qKhIXzxE9shoz2",
+                      "source":  "wp7wX-xbOKG5Aemo-rl4g",
+                      "target":  "M1zIUsUO6qKhIXzxE9sho",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__wp7wX-xbOKG5Aemo-rl4gy2-HebyE2mjSdCLBEbiJAbsCz1",
+                      "source":  "wp7wX-xbOKG5Aemo-rl4g",
+                      "target":  "HebyE2mjSdCLBEbiJAbsC",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__wp7wX-xbOKG5Aemo-rl4gy2-U1W-s3E2Iu74sFyf4U-vQz2",
+                      "source":  "wp7wX-xbOKG5Aemo-rl4g",
+                      "target":  "U1W-s3E2Iu74sFyf4U-vQ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__wp7wX-xbOKG5Aemo-rl4gy2-7Nvwyi3YFerTpDKkA0Uzoz2",
+                      "source":  "wp7wX-xbOKG5Aemo-rl4g",
+                      "target":  "7Nvwyi3YFerTpDKkA0Uzo",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__wGp4nsoZNTbM4wgAmrqjjx2-fQy4bPkN79tbBaEENeMiMw1",
+                      "source":  "wGp4nsoZNTbM4wgAmrqjj",
+                      "target":  "fQy4bPkN79tbBaEENeMiM",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__QbcsFFPpZt7k_R_70jLxex2-vFjddVdOJvkTDptambYt0w2",
+                      "source":  "QbcsFFPpZt7k_R_70jLxe",
+                      "target":  "vFjddVdOJvkTDptambYt0",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__7_QUsiC57I4xcaySZYAocx2-QbcsFFPpZt7k_R_70jLxew1",
+                      "source":  "7_QUsiC57I4xcaySZYAoc",
+                      "target":  "QbcsFFPpZt7k_R_70jLxe",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__vFjddVdOJvkTDptambYt0x2-fSHA8tY7RmDbD8zn3DDhuw1",
+                      "source":  "vFjddVdOJvkTDptambYt0",
+                      "target":  "fSHA8tY7RmDbD8zn3DDhu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__2JiT8CS9PSVSfIeao29hqy2-nVzj2P826S2LjUCpdYGVoz2",
+                      "source":  "2JiT8CS9PSVSfIeao29hq",
+                      "target":  "nVzj2P826S2LjUCpdYGVo",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__uX7uZBFzUyVJ4aKjyjBHqx2-4XsdBdveBxrTIg3WdzzOOw1",
+                      "source":  "uX7uZBFzUyVJ4aKjyjBHq",
+                      "target":  "4XsdBdveBxrTIg3WdzzOO",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__4XsdBdveBxrTIg3WdzzOOx2-7_QUsiC57I4xcaySZYAocw2",
+                      "source":  "4XsdBdveBxrTIg3WdzzOO",
+                      "target":  "7_QUsiC57I4xcaySZYAoc",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  }
+              ]
+}

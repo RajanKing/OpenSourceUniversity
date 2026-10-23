@@ -1,0 +1,2292 @@
+{
+    "slug":  "ai-agents",
+    "source":  "https://roadmap.sh/ai-agents",
+    "title":  "AI Agents",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-03-09T11:24:39.307Z",
+    "nodes":  [
+                  {
+                      "id":  "3GO9CZQSSxM1eRSBz9sWR",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  448.47614503814657,
+                                       "y":  3322.5001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9MVi8gN_TNI515-5til_s",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  739,
+                                       "y":  3056.5001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h2-93F69l8wKXkvT-iFC4",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -135.00832024152123,
+                                       "y":  2818.2399357924473
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ucZ3vn5WgFOfa8Wpb0Hgk",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -135.00832024152123,
+                                       "y":  2412.347193632089
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JuxzWFeM_vwgn4pj0wxfY",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  528.9761450381466,
+                                       "y":  2710.42394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R18O3kbMoSEicZbLgUP7s",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  264.97614503814657,
+                                       "y":  2694.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MeOebqpbLZkPbj0iWRjP2",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  600.30929781038,
+                                       "y":  2481.0335978441904
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-MLEtjuRq9y1HpZeKJCts",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  264.97614503814657,
+                                       "y":  2218.019754844708
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NI3gC3eiPXDkirpD7sk10",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  162.26555040271785,
+                                       "y":  2023.1355435052951
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u8n0Lh3rJrqnRyc0KCjdr",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  774.80929781038,
+                                       "y":  1851.6702232480886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0nEbIdUFlhBp7Pn9lzZDG",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  709.8290815371215,
+                                       "y":  1851.6702232480886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qLO_DcIM2OY_i8njSIt1q",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -103.7455305579661,
+                                       "y":  1822.5941482842695
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PebDvL0Oyzh9mna-AbiaO",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  118.85088070462893,
+                                       "y":  1755.7407354438553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K2ueUkBcV5ASMhHUUZH-A",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  233.85088070462893,
+                                       "y":  1741.2407354438553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0WHI9bT9SJnNfuBkY1oU1",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  636.0988844716816,
+                                       "y":  1988.6355435052951
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iw9O2qcCgvICJc6HvpUYf",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  247.76555040271785,
+                                       "y":  1472.2018556690077
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v-zVQKH6XEMCI4Np-Q3Jo",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -137.2455305579661,
+                                       "y":  1184.2910027738571
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c58fcsthBlVfzfr-MHdpF",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  357.48246683384076,
+                                       "y":  -136.01175492596462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ji35JsKgUQXN4DJGEgTAC",
+                      "type":  "title",
+                      "label":  "AI Agents",
+                      "position":  {
+                                       "x":  287.48246683384076,
+                                       "y":  -68.9683088092861
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "type":  "paragraph",
+                      "label":  "Visit the following relevant tracks",
+                      "position":  {
+                                       "x":  39.982758882202006,
+                                       "y":  3244.0164384242175
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xi0QAi4kXm3-IFKgopnOP",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  235.48275888220198,
+                                       "y":  3365.0164384242175
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NrTAfxHCksgqSkhnrO4kF",
+                      "type":  "button",
+                      "label":  "AI Engineer",
+                      "position":  {
+                                       "x":  56.98275888220195,
+                                       "y":  3300.7409891427583
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wm2VPi1Tn_Y7dqPowny69",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -160.95487988355524,
+                                       "y":  -149.65280636791104
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "29I4Uf1Z74ihhM4cpfaP7",
+                                        "label":  "AI Engineer Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/ai-engineer"
+                                    },
+                                    {
+                                        "id":  "9IzkW8kJ-4TiqEuoeyteP",
+                                        "label":  "AI and Data Scientist Roadmap",
+                                        "url":  "https://roadmap.sh/ai-data-scientist"
+                                    },
+                                    {
+                                        "id":  "tvB9Bt9JTO98FlPqvPZGl",
+                                        "label":  "MLOps Roadmap",
+                                        "url":  "https://roadmap.sh/mlops"
+                                    },
+                                    {
+                                        "id":  "usMWqZBoyrbkxGv-YHziv",
+                                        "label":  "AI Red Teaming Roadmap",
+                                        "url":  "https://roadmap.sh/ai-red-teaming"
+                                    },
+                                    {
+                                        "id":  "BOm0mlohoZzmcooxNYPhr",
+                                        "label":  "Prompt Engineering Roadmap",
+                                        "url":  "https://roadmap.sh/prompt-engineering"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "VPI89s-m885r2YrXjYxdd",
+                      "type":  "topic",
+                      "label":  "Basic Backend Development",
+                      "position":  {
+                                       "x":  232.98246683384076,
+                                       "y":  119.8447875361903
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "McREk2zHOlIrqbGSKbX-J",
+                      "type":  "topic",
+                      "label":  "Git and Terminal Usage",
+                      "position":  {
+                                       "x":  232.98246683384076,
+                                       "y":  172.8447875361903
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QtTwecLdvQa8pgELJ6i80",
+                      "type":  "topic",
+                      "label":  "REST API Knowledge",
+                      "position":  {
+                                       "x":  232.98246683384076,
+                                       "y":  225.8447875361903
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "amfuroaEeP1sqhvPN-jgO",
+                      "type":  "button",
+                      "label":  "Backend Beginner Roadmap",
+                      "position":  {
+                                       "x":  592.8266896348252,
+                                       "y":  119.8447875361903
+                                   },
+                      "href":  "https://roadmap.sh/backend?r=backend-beginner",
+                      "links":  null
+                  },
+                  {
+                      "id":  "kA1ggkT-2KI0cEdd3rIcM",
+                      "type":  "button",
+                      "label":  "Git and GitHub Roadmap",
+                      "position":  {
+                                       "x":  592.8266896348252,
+                                       "y":  172.8447875361903
+                                   },
+                      "href":  "https://roadmap.sh/git-github?r=git-github-beginner",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ynvi5skgC85lgm96V_p42",
+                      "type":  "button",
+                      "label":  "API Design Roadmap",
+                      "position":  {
+                                       "x":  592.8266896348252,
+                                       "y":  225.8447875361903
+                                   },
+                      "href":  "https://roadmap.sh/api-design",
+                      "links":  null
+                  },
+                  {
+                      "id":  "imzXXZPt8wNny1oe3-MeN",
+                      "type":  "label",
+                      "label":  "Learn the Pre-requisites",
+                      "position":  {
+                                       "x":  266.48246683384076,
+                                       "y":  72.34719363208896
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "eeU25xBGXtFFisDckfn31",
+                      "type":  "paragraph",
+                      "label":  "LLM Fundamentals",
+                      "position":  {
+                                       "x":  262.48246683384076,
+                                       "y":  349.6813863708485
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZF5_5Y5zqa75Ov22JACX6",
+                      "type":  "topic",
+                      "label":  "Transformer Models and LLMs",
+                      "position":  {
+                                       "x":  582.685294294251,
+                                       "y":  351.1813863708485
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fDFxKOTLw6O41OGVmRuyy",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  582.685294294251,
+                                       "y":  397.28863122380324
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JBorUqfR1T7kFzwHfdJm4",
+                      "type":  "label",
+                      "label":  "Model Mechanis",
+                      "position":  {
+                                       "x":  653.185294294251,
+                                       "y":  406.2063076021101
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "GAjuWyJl9CI1nqXBp6XCf",
+                      "type":  "subtopic",
+                      "label":  "Tokenization",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  449.2063076021101
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dyn1LSioema-Bf9lLTgUZ",
+                      "type":  "subtopic",
+                      "label":  "Context Windows",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  502.20630760211014
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1fiWPBV99E2YncqdCgUw2",
+                      "type":  "subtopic",
+                      "label":  "Token Based Pricing",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  555.2063076021101
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W0402lPcZoaTL1OMTED6o",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  581.685294294251,
+                                       "y":  613.6969577367049
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DUOWFOfqpppC9lZZR2_y2",
+                      "type":  "label",
+                      "label":  "Generation Controls",
+                      "position":  {
+                                       "x":  639.185294294251,
+                                       "y":  622.6146341150118
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "L1zL1GzqjSAjF06pIIXhy",
+                      "type":  "subtopic",
+                      "label":  "Temperature",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  665.6146341150118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "z_N-Y0zGkv8_qHPuVtimL",
+                      "type":  "subtopic",
+                      "label":  "Frequency Penalty",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  718.6146341150118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Vd8ycw8pW-ZKvg5WYFtoh",
+                      "type":  "subtopic",
+                      "label":  "Presence Penalty",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  771.6146341150118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "icbp1NjurQfdM0dHnz6v2",
+                      "type":  "subtopic",
+                      "label":  "Top-p",
+                      "position":  {
+                                       "x":  736.185294294251,
+                                       "y":  665.6146341150118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K0G-Lw069jXUJwZqHtybd",
+                      "type":  "subtopic",
+                      "label":  "Stopping Criteria",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  824.6146341150118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DSJAhQhc1dQmBHQ8ZkTau",
+                      "type":  "topic",
+                      "label":  "Open Weight Models",
+                      "position":  {
+                                       "x":  236.86750909294227,
+                                       "y":  436.17702805928684
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tJYmEDDwK0LtEux-kwp9B",
+                      "type":  "topic",
+                      "label":  "Closed Weight Models",
+                      "position":  {
+                                       "x":  236.86750909294227,
+                                       "y":  493.17702805928684
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "S1KLwzUZastfV9daGbYTk",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  483.685294294251,
+                                       "y":  625.2837601979952
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "X8W7EWSJxYiY50sEs38fo",
+                      "type":  "paragraph",
+                      "label":  "Model Families and Licences",
+                      "position":  {
+                                       "x":  236.86750909294227,
+                                       "y":  608.7837601979952
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i2NE6haX9-7mdoV5LQ3Ah",
+                      "type":  "topic",
+                      "label":  "Streamed vs Unstreamed Responses",
+                      "position":  {
+                                       "x":  -157.99208093839397,
+                                       "y":  210.31600089748082
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "N3yZfUxphxjiupqGpyaS9",
+                      "type":  "topic",
+                      "label":  "Reasoning vs Standard Models",
+                      "position":  {
+                                       "x":  -157.99208093839397,
+                                       "y":  267.3160008974808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5OW_6o286mj470ElFyJ_5",
+                      "type":  "topic",
+                      "label":  "Fine-tuning vs Prompt Engineering",
+                      "position":  {
+                                       "x":  -157.99208093839397,
+                                       "y":  324.3160008974808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UIm54UmICKgep6s8Itcyv",
+                      "type":  "topic",
+                      "label":  "Embeddings and Vector Search",
+                      "position":  {
+                                       "x":  -157.99208093839397,
+                                       "y":  381.3160008974808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qwVQOwBTLA2yUgRISzC8k",
+                      "type":  "topic",
+                      "label":  "Understand the Basics of RAG",
+                      "position":  {
+                                       "x":  -157.99208093839397,
+                                       "y":  438.3160008974808
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7-EqPC6VDTiFn8DfM7V63",
+                      "type":  "paragraph",
+                      "label":  "Understand the Basics",
+                      "position":  {
+                                       "x":  -117.99208093839397,
+                                       "y":  608.7837601979952
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B8dzg61TGaknuruBgkEJd",
+                      "type":  "topic",
+                      "label":  "Pricing of Common Models",
+                      "position":  {
+                                       "x":  -157.99208093839397,
+                                       "y":  495.31600089748076
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "THJQQuiCmKGayd6EdcX9o",
+                      "type":  "paragraph",
+                      "label":  "AI Agents 101",
+                      "position":  {
+                                       "x":  -119.99208093839397,
+                                       "y":  785.3948629248711
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aFZAm44nP5NefX_9TpT0A",
+                      "type":  "subtopic",
+                      "label":  "What are AI Agents?",
+                      "position":  {
+                                       "x":  -123.49208093839397,
+                                       "y":  949.928186295656
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zsOUWJQ8e7wnoHmq1icG",
+                      "type":  "subtopic",
+                      "label":  "What are Tools?",
+                      "position":  {
+                                       "x":  -123.49208093839397,
+                                       "y":  1004.928186295656
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Eih4eybuYB3C2So8K0AT3",
+                      "type":  "topic",
+                      "label":  "Agent Loop",
+                      "position":  {
+                                       "x":  250.36750909294227,
+                                       "y":  1002.928186295656
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LU76AhCYDjxdBhpMQ4eMU",
+                      "type":  "subtopic",
+                      "label":  "Perception / User Input",
+                      "position":  {
+                                       "x":  248.86750909294227,
+                                       "y":  754.9156776926133
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ycPRgRYR4lEBQr_xxHKnM",
+                      "type":  "subtopic",
+                      "label":  "Reason and Plan",
+                      "position":  {
+                                       "x":  248.86750909294227,
+                                       "y":  807.9156776926133
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sHYd4KsKlmw5Im3nQ19W8",
+                      "type":  "subtopic",
+                      "label":  "Acting / Tool Invocation",
+                      "position":  {
+                                       "x":  248.86750909294227,
+                                       "y":  860.9156776926133
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZJTrun3jK3zBGOTm1jdMI",
+                      "type":  "subtopic",
+                      "label":  "Observation \u0026 Reflection",
+                      "position":  {
+                                       "x":  248.86750909294227,
+                                       "y":  913.9156776926133
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wb8zEmsAX7VyNRPe-DHxw",
+                      "type":  "label",
+                      "label":  "1",
+                      "position":  {
+                                       "x":  212.99392181540966,
+                                       "y":  760.4156776926133
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "BkFgVFOtSkuzO0s9EJ3tc",
+                      "type":  "label",
+                      "label":  "2",
+                      "position":  {
+                                       "x":  211.49392181540966,
+                                       "y":  813.4156776926133
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "kLZToxQ1iv0m5Po1TyLPw",
+                      "type":  "label",
+                      "label":  "4",
+                      "position":  {
+                                       "x":  211.49392181540966,
+                                       "y":  919.4156776926133
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "fBn8SCyMuWS7fRLMJCgSy",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  582.80929781038,
+                                       "y":  1002.5676406496057
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TehqgcNFmS2Iy2TFrAz_r",
+                      "type":  "label",
+                      "label":  "Example Usecases",
+                      "position":  {
+                                       "x":  643.30929781038,
+                                       "y":  1011.4853170279125
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PPdAutqJF5G60Eg9lYBND",
+                      "type":  "subtopic",
+                      "label":  "Personal assistant",
+                      "position":  {
+                                       "x":  595.30929781038,
+                                       "y":  1054.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PK8w31GlvtmAuU92sHaqr",
+                      "type":  "subtopic",
+                      "label":  "Code generation",
+                      "position":  {
+                                       "x":  595.30929781038,
+                                       "y":  1107.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wKYEaPWNsR30TIpHaxSsq",
+                      "type":  "subtopic",
+                      "label":  "Data analysis",
+                      "position":  {
+                                       "x":  595.30929781038,
+                                       "y":  1160.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5oLc-235bvKhApxzYFkEc",
+                      "type":  "subtopic",
+                      "label":  "Web Scraping / Crawling",
+                      "position":  {
+                                       "x":  595.30929781038,
+                                       "y":  1213.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ok8vN7VtCgyef5x6aoQaL",
+                      "type":  "subtopic",
+                      "label":  "NPC / Game AI",
+                      "position":  {
+                                       "x":  595.30929781038,
+                                       "y":  1266.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "szfDDmz2gnjR2nL6oQIRT",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  483.48246683384076,
+                                       "y":  1020.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vVshXAzK203UzQkgk2HrP",
+                      "type":  "label",
+                      "label":  "3",
+                      "position":  {
+                                       "x":  209.99392181540966,
+                                       "y":  866.4156776926133
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Bn_BkthrVX_vOuwQzvPZa",
+                      "type":  "subtopic",
+                      "label":  "Max Length",
+                      "position":  {
+                                       "x":  595.185294294251,
+                                       "y":  878.6146341150118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tyjeFUjjTGFVXRLOe1Oh1",
+                      "type":  "paragraph",
+                      "label":  "Prompt Engineering",
+                      "position":  {
+                                       "x":  254.86750909294227,
+                                       "y":  1093.5676406496057
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Y8EqzFx3qxtrSh7bWbbV8",
+                      "type":  "topic",
+                      "label":  "What is Prompt Engineering",
+                      "position":  {
+                                       "x":  -137.2455305579661,
+                                       "y":  1095.0676406496057
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qFKFM2qNPEN7EoD0V-1SM",
+                      "type":  "subtopic",
+                      "label":  "Be specific in what you want",
+                      "position":  {
+                                       "x":  -126.06066608698445,
+                                       "y":  1232.8505644697545
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6I42CoeWX-kkFXTKAY7rw",
+                      "type":  "subtopic",
+                      "label":  "Provide additional context",
+                      "position":  {
+                                       "x":  -126.06066608698445,
+                                       "y":  1285.8505644697545
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sUwdtOX550tSdceaeFPmF",
+                      "type":  "subtopic",
+                      "label":  "Use relevant technical terms",
+                      "position":  {
+                                       "x":  -126.06066608698445,
+                                       "y":  1338.8505644697545
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yulzE4ZNLhXOgHhG7BtZQ",
+                      "type":  "subtopic",
+                      "label":  "Use Examples in your Prompt",
+                      "position":  {
+                                       "x":  -126.06066608698445,
+                                       "y":  1391.8505644697545
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "noTuUFnHSBzn7GKG9UZEi",
+                      "type":  "subtopic",
+                      "label":  "Iterate and Test your Prompts",
+                      "position":  {
+                                       "x":  -126.06066608698445,
+                                       "y":  1444.8505644697545
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wwHHlEoPAx0TLxbtY6nMA",
+                      "type":  "subtopic",
+                      "label":  "Specify Length, format etc",
+                      "position":  {
+                                       "x":  -126.06066608698445,
+                                       "y":  1497.8505644697545
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QWpwDrwySbmdDYJaR3UhQ",
+                      "type":  "label",
+                      "label":  "Writing Good Prompts",
+                      "position":  {
+                                       "x":  -84.49208093839397,
+                                       "y":  1194.8505644697545
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "wCOn2Lb_RlEKkVvdulRXj",
+                      "type":  "button",
+                      "label":  "Prompt Engineering Roadmap",
+                      "position":  {
+                                       "x":  -137.2455305579661,
+                                       "y":  1555.0297261117416
+                                   },
+                      "href":  "https://roadmap.sh/prompt-engineering",
+                      "links":  null
+                  },
+                  {
+                      "id":  "nlVToD-pmbBV2ikgrCQiO",
+                      "type":  "paragraph",
+                      "label":  "Tools / Actions",
+                      "position":  {
+                                       "x":  253.36750909294227,
+                                       "y":  1340.8505644697545
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R1zdRA3UqlLOjfSw9Swx_",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  164.48246683384076,
+                                       "y":  1267.4971007581694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qakbxB8xe7Y8gejC5cZnK",
+                      "type":  "topic",
+                      "label":  "Tool Definition",
+                      "position":  {
+                                       "x":  247.76555040271785,
+                                       "y":  1432.6068144540936
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VpAF2EGz8HtnE-Xt3hzpf",
+                      "type":  "label",
+                      "label":  "Name and Description",
+                      "position":  {
+                                       "x":  266.26555040271785,
+                                       "y":  1492.5238284556976
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "0MUgaZi5vHHnhYYiXsIdX",
+                      "type":  "label",
+                      "label":  "Input / Output Schema",
+                      "position":  {
+                                       "x":  266.26555040271785,
+                                       "y":  1517.5238284556976
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ehSLDOPK-mndL9CXF60s5",
+                      "type":  "label",
+                      "label":  "Error Handling",
+                      "position":  {
+                                       "x":  266.26555040271785,
+                                       "y":  1542.5238284556976
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "5Tu6zdcNbotuhVAwTYeh_",
+                      "type":  "label",
+                      "label":  "Usage Examples",
+                      "position":  {
+                                       "x":  266.26555040271785,
+                                       "y":  1567.5238284556976
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "gAGw6nEhIY9O5yYmfHTmv",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  587.1975456690336,
+                                       "y":  1375.1120497334348
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7AhPsyz0KfJkbn5THLOvb",
+                      "type":  "label",
+                      "label":  "Examples of Tools",
+                      "position":  {
+                                       "x":  651.1975456690336,
+                                       "y":  1384.0297261117416
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "kBtqT8AduLoYDWopj-V9_",
+                      "type":  "subtopic",
+                      "label":  "Web Search",
+                      "position":  {
+                                       "x":  598.6975456690336,
+                                       "y":  1427.0297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mS0EVCkWuPN_GkVPng4A2",
+                      "type":  "subtopic",
+                      "label":  "Code Execution / REPL",
+                      "position":  {
+                                       "x":  598.6975456690336,
+                                       "y":  1480.0297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sV1BnA2-qBnXoKpUn-8Ub",
+                      "type":  "subtopic",
+                      "label":  "Database Queries",
+                      "position":  {
+                                       "x":  598.6975456690336,
+                                       "y":  1533.0297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "52qxjZILV-X1isup6dazC",
+                      "type":  "subtopic",
+                      "label":  "API Requests",
+                      "position":  {
+                                       "x":  598.6975456690336,
+                                       "y":  1586.0297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qaNr5I-NQPnfrRH7ynGTl",
+                      "type":  "subtopic",
+                      "label":  "Email / Slack / SMS",
+                      "position":  {
+                                       "x":  598.6975456690336,
+                                       "y":  1639.0297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BoJqZvdGam4cd6G6yK2IV",
+                      "type":  "subtopic",
+                      "label":  "File System Access",
+                      "position":  {
+                                       "x":  598.6975456690336,
+                                       "y":  1692.0297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9hKOwIyy5JP5IX_J2a2So",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  483.76555040271785,
+                                       "y":  1452.1068144540936
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uMTuTzTcwMBwttBoHuEtr",
+                      "type":  "paragraph",
+                      "label":  "Agent Memory",
+                      "position":  {
+                                       "x":  288.35088070462893,
+                                       "y":  1922.400354280238
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Rjuzmgb1AHnm18qNwbRhQ",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  441.1975456690336,
+                                       "y":  1655.0297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TBH_DZTAfR8Daoh-njNFC",
+                      "type":  "topic",
+                      "label":  "What is Agent Memory?",
+                      "position":  {
+                                       "x":  632.80929781038,
+                                       "y":  1813.1210935853253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M3U6RfIqaiut2nuOibY8W",
+                      "type":  "topic",
+                      "label":  "Short Term  Memory",
+                      "position":  {
+                                       "x":  647.0988844716816,
+                                       "y":  2000.5257670010978
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ue633fz6Xu2wa2-KOAtdP",
+                      "type":  "topic",
+                      "label":  "Long Term Memory",
+                      "position":  {
+                                       "x":  647.5988844716816,
+                                       "y":  2092.525767001098
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UcfPT2eIDT8peU0P8mere",
+                      "type":  "label",
+                      "label":  "Within Prompt",
+                      "position":  {
+                                       "x":  702.0988844716816,
+                                       "y":  2054.525767001098
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "gLACXg46Uxaa1bbL8B8K1",
+                      "type":  "label",
+                      "label":  "Vector DB / SQL / Custom",
+                      "position":  {
+                                       "x":  654.0988844716816,
+                                       "y":  2151.525767001098
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zx2EMzU0tWyKo73Ebope9",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  532.0988844716816,
+                                       "y":  2023.1355435052951
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EfCCNqLMJpWKKtamUa5gK",
+                      "type":  "topic",
+                      "label":  "Episodic vs Semantic Memory",
+                      "position":  {
+                                       "x":  279.48246683384076,
+                                       "y":  2008.6355435052951
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "T2vksVGCRajcwy_WRe2Yf",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -136.69306946933528,
+                                       "y":  2004.4105696858578
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CEZcNlJeX6Gb4F1bZNS_X",
+                      "type":  "label",
+                      "label":  "Maintaining Memory",
+                      "position":  {
+                                       "x":  -73.19306946933528,
+                                       "y":  2013.328246064165
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "wkS4yOJ3JdZQE_yBID8K7",
+                      "type":  "subtopic",
+                      "label":  "RAG and Vector Databases",
+                      "position":  {
+                                       "x":  -125.69306946933528,
+                                       "y":  2056.328246064165
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QJqXHV8VHPTnfYfmKPzW7",
+                      "type":  "subtopic",
+                      "label":  "User Profile Storage",
+                      "position":  {
+                                       "x":  -125.69306946933528,
+                                       "y":  2109.328246064165
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jTDC19BTWCqxqMizrIJHr",
+                      "type":  "subtopic",
+                      "label":  "Summarization / Compression",
+                      "position":  {
+                                       "x":  -125.69306946933528,
+                                       "y":  2162.328246064165
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "m-97m7SI0XpBnhEE8-_1S",
+                      "type":  "subtopic",
+                      "label":  "Forgetting / Aging Strategies",
+                      "position":  {
+                                       "x":  -125.69306946933528,
+                                       "y":  2215.328246064165
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SU8HwGaDiRCho5I_pBl3N",
+                      "type":  "paragraph",
+                      "label":  "Agent Architectures",
+                      "position":  {
+                                       "x":  288.35088070462893,
+                                       "y":  2118.910569685858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "53xDks6JQ33fHMa3XcuCd",
+                      "type":  "topic",
+                      "label":  "ReAct (Reason + Act)",
+                      "position":  {
+                                       "x":  281.97614503814657,
+                                       "y":  2321.4170226331694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1B0IqRNYdtbHDi1jHSXuI",
+                      "type":  "topic",
+                      "label":  "Model Context Protocol (MCP)",
+                      "position":  {
+                                       "x":  234.98246683384076,
+                                       "y":  1640.5297261117416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9FryAIrWRHh8YlzKX3et5",
+                      "type":  "subtopic",
+                      "label":  "MCP Hosts",
+                      "position":  {
+                                       "x":  243.97212622056713,
+                                       "y":  1794.1210935853253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CGVstUxVXLJcYZrwk3iNQ",
+                      "type":  "subtopic",
+                      "label":  "MCP Client",
+                      "position":  {
+                                       "x":  381.9824668338408,
+                                       "y":  1794.1210935853253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yv_-87FVM7WKn5iv6LW9q",
+                      "type":  "subtopic",
+                      "label":  "MCP Servers",
+                      "position":  {
+                                       "x":  242.97212622056713,
+                                       "y":  1848
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gAPRLPQFVHuB9rBW5-IRG",
+                      "type":  "label",
+                      "label":  "Core Components",
+                      "position":  {
+                                       "x":  300.35088070462893,
+                                       "y":  1751.2407354438553
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "1NXIN-Hbjl5rPy_mqxQYW",
+                      "type":  "topic",
+                      "label":  "Creating MCP Servers",
+                      "position":  {
+                                       "x":  -103.7455305579661,
+                                       "y":  1731.2407354438553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CppUUpbDy6j0_wjd94qgO",
+                      "type":  "label",
+                      "label":  "Deployment Modes",
+                      "position":  {
+                                       "x":  -71.7455305579661,
+                                       "y":  1833.6702232480886
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "iBtJp24F_kJE3YlBsW60s",
+                      "type":  "subtopic",
+                      "label":  "Local Desktop",
+                      "position":  {
+                                       "x":  -91.2455305579661,
+                                       "y":  1878.6163326459773
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dHNMX3_t1KSDdAWqgdJXv",
+                      "type":  "subtopic",
+                      "label":  "Remote / Cloud",
+                      "position":  {
+                                       "x":  -91.2455305579661,
+                                       "y":  1931.6163326459773
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8ym1jwJfLUnj4uimn5HFR",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  125.2544694420339,
+                                       "y":  1938.900354280238
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t1SqlX1PhIL2cTc0h4fXQ",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  467.3290815371215,
+                                       "y":  1938.900354280238
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qwdh5pkBbrF8LKPxbZp4F",
+                      "type":  "topic",
+                      "label":  "Chain of Thought (CoT)",
+                      "position":  {
+                                       "x":  251.36750909294227,
+                                       "y":  1252.9971007581694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cW8O4vLLKEG-Q0dE8E5Zp",
+                      "type":  "topic",
+                      "label":  "RAG Agent",
+                      "position":  {
+                                       "x":  281.97614503814657,
+                                       "y":  2268.4170226331694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QKXjaGohaNwhuqqwb-z6b",
+                      "type":  "label",
+                      "label":  "Common Architectures",
+                      "position":  {
+                                       "x":  301.97614503814657,
+                                       "y":  2226.4170226331694
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "6YLCMWzystao6byCYCTPO",
+                      "type":  "topic",
+                      "label":  "Planner Executor",
+                      "position":  {
+                                       "x":  281.97614503814657,
+                                       "y":  2374.4170226331694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ep8RoZSy_Iq_zWXlGQLZo",
+                      "type":  "topic",
+                      "label":  "DAG Agents",
+                      "position":  {
+                                       "x":  281.97614503814657,
+                                       "y":  2427.4170226331694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Nmy1PoB32DcWZnPM8l8jT",
+                      "type":  "topic",
+                      "label":  "Tree-of-Thought",
+                      "position":  {
+                                       "x":  250.86750909294227,
+                                       "y":  1160.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yaxVwWPeb7mHPZrXaNusP",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  527.9761450381466,
+                                       "y":  2260.410569685858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7c-FMXWsMGv95vxnUydFi",
+                      "type":  "paragraph",
+                      "label":  "Building Agents",
+                      "position":  {
+                                       "x":  641.80929781038,
+                                       "y":  2341.870720452855
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_w42GbQza-Qu1EDLbA83S",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  739.80929781038,
+                                       "y":  2270.410569685858
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "US6T5dXM8IY9V2qZnTOFW",
+                      "type":  "topic",
+                      "label":  "Manual (from scratch)",
+                      "position":  {
+                                       "x":  600.30929781038,
+                                       "y":  2453.212822960118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nHkXoJFoyDHcO3E4FhsGK",
+                      "type":  "label",
+                      "label":  "Direct LLM API calls",
+                      "position":  {
+                                       "x":  624.86544847935,
+                                       "y":  2514.322480617088
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ox0SIl1qDY1MdNEa3Zcdh",
+                      "type":  "label",
+                      "label":  "Implementing the agent loop",
+                      "position":  {
+                                       "x":  624.86544847935,
+                                       "y":  2544.322480617088
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "mVoZRlCcJcGCVRnGHbsWD",
+                      "type":  "label",
+                      "label":  "Parsing model output",
+                      "position":  {
+                                       "x":  624.86544847935,
+                                       "y":  2574.322480617088
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PUGICZOvB0H0EWwwUlusF",
+                      "type":  "label",
+                      "label":  "Error \u0026 Rate-limit handling",
+                      "position":  {
+                                       "x":  624.86544847935,
+                                       "y":  2604.322480617088
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "aafZxtjxiwzJH1lwHBODi",
+                      "type":  "topic",
+                      "label":  "LLM Native \"Function Calling\"",
+                      "position":  {
+                                       "x":  600.30929781038,
+                                       "y":  2695.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AQtxTTxmBpfl8BMgJbGzc",
+                      "type":  "subtopic",
+                      "label":  "OpenAI Functions Calling",
+                      "position":  {
+                                       "x":  600.30929781038,
+                                       "y":  2777.8580866298494
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_iIsBJTVS6OBf_dsdmbVO",
+                      "type":  "subtopic",
+                      "label":  "Gemini Function Calling",
+                      "position":  {
+                                       "x":  600.30929781038,
+                                       "y":  2891.8580866298494
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "37GBFVZ2J2d5r8bd1ViHq",
+                      "type":  "subtopic",
+                      "label":  "OpenAI Assistant API",
+                      "position":  {
+                                       "x":  600.30929781038,
+                                       "y":  2834.8580866298494
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VVFomJWwR-bvPRsiLmbiV",
+                      "type":  "label",
+                      "label":  "Building Using Frameworks",
+                      "position":  {
+                                       "x":  283.97614503814657,
+                                       "y":  2714.92394018722
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ka6VpCEnqABvwiF9vba7t",
+                      "type":  "subtopic",
+                      "label":  "LangChain",
+                      "position":  {
+                                       "x":  276.97614503814657,
+                                       "y":  2763.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iEHF-Jm3ck-Iu85EbCoDi",
+                      "type":  "subtopic",
+                      "label":  "LlamaIndex",
+                      "position":  {
+                                       "x":  393.47614503814657,
+                                       "y":  2816.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XS-FsvtrXGZ8DPrwOsnlI",
+                      "type":  "subtopic",
+                      "label":  "Haystack",
+                      "position":  {
+                                       "x":  276.97614503814657,
+                                       "y":  2816.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7YtnQ9-KIvGPSpDzEDexl",
+                      "type":  "subtopic",
+                      "label":  "AutoGen",
+                      "position":  {
+                                       "x":  393.47614503814657,
+                                       "y":  2869.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uFPJqgU4qGvZyxTv-osZA",
+                      "type":  "subtopic",
+                      "label":  "CrewAI",
+                      "position":  {
+                                       "x":  276.97614503814657,
+                                       "y":  2869.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eWxQiBrxIUG2JNcrdfIHS",
+                      "type":  "subtopic",
+                      "label":  "Smol Depot",
+                      "position":  {
+                                       "x":  276.97614503814657,
+                                       "y":  2922.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1EZFbDHA5J5_5BPMLMxXb",
+                      "type":  "subtopic",
+                      "label":  "Anthropic Tool Use",
+                      "position":  {
+                                       "x":  600.30929781038,
+                                       "y":  2948.8580866298494
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y3Km7Dc3FidoKtF7cnTfR",
+                      "type":  "label",
+                      "label":  "Evaluation and Testing",
+                      "position":  {
+                                       "x":  -74.7455305579661,
+                                       "y":  2422.870720452855
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "v8qLnyFRnEumodBYxQSXQ",
+                      "type":  "subtopic",
+                      "label":  "Metrics to Track",
+                      "position":  {
+                                       "x":  -121.7455305579661,
+                                       "y":  2463.550271236641
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qo_O4YAe4-MTP_ZJoXJHR",
+                      "type":  "subtopic",
+                      "label":  "Unit Testing for Individual Tools",
+                      "position":  {
+                                       "x":  -121.7455305579661,
+                                       "y":  2516.550271236641
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P9-SiIda3TSjHsfkI5OUV",
+                      "type":  "subtopic",
+                      "label":  "Integration Testing for Flows",
+                      "position":  {
+                                       "x":  -121.7455305579661,
+                                       "y":  2569.550271236641
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rHxdxN97ZcU7MPl8L1jzN",
+                      "type":  "subtopic",
+                      "label":  "Human in the Loop Evaluation",
+                      "position":  {
+                                       "x":  -121.7455305579661,
+                                       "y":  2622.550271236641
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xp7TCTRE9HP60_rGzTUF6",
+                      "type":  "subtopic",
+                      "label":  "LangSmith",
+                      "position":  {
+                                       "x":  -124.32279103658766,
+                                       "y":  2717.42394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YzEDtGEaMaMWVt0W03HRt",
+                      "type":  "subtopic",
+                      "label":  "Ragas",
+                      "position":  {
+                                       "x":  -124.32279103658766,
+                                       "y":  2770.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0924QUH1wV7Mp-Xu0FAhF",
+                      "type":  "subtopic",
+                      "label":  "DeepEval",
+                      "position":  {
+                                       "x":  26.306930530664715,
+                                       "y":  2717.42394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OxRCEi7olEsHcBZ7oVfLl",
+                      "type":  "label",
+                      "label":  "Frameworks",
+                      "position":  {
+                                       "x":  -36.32279103658766,
+                                       "y":  2677.322480617088
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zs6LM8WEnb0ERWpiaQCgc",
+                      "type":  "subtopic",
+                      "label":  "Structured logging \u0026 tracing",
+                      "position":  {
+                                       "x":  -123.5097055754202,
+                                       "y":  2890.5001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P5D6O9GmDjENsvNStJcEC",
+                      "type":  "label",
+                      "label":  "Debugging and Monitoring",
+                      "position":  {
+                                       "x":  -91.5097055754202,
+                                       "y":  2842.434279994293
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PsMoyCyhXdYIIgTK4mduG",
+                      "type":  "label",
+                      "label":  "Observability Tools",
+                      "position":  {
+                                       "x":  -60.009705575420185,
+                                       "y":  2945.0001335516636
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "SS8mGqf9wfrNqenIWvN8Z",
+                      "type":  "subtopic",
+                      "label":  "LangSmith",
+                      "position":  {
+                                       "x":  -122.73444959728216,
+                                       "y":  2988.0001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MLxP5N0Vrmwh-kyvNeGXn",
+                      "type":  "subtopic",
+                      "label":  "Helicone",
+                      "position":  {
+                                       "x":  20.507919061606035,
+                                       "y":  2988.0001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UoIheaJlShiceafrWALEH",
+                      "type":  "subtopic",
+                      "label":  "LangFuse",
+                      "position":  {
+                                       "x":  -122.73444959728216,
+                                       "y":  3042.0001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7UqPXUzqKYXklnB3x-tsv",
+                      "type":  "subtopic",
+                      "label":  "openllmetry",
+                      "position":  {
+                                       "x":  20.507919061606035,
+                                       "y":  3042.0001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZczxILvJ8ZVlaNd887lS5",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  169.48246683384076,
+                                       "y":  2710.42394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8Fk3qNFO_5UNxJDGDDCc8",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  170.99167975847877,
+                                       "y":  3046.5001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AZGZKUelTu9A0VbpnsrnN",
+                      "type":  "paragraph",
+                      "label":  "Security \u0026 Ethics",
+                      "position":  {
+                                       "x":  287.47614503814657,
+                                       "y":  3034.5001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "41n1zuSz7Ur8Zq0GcmQ9y",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  498.86750909294227,
+                                       "y":  3046.5001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SU2RuicMUo8tiAsQtDI1k",
+                      "type":  "topic",
+                      "label":  "Prompt Injection / Jailbreaks",
+                      "position":  {
+                                       "x":  602.30929781038,
+                                       "y":  3097.0001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UVzLGXG6K7HQVHmw8ZAv2",
+                      "type":  "topic",
+                      "label":  "Tool sandboxing / Permissioning",
+                      "position":  {
+                                       "x":  602.30929781038,
+                                       "y":  3149.7501335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rdlYBJNNyZUshzsJawME4",
+                      "type":  "topic",
+                      "label":  "Data Privacy + PII Redaction",
+                      "position":  {
+                                       "x":  604.30929781038,
+                                       "y":  3202.5001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EyLo2j8IQsIK91SKaXkmK",
+                      "type":  "topic",
+                      "label":  "Bias \u0026 Toxicity Guardrails",
+                      "position":  {
+                                       "x":  604.30929781038,
+                                       "y":  3255.2501335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "63nsfJFO1BwjLX_ZVaPFC",
+                      "type":  "topic",
+                      "label":  "Safety + Red Team Testing",
+                      "position":  {
+                                       "x":  604.30929781038,
+                                       "y":  3308.0001335516636
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-sFboM4eFUMVq1tlPl-fV",
+                      "type":  "button",
+                      "label":  "AI \u0026 Data Scientist",
+                      "position":  {
+                                       "x":  212.99392181540966,
+                                       "y":  3300.7409891427583
+                                   },
+                      "href":  "https://roadmap.sh/ai-data-scientist",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  532.9875094817702,
+                                       "y":  -141.85100803111834
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  546.6120216950133,
+                                       "y":  -60.23744615553062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PY5WTJgRnXiYeOM6BBUvn",
+                      "type":  "subtopic",
+                      "label":  "Agno",
+                      "position":  {
+                                       "x":  415.97614503814657,
+                                       "y":  2922.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O53AvUSRB5SI6hhwKxniL",
+                      "type":  "subtopic",
+                      "label":  "LangGraph",
+                      "position":  {
+                                       "x":  391.97614503814657,
+                                       "y":  2763.92394018722
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hBW8-z72NcETDn_cearYc",
+                      "type":  "subtopic",
+                      "label":  "Self-critique Agents",
+                      "position":  {
+                                       "x":  281.97614503814657,
+                                       "y":  2533.4170226331694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FjAYD6ZhAuPcS6gbvBBtE",
+                      "type":  "subtopic",
+                      "label":  "Multi-Agents",
+                      "position":  {
+                                       "x":  281.97614503814657,
+                                       "y":  2480.4170226331694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zBKg9pM-fLF3Yfw4zPrll",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  483.48246683384076,
+                                       "y":  1110.4853170279125
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__VPI89s-m885r2YrXjYxddz2-Ynvi5skgC85lgm96V_p42y1",
+                      "source":  "VPI89s-m885r2YrXjYxdd",
+                      "target":  "amfuroaEeP1sqhvPN-jgO",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__McREk2zHOlIrqbGSKbX-Jz2-Ynvi5skgC85lgm96V_p42y1",
+                      "source":  "McREk2zHOlIrqbGSKbX-J",
+                      "target":  "kA1ggkT-2KI0cEdd3rIcM",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__QtTwecLdvQa8pgELJ6i80z2-Ynvi5skgC85lgm96V_p42y1",
+                      "source":  "QtTwecLdvQa8pgELJ6i80",
+                      "target":  "Ynvi5skgC85lgm96V_p42",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__QtTwecLdvQa8pgELJ6i80x2-eeU25xBGXtFFisDckfn31w1",
+                      "source":  "QtTwecLdvQa8pgELJ6i80",
+                      "target":  "eeU25xBGXtFFisDckfn31",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__eeU25xBGXtFFisDckfn31z2-ZF5_5Y5zqa75Ov22JACX6y2",
+                      "source":  "eeU25xBGXtFFisDckfn31",
+                      "target":  "ZF5_5Y5zqa75Ov22JACX6",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__Ji35JsKgUQXN4DJGEgTACx2-imzXXZPt8wNny1oe3-MeNw1",
+                      "source":  "Ji35JsKgUQXN4DJGEgTAC",
+                      "target":  "imzXXZPt8wNny1oe3-MeN",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__X8W7EWSJxYiY50sEs38fow2-tJYmEDDwK0LtEux-kwp9Bx1",
+                      "source":  "X8W7EWSJxYiY50sEs38fo",
+                      "target":  "tJYmEDDwK0LtEux-kwp9B",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__X8W7EWSJxYiY50sEs38foy2-7-EqPC6VDTiFn8DfM7V63z2",
+                      "source":  "X8W7EWSJxYiY50sEs38fo",
+                      "target":  "7-EqPC6VDTiFn8DfM7V63",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__7-EqPC6VDTiFn8DfM7V63w2-B8dzg61TGaknuruBgkEJdx1",
+                      "source":  "7-EqPC6VDTiFn8DfM7V63",
+                      "target":  "B8dzg61TGaknuruBgkEJd",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__7-EqPC6VDTiFn8DfM7V63x2-THJQQuiCmKGayd6EdcX9ow1",
+                      "source":  "7-EqPC6VDTiFn8DfM7V63",
+                      "target":  "THJQQuiCmKGayd6EdcX9o",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__THJQQuiCmKGayd6EdcX9ox2-aFZAm44nP5NefX_9TpT0Aw1",
+                      "source":  "THJQQuiCmKGayd6EdcX9o",
+                      "target":  "aFZAm44nP5NefX_9TpT0A",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__2zsOUWJQ8e7wnoHmq1icGz2-Eih4eybuYB3C2So8K0AT3y2",
+                      "source":  "2zsOUWJQ8e7wnoHmq1icG",
+                      "target":  "Eih4eybuYB3C2So8K0AT3",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__Eih4eybuYB3C2So8K0AT3w2-ZJTrun3jK3zBGOTm1jdMIx2",
+                      "source":  "Eih4eybuYB3C2So8K0AT3",
+                      "target":  "ZJTrun3jK3zBGOTm1jdMI",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__tyjeFUjjTGFVXRLOe1Oh1y2-Y8EqzFx3qxtrSh7bWbbV8z1",
+                      "source":  "tyjeFUjjTGFVXRLOe1Oh1",
+                      "target":  "Y8EqzFx3qxtrSh7bWbbV8",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__Y8EqzFx3qxtrSh7bWbbV8x2-v-zVQKH6XEMCI4Np-Q3Jow1",
+                      "source":  "Y8EqzFx3qxtrSh7bWbbV8",
+                      "target":  "v-zVQKH6XEMCI4Np-Q3Jo",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__nlVToD-pmbBV2ikgrCQiOx2-qakbxB8xe7Y8gejC5cZnKw1",
+                      "source":  "nlVToD-pmbBV2ikgrCQiO",
+                      "target":  "qakbxB8xe7Y8gejC5cZnK",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__1B0IqRNYdtbHDi1jHSXuIx2-K2ueUkBcV5ASMhHUUZH-Aw2",
+                      "source":  "1B0IqRNYdtbHDi1jHSXuI",
+                      "target":  "K2ueUkBcV5ASMhHUUZH-A",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__1NXIN-Hbjl5rPy_mqxQYWx2-qLO_DcIM2OY_i8njSIt1qw1",
+                      "source":  "1NXIN-Hbjl5rPy_mqxQYW",
+                      "target":  "qLO_DcIM2OY_i8njSIt1q",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__T2vksVGCRajcwy_WRe2Yfz2-SU8HwGaDiRCho5I_pBl3Ny1",
+                      "source":  "T2vksVGCRajcwy_WRe2Yf",
+                      "target":  "SU8HwGaDiRCho5I_pBl3N",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__SU8HwGaDiRCho5I_pBl3Nx2--MLEtjuRq9y1HpZeKJCtsw1",
+                      "source":  "SU8HwGaDiRCho5I_pBl3N",
+                      "target":  "-MLEtjuRq9y1HpZeKJCts",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__7c-FMXWsMGv95vxnUydFix2-US6T5dXM8IY9V2qZnTOFWw1",
+                      "source":  "7c-FMXWsMGv95vxnUydFi",
+                      "target":  "US6T5dXM8IY9V2qZnTOFW",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__MeOebqpbLZkPbj0iWRjP2x2-aafZxtjxiwzJH1lwHBODiw1",
+                      "source":  "MeOebqpbLZkPbj0iWRjP2",
+                      "target":  "aafZxtjxiwzJH1lwHBODi",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__aafZxtjxiwzJH1lwHBODix2-1EZFbDHA5J5_5BPMLMxXbw1",
+                      "source":  "aafZxtjxiwzJH1lwHBODi",
+                      "target":  "AQtxTTxmBpfl8BMgJbGzc",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__qwdh5pkBbrF8LKPxbZp4Fw2-Nmy1PoB32DcWZnPM8l8jTx2",
+                      "source":  "qwdh5pkBbrF8LKPxbZp4F",
+                      "target":  "Nmy1PoB32DcWZnPM8l8jT",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__nlVToD-pmbBV2ikgrCQiOw2-qwdh5pkBbrF8LKPxbZp4Fx2",
+                      "source":  "nlVToD-pmbBV2ikgrCQiO",
+                      "target":  "qwdh5pkBbrF8LKPxbZp4F",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  }
+              ]
+}

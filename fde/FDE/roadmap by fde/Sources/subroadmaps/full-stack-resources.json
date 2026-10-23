@@ -1,0 +1,1639 @@
+[
+    {
+        "id":  "B0kARTODvCBi0iOF8iiqI",
+        "label":  "HTML",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@B0kARTODvCBi0iOF8iiqI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated HTML Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/html"
+                          },
+                          {
+                              "title":  "HTML Full Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://youtu.be/mJgBOIoGihA"
+                          },
+                          {
+                              "title":  "HTML Full Course - Build a Website Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6a10b41ba95e0d5c68dede2f",
+                                "title":  "HTML Fundamentals",
+                                "slug":  "html",
+                                "description":  "Enough HTML to read, write, inspect, and understand real web pages.",
+                                "lessonIds":  [
+                                                  "6a0da437a95e0d5c68ded033",
+                                                  "6a0ef00da95e0d5c68ded162",
+                                                  "6a0f1366a95e0d5c68ded2b4",
+                                                  "6a0f2262a95e0d5c68ded32a",
+                                                  "6a0f33e7a95e0d5c68ded463",
+                                                  "6a102d2fa95e0d5c68ded758",
+                                                  "6a106a2ba95e0d5c68deda00",
+                                                  "6a107b29a95e0d5c68deda53"
+                                              ],
+                                "projectIds":  [
+                                                   "68b7185fffbff9183d772aea",
+                                                   "68b7185fffbff9183d772aeb",
+                                                   "6a1485bfac1c5fa9928a2087",
+                                                   "6a1485c5ac1c5fa9928a2093",
+                                                   "6a1485cbac1c5fa9928a2099",
+                                                   "6a1485d1ac1c5fa9928a20a4"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  58,
+                                "lessonCount":  8,
+                                "quizCount":  0,
+                                "projectCount":  6
+                            }
+                        ]
+    },
+    {
+        "id":  "dAJHWmGeiYdzZ1ZjrWz1S",
+        "label":  "CSS",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@dAJHWmGeiYdzZ1ZjrWz1S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated CSS Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/css"
+                          },
+                          {
+                              "title":  "Web.dev by Google — Learn CSS",
+                              "type":  "article",
+                              "url":  "https://web.dev/learn/css/"
+                          },
+                          {
+                              "title":  "CSS Complete Course",
+                              "type":  "video",
+                              "url":  "https://youtu.be/n4R2E7O-Ngo"
+                          },
+                          {
+                              "title":  "HTML and CSS Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=D-h8L5hgW-w"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6a22adddac1c5fa9928ab3ab",
+                                "title":  "CSS Fundamentals",
+                                "slug":  "css",
+                                "description":  "Style, lay out, and debug real pages without fighting the cascade.",
+                                "lessonIds":  [
+                                                  "6a15d62fac1c5fa9928a3fb6",
+                                                  "6a15e1b0ac1c5fa9928a403f",
+                                                  "6a16f11aac1c5fa9928a7c14",
+                                                  "6a19dcdfac1c5fa9928a84a5",
+                                                  "6a19e79cac1c5fa9928a8571",
+                                                  "6a19f85cac1c5fa9928a8654",
+                                                  "6a1d7a23ac1c5fa9928a8b4e",
+                                                  "6a1dd2daac1c5fa9928a9884",
+                                                  "6a1ecf18ac1c5fa9928a9a81",
+                                                  "6a1f3245ac1c5fa9928a9cdd",
+                                                  "6a20aa64ac1c5fa9928aa44a",
+                                                  "6a20ba69ac1c5fa9928aa755",
+                                                  "6a20c105ac1c5fa9928aa818",
+                                                  "6a20c2e5ac1c5fa9928aa847",
+                                                  "6a20c490ac1c5fa9928aa871",
+                                                  "6a20c5adac1c5fa9928aa884",
+                                                  "6a20c6a5ac1c5fa9928aa897",
+                                                  "6a20c7c5ac1c5fa9928aa8aa",
+                                                  "6a20ca2fac1c5fa9928aa8d0",
+                                                  "6a20cb82ac1c5fa9928aa8e3"
+                                              ],
+                                "projectIds":  [
+                                                   "68b7185fffbff9183d772aed",
+                                                   "68b7185fffbff9183d772aee",
+                                                   "68b7185fffbff9183d772af0",
+                                                   "68b7185fffbff9183d772af6",
+                                                   "6a26960eac1c5fa9928acb63",
+                                                   "6a26b431ac1c5fa9928acefa"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  174,
+                                "lessonCount":  20,
+                                "quizCount":  0,
+                                "projectCount":  6
+                            }
+                        ]
+    },
+    {
+        "id":  "T9PB6WQf-Fa9NXKKvVOy_",
+        "label":  "JavaScript",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@T9PB6WQf-Fa9NXKKvVOy_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated JavaScript Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/javascript"
+                          },
+                          {
+                              "title":  "The Modern JavaScript Tutorial",
+                              "type":  "article",
+                              "url":  "https://javascript.info/"
+                          },
+                          {
+                              "title":  "Build 30 Javascript projects in 30 days",
+                              "type":  "article",
+                              "url":  "https://javascript30.com/"
+                          },
+                          {
+                              "title":  "JavaScript Crash Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://youtu.be/hdI2bqOjy3c?t=2"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6a2aca8ed5b55a91aab11124",
+                                "title":  "JavaScript Foundations",
+                                "slug":  "javascript-foundations",
+                                "description":  "The JavaScript you need before Node.js, frontend frameworks, APIs, and CLI apps.",
+                                "lessonIds":  [
+                                                  "6a27367ad5b55a91aab0e0cc",
+                                                  "6a273f65d5b55a91aab0e124",
+                                                  "6a27f0dad5b55a91aab0e2a9",
+                                                  "6a27ff2ed5b55a91aab0e378",
+                                                  "6a280307d5b55a91aab0e3df",
+                                                  "6a281cbfd5b55a91aab0e47b",
+                                                  "6a2889f2d5b55a91aab0e7b2",
+                                                  "6a294dfed5b55a91aab0e974",
+                                                  "6a2965e0d5b55a91aab0f351",
+                                                  "6a296e77d5b55a91aab0f382",
+                                                  "6a2976e4d5b55a91aab0f66a",
+                                                  "6a297985d5b55a91aab0f90c",
+                                                  "6a297c52d5b55a91aab0fc67",
+                                                  "6a29cb66d5b55a91aab10c0c",
+                                                  "6a2ac002d5b55a91aab10e48"
+                                              ],
+                                "projectIds":  [
+                                                   "6a2c214a2204ffbc59e58d7b",
+                                                   "6a2c214b2204ffbc59e58d85",
+                                                   "6a2c214c2204ffbc59e58d8f",
+                                                   "6a2c214d2204ffbc59e58d99",
+                                                   "6a2c214e2204ffbc59e58da3",
+                                                   "6a2c214f2204ffbc59e58dad",
+                                                   "6a2c21502204ffbc59e58db7",
+                                                   "6a2c21512204ffbc59e58dc1",
+                                                   "6a2c21532204ffbc59e58dcb",
+                                                   "6a2c21542204ffbc59e58dd5",
+                                                   "6a2c21552204ffbc59e58ddf",
+                                                   "6a2c21562204ffbc59e58de9",
+                                                   "6a2c21572204ffbc59e58df3",
+                                                   "6a2c21582204ffbc59e58dfd",
+                                                   "6a2c215a2204ffbc59e58e07"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  118,
+                                "lessonCount":  15,
+                                "quizCount":  0,
+                                "projectCount":  15
+                            }
+                        ]
+    },
+    {
+        "id":  "mGgx_QTEPmVKf6AijX9fi",
+        "label":  "npm",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@mGgx_QTEPmVKf6AijX9fi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to NPM",
+                              "type":  "opensource",
+                              "url":  "https://github.com/workshopper/how-to-npm"
+                          },
+                          {
+                              "title":  "Modern JavaScript for Dinosaurs",
+                              "type":  "article",
+                              "url":  "https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html"
+                          },
+                          {
+                              "title":  "An Absolute Beginners Guide to Using npm",
+                              "type":  "article",
+                              "url":  "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/"
+                          },
+                          {
+                              "title":  "NPM Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jHDhaSSKmB0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WsdUAEaI7FX6DKKhPXUHp",
+        "label":  "Checkpoint - Static Webpages",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@WsdUAEaI7FX6DKKhPXUHp.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "simple blog design in figma",
+                                "type":  "inline",
+                                "url":  "https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?type=design\u0026node-id=0%3A1\u0026t=2iQplaIojU3ydAfW-1"
+                            },
+                            {
+                                "title":  "webpages of this website",
+                                "type":  "inline",
+                                "url":  "https://cs.fyi/"
+                            },
+                            {
+                                "title":  "personal portfolios of others",
+                                "type":  "inline",
+                                "url":  "https://astro.build/showcase/"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2DFzoIUjKdAKGjfu_SCfa",
+        "label":  "Checkpoint - Interactivity",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@2DFzoIUjKdAKGjfu_SCfa.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "sample URL to fetch my data",
+                                "type":  "inline",
+                                "url":  "https://api.github.com/users/nilbuild"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "We2APJpOPTr-VNfowG0kI",
+        "label":  "Git",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@We2APJpOPTr-VNfowG0kI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Git \u0026 GitHub Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/git-github"
+                          },
+                          {
+                              "title":  "Why use Git? (Interactive Lesson)",
+                              "type":  "course",
+                              "url":  "https://inter-git.com/lessons/introduction"
+                          },
+                          {
+                              "title":  "Tutorial: Git for Absolutely Everyone",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/tutorial-git-for-absolutely-everyone/"
+                          },
+                          {
+                              "title":  "Git \u0026 GitHub Crash Course For Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=SWYqp7iY_Tc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "8sPXL8iClpPqje03ksses",
+        "label":  "GitHub",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@8sPXL8iClpPqje03ksses.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.github.com/en/get-started/quickstart"
+                          },
+                          {
+                              "title":  "How to Use Git in a Professional Dev Team",
+                              "type":  "article",
+                              "url":  "https://ooloo.io/project/github-flow"
+                          },
+                          {
+                              "title":  "Git vs. GitHub: What\u0027s the difference?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=wpISo9TNjfU"
+                          },
+                          {
+                              "title":  "Git and GitHub for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RGOj5yH7evk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "R4aeJNOrfWyVp3ea-qF4H",
+        "label":  "Checkpoint - External Packages",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@R4aeJNOrfWyVp3ea-qF4H.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "npmjs.com",
+                                "type":  "inline",
+                                "url":  "https://npmjs.com/"
+                            },
+                            {
+                                "title":  "dayjs",
+                                "type":  "inline",
+                                "url":  "https://day.js.org/"
+                            },
+                            {
+                                "title":  "sample design for homepage",
+                                "type":  "inline",
+                                "url":  "https://i.imgur.com/yGIMGkr.png"
+                            },
+                            {
+                                "title":  "micromodal",
+                                "type":  "inline",
+                                "url":  "https://micromodal.vercel.app/#introduction"
+                            },
+                            {
+                                "title":  "sample design for the modal",
+                                "type":  "inline",
+                                "url":  "https://imgur.com/a/vFY6Sdl"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CVCqdPkq_hGQfI8EEi5RC",
+        "label":  "Tailwind CSS",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@CVCqdPkq_hGQfI8EEi5RC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tailwind CSS",
+                              "type":  "official",
+                              "url":  "https://tailwindcss.com"
+                          },
+                          {
+                              "title":  "Tailwind CSS Full Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lCxcTsOHrjo"
+                          },
+                          {
+                              "title":  "Tailwind CSS Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UBOj6rqRUME"
+                          },
+                          {
+                              "title":  "Should You Use Tailwind CSS?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hdGsFpZ0J2E"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "khoUtTUxdf8udAzN9_CAb",
+        "label":  "React",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@khoUtTUxdf8udAzN9_CAb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated React Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/react"
+                          },
+                          {
+                              "title":  "Getting Started with React",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/tutorial-tic-tac-toe"
+                          },
+                          {
+                              "title":  "React JS Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nTeuhbP7wdE"
+                          },
+                          {
+                              "title":  "React Course - Beginners Tutorial for React",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bMknfKXIFA8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zFGWxgLPcZoW7KIzlnSV9",
+        "label":  "Checkpoint - Collaborative Work",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@zFGWxgLPcZoW7KIzlnSV9.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "choosealicense.com",
+                                "type":  "inline",
+                                "url":  "https://choosealicense.com/"
+                            },
+                            {
+                                "title":  "my GitHub profile",
+                                "type":  "inline",
+                                "url":  "https://github.com/nilbuild"
+                            },
+                            {
+                                "title":  "some of my readme files look like",
+                                "type":  "inline",
+                                "url":  "https://github.com/nilbuild/aws-cost-cli"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7JU1cVggMDoZUV-adGsf-",
+        "label":  "Checkpoint - Frontend Apps",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@7JU1cVggMDoZUV-adGsf-.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "frontend roadmap",
+                                "type":  "inline",
+                                "url":  "/frontend"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_aA6Hp4KkgJeptqo8oKTg",
+        "label":  "Node.js",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@_aA6Hp4KkgJeptqo8oKTg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Node.js Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/nodejs"
+                          },
+                          {
+                              "title":  "Node.js Website",
+                              "type":  "official",
+                              "url":  "https://nodejs.org/en/about/"
+                          },
+                          {
+                              "title":  "Learn Node.js Official Website",
+                              "type":  "official",
+                              "url":  "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"
+                          },
+                          {
+                              "title":  "Node.js and Express.js Full Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Oe421EPjeBE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              },
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6a2aca8ed5b55a91aab11124",
+                                "title":  "JavaScript Foundations",
+                                "slug":  "javascript-foundations",
+                                "description":  "The JavaScript you need before Node.js, frontend frameworks, APIs, and CLI apps.",
+                                "lessonIds":  [
+                                                  "6a27367ad5b55a91aab0e0cc",
+                                                  "6a273f65d5b55a91aab0e124",
+                                                  "6a27f0dad5b55a91aab0e2a9",
+                                                  "6a27ff2ed5b55a91aab0e378",
+                                                  "6a280307d5b55a91aab0e3df",
+                                                  "6a281cbfd5b55a91aab0e47b",
+                                                  "6a2889f2d5b55a91aab0e7b2",
+                                                  "6a294dfed5b55a91aab0e974",
+                                                  "6a2965e0d5b55a91aab0f351",
+                                                  "6a296e77d5b55a91aab0f382",
+                                                  "6a2976e4d5b55a91aab0f66a",
+                                                  "6a297985d5b55a91aab0f90c",
+                                                  "6a297c52d5b55a91aab0fc67",
+                                                  "6a29cb66d5b55a91aab10c0c",
+                                                  "6a2ac002d5b55a91aab10e48"
+                                              ],
+                                "projectIds":  [
+                                                   "6a2c214a2204ffbc59e58d7b",
+                                                   "6a2c214b2204ffbc59e58d85",
+                                                   "6a2c214c2204ffbc59e58d8f",
+                                                   "6a2c214d2204ffbc59e58d99",
+                                                   "6a2c214e2204ffbc59e58da3",
+                                                   "6a2c214f2204ffbc59e58dad",
+                                                   "6a2c21502204ffbc59e58db7",
+                                                   "6a2c21512204ffbc59e58dc1",
+                                                   "6a2c21532204ffbc59e58dcb",
+                                                   "6a2c21542204ffbc59e58dd5",
+                                                   "6a2c21552204ffbc59e58ddf",
+                                                   "6a2c21562204ffbc59e58de9",
+                                                   "6a2c21572204ffbc59e58df3",
+                                                   "6a2c21582204ffbc59e58dfd",
+                                                   "6a2c215a2204ffbc59e58e07"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  118,
+                                "lessonCount":  15,
+                                "quizCount":  0,
+                                "projectCount":  15
+                            },
+                            {
+                                "_id":  "6a43b8c73121943999cfb3be",
+                                "title":  "Build CLI Apps with Node.js",
+                                "slug":  "build-cli-apps-with-nodejs",
+                                "description":  "Learn how to build practical CLI apps with Node.js and npm",
+                                "lessonIds":  [
+                                                  "6a32bbf543b548b57e937f4e",
+                                                  "6a39ac8fb1fa196058c95e74",
+                                                  "6a39b5c5b1fa196058c95efc",
+                                                  "6a3a79bdb1fa196058c9600e",
+                                                  "6a3a7d85b1fa196058c96044",
+                                                  "6a3abf1fb1fa196058c96207",
+                                                  "6a3bbb84b1fa196058c96468",
+                                                  "6a3bc345b1fa196058c96532",
+                                                  "6a3bcacab1fa196058c9659b",
+                                                  "6a3bceceb1fa196058c965ee",
+                                                  "6a3bd0b5b1fa196058c9660c",
+                                                  "6a3bd373b1fa196058c96637",
+                                                  "6a3bdb4fb1fa196058c96694",
+                                                  "6a3be8c2b1fa196058c966ce",
+                                                  "6a3bf173b1fa196058c96792",
+                                                  "6a3bf683b1fa196058c967fd",
+                                                  "6a3bfc82b1fa196058c9688a",
+                                                  "6a3d37f9b1fa196058c97213",
+                                                  "6a3d3cc0b1fa196058c97532",
+                                                  "6a3d42ecb096345546c4a0a5",
+                                                  "6a3d4dc7b096345546c4a0dc"
+                                              ],
+                                "projectIds":  [
+                                                   "6a43f19e3121943999cfb5ab",
+                                                   "6a43f19f3121943999cfb5b0",
+                                                   "6a43f19f3121943999cfb5b5",
+                                                   "6a43f1a03121943999cfb5ba",
+                                                   "6a43f1a03121943999cfb5bf",
+                                                   "68b7185fffbff9183d772b25",
+                                                   "68b7185fffbff9183d772b27",
+                                                   "68b7185fffbff9183d772b2f",
+                                                   "68b7185fffbff9183d772b37"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  164,
+                                "lessonCount":  21,
+                                "quizCount":  0,
+                                "projectCount":  9
+                            }
+                        ]
+    },
+    {
+        "id":  "JGu0TKwAw-ieiG92BytYI",
+        "label":  "Checkpoint — CLI Apps",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@JGu0TKwAw-ieiG92BytYI.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "cheerio",
+                                "type":  "inline",
+                                "url":  "https://github.com/cheeriojs/cheerio"
+                            },
+                            {
+                                "title":  "GitHub\u0027s search API",
+                                "type":  "inline",
+                                "url":  "https://developer.github.com/v3/search/#search-repositories"
+                            },
+                            {
+                                "title":  "fs",
+                                "type":  "inline",
+                                "url":  "https://nodejs.org/api/fs.html"
+                            },
+                            {
+                                "title":  "path",
+                                "type":  "inline",
+                                "url":  "https://nodejs.org/api/path.html"
+                            },
+                            {
+                                "title":  "sharp",
+                                "type":  "inline",
+                                "url":  "https://github.com/lovell/sharp"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vmHbWdmMHF53otXIrqzRV",
+        "label":  "RESTful APIs",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@vmHbWdmMHF53otXIrqzRV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated API Design Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/api-design"
+                          },
+                          {
+                              "title":  "What is a REST API?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/api/what-is-a-rest-api"
+                          },
+                          {
+                              "title":  "Learn REST: A RESTful Tutorial",
+                              "type":  "article",
+                              "url":  "https://restapitutorial.com/"
+                          },
+                          {
+                              "title":  "What Is A RESTful API? Explanation of REST \u0026 HTTP",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Q-BpqyOT3a8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3EtGLO6cwkLc1-o9gwFNk",
+        "label":  "Checkpoint — Simple CRUD Apps",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@3EtGLO6cwkLc1-o9gwFNk.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vHojhJYjiN0IwruEqi1Dv",
+        "label":  "JWT Auth",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@vHojhJYjiN0IwruEqi1Dv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to JSON Web Tokens",
+                              "type":  "official",
+                              "url":  "https://jwt.io/introduction"
+                          },
+                          {
+                              "title":  "What is JWT?",
+                              "type":  "article",
+                              "url":  "https://www.akana.com/blog/what-is-jwt"
+                          },
+                          {
+                              "title":  "What Is JWT and Why Should You Use JWT",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7Q17ubqLfaM"
+                          },
+                          {
+                              "title":  "JWT Authentication Tutorial - Node.js",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=mbsmsi7l3r4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Onfd7Sl8LG2sjh2aQY7gb",
+        "label":  "Redis",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@Onfd7Sl8LG2sjh2aQY7gb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Redis Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/redis"
+                          },
+                          {
+                              "title":  "Redis Documentation",
+                              "type":  "official",
+                              "url":  "https://redis.io/docs/latest/"
+                          },
+                          {
+                              "title":  "Redis in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=G1rOthIU-uo"
+                          },
+                          {
+                              "title":  "Redis Caching in Node.js",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=oaJq1mQ3dFI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SHTSvMDqI7X1_ZT7-m--n",
+        "label":  "Linux Basics",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@SHTSvMDqI7X1_ZT7-m--n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Linux Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/linux"
+                          },
+                          {
+                              "title":  "Coursera - Unix Courses",
+                              "type":  "course",
+                              "url":  "https://www.coursera.org/courses?query=unix"
+                          },
+                          {
+                              "title":  "Unix / Linux Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/unix/index.htm"
+                          },
+                          {
+                              "title":  "Linux Operating System - Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ROjZy1WbCIA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v4NF25lJElAtkU0Rm6Fob",
+        "label":  "Checkpoint — Complete App",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@v4NF25lJElAtkU0Rm6Fob.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cUOfvOlQ_0Uu1VX3i67kJ",
+        "label":  "Basic AWS Services",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@cUOfvOlQ_0Uu1VX3i67kJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated AWS Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/aws"
+                          },
+                          {
+                              "title":  "VPC Basics",
+                              "type":  "article",
+                              "url":  "https://cloudcasts.io/course/vpc-basics"
+                          },
+                          {
+                              "title":  "EC2 Essentials",
+                              "type":  "article",
+                              "url":  "https://cloudcasts.io/course/ec2-essentials"
+                          },
+                          {
+                              "title":  "Deploy Node App on AWS EC2",
+                              "type":  "video",
+                              "url":  "https://youtu.be/oHAQ3TzUTro"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6oBIxYj8WPcUHidQ99tus",
+        "label":  "EC2",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@6oBIxYj8WPcUHidQ99tus.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon AWS EC2",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ec2/"
+                          },
+                          {
+                              "title":  "Up and Running with AWS EC2",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/up-and-running-with-aws-ec2"
+                          },
+                          {
+                              "title":  "EC2 Essentials",
+                              "type":  "article",
+                              "url":  "https://cloudcasts.io/course/ec2-essentials"
+                          },
+                          {
+                              "title":  "Deploy Node App on AWS EC2",
+                              "type":  "video",
+                              "url":  "https://youtu.be/oHAQ3TzUTro"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QtL-bLKtWIdH00K6k_PdC",
+        "label":  "VPC",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@QtL-bLKtWIdH00K6k_PdC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon AWS VPC",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
+                          },
+                          {
+                              "title":  "Up and Running with AWS VPC",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/up-and-running-with-aws-vpc"
+                          },
+                          {
+                              "title":  "VPC Basics",
+                              "type":  "article",
+                              "url":  "https://cloudcasts.io/course/vpc-basics"
+                          },
+                          {
+                              "title":  "AWS VPC \u0026 Subnets For Beginners",
+                              "type":  "video",
+                              "url":  "https://youtu.be/TUTqYEZZUdc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5zyYpu9cyuTFwQCjTbHpS",
+        "label":  "Route53",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@5zyYpu9cyuTFwQCjTbHpS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Route53",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/route53/"
+                          },
+                          {
+                              "title":  "Amazon Route 53",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RGWgfhZByAI"
+                          },
+                          {
+                              "title":  "AWS Route 53 Domain Name",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jDz4j_kkyLA"
+                          },
+                          {
+                              "title":  "DNS with AWS Route 53",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yRIY7BJohfo\u0026t=2s"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B-cphY7Imnv6JBMujVIF7",
+        "label":  "SES",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@B-cphY7Imnv6JBMujVIF7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon AWS SES",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/ses/"
+                          },
+                          {
+                              "title":  "Contact Form Submission With AWS SES",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=HiHflLTqiwU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "n2Xp_ijJ2OS8xhE7xMWxk",
+        "label":  "S3",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@n2Xp_ijJ2OS8xhE7xMWxk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Amazon AWS S3",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/s3/"
+                          },
+                          {
+                              "title":  "Upload Images to S3 from Node Back End",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NZElg91l_ms"
+                          },
+                          {
+                              "title":  "S3 Bucket Hosting a Static Website",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RoY3ekCCxKc\u0026list=PL0X6fGhFFNTcU-_MCPe9dkH6sqmgfhy_M"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y1SFX7uvWaCy4OYBnECLu",
+        "label":  "Monit",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@y1SFX7uvWaCy4OYBnECLu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monit Documentation",
+                              "type":  "official",
+                              "url":  "https://mmonit.com/monit/documentation/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HGhnbMg6jh6cAmUH4DtOx",
+        "label":  "PostgreSQL",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@HGhnbMg6jh6cAmUH4DtOx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated PostgreSQL DBA Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/postgresql-dba"
+                          },
+                          {
+                              "title":  "PostgreSQL Website",
+                              "type":  "official",
+                              "url":  "https://www.postgresql.org/"
+                          },
+                          {
+                              "title":  "Learn PostgreSQL - Full Tutorial for Beginners",
+                              "type":  "article",
+                              "url":  "https://www.postgresqltutorial.com/"
+                          },
+                          {
+                              "title":  "Postgres tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=eMIxuk0nOkU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              },
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "J2_IWAb1s9zZcxOY3NXm2",
+        "label":  "Checkpoint — Deployment",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@J2_IWAb1s9zZcxOY3NXm2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Deploy Node App on AWS EC2",
+                              "type":  "video",
+                              "url":  "https://youtu.be/oHAQ3TzUTro"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "certbot",
+                                "type":  "inline",
+                                "url":  "https://roadmap.sh/guides/setup-and-auto-renew-ssl-certificates"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "863KMXcFJzInvTp_-Ldmz",
+        "label":  "GitHub Actions",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@863KMXcFJzInvTp_-Ldmz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Git \u0026 GitHub Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/git-github"
+                          },
+                          {
+                              "title":  "GitHub Actions Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.github.com/en/actions"
+                          },
+                          {
+                              "title":  "5 Ways to DevOps-ify your App",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=eB0nUzAI7M8"
+                          },
+                          {
+                              "title":  "DevOps CI/CD Explained in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=scEDHsr3APg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "NQmEl27eBPYhivcXdOEz3",
+        "label":  "Checkpoint — Monitoring",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@NQmEl27eBPYhivcXdOEz3.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "pm2",
+                                "type":  "inline",
+                                "url":  "https://pm2.keymetrics.io/"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rFXupYpUFfp7vZO8zh614",
+        "label":  "Ansible",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@rFXupYpUFfp7vZO8zh614.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ansible Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.ansible.com/"
+                          },
+                          {
+                              "title":  "Ansible Getting Started Guide",
+                              "type":  "official",
+                              "url":  "https://www.ansible.com/resources/get-started"
+                          },
+                          {
+                              "title":  "Ansible Full Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9Ua2b06oAr4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "liaY1GnlOateB_ZKBjNpY",
+        "label":  "Checkpoint — CI / CD",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@liaY1GnlOateB_ZKBjNpY.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "DevOps CI/CD Explained in 100 Seconds",
+                                "type":  "inline",
+                                "url":  "https://www.youtube.com/watch?v=scEDHsr3APg"
+                            },
+                            {
+                                "title":  "sample GitHub workflow",
+                                "type":  "inline",
+                                "url":  "https://gist.github.com/nilbuild/1e94b412006040f38e24b9443b2da41a"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2kKHuQZScu7hCDgQWxl5u",
+        "label":  "Terraform",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@2kKHuQZScu7hCDgQWxl5u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Terraform Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/terraform"
+                          },
+                          {
+                              "title":  "Terraform Documentation",
+                              "type":  "official",
+                              "url":  "https://www.terraform.io/docs"
+                          },
+                          {
+                              "title":  "Terraform Tutorials",
+                              "type":  "official",
+                              "url":  "https://learn.hashicorp.com/terraform"
+                          },
+                          {
+                              "title":  "Intro to Terraform",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=h970ZBgKINg\u0026ab_channel=HashiCorp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sO_9-l4FECbaqiaFnyeXO",
+        "label":  "Checkpoint — Automation",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@sO_9-l4FECbaqiaFnyeXO.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YVMyHFSCVF-GgXydq-SFJ",
+        "label":  "Checkpoint — Infrastructure",
+        "endpoint":  "https://roadmap.sh/full-stack/topic@YVMyHFSCVF-GgXydq-SFJ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Fullstack Developer Path",
+                                  "type":  "course",
+                                  "url":  "https://scrimba.com/c0fullstack?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "discord server",
+                                "type":  "inline",
+                                "url":  "https://roadmap.sh/discord"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

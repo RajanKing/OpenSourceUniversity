@@ -1,0 +1,1531 @@
+[
+    {
+        "id":  "JfXwzkN29UGz17FYHHE3A",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/graphql/topic@JfXwzkN29UGz17FYHHE3A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/"
+                          },
+                          {
+                              "title":  "Getting started with GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cMfsRtvzvDZZJ0TqeUOxm",
+        "label":  "What is GraphQL",
+        "endpoint":  "https://roadmap.sh/graphql/topic@cMfsRtvzvDZZJ0TqeUOxm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to graphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/"
+                          },
+                          {
+                              "title":  "Tutorial - What is graphQL?",
+                              "type":  "article",
+                              "url":  "https://www.howtographql.com/basics/0-introduction/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2rlmLn_yQQV-7DpX1qT98",
+        "label":  "Problems GraphQL Solves",
+        "endpoint":  "https://roadmap.sh/graphql/topic@2rlmLn_yQQV-7DpX1qT98.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "J5mU0v491qrm-mr1W3Msd",
+        "label":  "Thinking in Graphs",
+        "endpoint":  "https://roadmap.sh/graphql/topic@J5mU0v491qrm-mr1W3Msd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL - Thinking in Graphs",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/thinking-in-graphs/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W_Lg8086ZhrIqtck1sgnb",
+        "label":  "GraphQL Queries",
+        "endpoint":  "https://roadmap.sh/graphql/topic@W_Lg8086ZhrIqtck1sgnb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are GraphQL Queries?",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6r9XbwlBtHmJrhviG2cTD",
+        "label":  "GraphQL on Frontend",
+        "endpoint":  "https://roadmap.sh/graphql/topic@6r9XbwlBtHmJrhviG2cTD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with GraphQL on the frontend",
+                              "type":  "article",
+                              "url":  "https://www.howtographql.com/react-apollo/0-introduction/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ODQ8zrHc2rsc8PN-APKvz",
+        "label":  "GraphQL on Backend",
+        "endpoint":  "https://roadmap.sh/graphql/topic@ODQ8zrHc2rsc8PN-APKvz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to use GraphQL in Backend?",
+                              "type":  "article",
+                              "url":  "https://www.howtographql.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2SU4dcaz7zwGsF7g8FjmI",
+        "label":  "What are Queries?",
+        "endpoint":  "https://roadmap.sh/graphql/topic@2SU4dcaz7zwGsF7g8FjmI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction of GraphQL - Query",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Pc9H7AcoqJQkWnuhbytyD",
+        "label":  "Fields",
+        "endpoint":  "https://roadmap.sh/graphql/topic@Pc9H7AcoqJQkWnuhbytyD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL: Types and Fields",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#fields"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B77yLU4SuRChSjEbmYwc-",
+        "label":  "Aliases",
+        "endpoint":  "https://roadmap.sh/graphql/topic@B77yLU4SuRChSjEbmYwc-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are GraphQL Aliases?",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#aliases"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hrpb108R8Gyu3hhzkMYzL",
+        "label":  "Arguments",
+        "endpoint":  "https://roadmap.sh/graphql/topic@hrpb108R8Gyu3hhzkMYzL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL - Arguments",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#arguments"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MnmwccPahqPCzOhqjfbsY",
+        "label":  "Directives",
+        "endpoint":  "https://roadmap.sh/graphql/topic@MnmwccPahqPCzOhqjfbsY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Directives in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#directives"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YZaFEK547FYricfOuANvH",
+        "label":  "Variables",
+        "endpoint":  "https://roadmap.sh/graphql/topic@YZaFEK547FYricfOuANvH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intro to Variables in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#variables"
+                          },
+                          {
+                              "title":  "GraphQL Variables",
+                              "type":  "article",
+                              "url":  "https://dgraph.io/docs/graphql/api/variables/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CehwjrCG_wbUU-TFNCuJn",
+        "label":  "Fragments",
+        "endpoint":  "https://roadmap.sh/graphql/topic@CehwjrCG_wbUU-TFNCuJn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intro to Fragments in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#fragments"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jy_91mhFWbpR6sYVbuX1x",
+        "label":  "Mutations",
+        "endpoint":  "https://roadmap.sh/graphql/topic@jy_91mhFWbpR6sYVbuX1x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting started with Mutations",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#mutations"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9Q2pGidY-rfkltHq3vChp",
+        "label":  "What are Mutations?",
+        "endpoint":  "https://roadmap.sh/graphql/topic@9Q2pGidY-rfkltHq3vChp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Mutations",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/mutations/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AySlY8AyI6jE-cy-qKKOU",
+        "label":  "Multiple Fields in Mutation",
+        "endpoint":  "https://roadmap.sh/graphql/topic@AySlY8AyI6jE-cy-qKKOU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Guide to Multiple fields in mutations",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/mutations/#multiple-fields-in-mutations"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q9TYEygvUyHourdZIvk8G",
+        "label":  "Operation Name",
+        "endpoint":  "https://roadmap.sh/graphql/topic@q9TYEygvUyHourdZIvk8G.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intro to Operation Name",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#operation-name"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IbEqXlGjsyNLKE9dZrPPk",
+        "label":  "Subscriptions",
+        "endpoint":  "https://roadmap.sh/graphql/topic@IbEqXlGjsyNLKE9dZrPPk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Subscriptions and Live Queries - Real Time with GraphQL",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RlBc-hWEUOPaEQLTgJa-K",
+        "label":  "What are Subscriptions",
+        "endpoint":  "https://roadmap.sh/graphql/topic@RlBc-hWEUOPaEQLTgJa-K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How GraphQL Subscriptions Work?",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kJMyRhasBKfBypent3GxK",
+        "label":  "Event Based Subscriptions",
+        "endpoint":  "https://roadmap.sh/graphql/topic@kJMyRhasBKfBypent3GxK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Subscriptions Documentation",
+                              "type":  "official",
+                              "url":  "https://graphql.org/blog/subscriptions-in-graphql-and-relay/"
+                          },
+                          {
+                              "title":  "GraphQL Subscriptions",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CHdzww8_TNfeM6Bp1oTPI",
+        "label":  "Live Queries",
+        "endpoint":  "https://roadmap.sh/graphql/topic@CHdzww8_TNfeM6Bp1oTPI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Live Queries",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "t6XxFB_lx27kS4FE2_GMH",
+        "label":  "@defer / @stream directives",
+        "endpoint":  "https://roadmap.sh/graphql/topic@t6XxFB_lx27kS4FE2_GMH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Defer and Stream in GraphQL",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/graphql/yoga-server/docs/features/defer-stream"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lj1WEh4WbfBsoZFYsi1Yz",
+        "label":  "Schema",
+        "endpoint":  "https://roadmap.sh/graphql/topic@lj1WEh4WbfBsoZFYsi1Yz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Schema?",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jpu0_FAlxtD-H80mPcod5",
+        "label":  "Type System",
+        "endpoint":  "https://roadmap.sh/graphql/topic@jpu0_FAlxtD-H80mPcod5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Type system",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#type-system"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HPdntdgTar1T34CZX8Y6y",
+        "label":  "Fields",
+        "endpoint":  "https://roadmap.sh/graphql/topic@HPdntdgTar1T34CZX8Y6y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL: Types and Fields",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/queries/#fields"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U-tLelmNQtR-pUq-sxU_2",
+        "label":  "Scalars",
+        "endpoint":  "https://roadmap.sh/graphql/topic@U-tLelmNQtR-pUq-sxU_2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Scalars in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#scalar-types"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wfOsfb0zSAIdNkwFHfBcw",
+        "label":  "Enums",
+        "endpoint":  "https://roadmap.sh/graphql/topic@wfOsfb0zSAIdNkwFHfBcw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Enums?",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#enumeration-types"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tc_rjJZrr2x3bp8mcoQ0F",
+        "label":  "Interfaces",
+        "endpoint":  "https://roadmap.sh/graphql/topic@tc_rjJZrr2x3bp8mcoQ0F.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Interfaces",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#interfaces"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "d2ikbo4sZq7PmaCi5znkd",
+        "label":  "Lists",
+        "endpoint":  "https://roadmap.sh/graphql/topic@d2ikbo4sZq7PmaCi5znkd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Lists",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#lists-and-non-null"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LX9vZpx7yKlf0iR6AtBWz",
+        "label":  "Objects",
+        "endpoint":  "https://roadmap.sh/graphql/topic@LX9vZpx7yKlf0iR6AtBWz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Object Types and Fields",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#object-types-and-fields"
+                          },
+                          {
+                              "title":  "Object Types",
+                              "type":  "official",
+                              "url":  "https://graphql.org/graphql-js/object-types/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "59COH3rerJJzKr6vrj4bF",
+        "label":  "Unions",
+        "endpoint":  "https://roadmap.sh/graphql/topic@59COH3rerJJzKr6vrj4bF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Union in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#union-types"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "A54vi3Ao7fBHyTuqoH_it",
+        "label":  "Arguments",
+        "endpoint":  "https://roadmap.sh/graphql/topic@A54vi3Ao7fBHyTuqoH_it.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Arguments in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#arguments"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iYkHCKTsjtvo40f3eZoet",
+        "label":  "Validation",
+        "endpoint":  "https://roadmap.sh/graphql/topic@iYkHCKTsjtvo40f3eZoet.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Validation in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/validation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "72wGg6yP8WnEdmkeKL9vh",
+        "label":  "Execution",
+        "endpoint":  "https://roadmap.sh/graphql/topic@72wGg6yP8WnEdmkeKL9vh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Execution in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/execution/"
+                          },
+                          {
+                              "title":  "Intro to Execution",
+                              "type":  "official",
+                              "url":  "https://graphql.org/graphql-js/execution/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AlJlHZD3_SPoLNaqdM-pB",
+        "label":  "Root Fields",
+        "endpoint":  "https://roadmap.sh/graphql/topic@AlJlHZD3_SPoLNaqdM-pB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Root Fields",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/execution/#root-fields-resolvers"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VDur5xYBC0LJtQgDrSEyj",
+        "label":  "Resolvers",
+        "endpoint":  "https://roadmap.sh/graphql/topic@VDur5xYBC0LJtQgDrSEyj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Guide to Resolver",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/better-type-safety-for-resolvers-with-graphql-codegen"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uPpsj2kCdgKsJpmTaw86u",
+        "label":  "Synchronous",
+        "endpoint":  "https://roadmap.sh/graphql/topic@uPpsj2kCdgKsJpmTaw86u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Execution",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/execution/"
+                          },
+                          {
+                              "title":  "Understanding Resolvers",
+                              "type":  "article",
+                              "url":  "https://www.apollographql.com/docs/apollo-server/data/resolvers/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tbDvQBtLRAcD-xYX9V7Va",
+        "label":  "Asynchronous",
+        "endpoint":  "https://roadmap.sh/graphql/topic@tbDvQBtLRAcD-xYX9V7Va.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Asynchronous",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/execution/#asynchronous-resolvers"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QFUOmJlPkkjpcl1vJxg9h",
+        "label":  "Scalar Coercion",
+        "endpoint":  "https://roadmap.sh/graphql/topic@QFUOmJlPkkjpcl1vJxg9h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Scalar coercion",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/execution/#scalar-coercion"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sJ1_c3e08aehiqNMbIEEP",
+        "label":  "Lists",
+        "endpoint":  "https://roadmap.sh/graphql/topic@sJ1_c3e08aehiqNMbIEEP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Lists and Non-Null",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/schema/#lists-and-non-null"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I4wNBXV4xEZ0LWBhv5FwF",
+        "label":  "Validation",
+        "endpoint":  "https://roadmap.sh/graphql/topic@I4wNBXV4xEZ0LWBhv5FwF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Validation in GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/validation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zQHifboRreE4OgJ7GnUlp",
+        "label":  "Producing the Result",
+        "endpoint":  "https://roadmap.sh/graphql/topic@zQHifboRreE4OgJ7GnUlp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with GraphQL",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "inhjhH-7xJyX8o4DQqErF",
+        "label":  "Serving over Internet",
+        "endpoint":  "https://roadmap.sh/graphql/topic@inhjhH-7xJyX8o4DQqErF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction to Serving over HTTPs",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/serving-over-http/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V3bgswBFr1xames3F8S_V",
+        "label":  "GraphQL Over HTTP Spec",
+        "endpoint":  "https://roadmap.sh/graphql/topic@V3bgswBFr1xames3F8S_V.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UYwuUVTeurwODV4_Kdt_W",
+        "label":  "Caching",
+        "endpoint":  "https://roadmap.sh/graphql/topic@UYwuUVTeurwODV4_Kdt_W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get started with Caching",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/caching/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v9gVexHfDkpG9z3NL5S-9",
+        "label":  "Batching",
+        "endpoint":  "https://roadmap.sh/graphql/topic@v9gVexHfDkpG9z3NL5S-9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DataLoader",
+                              "type":  "opensource",
+                              "url":  "https://github.com/graphql/dataloader"
+                          },
+                          {
+                              "title":  "Solving the N+1 Problem",
+                              "type":  "article",
+                              "url":  "https://shopify.engineering/solving-the-n-1-problem-for-graphql-through-batching"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i-zcfN6RNXhA_sb7DcIon",
+        "label":  "Authorization",
+        "endpoint":  "https://roadmap.sh/graphql/topic@i-zcfN6RNXhA_sb7DcIon.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Authorization",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/authorization/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "A-PQ3_FVuCK3Eud75hsdj",
+        "label":  "Specification",
+        "endpoint":  "https://roadmap.sh/graphql/topic@A-PQ3_FVuCK3Eud75hsdj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Specification",
+                              "type":  "official",
+                              "url":  "https://spec.graphql.org/"
+                          },
+                          {
+                              "title":  "GraphQL Foundation",
+                              "type":  "official",
+                              "url":  "https://foundation.graphql.org/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2YLm_S1j_832pb1OGSNaM",
+        "label":  "Realtime",
+        "endpoint":  "https://roadmap.sh/graphql/topic@2YLm_S1j_832pb1OGSNaM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Real Time with GraphQL",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GzwPvLybxTJM96fUhQUOi",
+        "label":  "Authorization",
+        "endpoint":  "https://roadmap.sh/graphql/topic@GzwPvLybxTJM96fUhQUOi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Authorization",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/authorization/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O8k-m6s9B_uXkLsXKVFnL",
+        "label":  "Specification",
+        "endpoint":  "https://roadmap.sh/graphql/topic@O8k-m6s9B_uXkLsXKVFnL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Specification",
+                              "type":  "official",
+                              "url":  "https://spec.graphql.org/"
+                          },
+                          {
+                              "title":  "GraphQL Foundation",
+                              "type":  "official",
+                              "url":  "https://foundation.graphql.org/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "G50ZMlmP7Ru5LcFne5Rhu",
+        "label":  "Authorization",
+        "endpoint":  "https://roadmap.sh/graphql/topic@G50ZMlmP7Ru5LcFne5Rhu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Authorization",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/authorization/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Uf8XxJPs7RzKVhlxiQdbB",
+        "label":  "Pagination",
+        "endpoint":  "https://roadmap.sh/graphql/topic@Uf8XxJPs7RzKVhlxiQdbB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started with Pagination",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/pagination/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jCzrMElTo-c9xGcpPOOPl",
+        "label":  "GraphQL.js",
+        "endpoint":  "https://roadmap.sh/graphql/topic@jCzrMElTo-c9xGcpPOOPl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL.js Repository",
+                              "type":  "official",
+                              "url":  "https://github.com/graphql/graphql-js"
+                          },
+                          {
+                              "title":  "GraphQL.js Documentation",
+                              "type":  "official",
+                              "url":  "https://graphql.org/graphql-js/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9nVo95gRNGHGIbaJQPH1x",
+        "label":  "GraphQL Go",
+        "endpoint":  "https://roadmap.sh/graphql/topic@9nVo95gRNGHGIbaJQPH1x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "graphql-go/graphql",
+                              "type":  "opensource",
+                              "url":  "https://github.com/graphql-go/graphql"
+                          },
+                          {
+                              "title":  "99designs/gqlgen",
+                              "type":  "opensource",
+                              "url":  "https://github.com/99designs/gqlgen"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7szipojhVb2VoL3VcS619",
+        "label":  "GraphQL Java",
+        "endpoint":  "https://roadmap.sh/graphql/topic@7szipojhVb2VoL3VcS619.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Java Repository",
+                              "type":  "official",
+                              "url":  "https://github.com/graphql-java/graphql-java"
+                          },
+                          {
+                              "title":  "GraphQL Java Documentation",
+                              "type":  "article",
+                              "url":  "https://www.graphql-java.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N-vsu-wvOikuoTbzdgX3X",
+        "label":  "graphql-http",
+        "endpoint":  "https://roadmap.sh/graphql/topic@N-vsu-wvOikuoTbzdgX3X.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL over HTTP Specification",
+                              "type":  "official",
+                              "url":  "https://graphql.github.io/graphql-over-http/"
+                          },
+                          {
+                              "title":  "graphql-http Library",
+                              "type":  "opensource",
+                              "url":  "https://github.com/graphql/graphql-http"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Gotb1xtxySCVC5MrnkPSs",
+        "label":  "GraphQL Yoga",
+        "endpoint":  "https://roadmap.sh/graphql/topic@Gotb1xtxySCVC5MrnkPSs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Armor - for Yoga Server 2",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/improved-security-with-graphql-armor-support-for-yoga-server-2"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o_VkyoN6DmUUkfl0u0cro",
+        "label":  "Apollo Server",
+        "endpoint":  "https://roadmap.sh/graphql/topic@o_VkyoN6DmUUkfl0u0cro.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Apollo Tutorial - Introduction",
+                              "type":  "article",
+                              "url":  "https://www.howtographql.com/react-apollo/0-introduction/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iTV2H8clmRTOksul4v38p",
+        "label":  "mercurius",
+        "endpoint":  "https://roadmap.sh/graphql/topic@iTV2H8clmRTOksul4v38p.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mercurius Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/mercurius-js/mercurius"
+                          },
+                          {
+                              "title":  "Mercurius Documentation",
+                              "type":  "article",
+                              "url":  "https://mercurius.dev/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "datKo3vPDwXoyVskcrdkc",
+        "label":  "graphql-http",
+        "endpoint":  "https://roadmap.sh/graphql/topic@datKo3vPDwXoyVskcrdkc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Overview of GraphQL HTTP",
+                              "type":  "official",
+                              "url":  "https://graphql.org/graphql-js/express-graphql/#graphqlhttp"
+                          },
+                          {
+                              "title":  "Get Started with GraphQL HTTP",
+                              "type":  "official",
+                              "url":  "https://graphql.org/learn/serving-over-http/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ab_ngkf6bmejvcp9okuw6",
+        "label":  "Relay",
+        "endpoint":  "https://roadmap.sh/graphql/topic@Ab_ngkf6bmejvcp9okuw6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GraphQL Code Generator \u0026 Relay Compiler",
+                              "type":  "article",
+                              "url":  "https://the-guild.dev/blog/graphql-codegen-relay-compiler"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D5O7ky5eXwm_Ys1IcFNaq",
+        "label":  "Apollo Client",
+        "endpoint":  "https://roadmap.sh/graphql/topic@D5O7ky5eXwm_Ys1IcFNaq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Why Apollo Client - Frontend?",
+                              "type":  "article",
+                              "url":  "https://www.howtographql.com/react-apollo/0-introduction/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WP0Oo_YMfLBlXqDQQtKes",
+        "label":  "Urql",
+        "endpoint":  "https://roadmap.sh/graphql/topic@WP0Oo_YMfLBlXqDQQtKes.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "urql - Formidable Labs",
+                              "type":  "article",
+                              "url":  "https://formidable.com/open-source/urql/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r3Yf5pxzgSGAckOPr3eSt",
+        "label":  "Graphene",
+        "endpoint":  "https://roadmap.sh/graphql/topic@r3Yf5pxzgSGAckOPr3eSt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Graphene",
+                              "type":  "official",
+                              "url":  "https://graphene-python.org/"
+                          },
+                          {
+                              "title":  "Graphene",
+                              "type":  "article",
+                              "url":  "https://github.com/graphql-python/graphene?tab=readme-ov-file"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

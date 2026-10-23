@@ -1,0 +1,3377 @@
+{
+    "slug":  "data-engineer",
+    "source":  "https://roadmap.sh/data-engineer",
+    "title":  "Data Engineer Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-10-09T08:12:57.882Z",
+    "nodes":  [
+                  {
+                      "id":  "lMhCae46hJSaJ3xnkzr3t",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  59.8913111932784,
+                                       "y":  4598.19458425944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BCaFByttoQgLAQd7xGNN-",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -714.0564832593944,
+                                       "y":  4366.6215469098415
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sMhuDjih8ECp5aD8NgrHz",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -713.1371168679775,
+                                       "y":  3956.0016391767567
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SEpxm5INSkSQc07C4uyPt",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  39.16689888289051,
+                                       "y":  3069.109712743973
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Lan3xGnc91AWNHPdWr4oZ",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -707.8392662493435,
+                                       "y":  2945.550337816306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WW9_OqWGOp7vymOpZy3yL",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -708.3392662493435,
+                                       "y":  3114.050848122653
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nQZXPggnB7SC1O7fHV9wq",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -714.2905468965223,
+                                       "y":  2398.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "feK5CpK7uJaCQU3Pg9snq",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  36.91022199347299,
+                                       "y":  2085.7078290856207
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sI6Xp7JGJiF18vtaK3be8",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  7.779143413630663,
+                                       "y":  1763.6015719941472
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gNweoH0_8JdZPT2H4vhTB",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -713.7888386167176,
+                                       "y":  1959.9467529136327
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LYo_bUhIjWZD3i4dIzSsM",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -713.1587879480123,
+                                       "y":  1736.1825950083862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "d5xaU63Vja_LM1-1wi6UY",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -555.4153206813432,
+                                       "y":  1422.1188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7mK4gn7IQIyk43TPSni85",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -712.4153206813432,
+                                       "y":  1421.1188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vglx550xcT2b10gmc4kvd",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -59.55405924218343,
+                                       "y":  1180.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Yb67e4cO4z0j1r5Gcl_8",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  64.63799896483582,
+                                       "y":  1056.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9CPcys38Ir077u37jFe02",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  -81.59925177765109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7aSscXd-UMNWOX7A_vxYh",
+                      "type":  "title",
+                      "label":  "Data Engineer",
+                      "position":  {
+                                       "x":  -351.0300742430878,
+                                       "y":  -28.59925177765109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_LvWarjrzvIOi8StMezyM",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -211.03007424308782,
+                                       "y":  -135.5992517776511
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JqcGwkk1cuTnXA8SHpTKr",
+                      "type":  "label",
+                      "label":  "Pre-requisites",
+                      "position":  {
+                                       "x":  -622.6381872719935,
+                                       "y":  -67.59925177765109
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PUVM4XqV7j5nXBAbIAKwG",
+                      "type":  "button",
+                      "label":  "Python for Data Analysis",
+                      "position":  {
+                                       "x":  -697.1381872719935,
+                                       "y":  -24.59925177765109
+                                   },
+                      "href":  "https://roadmap.sh/python-data-analysis",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Cj1uO2k_hO5eIQ77jxY6c",
+                      "type":  "button",
+                      "label":  "SQL Roadmap",
+                      "position":  {
+                                       "x":  -697.1381872719935,
+                                       "y":  27.40074822234891
+                                   },
+                      "href":  "https://roadmap.sh/sql",
+                      "links":  null
+                  },
+                  {
+                      "id":  "iAWm99EoRnpzLlw6XDuaf",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  106.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "lqPv6L8d6CyHcC0Yvk6Wh",
+                                        "label":  "AI \u0026 Data Scientist Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/ai-data-scientist"
+                                    },
+                                    {
+                                        "id":  "JgDMCkyrhYOqMWSQpf8XB",
+                                        "label":  "BI Analyst Roadmap",
+                                        "url":  "https://roadmap.sh/bi-analyst"
+                                    },
+                                    {
+                                        "id":  "uoCqvXnIMbN0fAZnCFeIl",
+                                        "label":  "Data Analyst Roadmap",
+                                        "url":  "https://roadmap.sh/data-analyst"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "WSYIFni7G2C9Jr0pwuami",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  142.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WB2PRVI9C6RIbJ6l9zdbd",
+                      "type":  "subtopic",
+                      "label":  "What is Data Engineering?",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  36.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jJukG4XxfFcID_VlQKqe-",
+                      "type":  "subtopic",
+                      "label":  "Data Eng. vs Data Science",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  89.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3BxbkrBp8veZj38zdwN8s",
+                      "type":  "subtopic",
+                      "label":  "Skills \u0026 Responsibilities",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  142.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ouph2bHeLQsrHl45ar4Cs",
+                      "type":  "subtopic",
+                      "label":  "Data Engineering Lifecycle",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  195.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_MpdVlvvkrsgzigYMZ_P8",
+                      "type":  "subtopic",
+                      "label":  "Choosing the Right Technologies",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  247.54311795171424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_2Ofq3Df-VRXDgKyveZ0U",
+                      "type":  "topic",
+                      "label":  "Programming Skills",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  398.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ILs5azr4L_uLK0CDFKVaz",
+                      "type":  "subtopic",
+                      "label":  "Python",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  398.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LZ4t8CoCjGWMzE0hScTGZ",
+                      "type":  "subtopic",
+                      "label":  "Java",
+                      "position":  {
+                                       "x":  192.3618127280065,
+                                       "y":  398.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WHJXJ5ukJd-tK_3LFLJBg",
+                      "type":  "subtopic",
+                      "label":  "Scala",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  451.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4z2i5NXTo9h3YY0kJvRrz",
+                      "type":  "subtopic",
+                      "label":  "Go",
+                      "position":  {
+                                       "x":  192.3618127280065,
+                                       "y":  451.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LHYlJm76avsuHeDwY1vHe",
+                      "type":  "label",
+                      "label":  "Python is recommended",
+                      "position":  {
+                                       "x":  40.3618127280065,
+                                       "y":  360.1700826534214
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "fqmn6DPOA5MH7UWYv6ayn",
+                      "type":  "topic",
+                      "label":  "Data Structures \u0026 Algorithms",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  451.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "02TADW_PPVtTU_rWV3jf1",
+                      "type":  "topic",
+                      "label":  "Git and GitHub",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  504.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FXQ_QsljK59zDULLgTqCB",
+                      "type":  "topic",
+                      "label":  "Linux Basics",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  557.510732709255
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cgkzFMmQils2sYj4NW8VW",
+                      "type":  "topic",
+                      "label":  "Networking Fundamentals",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  610.510732709255
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c1dadtQgbqXwcsQhI6de0",
+                      "type":  "topic",
+                      "label":  "Distributed Systems Basics",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  663.510732709255
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AWf1y87pd1JFW71cZ_iE1",
+                      "type":  "subtopic",
+                      "label":  "Data Generation",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  345.16464552221584
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wydtifF3ZhMWCbVt8Hd2t",
+                      "type":  "subtopic",
+                      "label":  "Data Storage",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  398.16464552221584
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CvCOkyWcgzaUJec_v5F4L",
+                      "type":  "subtopic",
+                      "label":  "Data Ingestion",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  451.16464552221584
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RspQLpkICyHUmthLlxQ84",
+                      "type":  "subtopic",
+                      "label":  "Data Serving",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  504.16464552221584
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w3cfuNC-IdUKA7CEXs0fT",
+                      "type":  "topic",
+                      "label":  "Data Engineering Lifecycle",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  345.51073270925497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VFXaTzzgFWrbtk6aPygRn",
+                      "type":  "label",
+                      "label":  "Understand Different Steps",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  558.3335632268513
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zGKTlMUzhrbVbqpLZBsMZ",
+                      "type":  "topic",
+                      "label":  "Sources of Data",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  848.6822567296443
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qRHeaD2udDaItAxmiIiUg",
+                      "type":  "subtopic",
+                      "label":  "Database",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  794.754108117058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cxTriSZvrmXP4axKynIZW",
+                      "type":  "subtopic",
+                      "label":  "APIs",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  847.754108117058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s-wUPMaagyRupT2RdfHks",
+                      "type":  "subtopic",
+                      "label":  "Logs",
+                      "position":  {
+                                       "x":  -574.1381872719935,
+                                       "y":  847.754108117058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dJZqe47kzRqYIG-4AZTlz",
+                      "type":  "subtopic",
+                      "label":  "Mobile Apps",
+                      "position":  {
+                                       "x":  -711.1381872719935,
+                                       "y":  900.7541081170579
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KeGCHoJRHp-mBX-P5to4Y",
+                      "type":  "subtopic",
+                      "label":  "IoT",
+                      "position":  {
+                                       "x":  -574.1381872719935,
+                                       "y":  900.7541081170579
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wDDWQgMVBYK4WcmHq_d6l",
+                      "type":  "topic",
+                      "label":  "Data Collection Ideas",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  901.6822567296442
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "g4UC0go7OPCJYJlac9w-i",
+                      "type":  "topic",
+                      "label":  "Database Fundamentals",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  1114.4467191443077
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kVPEoUX-ZAGwstieD20Qa",
+                      "type":  "subtopic",
+                      "label":  "Data Normalization",
+                      "position":  {
+                                       "x":  -710.7680706307561,
+                                       "y":  985.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SlQHO8n97F7-_fc6EUXlj",
+                      "type":  "subtopic",
+                      "label":  "Data Modelling Techniques",
+                      "position":  {
+                                       "x":  -710.7680706307561,
+                                       "y":  1038.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AslPFjoakcC44CmPB5nuw",
+                      "type":  "subtopic",
+                      "label":  "CAP Theorem",
+                      "position":  {
+                                       "x":  -710.7680706307561,
+                                       "y":  1091.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-VQQmIUGesnrT1N6kH5et",
+                      "type":  "subtopic",
+                      "label":  "OLTP vs OLAP",
+                      "position":  {
+                                       "x":  -710.7680706307561,
+                                       "y":  1144.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5KgPfywItqLFQRnIZldZH",
+                      "type":  "subtopic",
+                      "label":  "Slowly Changing Dimension ",
+                      "position":  {
+                                       "x":  -710.7680706307561,
+                                       "y":  1197.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k_XSLLwb0Jk0Dd1sw-MpR",
+                      "type":  "subtopic",
+                      "label":  "Horizontal vs Vertical Scaling",
+                      "position":  {
+                                       "x":  -710.7680706307561,
+                                       "y":  1250.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OfH_UXnxvGQgwlNQwOEfS",
+                      "type":  "subtopic",
+                      "label":  "Star vs Snowflake Schema",
+                      "position":  {
+                                       "x":  -710.7680706307561,
+                                       "y":  1303.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cslVSSKBMO7I6CpO7vG1H",
+                      "type":  "topic",
+                      "label":  "Relational Databases",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  1167.4467191443077
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2rRVWPON-o3MvpgZmrU_A",
+                      "type":  "subtopic",
+                      "label":  "Learn SQL",
+                      "position":  {
+                                       "x":  66.63799896483582,
+                                       "y":  948.403186025356
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ilbFKqhfYyykjJ7cOngwx",
+                      "type":  "subtopic",
+                      "label":  "Indexing",
+                      "position":  {
+                                       "x":  200.5841361786372,
+                                       "y":  948.403186025356
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1BJGXWax6CONuFkaYR4Jm",
+                      "type":  "subtopic",
+                      "label":  "Transactions",
+                      "position":  {
+                                       "x":  64.58413617863701,
+                                       "y":  1001.403186025356
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tu-dnF9XRHsKfOSOdBOC7",
+                      "type":  "label",
+                      "label":  "Relational Databases",
+                      "position":  {
+                                       "x":  112.08413617863701,
+                                       "y":  1068.8906870170993
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "_bFj6rbLuqeQB5MjJZpd6",
+                      "type":  "subtopic",
+                      "label":  "MySQL",
+                      "position":  {
+                                       "x":  81.63799896483582,
+                                       "y":  1111.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "__JFgwxeDLvz8p7DAJnsc",
+                      "type":  "subtopic",
+                      "label":  "PostgreSQL",
+                      "position":  {
+                                       "x":  189.0841361786372,
+                                       "y":  1111.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p7S_6O9Qq722r-F4bl6G3",
+                      "type":  "subtopic",
+                      "label":  "MariaDB",
+                      "position":  {
+                                       "x":  81.63799896483582,
+                                       "y":  1164.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YZ4G1-6VJ7VdsphdcBTf9",
+                      "type":  "subtopic",
+                      "label":  "Aurora DB",
+                      "position":  {
+                                       "x":  189.0841361786372,
+                                       "y":  1164.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PJcxM60h85Po0AAkSj7nr",
+                      "type":  "subtopic",
+                      "label":  "Oracle",
+                      "position":  {
+                                       "x":  81.63799896483582,
+                                       "y":  1217.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YxnIQh6Y5ic795-YsajB8",
+                      "type":  "subtopic",
+                      "label":  "MS SQL",
+                      "position":  {
+                                       "x":  189.0841361786372,
+                                       "y":  1217.8906870170993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FoExOGqUrU9QvKlz56xz2",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  37.08413617863704,
+                                       "y":  950.903186025356
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uZYQ8tqTriXt_JIOjcM9_",
+                      "type":  "topic",
+                      "label":  "NoSQL Databases",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  1396.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sGkAOVl3C-xIIAdtDH9jq",
+                      "type":  "topic",
+                      "label":  "Document",
+                      "position":  {
+                                       "x":  -712.4153206813432,
+                                       "y":  1396.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "04V0Bcgjusfqdw0b-Aw4W",
+                      "type":  "subtopic",
+                      "label":  "MongoDB",
+                      "position":  {
+                                       "x":  -704.4153206813432,
+                                       "y":  1453.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_F53cV3ln2yu0ics5BFfx",
+                      "type":  "subtopic",
+                      "label":  "ElasticSearch",
+                      "position":  {
+                                       "x":  -704.4153206813432,
+                                       "y":  1506.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "goL_GqVVTVxXQMGBw992b",
+                      "type":  "subtopic",
+                      "label":  "CosmosDB",
+                      "position":  {
+                                       "x":  -704.4153206813432,
+                                       "y":  1559.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-IesOBWPSIlbgvTjBqHcb",
+                      "type":  "subtopic",
+                      "label":  "CouchDB",
+                      "position":  {
+                                       "x":  -704.4153206813432,
+                                       "y":  1612.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fBD6ZQoMac8w4kMJw_Jrd",
+                      "type":  "topic",
+                      "label":  "Column",
+                      "position":  {
+                                       "x":  -549.4153206813432,
+                                       "y":  1396.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QYR8ESN7xhi4ZxcoiZbgn",
+                      "type":  "subtopic",
+                      "label":  "Cassandra",
+                      "position":  {
+                                       "x":  -535.4153206813432,
+                                       "y":  1454.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ltZftFsiOo12AkQ-04N3B",
+                      "type":  "subtopic",
+                      "label":  "BigTable",
+                      "position":  {
+                                       "x":  -535.4153206813432,
+                                       "y":  1507.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Uho9OOWSG0bUpyH4P6hKk",
+                      "type":  "subtopic",
+                      "label":  "HBase",
+                      "position":  {
+                                       "x":  -535.4153206813432,
+                                       "y":  1560.6188673292693
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L6x750gKlyyu0uoNVEmvA",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  163.06012021591607,
+                                       "y":  1422.3769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aZKsPtpDxVH3fkxTHycDN",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  3.060120215916072,
+                                       "y":  1422.3769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W6RnhoD7fW2xzVwnyJEDr",
+                      "type":  "topic",
+                      "label":  "Graph",
+                      "position":  {
+                                       "x":  3.060120215916072,
+                                       "y":  1396.8769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TG63YRbSKL1F9vlUVF1VY",
+                      "type":  "subtopic",
+                      "label":  "Neo4j",
+                      "position":  {
+                                       "x":  14.060120215916072,
+                                       "y":  1453.8769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "atAK4zGXIbxZvfBTzFEIe",
+                      "type":  "subtopic",
+                      "label":  "Neptune",
+                      "position":  {
+                                       "x":  14.060120215916072,
+                                       "y":  1506.8769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fSlBjoNVKstJjWO7rS69V",
+                      "type":  "topic",
+                      "label":  "Key-Value",
+                      "position":  {
+                                       "x":  168.06012021591607,
+                                       "y":  1396.8769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dW_eC4vR8BrvKG9wxmEBc",
+                      "type":  "subtopic",
+                      "label":  "Redis",
+                      "position":  {
+                                       "x":  183.06012021591607,
+                                       "y":  1454.8769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KYUh29Ok1aeOviboGDS_i",
+                      "type":  "subtopic",
+                      "label":  "Memcached",
+                      "position":  {
+                                       "x":  183.06012021591607,
+                                       "y":  1507.8769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BDfpCDOxXZ-Tp0Abj_CVW",
+                      "type":  "subtopic",
+                      "label":  "DynamoDB",
+                      "position":  {
+                                       "x":  183.06012021591607,
+                                       "y":  1560.8769658504546
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dc3lJI27hJ3zZ45UCVqM1",
+                      "type":  "topic",
+                      "label":  "What is Data Warehouse?",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  1728.3747253895679
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "J854xPM1X0BWlhtJw7Hs_",
+                      "type":  "topic",
+                      "label":  "Data Warehouse Architectures",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  1781.3747253895679
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ArOoKuf9scAURs8NRjAru",
+                      "type":  "topic",
+                      "label":  "Data Warehouse",
+                      "position":  {
+                                       "x":  -713.1587879480123,
+                                       "y":  1711.6825950083862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Je2in1n8bMaknyeH79Zbv",
+                      "type":  "subtopic",
+                      "label":  "Google BigQuery",
+                      "position":  {
+                                       "x":  -705.1587879480123,
+                                       "y":  1768.6825950083862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W3l1_66fsIqR3MqgBJUmU",
+                      "type":  "subtopic",
+                      "label":  "Snowflake",
+                      "position":  {
+                                       "x":  -705.1587879480123,
+                                       "y":  1821.6825950083862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "omrg8QcYmTdQLBKV47b7o",
+                      "type":  "subtopic",
+                      "label":  "Amazon Redshift",
+                      "position":  {
+                                       "x":  -705.1587879480123,
+                                       "y":  1874.6825950083862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c6Pf3kFcC4iV4a7mPc-WH",
+                      "type":  "subtopic",
+                      "label":  "Data Mart",
+                      "position":  {
+                                       "x":  8.90308699597017,
+                                       "y":  1708.1388436048949
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y0Lxz_wVyQ6lr1hvCsufa",
+                      "type":  "topic",
+                      "label":  "Data Lake",
+                      "position":  {
+                                       "x":  -713.7888386167176,
+                                       "y":  1935.4467529136327
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fhfyoWekmYvEs-jdP2mJo",
+                      "type":  "subtopic",
+                      "label":  "Databricks Delta Lake",
+                      "position":  {
+                                       "x":  -705.7888386167176,
+                                       "y":  1992.4467529136327
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Pf0_CBGkmSEfWDQ2_iFXr",
+                      "type":  "subtopic",
+                      "label":  "Snowflake",
+                      "position":  {
+                                       "x":  -705.7888386167176,
+                                       "y":  2045.4467529136332
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "senZEYC9k-C_C4EAYDNeU",
+                      "type":  "subtopic",
+                      "label":  "Onehouse",
+                      "position":  {
+                                       "x":  -705.7888386167176,
+                                       "y":  2098.4467529136327
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D7qtosIbsQuIY3OWl_Hwc",
+                      "type":  "topic",
+                      "label":  "Data Mesh",
+                      "position":  {
+                                       "x":  154.64235760025667,
+                                       "y":  1708.1388436048949
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jm0e9elKDVbgPzUZrDF0C",
+                      "type":  "label",
+                      "label":  "Other Data Architectures",
+                      "position":  {
+                                       "x":  58.13362466768194,
+                                       "y":  1769.1929625887608
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "-x3QLMYhC67VJQ6EW6BrJ",
+                      "type":  "subtopic",
+                      "label":  "Data Fabric",
+                      "position":  {
+                                       "x":  21.633624667681943,
+                                       "y":  1812.1929625887608
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OiWleAdMbPtisrJpk2eSJ",
+                      "type":  "subtopic",
+                      "label":  "Data Hub",
+                      "position":  {
+                                       "x":  168.14235760025667,
+                                       "y":  1812.1929625887608
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "14CycunRC1p2qTRn-ncoy",
+                      "type":  "subtopic",
+                      "label":  "Metadata-first Architecture",
+                      "position":  {
+                                       "x":  21.633624667681943,
+                                       "y":  1865.226654316583
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZnGX8pg4GagdSalg_P0oq",
+                      "type":  "subtopic",
+                      "label":  "Serverless Options",
+                      "position":  {
+                                       "x":  21.633624667681943,
+                                       "y":  1918.226654316583
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lDeSL9qvgQgyAMcWXF7Fr",
+                      "type":  "topic",
+                      "label":  "Cloud Computing",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  2028.2142814162294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YLfyb_ycgz1hu0yW8SPNE",
+                      "type":  "subtopic",
+                      "label":  "Cloud Architectures",
+                      "position":  {
+                                       "x":  36.91022199347299,
+                                       "y":  2028.2142814162294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eX4gnGnvptJ6JuR-fC5bf",
+                      "type":  "label",
+                      "label":  "Cloud Providers",
+                      "position":  {
+                                       "x":  120.41022199347299,
+                                       "y":  2892.7078290856207
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "8cdzuaPx2PEPI2dpKGcW-",
+                      "type":  "label",
+                      "label":  "AWS",
+                      "position":  {
+                                       "x":  163.910221993473,
+                                       "y":  2315.438295263045
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "AHLsBfPfBJOhLlJ-64GcK",
+                      "type":  "subtopic",
+                      "label":  "Amazon EC2 ( Compute)",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2097.05262575082
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tbut25IZI2aU7TkI9fFYV",
+                      "type":  "subtopic",
+                      "label":  "S3 (Storage)",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2150.05262575082
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GtFk7phYGfXUhxanicYNQ",
+                      "type":  "subtopic",
+                      "label":  "Amazon RDS (Database)",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2203.05262575082
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nD36-PXHzOXePM7j9u_O_",
+                      "type":  "subtopic",
+                      "label":  "Glue (ETL)",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2256.05262575082
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-yi-xk-kv0njW9GdytiAQ",
+                      "type":  "subtopic",
+                      "label":  "Azure Virtual Machines",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2366.6526336884776
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gzbEGCUwMsD1gL4nW668g",
+                      "type":  "subtopic",
+                      "label":  "Azure Blob Storage",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2419.6526336884776
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iIZ3g70KRwEJCBNaONd2d",
+                      "type":  "subtopic",
+                      "label":  "Azure SQL Database",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2472.6526336884776
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BNGdJSmrNE90rwPa4JoWj",
+                      "type":  "subtopic",
+                      "label":  "Data Factory (ETL)",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2525.6526336884776
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3H-zXkKzbU7v2EOVQOym4",
+                      "type":  "label",
+                      "label":  "Azure",
+                      "position":  {
+                                       "x":  159.410221993473,
+                                       "y":  2574.6526336884776
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "-cU86vJWJmlmPHXDCo31o",
+                      "type":  "subtopic",
+                      "label":  "Compute Engine (Compute)",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2628.5221754487116
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2lqvArZdwRX0t3P3yovEH",
+                      "type":  "subtopic",
+                      "label":  "Google Cloud Storage",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2681.5221754487116
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9-wQWQIdAxQmMaJC9ojPg",
+                      "type":  "subtopic",
+                      "label":  "Cloud SQL (Database)",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2734.5221754487116
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YWgVUyIvBRW8eTVR5y73P",
+                      "type":  "subtopic",
+                      "label":  "Dataflow",
+                      "position":  {
+                                       "x":  57.91022199347299,
+                                       "y":  2787.5221754487116
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OL5nd9q0nF8alYjn6U8Qk",
+                      "type":  "label",
+                      "label":  "Google Cloud",
+                      "position":  {
+                                       "x":  128.910221993473,
+                                       "y":  2842.1515664426697
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "3i8v8R7yBtBaWyYHGvlyX",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  8.802508890606077,
+                                       "y":  2028.2142814162294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GN1Xh3kA25ge-wTbdiSio",
+                      "type":  "topic",
+                      "label":  "Types of Data Ingestion",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  2250.701896092305
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f-a3Hy1ldnvSv8W2mFiJK",
+                      "type":  "subtopic",
+                      "label":  "Batch",
+                      "position":  {
+                                       "x":  -712.8853387837023,
+                                       "y":  2197.701896092305
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4fugNG5sEDl0kgmN3Mezk",
+                      "type":  "subtopic",
+                      "label":  "Hybrid",
+                      "position":  {
+                                       "x":  -712.8853387837023,
+                                       "y":  2250.701896092305
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oqxNr0Lj34mgRi5Z5wJt_",
+                      "type":  "subtopic",
+                      "label":  "Realtime",
+                      "position":  {
+                                       "x":  -712.8853387837023,
+                                       "y":  2303.701896092305
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fqTPu70MJyXBmqYUgCJ_r",
+                      "type":  "topic",
+                      "label":  "Data Pipelines",
+                      "position":  {
+                                       "x":  -337.5300742430878,
+                                       "y":  2495.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BtYVoCyN8MjOf8W-5e7fl",
+                      "type":  "label",
+                      "label":  "ETL Process",
+                      "position":  {
+                                       "x":  -632.4826051035416,
+                                       "y":  2407.1542796514227
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "nShDMih1HmubBczxu4cfU",
+                      "type":  "subtopic",
+                      "label":  "Extract Data",
+                      "position":  {
+                                       "x":  -692.4826051035416,
+                                       "y":  2446.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TjsxMNyWO3YGwg6zEIid4",
+                      "type":  "subtopic",
+                      "label":  "Transform Data",
+                      "position":  {
+                                       "x":  -692.4826051035416,
+                                       "y":  2499.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y5Aaxe-P68HC5kNsIi88q",
+                      "type":  "subtopic",
+                      "label":  "Load Data",
+                      "position":  {
+                                       "x":  -692.4826051035416,
+                                       "y":  2552.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jav5k15cLeJJpzKXNLMwA",
+                      "type":  "label",
+                      "label":  "Data Pipeline Tools",
+                      "position":  {
+                                       "x":  -665.4098457305672,
+                                       "y":  2615.1542796514227
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "vfO5Dz6ppsNtbGiQwpUs7",
+                      "type":  "subtopic",
+                      "label":  "Apache Airflow",
+                      "position":  {
+                                       "x":  -691.9826051035416,
+                                       "y":  2655.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SgYLIkMtLVPlw8Qo5j0Fb",
+                      "type":  "subtopic",
+                      "label":  "dbt",
+                      "position":  {
+                                       "x":  -691.9826051035416,
+                                       "y":  2708.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_IiKTZDF_b57l79X6lsq6",
+                      "type":  "subtopic",
+                      "label":  "Luigi",
+                      "position":  {
+                                       "x":  -585.4826051035416,
+                                       "y":  2708.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TAh4__7U58J7fduU9a1Ol",
+                      "type":  "subtopic",
+                      "label":  "Prefect",
+                      "position":  {
+                                       "x":  -691.9826051035416,
+                                       "y":  2761.1542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hB0y8A2U3owpAbTUb7LN5",
+                      "type":  "topic",
+                      "label":  "Cluster Computing Basics",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  2887.2078290856207
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ad10evrGQuYRl5GaMhQwu",
+                      "type":  "subtopic",
+                      "label":  "What is Cluster Computing",
+                      "position":  {
+                                       "x":  -708.8392662493435,
+                                       "y":  2862.2798350445937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1LLF4466grFDlT9p_WLsi",
+                      "type":  "subtopic",
+                      "label":  "Distributed File Systems",
+                      "position":  {
+                                       "x":  -708.3392662493435,
+                                       "y":  2919.2798350445937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ccc6_SzDwXpCL1WbFuPNA",
+                      "type":  "subtopic",
+                      "label":  "Job Scheduling",
+                      "position":  {
+                                       "x":  -708.3392662493435,
+                                       "y":  3047.2798350445937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wpZfbIFtfiUSLMASk4t7f",
+                      "type":  "subtopic",
+                      "label":  "Cluster Management Tools",
+                      "position":  {
+                                       "x":  -708.3392662493435,
+                                       "y":  3100.909226038552
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "I_IueX1DFp-LmBwr1-suX",
+                      "type":  "subtopic",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  -688.3392662493435,
+                                       "y":  3161.663597304641
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pjm_qShAiFk3JsX4Z2d8G",
+                      "type":  "subtopic",
+                      "label":  "Apache Hadoop YARN",
+                      "position":  {
+                                       "x":  -688.3392662493435,
+                                       "y":  3218.663597304641
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9lSjQBM2hWrkujxZjhQHE",
+                      "type":  "subtopic",
+                      "label":  "HDFS",
+                      "position":  {
+                                       "x":  -693.8392662493435,
+                                       "y":  2978.2798350445937
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "03BHmPhYkZrJwRvQdmxxr",
+                      "type":  "topic",
+                      "label":  "Big Data Tools",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  3079.609712743973
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jYqySUu-SEiH5wlJnucLO",
+                      "type":  "label",
+                      "label":  "Hadoop Ecosystem",
+                      "position":  {
+                                       "x":  108.544906599782,
+                                       "y":  3077.498358803729
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "0pH2U4GOj8zK3lgkh_r5M",
+                      "type":  "subtopic",
+                      "label":  "HDFS",
+                      "position":  {
+                                       "x":  55.27313884577751,
+                                       "y":  3120.498358803729
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "__tWu5uZYnmnuR-qO9SOR",
+                      "type":  "subtopic",
+                      "label":  "MapReduce",
+                      "position":  {
+                                       "x":  55.967359489936996,
+                                       "y":  3174.498358803729
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KcW4z48pk2x6IjQhZs_Ub",
+                      "type":  "subtopic",
+                      "label":  "YARN",
+                      "position":  {
+                                       "x":  161.32150392557304,
+                                       "y":  3120.498358803729
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qHMtJFYcGmESiz_VwRwiI",
+                      "type":  "subtopic",
+                      "label":  "Apache Spark",
+                      "position":  {
+                                       "x":  39.16689888289051,
+                                       "y":  3017.550337816306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eTHitN2erd6z8-MZiXE9s",
+                      "type":  "topic",
+                      "label":  "Containers \u0026 Orchestration",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  3323.7504734978916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OQ3RqVgWEMxpAtrrjOG5U",
+                      "type":  "subtopic",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  -708.0442340239423,
+                                       "y":  3323.7504734978916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kcgDW6AFW7WXzXMTPE6J-",
+                      "type":  "subtopic",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  -587.0745890063629,
+                                       "y":  3323.7504734978916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8qEgXYZEbDWC73SQSflDY",
+                      "type":  "subtopic",
+                      "label":  "Google Cloud GKE",
+                      "position":  {
+                                       "x":  -709.0745890063629,
+                                       "y":  3376.7504734978916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eVqcYI2Sy2Dldl3SfxB2C",
+                      "type":  "subtopic",
+                      "label":  "AWS EKS",
+                      "position":  {
+                                       "x":  -709.0745890063629,
+                                       "y":  3429.7504734978916
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k2SJ4ELGa4B2ZERDAk1uj",
+                      "type":  "topic",
+                      "label":  "CI/CD",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  3408.0577155247215
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IYIO4S3DO5xkLD__XT5Dp",
+                      "type":  "subtopic",
+                      "label":  "GitLab CI",
+                      "position":  {
+                                       "x":  40.469647093056835,
+                                       "y":  3408.0577155247215
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CewITBPtfVs32LD5Acb2E",
+                      "type":  "subtopic",
+                      "label":  "Circle CI",
+                      "position":  {
+                                       "x":  205.86057204842035,
+                                       "y":  3351.0577155247215
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "N8vpCfSdZCADwO_qceWBK",
+                      "type":  "subtopic",
+                      "label":  "GitHub Actions",
+                      "position":  {
+                                       "x":  40.469647093056835,
+                                       "y":  3351.0577155247215
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PUzHbjwntTSj1REL_dAov",
+                      "type":  "subtopic",
+                      "label":  "ArgoCD",
+                      "position":  {
+                                       "x":  205.86057204842035,
+                                       "y":  3408.0577155247215
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dk5FQl7Pk3-O5eF7dKwmp",
+                      "type":  "topic",
+                      "label":  "Monitoring",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  3575.8579343223337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3QsgoKKxAoyj2LWJ8ad-7",
+                      "type":  "subtopic",
+                      "label":  "Prometheus",
+                      "position":  {
+                                       "x":  -709.0745890063629,
+                                       "y":  3522.8579343223337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zoa4JEGrSKjVwUNer4Go1",
+                      "type":  "subtopic",
+                      "label":  "Datadog",
+                      "position":  {
+                                       "x":  -710.0338164400608,
+                                       "y":  3575.8579343223337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i54fx-NV6nWzQVCdi0aKL",
+                      "type":  "subtopic",
+                      "label":  "Sentry",
+                      "position":  {
+                                       "x":  -581.0745890063629,
+                                       "y":  3575.8579343223337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "r1KmASWAa_MOqQOC9gvvF",
+                      "type":  "subtopic",
+                      "label":  "New Relic",
+                      "position":  {
+                                       "x":  -710.0338164400608,
+                                       "y":  3628.8579343223337
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DZoxLu-j1vq5leoXLRZqt",
+                      "type":  "topic",
+                      "label":  "Testing",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  3705.4364317278096
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NIG53tyoEiLtwf6LvBZId",
+                      "type":  "subtopic",
+                      "label":  "Integration Testing",
+                      "position":  {
+                                       "x":  78.86057204842035,
+                                       "y":  3595.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8dXD4ddR_USEbAJhUMcB6",
+                      "type":  "subtopic",
+                      "label":  "Unit Testing",
+                      "position":  {
+                                       "x":  78.86057204842035,
+                                       "y":  3542.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mC9sWeC_wYHeJJHJAvxpI",
+                      "type":  "subtopic",
+                      "label":  "End-to-End Testing",
+                      "position":  {
+                                       "x":  78.86057204842035,
+                                       "y":  3648.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "E4ND5XaMDGDLtlV7wTzi6",
+                      "type":  "subtopic",
+                      "label":  "Functional Testing",
+                      "position":  {
+                                       "x":  78.86057204842035,
+                                       "y":  3701.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5qe0q_llTzzNVudbONMYo",
+                      "type":  "subtopic",
+                      "label":  "A/B Testing",
+                      "position":  {
+                                       "x":  78.86057204842035,
+                                       "y":  3754.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qoMRpAITA7R_KOrwGDPAb",
+                      "type":  "subtopic",
+                      "label":  "Load Testing",
+                      "position":  {
+                                       "x":  78.86057204842035,
+                                       "y":  3807.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "woa5K4Dt9L6aBzlJMNS31",
+                      "type":  "subtopic",
+                      "label":  "Smoke Testing",
+                      "position":  {
+                                       "x":  78.86057204842035,
+                                       "y":  3860.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dAvizeYvv92KMeAvSDmey",
+                      "type":  "topic",
+                      "label":  "Messaging Systems",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  3851.3685440069103
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1qju7UlcMo2Ebp4a3BGxH",
+                      "type":  "subtopic",
+                      "label":  "What and why use them?",
+                      "position":  {
+                                       "x":  -712.9795153730329,
+                                       "y":  3742.282701270744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VefHaP7rIOcZVFzglyn66",
+                      "type":  "subtopic",
+                      "label":  "Async vs Sync Communication",
+                      "position":  {
+                                       "x":  -712.9795153730329,
+                                       "y":  3795.282701270744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IZvL-1Xi0R9IuwJ30FDm4",
+                      "type":  "subtopic",
+                      "label":  "Messages vs Streams",
+                      "position":  {
+                                       "x":  -712.9795153730329,
+                                       "y":  3848.282701270744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yyJJGinOv3M21MFuqJs0j",
+                      "type":  "subtopic",
+                      "label":  "Best Practices",
+                      "position":  {
+                                       "x":  -712.9795153730329,
+                                       "y":  3901.282701270744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "leKeGA9-3oHnCRyCkTa-7",
+                      "type":  "label",
+                      "label":  "Common Tools",
+                      "position":  {
+                                       "x":  -640.6371168679775,
+                                       "y":  3972.9231509611654
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "fTpx6m8U0506ZLCdDU5OG",
+                      "type":  "subtopic",
+                      "label":  "Apache Kafka",
+                      "position":  {
+                                       "x":  -693.1371168679775,
+                                       "y":  4021.288150708864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ERcgPTACqYo9BXoRdLjbd",
+                      "type":  "subtopic",
+                      "label":  "RabbitMQ",
+                      "position":  {
+                                       "x":  -693.1371168679775,
+                                       "y":  4074.288150708864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uIU5Yncp6hGDcNO1fpjUS",
+                      "type":  "subtopic",
+                      "label":  "AWS SQS",
+                      "position":  {
+                                       "x":  -693.1371168679775,
+                                       "y":  4127.288150708864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uFeiTRobSymkvCinhwmZV",
+                      "type":  "subtopic",
+                      "label":  "AWS SNS",
+                      "position":  {
+                                       "x":  -693.1371168679775,
+                                       "y":  4180.288150708864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jgz7L8OSuqRNcf9buuMTj",
+                      "type":  "topic",
+                      "label":  "Infrastructure as Code - IaC",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  3947.9231509611654
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GyC2JctG-Gi0R_qx1lTeg",
+                      "type":  "subtopic",
+                      "label":  "Declarative vs Imperative",
+                      "position":  {
+                                       "x":  62.86057204842035,
+                                       "y":  3947.787263115311
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9xoBZgKT9uAGsjc1soelY",
+                      "type":  "subtopic",
+                      "label":  "Idempotency",
+                      "position":  {
+                                       "x":  62.86057204842035,
+                                       "y":  4000.787263115311
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Rzk6HlMosx3FN_JD5kELZ",
+                      "type":  "subtopic",
+                      "label":  "Reusability",
+                      "position":  {
+                                       "x":  62.86057204842035,
+                                       "y":  4053.787263115311
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WUfJCLTajyLNK19gAAvoW",
+                      "type":  "subtopic",
+                      "label":  "Environmental Management",
+                      "position":  {
+                                       "x":  62.86057204842035,
+                                       "y":  4106.787263115311
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ukUz0zhQbv9af5eNyXCji",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  65.36185701884932,
+                                       "y":  4162.602235525543
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "70b270MiOx6rs8YPTO5WG",
+                      "type":  "label",
+                      "label":  "Common Tools",
+                      "position":  {
+                                       "x":  137.86185701884932,
+                                       "y":  4179.523747309951
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "N-xRhdOTHijAymcTWPXPJ",
+                      "type":  "subtopic",
+                      "label":  "Terraform",
+                      "position":  {
+                                       "x":  85.36185701884932,
+                                       "y":  4227.88874705765
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WdlC0HhJ5YESfjXmdMnLU",
+                      "type":  "subtopic",
+                      "label":  "OpenTofu",
+                      "position":  {
+                                       "x":  85.36185701884932,
+                                       "y":  4280.88874705765
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OKJ3HTfreitk2JdrfeLIK",
+                      "type":  "subtopic",
+                      "label":  "AWS CDK",
+                      "position":  {
+                                       "x":  85.36185701884932,
+                                       "y":  4333.88874705765
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1A98uTo8l_GQSrFxu5N2X",
+                      "type":  "subtopic",
+                      "label":  "Google Deployment  Mgr.",
+                      "position":  {
+                                       "x":  85.36185701884932,
+                                       "y":  4386.88874705765
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V30v5RLQrWSMBUIsZQG1o",
+                      "type":  "topic",
+                      "label":  "Data Analytics",
+                      "position":  {
+                                       "x":  -344.0300742430878,
+                                       "y":  4280.179905704921
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zA5QqqBMsqymdiPGFdUnt",
+                      "type":  "topic",
+                      "label":  "Business Intelligence",
+                      "position":  {
+                                       "x":  -344.0300742430878,
+                                       "y":  4386.88874705765
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t5MRham_vg6uI8VKxJT4u",
+                      "type":  "label",
+                      "label":  "BI Tools",
+                      "position":  {
+                                       "x":  -610.5564832593944,
+                                       "y":  4376.6215469098415
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "6Nr5FAGT_oOPZwZWdv7hl",
+                      "type":  "subtopic",
+                      "label":  "Microsoft Power BI",
+                      "position":  {
+                                       "x":  -701.5564832593944,
+                                       "y":  4423.863141867886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FfU6Vwf0PXva91FoqxFgp",
+                      "type":  "subtopic",
+                      "label":  "Streamlit",
+                      "position":  {
+                                       "x":  -701.5564832593944,
+                                       "y":  4476.863141867886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gqEAOwHFrQiYSejNUdV7-",
+                      "type":  "subtopic",
+                      "label":  "Tableu",
+                      "position":  {
+                                       "x":  -701.5564832593944,
+                                       "y":  4529.863141867886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fY0eZzz0aTXm2lelk8l3g",
+                      "type":  "subtopic",
+                      "label":  "Looker",
+                      "position":  {
+                                       "x":  -701.5564832593944,
+                                       "y":  4582.863141867886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JpuiYsipNWBcrjmn2ji6b",
+                      "type":  "topic",
+                      "label":  "Reverse ETL",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  4489.936179217484
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LMFREK9dH_7qzx_s2xCjI",
+                      "type":  "subtopic",
+                      "label":  "ETL vs Reverse ETL",
+                      "position":  {
+                                       "x":  59.8913111932784,
+                                       "y":  4489.936179217484
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mBOGrJIUaatBe2PnJM2NK",
+                      "type":  "subtopic",
+                      "label":  "Reverse ETL Usecases",
+                      "position":  {
+                                       "x":  59.8913111932784,
+                                       "y":  4542.936179217484
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p_J0YWx0VKTdCqtH-v9kL",
+                      "type":  "label",
+                      "label":  "Tools",
+                      "position":  {
+                                       "x":  174.3913111932784,
+                                       "y":  4608.19458425944
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "vZGDtlyt_yj4szcPTw3cv",
+                      "type":  "subtopic",
+                      "label":  "Census",
+                      "position":  {
+                                       "x":  76.8913111932784,
+                                       "y":  4708.19458425944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8vqjI-uFwJIr_TBEVyM_3",
+                      "type":  "subtopic",
+                      "label":  "Segment",
+                      "position":  {
+                                       "x":  76.8913111932784,
+                                       "y":  4761.19458425944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8NTe5-XQ5tKAWUyg1rnzb",
+                      "type":  "subtopic",
+                      "label":  "Hightouch",
+                      "position":  {
+                                       "x":  76.8913111932784,
+                                       "y":  4655.19458425944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HDVhttLNMLmIAVEOBCOQ3",
+                      "type":  "topic",
+                      "label":  "Authentication, Authorization",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  4703.046037137596
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2PqRgrYuJi_pPhOS0AkoP",
+                      "type":  "topic",
+                      "label":  "Encryption",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  4756.046037137596
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZAKo9Svb8TQ6KkmOnfB5x",
+                      "type":  "topic",
+                      "label":  "Tokenization",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  4809.046037137596
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Wu1Ufm2l1nrytz1mAxmJ",
+                      "type":  "topic",
+                      "label":  "Data Masking",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  4862.046037137596
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rUiYUV4ps6NYYYRwUnjuM",
+                      "type":  "topic",
+                      "label":  "Data Obfuscation",
+                      "position":  {
+                                       "x":  -341.0300742430878,
+                                       "y":  4915.046037137596
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cStrYgFZA2NuYq8TdWWP_",
+                      "type":  "subtopic",
+                      "label":  "Data Quality",
+                      "position":  {
+                                       "x":  -714.0564832593944,
+                                       "y":  4802.059282782253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pKewO7Ef3GBXL4MDK62QG",
+                      "type":  "subtopic",
+                      "label":  "Data Lineage",
+                      "position":  {
+                                       "x":  -714.0564832593944,
+                                       "y":  4855.059282782253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "a5gzM8msXibxD58eVDkM-",
+                      "type":  "subtopic",
+                      "label":  "Metadata Management",
+                      "position":  {
+                                       "x":  -714.0564832593944,
+                                       "y":  4908.059282782253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ghAbtfB5KtbboNjijL1Zf",
+                      "type":  "subtopic",
+                      "label":  "Data Interoperability",
+                      "position":  {
+                                       "x":  -714.0564832593944,
+                                       "y":  4961.059282782253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iuNP6W0A2GLTE2PK5y68u",
+                      "type":  "subtopic",
+                      "label":  "Data Quality",
+                      "position":  {
+                                       "x":  -714.0564832593944,
+                                       "y":  5014.059282782253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "46SzVj1sCFNbxxb002lYl",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -443.6470244972602,
+                                       "y":  4808.059282782253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MuPHohc7mJzcH5QdJ-K46",
+                      "type":  "subtopic",
+                      "label":  "GDPR",
+                      "position":  {
+                                       "x":  74.8913111932784,
+                                       "y":  4910.315108848798
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "g1VwuSupohuDAT2O4hTXx",
+                      "type":  "subtopic",
+                      "label":  "ECPA",
+                      "position":  {
+                                       "x":  74.8913111932784,
+                                       "y":  4963.315108848798
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tdqhFFvQ2dQVeQh1qTHjV",
+                      "type":  "subtopic",
+                      "label":  "EU AI Act",
+                      "position":  {
+                                       "x":  74.8913111932784,
+                                       "y":  5016.315108848798
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4qvR1QQzrmoVIVCAsp92H",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -213.75377110481432,
+                                       "y":  5259.647148938854
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O5dely89N5UCMBeUfh8ud",
+                      "type":  "paragraph",
+                      "label":  "Also visit the following related roadmaps",
+                      "position":  {
+                                       "x":  -581.68101173184,
+                                       "y":  5140.647148938854
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gu0QppNXop66pFxKFKb4r",
+                      "type":  "button",
+                      "label":  "Python",
+                      "position":  {
+                                       "x":  -567.0384596732702,
+                                       "y":  5194.497921035061
+                                   },
+                      "href":  "https://roadmap.sh/python-data-analysis",
+                      "links":  null
+                  },
+                  {
+                      "id":  "hl06pnTWoMnzLmiOz9Sga",
+                      "type":  "button",
+                      "label":  "AI \u0026 Data Scientist",
+                      "position":  {
+                                       "x":  -423.0384596732703,
+                                       "y":  5194.497921035061
+                                   },
+                      "href":  "https://roadmap.sh/devops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "KGFYqDgOVSFXd2lbg8vGx",
+                      "type":  "button",
+                      "label":  "SQL",
+                      "position":  {
+                                       "x":  -220.30248268441323,
+                                       "y":  5194.497921035061
+                                   },
+                      "href":  "https://roadmap.sh/sql",
+                      "links":  null
+                  },
+                  {
+                      "id":  "I0p_-Urr8ZWXXH1JmFMWC",
+                      "type":  "label",
+                      "label":  "Data and AI Regulations",
+                      "position":  {
+                                       "x":  81.63799896483582,
+                                       "y":  4873.046037137596
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xcOlVnhYfnSCfzLpkcaRS",
+                      "type":  "button",
+                      "label":  "Data Analyst",
+                      "position":  {
+                                       "x":  -115.22312281803156,
+                                       "y":  5194.497921035061
+                                   },
+                      "href":  "https://roadmap.sh/data-analyst",
+                      "links":  null
+                  },
+                  {
+                      "id":  "UZq7Aq3nhidsXdsKeEnNF",
+                      "type":  "button",
+                      "label":  "MLOps",
+                      "position":  {
+                                       "x":  39.79243153784077,
+                                       "y":  5194.497921035061
+                                   },
+                      "href":  "https://roadmap.sh/mlops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -10.379781400740086,
+                                       "y":  -158.32271778119423
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  3.244730812503036,
+                                       "y":  -76.70915590560651
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "A6Ir6NnO0dyMYsFcImMZg",
+                      "type":  "label",
+                      "label":  "Learn the Basics",
+                      "position":  {
+                                       "x":  -285.5300742430878,
+                                       "y":  247.54311795171424
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "N3usO429ZvszyQ_gNBiqF",
+                      "type":  "label",
+                      "label":  "Data Generation",
+                      "position":  {
+                                       "x":  -284.0300742430878,
+                                       "y":  758.6822567296443
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "O3eC3W8auGIT2rQmeMU2H",
+                      "type":  "label",
+                      "label":  "Data Storage",
+                      "position":  {
+                                       "x":  -268.5300742430878,
+                                       "y":  1000.986594756665
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "uMFcWEfRYrMVqxo9MUP9V",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -440.51051435995873,
+                                       "y":  985.2651897458286
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nIwjVPL2APXOjrMhfofeW",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -418.1381872719935,
+                                       "y":  1128.9467191443077
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4uAF5-M4WOboEPJKlX1Ny",
+                      "type":  "label",
+                      "label":  "Data Warehousing",
+                      "position":  {
+                                       "x":  -291.5300742430878,
+                                       "y":  1581.3769658504546
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "U9xmYwWGAR7KLcaYfv_lC",
+                      "type":  "label",
+                      "label":  "Data Ingestion",
+                      "position":  {
+                                       "x":  -275.5300742430878,
+                                       "y":  2146.05262575082
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "dsSv6CJbECRUGyXfMTvpi",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -471.0300742430878,
+                                       "y":  1797.6825950083862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UFrmqDRBJV0Q1FugYgphn",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -62.09691300402983,
+                                       "y":  1792.1929625887608
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vSO3HI12e9rcCQAfqhVgx",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -58.86637533231806,
+                                       "y":  2041.4467529136327
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HlMVoUBWNBweM7KFl8oCD",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -436.5300742430878,
+                                       "y":  2509.6542796514227
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0DHW6r4Xzpdl7cItAkrtY",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -443.6470244972602,
+                                       "y":  2868.154852977973
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jm5x_lY_QDIqXx_8a4-2v",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -432.0300742430878,
+                                       "y":  2901.7078290856207
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iPuZf6fWzYR5cEwO2v1ZQ",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  52.71595716364243,
+                                       "y":  3547.568325209298
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "j4ewNR5-Z9YJeb15Mz19i",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -61.15699646358218,
+                                       "y":  3719.077069656235
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6ysXXwSkxFvxz6S_JWhYy",
+                      "type":  "label",
+                      "label":  "Data Serving",
+                      "position":  {
+                                       "x":  -267.0300742430878,
+                                       "y":  4102.787263115311
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Lbc9o3uQTkJDzXIbVOBfL",
+                      "type":  "label",
+                      "label":  "Security",
+                      "position":  {
+                                       "x":  -245.53007424308782,
+                                       "y":  4594.009978506171
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "hSXBrXBT_VnZ7jrWqO6V0",
+                      "type":  "button",
+                      "label":  "Data Analyst",
+                      "position":  {
+                                       "x":  -716.0564832593944,
+                                       "y":  4280.179905704921
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "dccRqf7tHhlluATiKi2-0",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -428.6470244972602,
+                                       "y":  4398.363141867886
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HYHS1_6tiSlgckgbrygGh",
+                      "type":  "label",
+                      "label":  "Data Governance \u0026 Privacy",
+                      "position":  {
+                                       "x":  -332.5300742430878,
+                                       "y":  5019.815108848798
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "GtTunzyWiWA3rI0EyoApa",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -432.0300742430878,
+                                       "y":  5028.559282782253
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__7aSscXd-UMNWOX7A_vxYhx2-fY8LEcCRTKUVEqLH1Qlc0w1",
+                      "source":  "7aSscXd-UMNWOX7A_vxYh",
+                      "target":  "WSYIFni7G2C9Jr0pwuami",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__fY8LEcCRTKUVEqLH1Qlc0z2-3BxbkrBp8veZj38zdwN8sy2",
+                      "source":  "WSYIFni7G2C9Jr0pwuami",
+                      "target":  "3BxbkrBp8veZj38zdwN8s",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__fY8LEcCRTKUVEqLH1Qlc0z2-Ouph2bHeLQsrHl45ar4Csy1",
+                      "source":  "WSYIFni7G2C9Jr0pwuami",
+                      "target":  "Ouph2bHeLQsrHl45ar4Cs",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__fY8LEcCRTKUVEqLH1Qlc0z2-jJukG4XxfFcID_VlQKqe-y1",
+                      "source":  "WSYIFni7G2C9Jr0pwuami",
+                      "target":  "jJukG4XxfFcID_VlQKqe-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__fY8LEcCRTKUVEqLH1Qlc0z2-WB2PRVI9C6RIbJ6l9zdbdy2",
+                      "source":  "WSYIFni7G2C9Jr0pwuami",
+                      "target":  "WB2PRVI9C6RIbJ6l9zdbd",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__fY8LEcCRTKUVEqLH1Qlc0z2-_MpdVlvvkrsgzigYMZ_P8y1",
+                      "source":  "WSYIFni7G2C9Jr0pwuami",
+                      "target":  "_MpdVlvvkrsgzigYMZ_P8",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__cslVSSKBMO7I6CpO7vG1Hx2-jzsScqhz8Z0DLlk2gjVElw1",
+                      "source":  "cslVSSKBMO7I6CpO7vG1H",
+                      "target":  "uZYQ8tqTriXt_JIOjcM9_",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-fBD6ZQoMac8w4kMJw_Jrdz2",
+                      "source":  "uZYQ8tqTriXt_JIOjcM9_",
+                      "target":  "fBD6ZQoMac8w4kMJw_Jrd",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__J854xPM1X0BWlhtJw7Hs_x2-jzsScqhz8Z0DLlk2gjVElw2",
+                      "source":  "J854xPM1X0BWlhtJw7Hs_",
+                      "target":  "lDeSL9qvgQgyAMcWXF7Fr",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-f-a3Hy1ldnvSv8W2mFiJKz1",
+                      "source":  "GN1Xh3kA25ge-wTbdiSio",
+                      "target":  "f-a3Hy1ldnvSv8W2mFiJK",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-4fugNG5sEDl0kgmN3Mezkz1",
+                      "source":  "GN1Xh3kA25ge-wTbdiSio",
+                      "target":  "4fugNG5sEDl0kgmN3Mezk",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-oqxNr0Lj34mgRi5Z5wJt_z2",
+                      "source":  "GN1Xh3kA25ge-wTbdiSio",
+                      "target":  "oqxNr0Lj34mgRi5Z5wJt_",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__03BHmPhYkZrJwRvQdmxxrx2-jzsScqhz8Z0DLlk2gjVElw1",
+                      "source":  "03BHmPhYkZrJwRvQdmxxr",
+                      "target":  "eTHitN2erd6z8-MZiXE9s",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-8qEgXYZEbDWC73SQSflDYz1",
+                      "source":  "eTHitN2erd6z8-MZiXE9s",
+                      "target":  "8qEgXYZEbDWC73SQSflDY",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-i54fx-NV6nWzQVCdi0aKLz2",
+                      "source":  "eTHitN2erd6z8-MZiXE9s",
+                      "target":  "eVqcYI2Sy2Dldl3SfxB2C",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-kcgDW6AFW7WXzXMTPE6J-z1",
+                      "source":  "eTHitN2erd6z8-MZiXE9s",
+                      "target":  "kcgDW6AFW7WXzXMTPE6J-",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__eTHitN2erd6z8-MZiXE9sx2-jzsScqhz8Z0DLlk2gjVElw1",
+                      "source":  "eTHitN2erd6z8-MZiXE9s",
+                      "target":  "k2SJ4ELGa4B2ZERDAk1uj",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVElz2-N8vpCfSdZCADwO_qceWBKy1",
+                      "source":  "k2SJ4ELGa4B2ZERDAk1uj",
+                      "target":  "N8vpCfSdZCADwO_qceWBK",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVElz2-8dXD4ddR_USEbAJhUMcB6y1",
+                      "source":  "k2SJ4ELGa4B2ZERDAk1uj",
+                      "target":  "IYIO4S3DO5xkLD__XT5Dp",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-i54fx-NV6nWzQVCdi0aKLz1",
+                      "source":  "dk5FQl7Pk3-O5eF7dKwmp",
+                      "target":  "i54fx-NV6nWzQVCdi0aKL",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-3QsgoKKxAoyj2LWJ8ad-7z1",
+                      "source":  "dk5FQl7Pk3-O5eF7dKwmp",
+                      "target":  "3QsgoKKxAoyj2LWJ8ad-7",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__dk5FQl7Pk3-O5eF7dKwmpx2-jzsScqhz8Z0DLlk2gjVElw1",
+                      "source":  "dk5FQl7Pk3-O5eF7dKwmp",
+                      "target":  "DZoxLu-j1vq5leoXLRZqt",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__DZoxLu-j1vq5leoXLRZqtx2-jzsScqhz8Z0DLlk2gjVElw1",
+                      "source":  "DZoxLu-j1vq5leoXLRZqt",
+                      "target":  "dAvizeYvv92KMeAvSDmey",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-1qju7UlcMo2Ebp4a3BGxHz1",
+                      "source":  "dAvizeYvv92KMeAvSDmey",
+                      "target":  "1qju7UlcMo2Ebp4a3BGxH",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-VefHaP7rIOcZVFzglyn66z1",
+                      "source":  "dAvizeYvv92KMeAvSDmey",
+                      "target":  "VefHaP7rIOcZVFzglyn66",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__jzsScqhz8Z0DLlk2gjVEly2-IZvL-1Xi0R9IuwJ30FDm4z1",
+                      "source":  "dAvizeYvv92KMeAvSDmey",
+                      "target":  "IZvL-1Xi0R9IuwJ30FDm4",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__dAvizeYvv92KMeAvSDmeyx2-jzsScqhz8Z0DLlk2gjVElw1",
+                      "source":  "dAvizeYvv92KMeAvSDmey",
+                      "target":  "jgz7L8OSuqRNcf9buuMTj",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__jgz7L8OSuqRNcf9buuMTjz2-GyC2JctG-Gi0R_qx1lTegy1",
+                      "source":  "jgz7L8OSuqRNcf9buuMTj",
+                      "target":  "GyC2JctG-Gi0R_qx1lTeg",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jgz7L8OSuqRNcf9buuMTjz2-9xoBZgKT9uAGsjc1soelYy2",
+                      "source":  "jgz7L8OSuqRNcf9buuMTj",
+                      "target":  "9xoBZgKT9uAGsjc1soelY",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__jgz7L8OSuqRNcf9buuMTjz2-Rzk6HlMosx3FN_JD5kELZy1",
+                      "source":  "jgz7L8OSuqRNcf9buuMTj",
+                      "target":  "Rzk6HlMosx3FN_JD5kELZ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jgz7L8OSuqRNcf9buuMTjz2-WUfJCLTajyLNK19gAAvoWy1",
+                      "source":  "jgz7L8OSuqRNcf9buuMTj",
+                      "target":  "WUfJCLTajyLNK19gAAvoW",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__WSYIFni7G2C9Jr0pwuamix2-HYHS1_6tiSlgckgbrygGhw1",
+                      "source":  "WSYIFni7G2C9Jr0pwuami",
+                      "target":  "A6Ir6NnO0dyMYsFcImMZg",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhx2-zGKTlMUzhrbVbqpLZBsMZw1",
+                      "source":  "N3usO429ZvszyQ_gNBiqF",
+                      "target":  "zGKTlMUzhrbVbqpLZBsMZ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__c1dadtQgbqXwcsQhI6de0x2-N3usO429ZvszyQ_gNBiqFw1",
+                      "source":  "c1dadtQgbqXwcsQhI6de0",
+                      "target":  "N3usO429ZvszyQ_gNBiqF",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "T64IwFySQKC8WRiRj_-sw",
+                      "source":  "w3cfuNC-IdUKA7CEXs0fT",
+                      "target":  "AWf1y87pd1JFW71cZ_iE1",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "lVTBmhq4IDlTXSoG0bz5c",
+                      "source":  "w3cfuNC-IdUKA7CEXs0fT",
+                      "target":  "wydtifF3ZhMWCbVt8Hd2t",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "qjIrCQ74QfXv0whm9zfCe",
+                      "source":  "w3cfuNC-IdUKA7CEXs0fT",
+                      "target":  "CvCOkyWcgzaUJec_v5F4L",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "IUHiLtROi0aTPGq0uoBA6",
+                      "source":  "w3cfuNC-IdUKA7CEXs0fT",
+                      "target":  "RspQLpkICyHUmthLlxQ84",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__A6Ir6NnO0dyMYsFcImMZgx2-w3cfuNC-IdUKA7CEXs0fTw2",
+                      "source":  "A6Ir6NnO0dyMYsFcImMZg",
+                      "target":  "w3cfuNC-IdUKA7CEXs0fT",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge___2Ofq3Df-VRXDgKyveZ0Uz2-ILs5azr4L_uLK0CDFKVazy1",
+                      "source":  "_2Ofq3Df-VRXDgKyveZ0U",
+                      "target":  "ILs5azr4L_uLK0CDFKVaz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge___2Ofq3Df-VRXDgKyveZ0Uz2-WHJXJ5ukJd-tK_3LFLJBgy1",
+                      "source":  "_2Ofq3Df-VRXDgKyveZ0U",
+                      "target":  "WHJXJ5ukJd-tK_3LFLJBg",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__zGKTlMUzhrbVbqpLZBsMZy2-qRHeaD2udDaItAxmiIiUgz1",
+                      "source":  "zGKTlMUzhrbVbqpLZBsMZ",
+                      "target":  "qRHeaD2udDaItAxmiIiUg",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__zGKTlMUzhrbVbqpLZBsMZy2-s-wUPMaagyRupT2RdfHksz2",
+                      "source":  "zGKTlMUzhrbVbqpLZBsMZ",
+                      "target":  "s-wUPMaagyRupT2RdfHks",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__zGKTlMUzhrbVbqpLZBsMZy2-KeGCHoJRHp-mBX-P5to4Yz2",
+                      "source":  "zGKTlMUzhrbVbqpLZBsMZ",
+                      "target":  "KeGCHoJRHp-mBX-P5to4Y",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhw2-wDDWQgMVBYK4WcmHq_d6lx2",
+                      "source":  "O3eC3W8auGIT2rQmeMU2H",
+                      "target":  "wDDWQgMVBYK4WcmHq_d6l",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhx2-g4UC0go7OPCJYJlac9w-iw1",
+                      "source":  "O3eC3W8auGIT2rQmeMU2H",
+                      "target":  "g4UC0go7OPCJYJlac9w-i",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__W6RnhoD7fW2xzVwnyJEDry2-uZYQ8tqTriXt_JIOjcM9_z1",
+                      "source":  "W6RnhoD7fW2xzVwnyJEDr",
+                      "target":  "uZYQ8tqTriXt_JIOjcM9_",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__uZYQ8tqTriXt_JIOjcM9_x2-HYHS1_6tiSlgckgbrygGhw1",
+                      "source":  "uZYQ8tqTriXt_JIOjcM9_",
+                      "target":  "4uAF5-M4WOboEPJKlX1Ny",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__4uAF5-M4WOboEPJKlX1Nyx2-dc3lJI27hJ3zZ45UCVqM1w1",
+                      "source":  "4uAF5-M4WOboEPJKlX1Ny",
+                      "target":  "dc3lJI27hJ3zZ45UCVqM1",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__lDeSL9qvgQgyAMcWXF7Frx2-HYHS1_6tiSlgckgbrygGhw1",
+                      "source":  "lDeSL9qvgQgyAMcWXF7Fr",
+                      "target":  "U9xmYwWGAR7KLcaYfv_lC",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__GN1Xh3kA25ge-wTbdiSiow2-HYHS1_6tiSlgckgbrygGhx1",
+                      "source":  "GN1Xh3kA25ge-wTbdiSio",
+                      "target":  "U9xmYwWGAR7KLcaYfv_lC",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__GN1Xh3kA25ge-wTbdiSiox2-fqTPu70MJyXBmqYUgCJ_rw1",
+                      "source":  "GN1Xh3kA25ge-wTbdiSio",
+                      "target":  "fqTPu70MJyXBmqYUgCJ_r",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__fqTPu70MJyXBmqYUgCJ_rx2-hB0y8A2U3owpAbTUb7LN5w1",
+                      "source":  "fqTPu70MJyXBmqYUgCJ_r",
+                      "target":  "hB0y8A2U3owpAbTUb7LN5",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__hB0y8A2U3owpAbTUb7LN5x2-03BHmPhYkZrJwRvQdmxxrw2",
+                      "source":  "hB0y8A2U3owpAbTUb7LN5",
+                      "target":  "03BHmPhYkZrJwRvQdmxxr",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__03BHmPhYkZrJwRvQdmxxrz2-SEpxm5INSkSQc07C4uyPty1",
+                      "source":  "03BHmPhYkZrJwRvQdmxxr",
+                      "target":  "SEpxm5INSkSQc07C4uyPt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__03BHmPhYkZrJwRvQdmxxrz2-qHMtJFYcGmESiz_VwRwiIy2",
+                      "source":  "03BHmPhYkZrJwRvQdmxxr",
+                      "target":  "qHMtJFYcGmESiz_VwRwiI",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__dk5FQl7Pk3-O5eF7dKwmpy2-r1KmASWAa_MOqQOC9gvvFz1",
+                      "source":  "dk5FQl7Pk3-O5eF7dKwmp",
+                      "target":  "r1KmASWAa_MOqQOC9gvvF",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__k2SJ4ELGa4B2ZERDAk1ujx2-dk5FQl7Pk3-O5eF7dKwmpw1",
+                      "source":  "k2SJ4ELGa4B2ZERDAk1uj",
+                      "target":  "dk5FQl7Pk3-O5eF7dKwmp",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__dAvizeYvv92KMeAvSDmeyy2-yyJJGinOv3M21MFuqJs0jz1",
+                      "source":  "dAvizeYvv92KMeAvSDmey",
+                      "target":  "yyJJGinOv3M21MFuqJs0j",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhw2-jgz7L8OSuqRNcf9buuMTjx2",
+                      "source":  "6ysXXwSkxFvxz6S_JWhYy",
+                      "target":  "jgz7L8OSuqRNcf9buuMTj",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhx2-HDVhttLNMLmIAVEOBCOQ3w1",
+                      "source":  "Lbc9o3uQTkJDzXIbVOBfL",
+                      "target":  "HDVhttLNMLmIAVEOBCOQ3",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__6ysXXwSkxFvxz6S_JWhYyx2-V30v5RLQrWSMBUIsZQG1ow1",
+                      "source":  "6ysXXwSkxFvxz6S_JWhYy",
+                      "target":  "V30v5RLQrWSMBUIsZQG1o",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__V30v5RLQrWSMBUIsZQG1oy2-hSXBrXBT_VnZ7jrWqO6V0z1",
+                      "source":  "V30v5RLQrWSMBUIsZQG1o",
+                      "target":  "hSXBrXBT_VnZ7jrWqO6V0",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__V30v5RLQrWSMBUIsZQG1ox2-zA5QqqBMsqymdiPGFdUntw2",
+                      "source":  "V30v5RLQrWSMBUIsZQG1o",
+                      "target":  "zA5QqqBMsqymdiPGFdUnt",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__zA5QqqBMsqymdiPGFdUntx2-JpuiYsipNWBcrjmn2ji6bw1",
+                      "source":  "zA5QqqBMsqymdiPGFdUnt",
+                      "target":  "JpuiYsipNWBcrjmn2ji6b",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__JpuiYsipNWBcrjmn2ji6bz2-LMFREK9dH_7qzx_s2xCjIy1",
+                      "source":  "JpuiYsipNWBcrjmn2ji6b",
+                      "target":  "LMFREK9dH_7qzx_s2xCjI",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__JpuiYsipNWBcrjmn2ji6bz2-mBOGrJIUaatBe2PnJM2NKy1",
+                      "source":  "JpuiYsipNWBcrjmn2ji6b",
+                      "target":  "mBOGrJIUaatBe2PnJM2NK",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__JpuiYsipNWBcrjmn2ji6bx2-HYHS1_6tiSlgckgbrygGhw1",
+                      "source":  "JpuiYsipNWBcrjmn2ji6b",
+                      "target":  "Lbc9o3uQTkJDzXIbVOBfL",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__rUiYUV4ps6NYYYRwUnjuMx2-HYHS1_6tiSlgckgbrygGhw1",
+                      "source":  "rUiYUV4ps6NYYYRwUnjuM",
+                      "target":  "HYHS1_6tiSlgckgbrygGh",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhz2-MuPHohc7mJzcH5QdJ-K46y1",
+                      "source":  "HYHS1_6tiSlgckgbrygGh",
+                      "target":  "MuPHohc7mJzcH5QdJ-K46",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__g1VwuSupohuDAT2O4hTXxy2-HYHS1_6tiSlgckgbrygGhz1",
+                      "source":  "g1VwuSupohuDAT2O4hTXx",
+                      "target":  "HYHS1_6tiSlgckgbrygGh",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhz2-tdqhFFvQ2dQVeQh1qTHjVy1",
+                      "source":  "HYHS1_6tiSlgckgbrygGh",
+                      "target":  "tdqhFFvQ2dQVeQh1qTHjV",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__HYHS1_6tiSlgckgbrygGhx2-O5dely89N5UCMBeUfh8udw1",
+                      "source":  "HYHS1_6tiSlgckgbrygGh",
+                      "target":  "O5dely89N5UCMBeUfh8ud",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

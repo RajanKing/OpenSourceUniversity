@@ -1,0 +1,3310 @@
+[
+    {
+        "id":  "h6qRrUe-bn25s0UkxU600",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/terraform/topic@h6qRrUe-bn25s0UkxU600.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Website",
+                              "type":  "official",
+                              "url":  "https://www.terraform.io/"
+                          },
+                          {
+                              "title":  "Terraform Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform"
+                          },
+                          {
+                              "title":  "Terraform Backend: How it Works and How to Configure it",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/terraform/backend"
+                          },
+                          {
+                              "title":  "Terraform for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=SLB_c_ayRMo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CU9V3iRdssamsG-xMouXT",
+        "label":  "What is Terraform?",
+        "endpoint":  "https://roadmap.sh/terraform/topic@CU9V3iRdssamsG-xMouXT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Terraform?",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/intro#what-is-terraform"
+                          },
+                          {
+                              "title":  "What is Terraform?",
+                              "type":  "article",
+                              "url":  "https://www.varonis.com/blog/what-is-terraform"
+                          },
+                          {
+                              "title":  "What is Terraform? Terraform Explained in 2 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lIaUz2GAqEQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hRIDJHIxWc5Iav7tsu8l-",
+        "label":  "Usecases and Benefits",
+        "endpoint":  "https://roadmap.sh/terraform/topic@hRIDJHIxWc5Iav7tsu8l-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Use Cases of Terraform",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/intro/use-cases#use-cases"
+                          },
+                          {
+                              "title":  "9 Terraform Use Cases for Your Infrastructure as Code",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-use-cases"
+                          },
+                          {
+                              "title":  "What are the Benefits of Using Terraform?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0M4IvedbLJ4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AYtBLFU1nowEq-EVlXrEZ",
+        "label":  "Installing Terraform",
+        "endpoint":  "https://roadmap.sh/terraform/topic@AYtBLFU1nowEq-EVlXrEZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Install Terraform",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/install"
+                          },
+                          {
+                              "title":  "Installing Terraform CLI",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli"
+                          },
+                          {
+                              "title":  "Install Terraform on Ubuntu",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=LM3RLgNu7tU"
+                          },
+                          {
+                              "title":  "Install Terraform on MacOS",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ViMwnReV1A8"
+                          },
+                          {
+                              "title":  "Install Terraform on Windows 10/11",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qj4cOSYr7po"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UsINvx84pBF1hp8XoLF4c",
+        "label":  "CaC vs IaC",
+        "endpoint":  "https://roadmap.sh/terraform/topic@UsINvx84pBF1hp8XoLF4c.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "IaC vs CaC",
+                              "type":  "article",
+                              "url":  "https://medium.com/@cloudhacks_/infrastructure-as-code-iac-vs-configuration-as-code-cac-unraveling-the-differences-24fbce05ae25"
+                          },
+                          {
+                              "title":  "Ansible vs. Terraform: What\u0027s the difference?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rx4Uh3jv1cA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GlIXmCuvR_C81RMeMM1Kz",
+        "label":  "Project Initialization",
+        "endpoint":  "https://roadmap.sh/terraform/topic@GlIXmCuvR_C81RMeMM1Kz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Init Command",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/init"
+                          },
+                          {
+                              "title":  "Initialize Terraform Configuration",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/cli/init"
+                          },
+                          {
+                              "title":  "Terraform Init",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-init"
+                          },
+                          {
+                              "title":  "Learn Terraform: The Init Command",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=82lsMLqWjS4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZRVv9onD7KGz1cJLcsnwy",
+        "label":  "Providers",
+        "endpoint":  "https://roadmap.sh/terraform/topic@ZRVv9onD7KGz1cJLcsnwy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Providers Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/providers#providers"
+                          },
+                          {
+                              "title":  "Understanding Terraform Providers",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/prescriptive-guidance/latest/getting-started-terraform/providers.html"
+                          },
+                          {
+                              "title":  "What are terraform providers and how to use them?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Kd7ddHBR2ec"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iIjUG_N_mQtLHG25v4-xg",
+        "label":  "Terraform Registry",
+        "endpoint":  "https://roadmap.sh/terraform/topic@iIjUG_N_mQtLHG25v4-xg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Registry",
+                              "type":  "official",
+                              "url":  "https://registry.terraform.io/"
+                          },
+                          {
+                              "title":  "Terraform Registry Guide",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-registry"
+                          },
+                          {
+                              "title":  "Terraform Registry Providers and Modules",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=q4VdvS8aXnc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JJ-QhLWqT0luis_kVDVHW",
+        "label":  "Configuring Providers",
+        "endpoint":  "https://roadmap.sh/terraform/topic@JJ-QhLWqT0luis_kVDVHW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Providers Overview",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/providers#providers"
+                          },
+                          {
+                              "title":  "How To Use Terraform Providers",
+                              "type":  "article",
+                              "url":  "https://www.env0.com/blog/how-to-use-terraform-providers"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bnQ2YLHd7E-vRxX3PnUEX",
+        "label":  "Versions",
+        "endpoint":  "https://roadmap.sh/terraform/topic@bnQ2YLHd7E-vRxX3PnUEX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Requiring Providers",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/providers/requirements#requiring-providers"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qhO7CY-1_vuh2BVJYQCzh",
+        "label":  "Hashicorp Config. Language (HCL)",
+        "endpoint":  "https://roadmap.sh/terraform/topic@qhO7CY-1_vuh2BVJYQCzh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Language Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language"
+                          },
+                          {
+                              "title":  "HCL Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/hcl"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "twR3k9D-qDr1CbyW6K0Fs",
+        "label":  "What is Infrastructure as Code?",
+        "endpoint":  "https://roadmap.sh/terraform/topic@twR3k9D-qDr1CbyW6K0Fs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is It? Why Is It Important?",
+                              "type":  "article",
+                              "url":  "https://www.hashicorp.com/resources/what-is-infrastructure-as-code"
+                          },
+                          {
+                              "title":  "What is Infrastructure as Code?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac"
+                          },
+                          {
+                              "title":  "What is Infrastructure as Code?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zWw2wuiKd5o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Hma2IgatFME8STHPwpeMG",
+        "label":  "What is HCL?",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Hma2IgatFME8STHPwpeMG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Syntax - Configuration Language | Terraform",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/syntax/configuration"
+                          },
+                          {
+                              "title":  "hashicorp/hcl",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/hcl"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LaD0H7XhoEEaXbcwjxAbw",
+        "label":  "Basic Syntax",
+        "endpoint":  "https://roadmap.sh/terraform/topic@LaD0H7XhoEEaXbcwjxAbw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HCL Native Syntax Specification",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BYydmFc2e-YPCC4MCWmh2",
+        "label":  "Resources",
+        "endpoint":  "https://roadmap.sh/terraform/topic@BYydmFc2e-YPCC4MCWmh2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Resource Blocks",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/syntax"
+                          },
+                          {
+                              "title":  "Define Infrastructure With Terraform Resources",
+                              "type":  "video",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/configuration-language/resource"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BgZu7Xao5GjR8StVL7qhM",
+        "label":  "Resource Behavior",
+        "endpoint":  "https://roadmap.sh/terraform/topic@BgZu7Xao5GjR8StVL7qhM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Behaviour",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/behavior"
+                          },
+                          {
+                              "title":  "Terraform Resource Syntax, Behavior and State",
+                              "type":  "article",
+                              "url":  "https://terraformguru.com/terraform-certification-using-azure-cloud/09-Resource-Syntax-and-Behavior/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "76kp98rvph_8UOXZR-PBC",
+        "label":  "Resource Lifecycle",
+        "endpoint":  "https://roadmap.sh/terraform/topic@76kp98rvph_8UOXZR-PBC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How Terraform Applies a Configuration",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/behavior#how-terraform-applies-a-configuration"
+                          },
+                          {
+                              "title":  "The lifecycle Meta-Argument",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle"
+                          },
+                          {
+                              "title":  "@Article@Terraform Resource Lifecycle Meta-Argument",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-resource-lifecycle"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EIsex6gNHDRYHn0o2spzi",
+        "label":  "depends_on",
+        "endpoint":  "https://roadmap.sh/terraform/topic@EIsex6gNHDRYHn0o2spzi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Docs - depends_on",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/meta-arguments/depends_on"
+                          },
+                          {
+                              "title":  "How to Use Terraform depends_on",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-depends-on"
+                          },
+                          {
+                              "title":  "How to use Terraform depends_on meta tag?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=v0Qt-ltvmXU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kyScfijEntX9H1mp7tmej",
+        "label":  "count",
+        "endpoint":  "https://roadmap.sh/terraform/topic@kyScfijEntX9H1mp7tmej.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Docs - count",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/meta-arguments/count"
+                          },
+                          {
+                              "title":  "Terraform by Example - count",
+                              "type":  "article",
+                              "url":  "https://www.terraformbyexample.com/count"
+                          },
+                          {
+                              "title":  "Conditional blocks in Terraform using count",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RVoIqWkN_gI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gcdg_GhAacIWzv19ITTE_",
+        "label":  "for_each",
+        "endpoint":  "https://roadmap.sh/terraform/topic@gcdg_GhAacIWzv19ITTE_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Docs - for_each",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/meta-arguments/for_each"
+                          },
+                          {
+                              "title":  "Terraform by Example - for_each",
+                              "type":  "article",
+                              "url":  "https://www.terraformbyexample.com/for_each"
+                          },
+                          {
+                              "title":  "Terraform for loops",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4qO7WK6D3cA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5FLOFTP_nCa3qi1wbV4qE",
+        "label":  "provider",
+        "endpoint":  "https://roadmap.sh/terraform/topic@5FLOFTP_nCa3qi1wbV4qE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Docs - provider",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/meta-arguments/resource-provider"
+                          },
+                          {
+                              "title":  "Terraform by Example - provider",
+                              "type":  "article",
+                              "url":  "https://www.terraformbyexample.com/providers/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0A8zTuCXVmcruJdfH3cNu",
+        "label":  "lifecycle",
+        "endpoint":  "https://roadmap.sh/terraform/topic@0A8zTuCXVmcruJdfH3cNu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Docs - lifecycle",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle"
+                          },
+                          {
+                              "title":  "Terraform Resource Lifecycle",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-resource-lifecycle"
+                          },
+                          {
+                              "title":  "Understanding the Lifecycle Block",
+                              "type":  "article",
+                              "url":  "https://dev.to/pwd9000/terraform-understanding-the-lifecycle-block-4f6e"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TPd00dRndj1P8674KTTrm",
+        "label":  "Meta Arguments",
+        "endpoint":  "https://roadmap.sh/terraform/topic@TPd00dRndj1P8674KTTrm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Meta Arguments in Terraform",
+                              "type":  "article",
+                              "url":  "https://muditmathur121.medium.com/meta-arguments-in-terraform-aaaa6e3734e6"
+                          },
+                          {
+                              "title":  "Terraform Meta-Arguments",
+                              "type":  "article",
+                              "url":  "https://www.devopsschool.com/blog/terraform-tutorials-meta-arguments/"
+                          },
+                          {
+                              "title":  "Resource Meta Arguments",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7JraLCfroyE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AY7_xUeCl6ilqZzg1YFoP",
+        "label":  "Variables",
+        "endpoint":  "https://roadmap.sh/terraform/topic@AY7_xUeCl6ilqZzg1YFoP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Input Variables",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/values/variables"
+                          },
+                          {
+                              "title":  "How To Use Terraform Variables",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/how-to-use-terraform-variables"
+                          },
+                          {
+                              "title":  "Learn How to Use Terraform Variable",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=oArutYYvQ_Y"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VxMse1VTZAUtVhpKv1OHS",
+        "label":  "Input Variables",
+        "endpoint":  "https://roadmap.sh/terraform/topic@VxMse1VTZAUtVhpKv1OHS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Define Input Variables",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-variables"
+                          },
+                          {
+                              "title":  "Terraform Input and Output Variables Explained",
+                              "type":  "article",
+                              "url":  "https://kodekloud.com/blog/terraform-variables-explained/"
+                          },
+                          {
+                              "title":  "Terraform Basics: Input Variables",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch%3Fv%3D2f65JhfYmIo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HUiodBFIp_rsQDkf3WgbI",
+        "label":  "Type Constraints",
+        "endpoint":  "https://roadmap.sh/terraform/topic@HUiodBFIp_rsQDkf3WgbI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Variable Type Constraints",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/expressions/type-constraints"
+                          },
+                          {
+                              "title":  "Terraform Type Constraints",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hNZiZEQfV4Q"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fm8oUyNvfdGWTgLsYANUr",
+        "label":  "Environment Variables",
+        "endpoint":  "https://roadmap.sh/terraform/topic@fm8oUyNvfdGWTgLsYANUr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Environment Variables",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/config/environment-variables"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rdphcVd-Vq972y4H8CxIj",
+        "label":  "Variable Definition File",
+        "endpoint":  "https://roadmap.sh/terraform/topic@rdphcVd-Vq972y4H8CxIj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Parameterize Your Configuration",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/configuration-language/variables#parameterize-your-configuration"
+                          },
+                          {
+                              "title":  "You should be using tfvars vs variables in Terraform",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BHWM4D2GJvI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "U2n2BtyUrOFLnw9SZYV_w",
+        "label":  "Validation Rules",
+        "endpoint":  "https://roadmap.sh/terraform/topic@U2n2BtyUrOFLnw9SZYV_w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Custom Validation Rules",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/values/variables#custom-validation-rules"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1mFih8uFs3Lc-1PLgwiAU",
+        "label":  "Local Values",
+        "endpoint":  "https://roadmap.sh/terraform/topic@1mFih8uFs3Lc-1PLgwiAU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Local Values",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/values/locals"
+                          },
+                          {
+                              "title":  "Terraform Locals",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-locals"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7GK4fQf1FRKrZgZkxNahj",
+        "label":  "Outputs",
+        "endpoint":  "https://roadmap.sh/terraform/topic@7GK4fQf1FRKrZgZkxNahj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Output Values",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/values/outputs"
+                          },
+                          {
+                              "title":  "Terraform Output Values",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-output"
+                          },
+                          {
+                              "title":  "Learn Terraform Outputs in 4 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=i-Ky1Tut_2I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "31fa8kBzCEn-uCrTSoPM4",
+        "label":  "Output Syntax",
+        "endpoint":  "https://roadmap.sh/terraform/topic@31fa8kBzCEn-uCrTSoPM4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hashicorp Output Tutorial",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/configuration-language/outputs"
+                          },
+                          {
+                              "title":  "Declaring an Output Value",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/values/outputs#declaring-an-output-value"
+                          },
+                          {
+                              "title":  "Terraform Output Values : Complete Guide \u0026 Examples",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-output"
+                          },
+                          {
+                              "title":  "Terraform: Output a field from a module",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/47034515/terraform-output-a-field-from-a-module"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8giL6H5944M2L0rwxjPso",
+        "label":  "Sensitive Outputs",
+        "endpoint":  "https://roadmap.sh/terraform/topic@8giL6H5944M2L0rwxjPso.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Suppressing values in CLI output",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/values/outputs#sensitive-suppressing-values-in-cli-output"
+                          },
+                          {
+                              "title":  "How to output sensitive data in Terraform",
+                              "type":  "article",
+                              "url":  "https://support.hashicorp.com/hc/en-us/articles/5175257151891-How-to-output-sensitive-data-with-Terraform"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DB-p_S4Ce4tDWF4wDiGSt",
+        "label":  "Preconditions",
+        "endpoint":  "https://roadmap.sh/terraform/topic@DB-p_S4Ce4tDWF4wDiGSt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Custom Condition Checks",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/values/outputs#custom-condition-checks"
+                          },
+                          {
+                              "title":  "Using Precondition and Post-condition Blocks in Terraform",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=55ZLu8tSnvk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Xes24SqkwSaO844kLbClj",
+        "label":  "Format \u0026 Validate",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Xes24SqkwSaO844kLbClj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Validate - Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/validate"
+                          },
+                          {
+                              "title":  "Terraform Format - Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/fmt"
+                          },
+                          {
+                              "title":  "Validate, format, lint, secure, and test Terraform IaC",
+                              "type":  "article",
+                              "url":  "https://tech.aabouzaid.com/2020/04/validate-format-lint-and-test-terraform-iac-ci.html"
+                          },
+                          {
+                              "title":  "Terraform Validate Command – Validate Configuration Locally",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-validate"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "78bGm8J5Y1I8H4qioOvWb",
+        "label":  "terraform fmt",
+        "endpoint":  "https://roadmap.sh/terraform/topic@78bGm8J5Y1I8H4qioOvWb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform fmt Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/fmt"
+                          },
+                          {
+                              "title":  "Using Terraform fmt Command to Format Your Terraform Code",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-fmt"
+                          },
+                          {
+                              "title":  "How to auto-format Terraform code",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kZX3KLOZvhY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wdYLjB-tKg76B7YcnhevQ",
+        "label":  "terraform validate",
+        "endpoint":  "https://roadmap.sh/terraform/topic@wdYLjB-tKg76B7YcnhevQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Validate Examples",
+                              "type":  "article",
+                              "url":  "https://www.env0.com/blog/terraform-validate-command-practical-examples-and-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YftsQYpcqJqBKPjy5tWOq",
+        "label":  "TFLint",
+        "endpoint":  "https://roadmap.sh/terraform/topic@YftsQYpcqJqBKPjy5tWOq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TFLint Documentation",
+                              "type":  "opensource",
+                              "url":  "https://github.com/terraform-linters/tflint"
+                          },
+                          {
+                              "title":  "What is TFLint and How to Lint Your Terraform Code",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/what-is-tflint"
+                          },
+                          {
+                              "title":  "Quick Tech - TFLint",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-BKWpI4Olpw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pjmOK1MEMnIV_zAlaOF01",
+        "label":  "Deployment",
+        "endpoint":  "https://roadmap.sh/terraform/topic@pjmOK1MEMnIV_zAlaOF01.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Core Terraform Workflow",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/intro/core-workflow"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LDxAXmTKyvogvgUpvN5pT",
+        "label":  "terraform plan",
+        "endpoint":  "https://roadmap.sh/terraform/topic@LDxAXmTKyvogvgUpvN5pT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Create a Terraform plan",
+                              "type":  "course",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/cli/plan"
+                          },
+                          {
+                              "title":  "Terraform Plan Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/plan"
+                          },
+                          {
+                              "title":  "Terraform plan command and how it works",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-plan"
+                          },
+                          {
+                              "title":  "Terraform - Terraform Plan",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9v08h-Oaelo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LDpj-LY_SOXzno04D-Y25",
+        "label":  "terraform apply",
+        "endpoint":  "https://roadmap.sh/terraform/topic@LDpj-LY_SOXzno04D-Y25.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Apply Terraform configuration",
+                              "type":  "course",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/cli/apply"
+                          },
+                          {
+                              "title":  "Terraform Apply Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/apply"
+                          },
+                          {
+                              "title":  "Terraform Apply Command: Options, Examples and Best Practices",
+                              "type":  "article",
+                              "url":  "https://www.env0.com/blog/terraform-apply-guide-command-options-and-examples"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KXlLlaR0_S7gE_ZB1hNEd",
+        "label":  "Inspect / Modify State",
+        "endpoint":  "https://roadmap.sh/terraform/topic@KXlLlaR0_S7gE_ZB1hNEd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Inspecting State",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/state/inspect"
+                          },
+                          {
+                              "title":  "How to Manage Terraform State: A Step-by-Step Guide",
+                              "type":  "article",
+                              "url":  "https://meriemterki.medium.com/how-to-manage-terraform-state-a-step-by-step-guide-b615bd6ee0de"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vAFFgKSthyj_3Lxt-Z6pg",
+        "label":  "graph",
+        "endpoint":  "https://roadmap.sh/terraform/topic@vAFFgKSthyj_3Lxt-Z6pg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "graph command",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/graph"
+                          },
+                          {
+                              "title":  "Graphviz",
+                              "type":  "opensource",
+                              "url":  "https://gitlab.com/graphviz/graphviz"
+                          },
+                          {
+                              "title":  "How to Generate Images with Terraform Graph Command",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-graph"
+                          },
+                          {
+                              "title":  "Terraform — Resource Graph",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=YbnBstMyVEI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Y-mgCkDpawt5NrMwDH9Ki",
+        "label":  "list",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Y-mgCkDpawt5NrMwDH9Ki.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform State List",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/state/list"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kw32gb4HSeCEoBwkeziS_",
+        "label":  "output",
+        "endpoint":  "https://roadmap.sh/terraform/topic@kw32gb4HSeCEoBwkeziS_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform output command",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/output"
+                          },
+                          {
+                              "title":  "Terraform output",
+                              "type":  "article",
+                              "url":  "https://learning-ocean.com/tutorials/terraform/terraform-output/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "inbTto9Qukdj6egRJ0Zh9",
+        "label":  "Clean Up",
+        "endpoint":  "https://roadmap.sh/terraform/topic@inbTto9Qukdj6egRJ0Zh9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Destroy Terraform Resources",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/how-to-destroy-terraform-resources"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LPI13FILvkD55hWcWbPrV",
+        "label":  "terraform destroy",
+        "endpoint":  "https://roadmap.sh/terraform/topic@LPI13FILvkD55hWcWbPrV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Destroy infrastructure",
+                              "type":  "course",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-destroy"
+                          },
+                          {
+                              "title":  "Terraform Destroy Documentation",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/destroy"
+                          },
+                          {
+                              "title":  "How to destroy Terraform resources",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/how-to-destroy-terraform-resources"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5xAE-9viD7DP_ugQ6NE_C",
+        "label":  "State",
+        "endpoint":  "https://roadmap.sh/terraform/topic@5xAE-9viD7DP_ugQ6NE_C.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "State",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state"
+                          },
+                          {
+                              "title":  "Purpose of Terraform state",
+                              "type":  "article",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state/purpose"
+                          },
+                          {
+                              "title":  "Managing Terraform state files",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UDBVCzg2IRo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pDm08NBVwGf9rAIZC_ZIR",
+        "label":  "Remote State",
+        "endpoint":  "https://roadmap.sh/terraform/topic@pDm08NBVwGf9rAIZC_ZIR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Remote state",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state/remote"
+                          },
+                          {
+                              "title":  "The terraform_remote_state Data Source",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state/remote-state-data"
+                          },
+                          {
+                              "title":  "Terraform remote state backends explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jSoMQCBxp7E"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GseYuG9wT8H9R_enxWzuQ",
+        "label":  "State Locking",
+        "endpoint":  "https://roadmap.sh/terraform/topic@GseYuG9wT8H9R_enxWzuQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "State - Locking",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state/locking"
+                          },
+                          {
+                              "title":  "State Storage and Locking",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state/backends"
+                          },
+                          {
+                              "title":  "Terraform - State locking",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QdDCUpggmrw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L7wAMGi_yU-Bbc9fXlmxZ",
+        "label":  "Import Existing Resources",
+        "endpoint":  "https://roadmap.sh/terraform/topic@L7wAMGi_yU-Bbc9fXlmxZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform import command",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/import"
+                          },
+                          {
+                              "title":  "Terraform Import: What it is and how to use it",
+                              "type":  "article",
+                              "url":  "https://terrateam.io/blog/terraform-import"
+                          },
+                          {
+                              "title":  "Exploring the Import Block in Terraform 1.5",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=znfh_00EDZ0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "a0rUMnYluVUGhyhlDK5S8",
+        "label":  "Splitting State Files",
+        "endpoint":  "https://roadmap.sh/terraform/topic@a0rUMnYluVUGhyhlDK5S8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to split state files",
+                              "type":  "article",
+                              "url":  "https://support.hashicorp.com/hc/en-us/articles/7955227415059-How-to-Split-State-Files"
+                          },
+                          {
+                              "title":  "Introducing terraform-state-split",
+                              "type":  "article",
+                              "url":  "https://www.shebanglabs.io/moving-terraform-resources-between-different-states/"
+                          },
+                          {
+                              "title":  "Organizing Terraform with multiple states",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5TfgdKXr45I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1T35eNO18qoyXcX7S-Jox",
+        "label":  "Versioning",
+        "endpoint":  "https://roadmap.sh/terraform/topic@1T35eNO18qoyXcX7S-Jox.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "State Versions API",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cloud-docs/api-docs/state-versions"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "16vLOPP9lTCuBh0q-UVMk",
+        "label":  "Sensitive Data",
+        "endpoint":  "https://roadmap.sh/terraform/topic@16vLOPP9lTCuBh0q-UVMk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sensitive data in state",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state/sensitive-data"
+                          },
+                          {
+                              "title":  "Handling Sensitive Values in State",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/plugin/best-practices/sensitive-state"
+                          },
+                          {
+                              "title":  "Terraform — Protecting Sensitive Data",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yLc1YkB7DFo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jas0XILqCUXjWRk3ZoSEO",
+        "label":  "Best Practices for State",
+        "endpoint":  "https://roadmap.sh/terraform/topic@jas0XILqCUXjWRk3ZoSEO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Managing Terraform State – Best Practices \u0026 Examples",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-state"
+                          },
+                          {
+                              "title":  "Best Practices for Terraform State File Management",
+                              "type":  "article",
+                              "url":  "https://www.cloudthat.com/resources/blog/best-practices-for-terraform-state-file-management"
+                          },
+                          {
+                              "title":  "Managing Terraform State Files - What are your options?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=keiIyarEKf8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jvHtSRLuCXJrGIiesgbE-",
+        "label":  "-replace option in apply",
+        "endpoint":  "https://roadmap.sh/terraform/topic@jvHtSRLuCXJrGIiesgbE-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Forcing Re-creation of Resources",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/state/taint"
+                          },
+                          {
+                              "title":  "Terraform Taint, Untaint, Replace – How to Use It (Examples)",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-taint"
+                          },
+                          {
+                              "title":  "Terraform Taint Is Bad Actually - Use Replace Instead",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=v_T1fuYGjV0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7DZB2VeyuouFXOdFEfeZt",
+        "label":  "show",
+        "endpoint":  "https://roadmap.sh/terraform/topic@7DZB2VeyuouFXOdFEfeZt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform show",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/show"
+                          },
+                          {
+                              "title":  "Terraform state show",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/state/show"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uR6Vjm8cek9JRzZV0iTXh",
+        "label":  "rm",
+        "endpoint":  "https://roadmap.sh/terraform/topic@uR6Vjm8cek9JRzZV0iTXh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform rm command",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/state/rm"
+                          },
+                          {
+                              "title":  "Terraform State Rm: How to Remove a Resource From State File",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-state-rm"
+                          },
+                          {
+                              "title":  "How to remove resource from Terraform state file | terraform state rm example",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=uK__Ls6an1c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0xVXwjWPFXDGRw_3p6th6",
+        "label":  "mv",
+        "endpoint":  "https://roadmap.sh/terraform/topic@0xVXwjWPFXDGRw_3p6th6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform State mv",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/state/mv"
+                          },
+                          {
+                              "title":  "Moving Resources",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/state/move"
+                          },
+                          {
+                              "title":  "Terraform — Terraform State MV",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=i10IMXn3l0o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R2AORYmc1NgGTqLZY5Fu-",
+        "label":  "Modules",
+        "endpoint":  "https://roadmap.sh/terraform/topic@R2AORYmc1NgGTqLZY5Fu-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Modules Overview - Configuration Language | Terraform",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/modules"
+                          },
+                          {
+                              "title":  "Modules - Terraform Registry",
+                              "type":  "official",
+                              "url":  "https://registry.terraform.io/browse/modules"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6W4_akHG9YtvN6dpbZnG-",
+        "label":  "Root vs Child Modules",
+        "endpoint":  "https://roadmap.sh/terraform/topic@6W4_akHG9YtvN6dpbZnG-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The root module",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/modules#the-root-module"
+                          },
+                          {
+                              "title":  "Child modules",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/modules#child-modules"
+                          },
+                          {
+                              "title":  "What is the difference between Terraform \"Module\" and \"Child Module\"",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/77671412/what-is-the-difference-between-terraform-module-and-child-module"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AAg_iFggkEZNL12-6nkgK",
+        "label":  "Published Modules Usage",
+        "endpoint":  "https://roadmap.sh/terraform/topic@AAg_iFggkEZNL12-6nkgK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Publishing Modules",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/registry/modules/publish"
+                          },
+                          {
+                              "title":  "Terraform Registry - Modules",
+                              "type":  "opensource",
+                              "url":  "https://registry.terraform.io/browse/modules"
+                          },
+                          {
+                              "title":  "Terraform - Publish modules",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9vBp1D3myH8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wQN1QrK9VB_fHlXrBzDoU",
+        "label":  "Creating Local Modules",
+        "endpoint":  "https://roadmap.sh/terraform/topic@wQN1QrK9VB_fHlXrBzDoU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Build and use a local module",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/modules/module-create"
+                          },
+                          {
+                              "title":  "How to create reusable infrastructure with Terraform modules",
+                              "type":  "article",
+                              "url":  "https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d"
+                          },
+                          {
+                              "title":  "Creating a module in Terraform",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=OeL2AlsdNaQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NsBJTYH9KXvjJuhPzjE_L",
+        "label":  "Inputs / Outputs",
+        "endpoint":  "https://roadmap.sh/terraform/topic@NsBJTYH9KXvjJuhPzjE_L.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Accessing Module Output Values",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/modules/syntax#accessing-module-output-values"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gTMPK0tfs2JYgoL7SAGW6",
+        "label":  "Modules Best Practices",
+        "endpoint":  "https://roadmap.sh/terraform/topic@gTMPK0tfs2JYgoL7SAGW6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Module Best Practices",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/modules/module#module-best-practices"
+                          },
+                          {
+                              "title":  "Terraform Modules Guide: Best Practices \u0026 Examples",
+                              "type":  "article",
+                              "url":  "https://www.env0.com/blog/terraform-modules"
+                          },
+                          {
+                              "title":  "Best practices for modularizing a Terraform project | PlatformCon 2023",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=byzwaTng3ac"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6vs1VvjeILgAPLL6g7dfy",
+        "label":  "Provisioners",
+        "endpoint":  "https://roadmap.sh/terraform/topic@6vs1VvjeILgAPLL6g7dfy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Provisioners - Terraform",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CmmoshFC1dKE4y3SMN2bl",
+        "label":  "When to Use?",
+        "endpoint":  "https://roadmap.sh/terraform/topic@CmmoshFC1dKE4y3SMN2bl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Why You should Use Terraform Provisioners as a Final Option",
+                              "type":  "article",
+                              "url":  "https://thomasthornton.cloud/2023/05/11/my-thoughts-on-why-you-should-use-terraform-provisioners-as-a-final-option/"
+                          },
+                          {
+                              "title":  "Why Terraform Provisioners Are The Last Resort?",
+                              "type":  "article",
+                              "url":  "https://k21academy.com/terraform-iac/terraform-provisioners/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CJfCpRN_oVf6n_EfLNJSV",
+        "label":  "Creation / Destroy Time",
+        "endpoint":  "https://roadmap.sh/terraform/topic@CJfCpRN_oVf6n_EfLNJSV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Creation Time Provisioners",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax#creation-time-provisioners"
+                          },
+                          {
+                              "title":  "Destroy Time Provisioners",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax#destroy-time-provisioners"
+                          },
+                          {
+                              "title":  "How to: Terraform destroy time provisioners",
+                              "type":  "official",
+                              "url":  "https://support.hashicorp.com/hc/en-us/articles/11119084989587-How-to-Terraform-Destroy-time-Provisioners"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Qch8k6e4pS8OlmG_sI0hH",
+        "label":  "file provisioner",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Qch8k6e4pS8OlmG_sI0hH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform File Provisioner",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/provisioners/file"
+                          },
+                          {
+                              "title":  "The File Provisioner",
+                              "type":  "article",
+                              "url":  "https://learning-ocean.com/tutorials/terraform/terraform-file-provisioner/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "g2F5-nX4Aw-xWZiypNbnL",
+        "label":  "local-exec provisioner",
+        "endpoint":  "https://roadmap.sh/terraform/topic@g2F5-nX4Aw-xWZiypNbnL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "local-exec Provisioner",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/provisioners/local-exec"
+                          },
+                          {
+                              "title":  "Local-Exec Provisioner",
+                              "type":  "article",
+                              "url":  "https://learning-ocean.com/tutorials/terraform/terraform-local-exec-provisioner/"
+                          },
+                          {
+                              "title":  "Terraform - Local exec",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2dVq8L2LBc0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JQE3_KakBXZdMVP_pPFNS",
+        "label":  "remote-exec provisioner",
+        "endpoint":  "https://roadmap.sh/terraform/topic@JQE3_KakBXZdMVP_pPFNS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Remote-exec provisioner",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/provisioners/remote-exec"
+                          },
+                          {
+                              "title":  "Terraform remote-exec provisioner",
+                              "type":  "article",
+                              "url":  "https://learning-ocean.com/tutorials/terraform/terraform-remote-exec-provisioner/"
+                          },
+                          {
+                              "title":  "Terraform - remote-exec",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kjDXbGeLvRw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HEr-BBxE3jRKTqRnguds1",
+        "label":  "Custom Provisioners",
+        "endpoint":  "https://roadmap.sh/terraform/topic@HEr-BBxE3jRKTqRnguds1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Provisioners",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax"
+                          },
+                          {
+                              "title":  "Terraform Provisioners - Why you should avoid them",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-provisioners"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "huXZz55P7kVJwTn5BS_Wk",
+        "label":  "Data Sources",
+        "endpoint":  "https://roadmap.sh/terraform/topic@huXZz55P7kVJwTn5BS_Wk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform data sources",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/data-sources"
+                          },
+                          {
+                              "title":  "Terraform Data Sources – How They Are Utilized",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-data-sources-how-they-are-utilised"
+                          },
+                          {
+                              "title":  "Data Sources in Terraform",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Y92Q5nW5-5g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tB4zfwY4E3GmXo-XQwS-l",
+        "label":  "Template Files",
+        "endpoint":  "https://roadmap.sh/terraform/topic@tB4zfwY4E3GmXo-XQwS-l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "templatefile function",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/functions/templatefile"
+                          },
+                          {
+                              "title":  "What are Terraform templates?",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-templates"
+                          },
+                          {
+                              "title":  "Using templatefile in Terraform",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cRYYFCekOIk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wSh7bbPswcFAzOicX8VPx",
+        "label":  "state pull / push",
+        "endpoint":  "https://roadmap.sh/terraform/topic@wSh7bbPswcFAzOicX8VPx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Command - State pull",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/state/pull"
+                          },
+                          {
+                              "title":  "Command - State push",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/state/push"
+                          },
+                          {
+                              "title":  "Migrate Workspace State Using Terraform State Push / Pull",
+                              "type":  "article",
+                              "url":  "https://support.hashicorp.com/hc/en-us/articles/360001151948-Migrate-Workspace-State-Using-Terraform-State-Push-Pull"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Os6AOXp1CVI_Bh3NYnX17",
+        "label":  "state replace-provider",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Os6AOXp1CVI_Bh3NYnX17.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Command - state replace-provider",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/state/replace-provider"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Trpi2ZlnXZVYJCibE2bQ8",
+        "label":  "state force-unlock",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Trpi2ZlnXZVYJCibE2bQ8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Command: force-unlock",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cli/commands/force-unlock"
+                          },
+                          {
+                              "title":  "Terraform force-unlock command",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-force-unlock"
+                          },
+                          {
+                              "title":  "Terraform — Force Unlock",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qVs9pLaXSeg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nFq-64JQoYAKjN9YkmOfO",
+        "label":  "Workspaces",
+        "endpoint":  "https://roadmap.sh/terraform/topic@nFq-64JQoYAKjN9YkmOfO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Workspaces",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/state/workspaces"
+                          },
+                          {
+                              "title":  "What are Terraform workspaces?",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-workspaces"
+                          },
+                          {
+                              "title":  "Structuring Repositories for Terraform Workspaces - Hashicorp",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IDLGpkRmDXg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O194eWh529jj4VDhKxNSj",
+        "label":  "CI / CD Integration",
+        "endpoint":  "https://roadmap.sh/terraform/topic@O194eWh529jj4VDhKxNSj.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "weIlGqGN15U8BH1yE9moA",
+        "label":  "GitHub Actions",
+        "endpoint":  "https://roadmap.sh/terraform/topic@weIlGqGN15U8BH1yE9moA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub Actions",
+                              "type":  "official",
+                              "url":  "https://docs.github.com/en/actions"
+                          },
+                          {
+                              "title":  "Automate Terraform with GitHub Actions",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/automation/github-actions"
+                          },
+                          {
+                              "title":  "setup-terraform",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/setup-terraform"
+                          },
+                          {
+                              "title":  "Terraform with GitHub Actions : How to Manage \u0026 Scale",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/github-actions-terraform"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "6OoAdvikyp0byMH2oZhyQ",
+        "label":  "Circle CI",
+        "endpoint":  "https://roadmap.sh/terraform/topic@6OoAdvikyp0byMH2oZhyQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Deploy Infrastructure with Terraform and CircleCI",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/automation/circle-ci"
+                          },
+                          {
+                              "title":  "CircleCI Terraform Orb",
+                              "type":  "opensource",
+                              "url":  "https://circleci.com/developer/orbs/orb/circleci/terraform"
+                          },
+                          {
+                              "title":  "How I deployed terraform resources with CircleCI",
+                              "type":  "article",
+                              "url":  "https://medium.com/nerd-for-tech/how-i-deployed-terraform-resources-with-circleci-628aa29ed514"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fH27mGrdnkDQCrGGDFU6p",
+        "label":  "GitLab CI",
+        "endpoint":  "https://roadmap.sh/terraform/topic@fH27mGrdnkDQCrGGDFU6p.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Infrastructure as Code with Terraform and GitLab",
+                              "type":  "official",
+                              "url":  "https://docs.gitlab.com/ee/user/infrastructure/iac/"
+                          },
+                          {
+                              "title":  "How to Implement GitLab CI/CD Pipeline with Terraform",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/gitlab-terraform"
+                          },
+                          {
+                              "title":  "Automate deploying to AWS using Terraform with GitLab CICD pipeline",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=oqOzM_WBqZc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "qFpaqOSoefTyKxmI-FRZt",
+        "label":  "Jenkins",
+        "endpoint":  "https://roadmap.sh/terraform/topic@qFpaqOSoefTyKxmI-FRZt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform with Jenkins – How to Manage Workflows",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-jenkins"
+                          },
+                          {
+                              "title":  "How to Use Terraform and Jenkins to Automate Infrastructure Setup",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kIDiP3Unj7Y"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QSftI21seX6I_xPonlfmU",
+        "label":  "Testing",
+        "endpoint":  "https://roadmap.sh/terraform/topic@QSftI21seX6I_xPonlfmU.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V7_NnDIY1MefV_xjCCsnI",
+        "label":  "Unit Testing",
+        "endpoint":  "https://roadmap.sh/terraform/topic@V7_NnDIY1MefV_xjCCsnI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Integration or Unit Testing",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/tests#integration-or-unit-testing"
+                          },
+                          {
+                              "title":  "Terraform Unit Tests",
+                              "type":  "article",
+                              "url":  "https://www.hashicorp.com/blog/testing-hashicorp-terraform#unit-tests"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bjozhkpOI9UjjNfmT5HhY",
+        "label":  "Contract Testing",
+        "endpoint":  "https://roadmap.sh/terraform/topic@bjozhkpOI9UjjNfmT5HhY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Contract Tests",
+                              "type":  "official",
+                              "url":  "https://www.hashicorp.com/blog/testing-hashicorp-terraform#contract-tests"
+                          },
+                          {
+                              "title":  "Contract Testing: An Introduction and Guide",
+                              "type":  "article",
+                              "url":  "https://www.blazemeter.com/blog/contract-testing#:~:text=Contract%20testing%20focuses%20on%20verifying,services%20that%20rely%20on%20it."
+                          },
+                          {
+                              "title":  "Contract testing for microservices is a must!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Fh8CqZtghQw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ENkLj3z6hR2cKT7rBhYp5",
+        "label":  "Integration Testing",
+        "endpoint":  "https://roadmap.sh/terraform/topic@ENkLj3z6hR2cKT7rBhYp5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Integration Testing or Unit Testing",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/tests#integration-or-unit-testing"
+                          },
+                          {
+                              "title":  "Integration tests",
+                              "type":  "article",
+                              "url":  "https://www.hashicorp.com/blog/testing-hashicorp-terraform#integration-tests"
+                          },
+                          {
+                              "title":  "Learn Terraform - Integration and End-to-End Testing",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gdcc1WBzMwY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QqwlAtz7VfrMtNEGpT5Sa",
+        "label":  "End to End Testing",
+        "endpoint":  "https://roadmap.sh/terraform/topic@QqwlAtz7VfrMtNEGpT5Sa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started: End to End Tests",
+                              "type":  "article",
+                              "url":  "https://tf2project.io/docs/getting-started/end-to-end-tests.html"
+                          },
+                          {
+                              "title":  "End-to-end tests",
+                              "type":  "article",
+                              "url":  "https://www.hashicorp.com/blog/testing-hashicorp-terraform#end-to-end-tests"
+                          },
+                          {
+                              "title":  "End To End Testing On Terraform With Terratest",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=PlzL6Bv2fSA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "H3_So6qX-s2131WHGR_GO",
+        "label":  "Testing Modules",
+        "endpoint":  "https://roadmap.sh/terraform/topic@H3_So6qX-s2131WHGR_GO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Write Terraform Tests",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/configuration-language/test"
+                          },
+                          {
+                              "title":  "Terraform Test",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/language/tests"
+                          },
+                          {
+                              "title":  "Terraform Module Testing",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1LInIWM_2UQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ECcHo0KTDN27MuVTC-Fwy",
+        "label":  "Scaling Terraform",
+        "endpoint":  "https://roadmap.sh/terraform/topic@ECcHo0KTDN27MuVTC-Fwy.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zCU02_5Pide5BZiuMuqEU",
+        "label":  "Splitting Large State",
+        "endpoint":  "https://roadmap.sh/terraform/topic@zCU02_5Pide5BZiuMuqEU.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RtwZy60ruRpskmgr1qYYf",
+        "label":  "Parallelism",
+        "endpoint":  "https://roadmap.sh/terraform/topic@RtwZy60ruRpskmgr1qYYf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Walking the graph",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/internals/graph#walking-the-graph"
+                          },
+                          {
+                              "title":  "Considerations when setting the TFE_PARALLELISM environment variable",
+                              "type":  "article",
+                              "url":  "https://support.hashicorp.com/hc/en-us/articles/10348130482451-Considerations-when-setting-the-TFE-PARALLELISM-environment-variable"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wL3WWhjPEgFmumOmCPRDf",
+        "label":  "Deployment Workflow",
+        "endpoint":  "https://roadmap.sh/terraform/topic@wL3WWhjPEgFmumOmCPRDf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Core Terraform Workflow",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/intro/core-workflow"
+                          },
+                          {
+                              "title":  "Terraform Basics: Core Workflow",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sqLD39xqcx0"
+                          },
+                          {
+                              "title":  "Advanced Concepts and Faster Workflows in the Terraform Language",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=J8J7ixBNF-M"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AEtW6j2GcfZz7IXk4sM6c",
+        "label":  "Terragrunt",
+        "endpoint":  "https://roadmap.sh/terraform/topic@AEtW6j2GcfZz7IXk4sM6c.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terragrunt Website",
+                              "type":  "official",
+                              "url":  "https://terragrunt.gruntwork.io/"
+                          },
+                          {
+                              "title":  "gruntwork-io/terragrunt",
+                              "type":  "opensource",
+                              "url":  "https://github.com/gruntwork-io/terragrunt"
+                          },
+                          {
+                              "title":  "Terragrunt Tutorial: Examples and Use Cases",
+                              "type":  "article",
+                              "url":  "https://www.env0.com/blog/terragrunt"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oANePqjkwtNMwvV-_W0B7",
+        "label":  "Infracost",
+        "endpoint":  "https://roadmap.sh/terraform/topic@oANePqjkwtNMwvV-_W0B7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Infracost Website",
+                              "type":  "official",
+                              "url":  "https://www.infracost.io/"
+                          },
+                          {
+                              "title":  "infracost/infracost",
+                              "type":  "opensource",
+                              "url":  "https://github.com/infracost/infracost"
+                          },
+                          {
+                              "title":  "Shifting FinOps Left: A live demo",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BQeO137DDo8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uVz9WwVAgMu1ZU0qjqVnc",
+        "label":  "Secret Management",
+        "endpoint":  "https://roadmap.sh/terraform/topic@uVz9WwVAgMu1ZU0qjqVnc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Inject Secrets with Vault",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/secrets"
+                          },
+                          {
+                              "title":  "Terraform Secrets - How to manage them",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-secrets"
+                          },
+                          {
+                              "title":  "A comprehensive guide to managing secrets in your Terraform code",
+                              "type":  "article",
+                              "url":  "https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z0PcbgpHbR6Fm07-On4P8",
+        "label":  "Compliance / Sentinel",
+        "endpoint":  "https://roadmap.sh/terraform/topic@z0PcbgpHbR6Fm07-On4P8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform and Sentinel",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/sentinel/docs/terraform"
+                          },
+                          {
+                              "title":  "hashicorp/terraform-sentinel-policies",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/terraform-sentinel-policies"
+                          },
+                          {
+                              "title":  "Enforce policy-as-code",
+                              "type":  "article",
+                              "url":  "https://www.terraform.io/use-cases/enforce-policy-as-code"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Vxo_gNdFl3CZXV7GLPqjD",
+        "label":  "Trivy",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Vxo_gNdFl3CZXV7GLPqjD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Trivy Website",
+                              "type":  "official",
+                              "url":  "https://trivy.dev/"
+                          },
+                          {
+                              "title":  "aquasecurity/trivy",
+                              "type":  "opensource",
+                              "url":  "https://github.com/aquasecurity/trivy"
+                          },
+                          {
+                              "title":  "How to secure Terraform code with Trivy",
+                              "type":  "article",
+                              "url":  "https://verifa.io/blog/how-to-secure-terraform-trivy/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MUkbLTMzmaVWbAJj6G3aj",
+        "label":  "KICS",
+        "endpoint":  "https://roadmap.sh/terraform/topic@MUkbLTMzmaVWbAJj6G3aj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "KICS Website",
+                              "type":  "official",
+                              "url":  "https://kics.io/index.html"
+                          },
+                          {
+                              "title":  "checkmarx/kics",
+                              "type":  "opensource",
+                              "url":  "https://github.com/Checkmarx/kics"
+                          },
+                          {
+                              "title":  "Autoremediate your Infrastructure-as-Code",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jVpQPTyg3hs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3MnZK2V5KhBhw67SyUVPk",
+        "label":  "Security",
+        "endpoint":  "https://roadmap.sh/terraform/topic@3MnZK2V5KhBhw67SyUVPk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terraform Security",
+                              "type":  "official",
+                              "url":  "https://www.terraform.io/cloud-docs/architectural-details/security-model"
+                          },
+                          {
+                              "title":  "12 Terraform Security Best Practices",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/terraform-security"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NSWG79dEygyl6pb54wLrE",
+        "label":  "Terrascan",
+        "endpoint":  "https://roadmap.sh/terraform/topic@NSWG79dEygyl6pb54wLrE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Terrascan Website",
+                              "type":  "official",
+                              "url":  "https://runterrascan.io/"
+                          },
+                          {
+                              "title":  "tenable/terrascan",
+                              "type":  "opensource",
+                              "url":  "https://github.com/tenable/terrascan"
+                          },
+                          {
+                              "title":  "What is Terrascan?",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/what-is-terrascan"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ljj7ngl1N4ezCXQ0o6Y8x",
+        "label":  "Checkov",
+        "endpoint":  "https://roadmap.sh/terraform/topic@ljj7ngl1N4ezCXQ0o6Y8x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Checkov",
+                              "type":  "official",
+                              "url":  "https://www.checkov.io/"
+                          },
+                          {
+                              "title":  "bridgecrewio/checkov",
+                              "type":  "opensource",
+                              "url":  "https://github.com/bridgecrewio/checkov"
+                          },
+                          {
+                              "title":  "Scanning Terraform Code with Checkov",
+                              "type":  "article",
+                              "url":  "https://devopscube.com/terraform-checkov-scan/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "erxow5xNRj01WepdFOhVf",
+        "label":  "HCP",
+        "endpoint":  "https://roadmap.sh/terraform/topic@erxow5xNRj01WepdFOhVf.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K_7dB-5cCYzGbwYXXaoiY",
+        "label":  "What and when to use HCP?",
+        "endpoint":  "https://roadmap.sh/terraform/topic@K_7dB-5cCYzGbwYXXaoiY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Use Cases",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/intro/use-cases"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "elW7IMBSF0ydmlb7rtI1o",
+        "label":  "Enterprise Features",
+        "endpoint":  "https://roadmap.sh/terraform/topic@elW7IMBSF0ydmlb7rtI1o.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HashiCorp Cloud Platform",
+                              "type":  "official",
+                              "url":  "https://www.hashicorp.com/cloud"
+                          },
+                          {
+                              "title":  "HCP Terraform Plans and Features",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cloud-docs/overview"
+                          },
+                          {
+                              "title":  "How does The Infrastructure Cloud work?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zWWGsJrWj5E"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RPcsyhIG027uP7KF0hwaY",
+        "label":  "Authentication",
+        "endpoint":  "https://roadmap.sh/terraform/topic@RPcsyhIG027uP7KF0hwaY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HCP Authentication",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/hcp/docs/cli/commands/auth/login"
+                          },
+                          {
+                              "title":  "Authenticate with HCP",
+                              "type":  "official",
+                              "url":  "https://registry.terraform.io/providers/hashicorp/hcp/latest/docs/guides/auth"
+                          },
+                          {
+                              "title":  "hashicorp/hcp-auth-login",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/hcp-auth-action"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JoUWF6AQoreELxFHNi9oo",
+        "label":  "Workspaces",
+        "endpoint":  "https://roadmap.sh/terraform/topic@JoUWF6AQoreELxFHNi9oo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Workspaces",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cloud-docs/workspaces"
+                          },
+                          {
+                              "title":  "Organize workspaces with projects",
+                              "type":  "article",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/cloud/projects"
+                          },
+                          {
+                              "title":  "Organize your Terraform Cloud workspaces using Projects",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=J1T1tbU6wAU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Z6dG92afC8SGwCFNTx4ac",
+        "label":  "VCS Integration",
+        "endpoint":  "https://roadmap.sh/terraform/topic@Z6dG92afC8SGwCFNTx4ac.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Connecting VCS Providers to HCP Terraform",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cloud-docs/vcs"
+                          },
+                          {
+                              "title":  "Use VCS-driven workflow",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-vcs-change"
+                          },
+                          {
+                              "title":  "Configuring Workspace VCS Connections",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cloud-docs/workspaces/settings/vcs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nU1WoRtxRF9KeNhzuwNUB",
+        "label":  "Run Tasks",
+        "endpoint":  "https://roadmap.sh/terraform/topic@nU1WoRtxRF9KeNhzuwNUB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run Tasks",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cloud-docs/workspaces/settings/run-tasks"
+                          },
+                          {
+                              "title":  "Terraform Registry - Run Tasks",
+                              "type":  "official",
+                              "url":  "https://registry.terraform.io/browse/run-tasks"
+                          },
+                          {
+                              "title":  "Run Tasks API",
+                              "type":  "official",
+                              "url":  "https://developer.hashicorp.com/terraform/cloud-docs/api-docs/run-tasks/run-tasks"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6zFuSNOfbPaYIE_t--2nr",
+        "label":  "Version Management",
+        "endpoint":  "https://roadmap.sh/terraform/topic@6zFuSNOfbPaYIE_t--2nr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "tfenv",
+                              "type":  "opensource",
+                              "url":  "https://github.com/tfutils/tfenv"
+                          },
+                          {
+                              "title":  "How to Use tfenv to Manage Multiple Terraform Versions",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/tfenv"
+                          },
+                          {
+                              "title":  "Quick Tech: tfenv",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Smk5PrRPQsU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

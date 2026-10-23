@@ -1,0 +1,3039 @@
+{
+    "slug":  "redis",
+    "source":  "https://roadmap.sh/redis",
+    "title":  "Redis Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-03-20T12:21:44.235Z",
+    "nodes":  [
+                  {
+                      "id":  "H3njQtlasgGo0-IFiFZqL",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -773.4644850173872,
+                                       "y":  3639.6036656653055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jdF_BPDRWuFJpgXw7Rds0",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -217.03386624713073,
+                                       "y":  2890.0682184225393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7ETrwXaK2xR1AoS7tTyzW",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  66.37632224296237,
+                                       "y":  2962.163811355771
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NLTXQpEiKE6rNo3tmN-EU",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -796.6812271795868,
+                                       "y":  3056.3469766128146
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7b0qKpLRQkkSzCA_x3bsP",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -796.5040036977603,
+                                       "y":  2570.722300491497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dRhBLcgWnvsKEUIEeckVM",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -796.5040036977603,
+                                       "y":  2784.821469532407
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PXWvq1ezVBU5UJVN887Es",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -540.6396884459828,
+                                       "y":  2185.0122972625486
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mpt_WSLngBqt131nAm3Ns",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -270.6768116800821,
+                                       "y":  2181.7847957820186
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VJosvi5KwlePkGxBzmxSH",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  33.284146851171954,
+                                       "y":  2182.83501494524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4fIp9_ii_gYgEMFFk__BG",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  34.61791119802774,
+                                       "y":  1685.4421321950363
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "S16vO5EHvxaylsnFzs4Kx",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -275.3075331630803,
+                                       "y":  1685.567787907652
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ifAV_64bREZrJkxFnf7Cy",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -797.1336432750411,
+                                       "y":  1759.6382433656738
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CxiHaw63xmItCGdhpcsiz",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -797.050798511892,
+                                       "y":  1463.6928264789822
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Kjkc8rNezN_LBD5WMrBbE",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -244.32217668933376,
+                                       "y":  1319.6577176448873
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Czv2TV_JqOuK7vumqw66I",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -86.76785466292469,
+                                       "y":  985.5460686385047
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JBXkEOLntmMR49axOFbA0",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  36.126062755501266,
+                                       "y":  971.0460686385047
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gY6DBpC01GyAr-e_7FBGK",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -106.87393724449873,
+                                       "y":  845.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xUioudlYG1bD0_eR0fNE3",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  36.126062755501266,
+                                       "y":  612.577518106665
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u2TdoI7ILaxYgUUni9W_w",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -489.964883323405,
+                                       "y":  1062.001634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-NHxqJMM7SscP9pJ3bgD8",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -799.0705012400213,
+                                       "y":  1065.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ljjl_kSEevtaBALxRh2By",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -633.6381872719934,
+                                       "y":  620.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "37hyOMnKf4H2qg27SK2rZ",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -359.00281520804924,
+                                       "y":  541.6034591804714
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vfdrcpstewZ-lBAgCYhvs",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -100.50281520804924,
+                                       "y":  286.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "80UujPXPhvKIJMSM67pwl",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -16.012444385717174,
+                                       "y":  266.57327763985427
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zxoi09oW1HbXNwvc14w9U",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -359.50281520804924,
+                                       "y":  264
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qy4AHQE22xHEsBddovVt4",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -451.1381872719935,
+                                       "y":  31
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L191VgfCbX3ibSIKySpsN",
+                      "type":  "title",
+                      "label":  "Redis",
+                      "position":  {
+                                       "x":  -309.00281520804924,
+                                       "y":  -112.59925177765109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EskmevvtPn-NlUQf39-6X",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -240.1381872719934,
+                                       "y":  -182.5992517776511
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-3pADOHMDQ0H6ZKNjURyn",
+                      "type":  "topic",
+                      "label":  "What is Redis?",
+                      "position":  {
+                                       "x":  -330.50281520804924,
+                                       "y":  16.5
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M-EXrTDeAEMz_IkEi-ab4",
+                      "type":  "subtopic",
+                      "label":  "In-memory Data Structure Store",
+                      "position":  {
+                                       "x":  -781.1381872719934,
+                                       "y":  -149.5992517776511
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l2aXyO3STnhbFjvUXPpm2",
+                      "type":  "subtopic",
+                      "label":  "Key-value Database",
+                      "position":  {
+                                       "x":  -781.1381872719934,
+                                       "y":  -96.59925177765109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eHuBz_zSZK3rubn7nkd7g",
+                      "type":  "subtopic",
+                      "label":  "Cache",
+                      "position":  {
+                                       "x":  -575.1381872719934,
+                                       "y":  -96.59925177765109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mgGJTBU8ofvOzl9gYWhnG",
+                      "type":  "subtopic",
+                      "label":  "Message Broker",
+                      "position":  {
+                                       "x":  -781.1381872719934,
+                                       "y":  -42.59925177765109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Y1xDM_ZweG4IhlwvNK0bA",
+                      "type":  "label",
+                      "label":  "Overview of Redis / What is it?",
+                      "position":  {
+                                       "x":  -757.1381872719934,
+                                       "y":  -190.5992517776511
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "pwGAa63okLFOBb1g7-fL5",
+                      "type":  "label",
+                      "label":  "Core Use Cases",
+                      "position":  {
+                                       "x":  -698.6381872719934,
+                                       "y":  24.40074822234891
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "-TjnSOY8txYrhhxRV1OIl",
+                      "type":  "subtopic",
+                      "label":  "Caching",
+                      "position":  {
+                                       "x":  -781.1381872719934,
+                                       "y":  63.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bVJASI7bfSYqYnNhX83ng",
+                      "type":  "subtopic",
+                      "label":  "Real-time Analytics",
+                      "position":  {
+                                       "x":  -675.1381872719934,
+                                       "y":  63.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "URxGmhZHr0Y8nyrYj0gJl",
+                      "type":  "subtopic",
+                      "label":  "Session Management",
+                      "position":  {
+                                       "x":  -781.6381872719934,
+                                       "y":  116.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZCyId3aIoLv3duxoJdk2P",
+                      "type":  "subtopic",
+                      "label":  "Pub/Sub Messaging",
+                      "position":  {
+                                       "x":  -781.6381872719934,
+                                       "y":  169.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Fv1iGX22sApIEifM2IpJz",
+                      "type":  "subtopic",
+                      "label":  "Leaderboards and Counters",
+                      "position":  {
+                                       "x":  -781.6381872719934,
+                                       "y":  222.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SQ0078nMNlCtgNgHIJsU1",
+                      "type":  "label",
+                      "label":  "Key Features",
+                      "position":  {
+                                       "x":  -687.1381872719935,
+                                       "y":  294.4007482223489
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "8uRpPJ0iD4XnQPKruQc8P",
+                      "type":  "subtopic",
+                      "label":  "Data Persistence Options",
+                      "position":  {
+                                       "x":  -778.6381872719935,
+                                       "y":  334.4007482223489
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uVewcyaFi1Pt2Gs0KrkfA",
+                      "type":  "subtopic",
+                      "label":  "Rich Data Structures",
+                      "position":  {
+                                       "x":  -778.6381872719935,
+                                       "y":  387.40074822234897
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5-3pd4rLDqRzMzSRVLdXh",
+                      "type":  "subtopic",
+                      "label":  "High Performance and Scalability",
+                      "position":  {
+                                       "x":  -778.6381872719935,
+                                       "y":  440.40074822234897
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "leY33Yw_exuUP5_UX9gcP",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -465.1381872719935,
+                                       "y":  -178.5992517776511
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EvWiEx_AoxAht6sKxzW2l",
+                      "type":  "subtopic",
+                      "label":  "Redis vs SQL/NoSQL DBs",
+                      "position":  {
+                                       "x":  0.3618127280066119,
+                                       "y":  67.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1Af5H0BgdAsRdBCNdHz5v",
+                      "type":  "subtopic",
+                      "label":  "When to choose Redis?",
+                      "position":  {
+                                       "x":  0.3618127280066119,
+                                       "y":  120.40074822234891
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SGtXqkHKfGO0nQdrVzjdg",
+                      "type":  "label",
+                      "label":  "Installing Redis Locally",
+                      "position":  {
+                                       "x":  -325.50281520804924,
+                                       "y":  276.99999999999994
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Bf_kLfmy7_uflqC9N0-jt",
+                      "type":  "subtopic",
+                      "label":  "Using Package Managers",
+                      "position":  {
+                                       "x":  -351.50281520804924,
+                                       "y":  316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yBZ79s6mzGdj5AnX2H_Hy",
+                      "type":  "subtopic",
+                      "label":  "Pre-compiled Binaries",
+                      "position":  {
+                                       "x":  -351.50281520804924,
+                                       "y":  368.99999999999994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TDxv0q7jlZ26uZYYlneem",
+                      "type":  "subtopic",
+                      "label":  "Using Docker",
+                      "position":  {
+                                       "x":  -351.50281520804924,
+                                       "y":  421.99999999999994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gw04IG5uImCHxcFnOAAwy",
+                      "type":  "paragraph",
+                      "label":  "Getting Started with Redis",
+                      "position":  {
+                                       "x":  -374.1381872719934,
+                                       "y":  136.5066900921993
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QXwoHEeisL4d6dpJOwYkU",
+                      "type":  "paragraph",
+                      "label":  "Redis vs Other Databases",
+                      "position":  {
+                                       "x":  -1.0028152080492418,
+                                       "y":  11
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nyVArH57QoeDASnYvEk3L",
+                      "type":  "label",
+                      "label":  "Running Redis",
+                      "position":  {
+                                       "x":  63.44997804720737,
+                                       "y":  274.8898756040034
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "43LvShQhmoWQ8Nye7fLkz",
+                      "type":  "subtopic",
+                      "label":  "Starting the Server",
+                      "position":  {
+                                       "x":  -6.550021952792633,
+                                       "y":  313.46761791240385
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BOGXTjmCLo6WI6mYDsqRu",
+                      "type":  "subtopic",
+                      "label":  "Connecting using Redis CLI",
+                      "position":  {
+                                       "x":  -6.550021952792633,
+                                       "y":  366.46761791240385
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NhcZM4nUQoSBBf_1qXi6l",
+                      "type":  "subtopic",
+                      "label":  "Basic Commands / SET, GET",
+                      "position":  {
+                                       "x":  -6.550021952792633,
+                                       "y":  419.46761791240385
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GjKw6hbNV57I2sxuLfkQw",
+                      "type":  "paragraph",
+                      "label":  "First Steps",
+                      "position":  {
+                                       "x":  50.987555614282826,
+                                       "y":  536.2610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WYVzXLmj_TmqnX3ANzKj7",
+                      "type":  "label",
+                      "label":  "Basic Data Operations",
+                      "position":  {
+                                       "x":  -302.00281520804924,
+                                       "y":  550.7610824325313
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "DOdNkTY1yIMipWA2CD9xH",
+                      "type":  "subtopic",
+                      "label":  "Setting and Getting Keys",
+                      "position":  {
+                                       "x":  -349.00281520804924,
+                                       "y":  591.7610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lV_MnUNTB2h925idX0YWk",
+                      "type":  "subtopic",
+                      "label":  "DEL",
+                      "position":  {
+                                       "x":  -349.00281520804924,
+                                       "y":  644.7610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U84XgBFPyIbY0W5afH4cx",
+                      "type":  "subtopic",
+                      "label":  "Overview of Data Types",
+                      "position":  {
+                                       "x":  -359.00281520804924,
+                                       "y":  710.6034591804714
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TpW3rvaZYV9D2cHycy2my",
+                      "type":  "label",
+                      "label":  "Strings, Lists, Sets, Hashes, Sorted Sets",
+                      "position":  {
+                                       "x":  -365.00281520804924,
+                                       "y":  764.6034591804714
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "geUnNlWeXEBUs1W3fysRO",
+                      "type":  "paragraph",
+                      "label":  "Core Data Structures",
+                      "position":  {
+                                       "x":  -799.6381872719934,
+                                       "y":  540.2610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ltF4vCT9ZA2XuUuHnuGnN",
+                      "type":  "subtopic",
+                      "label":  "SET",
+                      "position":  {
+                                       "x":  -624.5705012400213,
+                                       "y":  631.3489330045289
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mQc4H2ZMMSVjh33LJY8mK",
+                      "type":  "subtopic",
+                      "label":  "GET",
+                      "position":  {
+                                       "x":  -530.0705012400213,
+                                       "y":  631.3489330045289
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5K9qyC4mrhXYWOC8WSq8C",
+                      "type":  "subtopic",
+                      "label":  "INCR",
+                      "position":  {
+                                       "x":  -624.5705012400213,
+                                       "y":  683.848933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "t4BXPofF8OCqH5KHwdYVh",
+                      "type":  "subtopic",
+                      "label":  "DECR",
+                      "position":  {
+                                       "x":  -530.0705012400213,
+                                       "y":  683.848933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cPWd53BO6tm-uy4gqLdtZ",
+                      "type":  "subtopic",
+                      "label":  "APPEND",
+                      "position":  {
+                                       "x":  -624.5705012400213,
+                                       "y":  736.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eJQW986HM4Wf1o1i2FnXs",
+                      "type":  "subtopic",
+                      "label":  "STRLEN",
+                      "position":  {
+                                       "x":  -530.0705012400213,
+                                       "y":  736.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JpPwzuJ9dK6b4uWH5rWe6",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -620.0705012400213,
+                                       "y":  840.348933004529
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "0v8uLWRCbAqEmKKdYaRQW",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  -624.0705012400213,
+                                       "y":  788.848933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2_E2VwbjTgk4xxTFWfHuV",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -624.0705012400213,
+                                       "y":  876.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i3Hnt66WKB47UILFmaOl_",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -55.00281520804924,
+                                       "y":  558.7610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JboVpV-Oijm52vBYob9nj",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -561.1381872719934,
+                                       "y":  558.7610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nS0DHhfy4wxHItgOFhulA",
+                      "type":  "subtopic",
+                      "label":  "expire",
+                      "position":  {
+                                       "x":  -265.25281520804924,
+                                       "y":  644.7610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Vll7VMmGWSI5XGZ9JpHyl",
+                      "type":  "subtopic",
+                      "label":  "TTL",
+                      "position":  {
+                                       "x":  -156.50281520804924,
+                                       "y":  644.7610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Kq7G89KaZZMFkrH-9WZoS",
+                      "type":  "subtopic",
+                      "label":  "LPUSH",
+                      "position":  {
+                                       "x":  -788.5705012400213,
+                                       "y":  1074.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jC8G1o7yFj7D_PGmOIgcD",
+                      "type":  "subtopic",
+                      "label":  "RPUSH",
+                      "position":  {
+                                       "x":  -689.5028152080492,
+                                       "y":  1074.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "voa61RTWMJD3Sk8DNJoVQ",
+                      "type":  "subtopic",
+                      "label":  "LPOP",
+                      "position":  {
+                                       "x":  -788.5705012400213,
+                                       "y":  1126.848933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "brUGqWZ287EWtvl9uUbNt",
+                      "type":  "subtopic",
+                      "label":  "RPOP",
+                      "position":  {
+                                       "x":  -689.5028152080492,
+                                       "y":  1126.848933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8JTtBy6oD2wFYDizVkcVa",
+                      "type":  "subtopic",
+                      "label":  "LRANGE",
+                      "position":  {
+                                       "x":  -788.5705012400213,
+                                       "y":  1179.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hBFEUXtuzUTzWZKp2qWaZ",
+                      "type":  "subtopic",
+                      "label":  "LINDEX",
+                      "position":  {
+                                       "x":  -689.5028152080492,
+                                       "y":  1179.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4oCcP9FxDJSDMHCEVBCNa",
+                      "type":  "subtopic",
+                      "label":  "LLEN",
+                      "position":  {
+                                       "x":  -788.5705012400213,
+                                       "y":  1231.848933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9KvHcS5F4Jj5ZXgIAdOQY",
+                      "type":  "subtopic",
+                      "label":  "LMOVE",
+                      "position":  {
+                                       "x":  -689.5028152080492,
+                                       "y":  1231.848933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eBeEUYY-IL_CMkcm31lUL",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  -788.5705012400213,
+                                       "y":  1284.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Iour_R6xJ5PieRjX9t993",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -779.5705012400213,
+                                       "y":  1338.348933004529
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "XTwNCCtzXvZMdaex4gZEh",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -790.5028152080492,
+                                       "y":  1374.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qgkpr9vf9d6-vUg1o8XFj",
+                      "type":  "topic",
+                      "label":  "Sets",
+                      "position":  {
+                                       "x":  -439.5819137259901,
+                                       "y":  982.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xUKoQps69FFQrJeuhD1pz",
+                      "type":  "subtopic",
+                      "label":  "SADD",
+                      "position":  {
+                                       "x":  -482.464883323405,
+                                       "y":  1070.501634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mQ0ILns53n1By0Tq6xSZI",
+                      "type":  "subtopic",
+                      "label":  "SMEMBERS",
+                      "position":  {
+                                       "x":  -482.464883323405,
+                                       "y":  1123.251634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WQWVL5GT_scHdgfCtI7WT",
+                      "type":  "subtopic",
+                      "label":  "SREM",
+                      "position":  {
+                                       "x":  -389.03256935537723,
+                                       "y":  1070.501634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ji5ghlcGJtlmErHFqVf3d",
+                      "type":  "subtopic",
+                      "label":  "SISMEMBER",
+                      "position":  {
+                                       "x":  -482.464883323405,
+                                       "y":  1176.001634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5aLfNBewK4Dx017qVNO3T",
+                      "type":  "subtopic",
+                      "label":  "SINTER",
+                      "position":  {
+                                       "x":  -483.5325693553771,
+                                       "y":  1228.751634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2gZL4a9aWGKWLa89iyHTc",
+                      "type":  "subtopic",
+                      "label":  "SCARD",
+                      "position":  {
+                                       "x":  -379.5325693553771,
+                                       "y":  1228.751634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6QoYa-N2BKNBaRtvNeVNm",
+                      "type":  "subtopic",
+                      "label":  "SUNION",
+                      "position":  {
+                                       "x":  -483.5325693553771,
+                                       "y":  1281.501634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JX5ajmcUmkshTO-mLF8lH",
+                      "type":  "subtopic",
+                      "label":  "SDIFF",
+                      "position":  {
+                                       "x":  -379.5325693553771,
+                                       "y":  1281.501634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WMDsN_k9KKTMJoVxvqRe_",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -478.464883323405,
+                                       "y":  1389.552701727933
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "2SG4Hr9Tuv6cxmGkrKjYZ",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  -483.0325693553771,
+                                       "y":  1334.901634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3hayYoSZepw7pppBubotg",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -481.964883323405,
+                                       "y":  1429.552701727933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "b48EUyFGUeSjtT5fOa_m6",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  -483.0325693553771,
+                                       "y":  1334.901634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MnC2RVZsbUXRWBHhoS3IG",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -762.1381872719934,
+                                       "y":  601.2610824325313
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wl23Jh-ASJOQ850yjaTIU",
+                      "type":  "topic",
+                      "label":  "Strings",
+                      "position":  {
+                                       "x":  -794.6381872719934,
+                                       "y":  754.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LKpF1cUo7n_B8_7VYil8G",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -762.1381872719934,
+                                       "y":  996.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4-C4XqACUp4nvcMIj6djF",
+                      "type":  "topic",
+                      "label":  "Lists",
+                      "position":  {
+                                       "x":  -799.0705012400213,
+                                       "y":  982.348933004529
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wY46Qj5Inw_ClBNI9PB_2",
+                      "type":  "topic",
+                      "label":  "Hashes",
+                      "position":  {
+                                       "x":  -205.4360763433994,
+                                       "y":  831.577518106665
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BOJzn9SWad9oRRdY_ub01",
+                      "type":  "subtopic",
+                      "label":  "HSET",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  619.6621339677162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MsKg9m5jFwHM2Bzjf-vdu",
+                      "type":  "subtopic",
+                      "label":  "HGET",
+                      "position":  {
+                                       "x":  148.88342242236251,
+                                       "y":  621.1621339677162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TpR33sJ-tAjeG3jpGTvYR",
+                      "type":  "subtopic",
+                      "label":  "HGETALL",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  674.6621339677162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "E7xFZkqqbzokD5KGTn9zJ",
+                      "type":  "subtopic",
+                      "label":  "HDEL",
+                      "position":  {
+                                       "x":  148.88342242236251,
+                                       "y":  674.6621339677162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "adhLMuSmfYMRyWTwIgnyE",
+                      "type":  "subtopic",
+                      "label":  "HEXISTS",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  726.6621339677162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3JTlcdE0621Do-fF7rmvY",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  58.870749690558,
+                                       "y":  835.6621339677162
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "jtVnUD-na-WffMaS8qYfu",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  47.870749690558,
+                                       "y":  876.6621339677162
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QTbkWZ7BpqYmBhUivccPu",
+                      "type":  "topic",
+                      "label":  "Sorted Sets",
+                      "position":  {
+                                       "x":  -205.4360763433994,
+                                       "y":  971.0460686385047
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0swsBD0sOY-o5lzibT999",
+                      "type":  "subtopic",
+                      "label":  "ZADD",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  979.7159079993978
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3pFChX6YIItrBz9lxu4XM",
+                      "type":  "subtopic",
+                      "label":  "ZRANGE",
+                      "position":  {
+                                       "x":  148.88342242236251,
+                                       "y":  979.7159079993978
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OlbixGa5RmdqEt7snY04j",
+                      "type":  "subtopic",
+                      "label":  "ZRANGEBYSCORE",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  1085.4042933441044
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "m0FZDPwNE71zcwM_gUwz0",
+                      "type":  "subtopic",
+                      "label":  "ZREM",
+                      "position":  {
+                                       "x":  148.88342242236251,
+                                       "y":  1033.4059280765664
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W4v7FIQr2k-Vbm-HdfKog",
+                      "type":  "subtopic",
+                      "label":  "ZINCRBY",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  1137.9059280765664
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AF_kWM4V8n5Ux06IgEVTl",
+                      "type":  "subtopic",
+                      "label":  "ZRANK",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  1033.4059280765664
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O-fZM_U-tW0pYtNzN_8Ax",
+                      "type":  "subtopic",
+                      "label":  "ZCOUNT",
+                      "position":  {
+                                       "x":  148.88342242236251,
+                                       "y":  1137.9059280765664
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P6TDUCroLlEI7qePBFHIH",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  780
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B2KNO28rJqoasbleVgXn7",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  63.2537192879729,
+                                       "y":  1247.2798077525504
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "lxevY15ZyP43s_JrEqMX7",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  46.76039918125758,
+                                       "y":  1284.3678500599142
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o6e_CwxfPoU6qkfWkwKwj",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  44.870749690558,
+                                       "y":  1191.6176737848343
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8gyVwKg3Ctt2w15X7xZgC",
+                      "type":  "paragraph",
+                      "label":  "Working with Redis",
+                      "position":  {
+                                       "x":  -239.32217668933376,
+                                       "y":  1187.6176737848343
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5SgC-_4Be_XpFmbJH3wH2",
+                      "type":  "label",
+                      "label":  "Key Management",
+                      "position":  {
+                                       "x":  -207.82217668933376,
+                                       "y":  1493.001634732462
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "jCaVx5wvsvuyqtwh6m8si",
+                      "type":  "subtopic",
+                      "label":  "Naming Conventions",
+                      "position":  {
+                                       "x":  -236.32217668933376,
+                                       "y":  1327.6577176448873
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UlQHqw1dbxZnAKbsWsOgU",
+                      "type":  "subtopic",
+                      "label":  "Retrieval by Pattern",
+                      "position":  {
+                                       "x":  -236.32217668933376,
+                                       "y":  1380.6577176448873
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OSIYDYPGz8Vgo9SU9GGH9",
+                      "type":  "subtopic",
+                      "label":  "Expiration",
+                      "position":  {
+                                       "x":  -236.32217668933376,
+                                       "y":  1433.6577176448873
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jrgaoDnt_RxTu79hk4hCD",
+                      "type":  "topic",
+                      "label":  "Atomicity in Redis",
+                      "position":  {
+                                       "x":  45.870749690558,
+                                       "y":  1403.6577176448873
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LHlwjN3WHYUBUafzzwsWQ",
+                      "type":  "topic",
+                      "label":  "Pipelining",
+                      "position":  {
+                                       "x":  45.870749690558,
+                                       "y":  1488.001634732462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7JzeyTrkZ_1_yxMVrqvZU",
+                      "type":  "topic",
+                      "label":  "Batch Operations",
+                      "position":  {
+                                       "x":  45.870749690558,
+                                       "y":  1571.9885116331939
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "osbKjF7VIAxtWokGjuYXq",
+                      "type":  "label",
+                      "label":  "MSET / MGET",
+                      "position":  {
+                                       "x":  83.76039918125758,
+                                       "y":  1629.099028442399
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "45ihdIfRW-jI38h-s4Vdc",
+                      "type":  "paragraph",
+                      "label":  "Advanced Data Structures",
+                      "position":  {
+                                       "x":  -305.3221766893338,
+                                       "y":  1567.9885116331939
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0Q3AkE8leWAyYsww3-BHX",
+                      "type":  "topic",
+                      "label":  "Bitmaps",
+                      "position":  {
+                                       "x":  -523.1381872719934,
+                                       "y":  1571.9885116331939
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B-YUFhPQNdr1KZNupmR5N",
+                      "type":  "subtopic",
+                      "label":  "SETBIT",
+                      "position":  {
+                                       "x":  -786.6346077601577,
+                                       "y":  1474.3345088216322
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0HFLJfcrcSnAVTecG3P8W",
+                      "type":  "subtopic",
+                      "label":  "GETBIT",
+                      "position":  {
+                                       "x":  -687.5669217281857,
+                                       "y":  1475.3024555615639
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jpcyXSSib7q4WBPmpgnXA",
+                      "type":  "subtopic",
+                      "label":  "BITCOUNT",
+                      "position":  {
+                                       "x":  -787.24296378698,
+                                       "y":  1580.9782502455694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tkrxArg_oYH0aQfM8NkD2",
+                      "type":  "subtopic",
+                      "label":  "BITOP",
+                      "position":  {
+                                       "x":  -786.6346077601577,
+                                       "y":  1526.9782502455694
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Df1Eu7CuA-ARYii9JVvnm",
+                      "type":  "subtopic",
+                      "label":  "BITPOS",
+                      "position":  {
+                                       "x":  -687.5669217281857,
+                                       "y":  1527.946196985501
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i2qZKBU9LJ8c6z8wKt_Eb",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -777.24296378698,
+                                       "y":  1635.8291147642672
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "s7PEr-5TAm5EGJm0RSjPJ",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -785.24296378698,
+                                       "y":  1671.8291147642672
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cszjT3YK8oyhGpqLTQzwX",
+                      "type":  "topic",
+                      "label":  "HyperLogLog",
+                      "position":  {
+                                       "x":  -523.1381872719934,
+                                       "y":  1867.6382433656738
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8a4DmPZrX2xGZ7zdWxS63",
+                      "type":  "subtopic",
+                      "label":  "PFADD",
+                      "position":  {
+                                       "x":  -787.1336432750411,
+                                       "y":  1822.4395748673794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JWT30KIJQHVw0MXI5sGR6",
+                      "type":  "subtopic",
+                      "label":  "PFCOUNT",
+                      "position":  {
+                                       "x":  -787.1336432750411,
+                                       "y":  1875.4395748673794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s50jr_XOUcxh65-tGCKf5",
+                      "type":  "subtopic",
+                      "label":  "PFMERGE",
+                      "position":  {
+                                       "x":  -787.1336432750411,
+                                       "y":  1769.4395748673794
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EiVMoU64Omo8DOV7h6nBr",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -779.1336432750411,
+                                       "y":  1927.5036813875156
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "XPeCvikPuu6EJ8UcOLGPh",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -787.1336432750411,
+                                       "y":  1963.5036813875156
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zXs_9n2yEb_eVi0WuOQKH",
+                      "type":  "topic",
+                      "label":  "Streams",
+                      "position":  {
+                                       "x":  -242.30753316308028,
+                                       "y":  1998.5036813875156
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7isWhgrUA6M5IGM2U2tm4",
+                      "type":  "subtopic",
+                      "label":  "XADD",
+                      "position":  {
+                                       "x":  -265.08695195283053,
+                                       "y":  1695.0200165881924
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4sKiAtX5aIL4NDsQkilNC",
+                      "type":  "subtopic",
+                      "label":  "XREAD",
+                      "position":  {
+                                       "x":  -161.52821095958973,
+                                       "y":  1694.0520698482605
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CiYFuYE8XudZkR6AW2NQ7",
+                      "type":  "subtopic",
+                      "label":  "XRANGE",
+                      "position":  {
+                                       "x":  -265.08695195283053,
+                                       "y":  1747.5200165881924
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DQJCMEw13lELcw_AwLfrT",
+                      "type":  "subtopic",
+                      "label":  "XLEN",
+                      "position":  {
+                                       "x":  -161.52821095958973,
+                                       "y":  1746.5520698482605
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1eNIiXzA2XjiIDS_df1YR",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -260.35633423807275,
+                                       "y":  1855.4492672979154
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zXlSBfa-Gi9_GhSYEzre3",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -263.85633423807275,
+                                       "y":  1895.4492672979154
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4-z4hDKm86qQatYnmE21R",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  -264.9240202700449,
+                                       "y":  1800.7982003024445
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_NiUdVQ85qnvryI38k_vQ",
+                      "type":  "topic",
+                      "label":  "Geospatial Indexes",
+                      "position":  {
+                                       "x":  34.784146851171954,
+                                       "y":  1998.5036813875156
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U3N1EgHFs1-YUaB_VrJfw",
+                      "type":  "subtopic",
+                      "label":  "GEOADD",
+                      "position":  {
+                                       "x":  43.68805808540674,
+                                       "y":  1693.57444541618
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OWWDLuGTbdNwME7v2jxVP",
+                      "type":  "subtopic",
+                      "label":  "GEOSEARCH",
+                      "position":  {
+                                       "x":  43.68805808540674,
+                                       "y":  1748.57444541618
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n7tMR48rdamdpGuCKKiJh",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  49.70715514077847,
+                                       "y":  1856.5838292760734
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "GNMjrLPkpTphneoQ0GoZF",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  46.20715514077847,
+                                       "y":  1896.5838292760734
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FCbdKnkI1ZHGekT6yiGua",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  45.13946910880634,
+                                       "y":  1801.9327622806024
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9W_jaK1DSEZHRKdPcUM7h",
+                      "type":  "topic",
+                      "label":  "Pub/Sub",
+                      "position":  {
+                                       "x":  33.284146851171954,
+                                       "y":  2094.1338220801877
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "55BCntuWlaQiLPqNtb-2i",
+                      "type":  "subtopic",
+                      "label":  "SUBSCRIBE",
+                      "position":  {
+                                       "x":  44.284146851171954,
+                                       "y":  2193.028423683739
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5gkZzm2F4vu6IxUoJLYbK",
+                      "type":  "subtopic",
+                      "label":  "UNSUBSCRIBE",
+                      "position":  {
+                                       "x":  44.284146851171954,
+                                       "y":  2246.028423683739
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gIPo-2CNqE1BsOaDzmkCU",
+                      "type":  "subtopic",
+                      "label":  "PUBLISH",
+                      "position":  {
+                                       "x":  44.284146851171954,
+                                       "y":  2299.028423683739
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fu9hfU-5qxDc2psK6-AEm",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  48.784146851171954,
+                                       "y":  2406.028423683739
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "V-d6q-3Sf0dl5v8xiCQwl",
+                      "type":  "subtopic",
+                      "label":  "More Commands",
+                      "position":  {
+                                       "x":  44.284146851171954,
+                                       "y":  2352.028423683739
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MvyE_JUJej0UB9xe8Anfj",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  45.284146851171954,
+                                       "y":  2447.028423683739
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YHbWlKrQqptUDbaQVy0_A",
+                      "type":  "topic",
+                      "label":  "Transactions",
+                      "position":  {
+                                       "x":  -270.6768116800821,
+                                       "y":  2094.1338220801877
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c-y5Eck8VtSyIf8RAW9p7",
+                      "type":  "subtopic",
+                      "label":  "WATCH",
+                      "position":  {
+                                       "x":  -259.6768116800821,
+                                       "y":  2192.7847957820186
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ljy-Mc0EBBX4_vXfYZ5-4",
+                      "type":  "subtopic",
+                      "label":  "EXEC",
+                      "position":  {
+                                       "x":  -259.6768116800821,
+                                       "y":  2245.7847957820186
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U6hST1MkS16T2CHV3-Ise",
+                      "type":  "subtopic",
+                      "label":  "MULTI",
+                      "position":  {
+                                       "x":  -259.6768116800821,
+                                       "y":  2298.7847957820186
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bnqUb3pHb4KzH_vA0JO-o",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -254.1768116800821,
+                                       "y":  2357.7847957820186
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "msW0Wd2H-6FFNDnjC64t-",
+                      "type":  "subtopic",
+                      "label":  "Optimistic Locking",
+                      "position":  {
+                                       "x":  -259.6768116800821,
+                                       "y":  2393.7847957820186
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Veb30QrPYNjUn13dtGbUr",
+                      "type":  "topic",
+                      "label":  "Lua Scripting",
+                      "position":  {
+                                       "x":  -540.6396884459828,
+                                       "y":  2094.1338220801877
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rjeq3i9oX8IGyQzo--L3c",
+                      "type":  "subtopic",
+                      "label":  "EVAL",
+                      "position":  {
+                                       "x":  -531.1396884459828,
+                                       "y":  2193.3736263464275
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3X0x_PcJGWBVPL-LSVAln",
+                      "type":  "subtopic",
+                      "label":  "EVALSHA",
+                      "position":  {
+                                       "x":  -531.1396884459828,
+                                       "y":  2246.3736263464275
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ntFfk1RRA5g_dC5McYb9g",
+                      "type":  "label",
+                      "label":  "Common Commands",
+                      "position":  {
+                                       "x":  -527.6396884459828,
+                                       "y":  2300.6176330596563
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "kF_nGo845XDwLkwcQt008",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -531.1396884459828,
+                                       "y":  2341.6176330596563
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bQaek7f3dAaZfSUhwovm1",
+                      "type":  "topic",
+                      "label":  "Persistence Options",
+                      "position":  {
+                                       "x":  -761.5705012400213,
+                                       "y":  2430.5411678802984
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D3pZdAjwPFMRxX1-iyu5-",
+                      "type":  "subtopic",
+                      "label":  "How RDB Works?",
+                      "position":  {
+                                       "x":  -788.4056236984468,
+                                       "y":  2582.722300491497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_pb2DPrFUUZabKxWsuFUo",
+                      "type":  "subtopic",
+                      "label":  "Configuring Save Interval",
+                      "position":  {
+                                       "x":  -788.4056236984468,
+                                       "y":  2635.722300491497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Z6yJwUkcDX08HoMyf1LwX",
+                      "type":  "subtopic",
+                      "label":  "Usecases / Best Practices",
+                      "position":  {
+                                       "x":  -788.4056236984468,
+                                       "y":  2688.722300491497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cXcTz_u6RL3novZimRdg_",
+                      "type":  "label",
+                      "label":  "Snapshotting (RDB)",
+                      "position":  {
+                                       "x":  -746.4056236984468,
+                                       "y":  2748.722300491497
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PTj6oxvpw8vP295WvAI80",
+                      "type":  "subtopic",
+                      "label":  "How AOF Works?",
+                      "position":  {
+                                       "x":  -788.5040036977603,
+                                       "y":  2795.239715349408
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ibaZ34-laQtUyxAsERi7o",
+                      "type":  "subtopic",
+                      "label":  "AOF rewrite \u0026 compaction",
+                      "position":  {
+                                       "x":  -788.5040036977603,
+                                       "y":  2848.239715349408
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9ToKTUqbi-NV5Wcwb21PT",
+                      "type":  "subtopic",
+                      "label":  "Truncation / Corruption",
+                      "position":  {
+                                       "x":  -788.5040036977603,
+                                       "y":  2901.239715349408
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VvOQUO22ZF8VvDSqHENNU",
+                      "type":  "subtopic",
+                      "label":  "Usecases",
+                      "position":  {
+                                       "x":  -788.5040036977603,
+                                       "y":  2954.239715349408
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Y__3QLU4PChySvPtqDtxT",
+                      "type":  "label",
+                      "label":  "Append-Only File (AOF)",
+                      "position":  {
+                                       "x":  -761.0995417594463,
+                                       "y":  3012.821469532407
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "vzp7DUpjklzIA0E9WxJQA",
+                      "type":  "subtopic",
+                      "label":  "Usecases / Best Practices",
+                      "position":  {
+                                       "x":  -788.4056236984468,
+                                       "y":  2688.722300491497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "80035BzcB-fKCvD_3N8zE",
+                      "type":  "subtopic",
+                      "label":  "No Persistence Option",
+                      "position":  {
+                                       "x":  -796.4056236984468,
+                                       "y":  2525.722300491497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3S-qqOlfr60HR4VvDr4He",
+                      "type":  "subtopic",
+                      "label":  "RDB vs AOF Tradeoffs",
+                      "position":  {
+                                       "x":  -788.4056236984468,
+                                       "y":  3069.0956068302976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "S5Y26m1oHCQpB-oLCdtac",
+                      "type":  "subtopic",
+                      "label":  "Hybrid Persistence",
+                      "position":  {
+                                       "x":  -786.6346077601577,
+                                       "y":  3121.5956068302976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8zl_DwdRI2MGz6RadV4lE",
+                      "type":  "label",
+                      "label":  "Choosing Right Strategy",
+                      "position":  {
+                                       "x":  -762.1812271795868,
+                                       "y":  3177.5821619503376
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "0zHluzD25vXl3AYcvbxhx",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -670.0705012400213,
+                                       "y":  2479.5411678802984
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uvwbpHaA6rH6YrHuEdBxh",
+                      "type":  "paragraph",
+                      "label":  "Replication / HA",
+                      "position":  {
+                                       "x":  -485.07050124002126,
+                                       "y":  2570.722300491497
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rSD8nJ-uNpHJVe5Hn66h7",
+                      "type":  "topic",
+                      "label":  "Replication Basics",
+                      "position":  {
+                                       "x":  -487.52827201104554,
+                                       "y":  2691.3630425975985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nci3OB1NE1zJHUPfZCOpT",
+                      "type":  "topic",
+                      "label":  "Redis Sentinel",
+                      "position":  {
+                                       "x":  -487.52827201104554,
+                                       "y":  2744.3630425975985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AQiCcHS6dBAAAPloxiXub",
+                      "type":  "topic",
+                      "label":  "Clustering",
+                      "position":  {
+                                       "x":  -487.52827201104554,
+                                       "y":  2797.3630425975985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zmVjMf9wNHARBS_mBY4lY",
+                      "type":  "paragraph",
+                      "label":  "Security",
+                      "position":  {
+                                       "x":  -192.0301527130956,
+                                       "y":  2795.3630425975985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qy42paiTUsO8HIwbWTMui",
+                      "type":  "topic",
+                      "label":  "Authentication",
+                      "position":  {
+                                       "x":  -232.0301527130956,
+                                       "y":  2574.728124123601
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wsuKH7YwGDV6GYQbdhA4o",
+                      "type":  "topic",
+                      "label":  "Network Security",
+                      "position":  {
+                                       "x":  -232.0301527130956,
+                                       "y":  2627.728124123601
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gdiWwTQg6A-BFHdQBmgmH",
+                      "type":  "topic",
+                      "label":  "SSL/TLS Encryption",
+                      "position":  {
+                                       "x":  -232.0301527130956,
+                                       "y":  2680.728124123601
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k9HeweEN4enuboEppbJiP",
+                      "type":  "paragraph",
+                      "label":  "Monitoring / Optimization",
+                      "position":  {
+                                       "x":  28.876322242962374,
+                                       "y":  2740.3630425975985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "q2Jw49QUWCUGIfcEC1bZI",
+                      "type":  "subtopic",
+                      "label":  "INFO",
+                      "position":  {
+                                       "x":  78.05051776655154,
+                                       "y":  2972.2582055339226
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jBtEiylcedtaE6E20Uk4V",
+                      "type":  "subtopic",
+                      "label":  "MONITOR",
+                      "position":  {
+                                       "x":  150.47128940990217,
+                                       "y":  2972.2582055339226
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_Pc7nNLnVFca8Wn3DjOfL",
+                      "type":  "label",
+                      "label":  "Built-in Tools",
+                      "position":  {
+                                       "x":  103.35425900731707,
+                                       "y":  3027.634878285732
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "XBPwHgIsXupMsyoOFkJZ0",
+                      "type":  "subtopic",
+                      "label":  "RedisInsight",
+                      "position":  {
+                                       "x":  78.05051776655154,
+                                       "y":  3066.634878285732
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "y5FPSAi6T-5X9SUfR58_-",
+                      "type":  "subtopic",
+                      "label":  "RedisCommander",
+                      "position":  {
+                                       "x":  78.05051776655154,
+                                       "y":  3120.634878285732
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gEDpVuVAS0oZv7rlku8LH",
+                      "type":  "label",
+                      "label":  "3rd Party Tools",
+                      "position":  {
+                                       "x":  99.36093890060175,
+                                       "y":  3172.716632468731
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "YFNh64DIbJJPQrm5fquvi",
+                      "type":  "label",
+                      "label":  "Performance Optimization",
+                      "position":  {
+                                       "x":  -209.03386624713073,
+                                       "y":  3170.0682184225393
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xF0wQYmtwXYkrzvWg5gOO",
+                      "type":  "subtopic",
+                      "label":  "Memory Management",
+                      "position":  {
+                                       "x":  -209.03386624713073,
+                                       "y":  2951.0682184225393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Sd1ENOXSFCz1YqccXjr2A",
+                      "type":  "subtopic",
+                      "label":  "Max Memory Policy",
+                      "position":  {
+                                       "x":  -209.03386624713073,
+                                       "y":  2898.0682184225393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yaCWw2KjX58SaPajUAb0d",
+                      "type":  "subtopic",
+                      "label":  "Slow Log Analysis",
+                      "position":  {
+                                       "x":  -209.03386624713073,
+                                       "y":  3004.0682184225393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kgHwK4N-sfh6dHjd_D_me",
+                      "type":  "subtopic",
+                      "label":  "redis-benchmark",
+                      "position":  {
+                                       "x":  -209.03386624713073,
+                                       "y":  3057.0682184225393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2p5RF4lVYfRvYTo1Ofm-a",
+                      "type":  "subtopic",
+                      "label":  "Monitoring",
+                      "position":  {
+                                       "x":  -209.03386624713073,
+                                       "y":  3110.0682184225393
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L0t6e1P83aaoa3B9OUT-8",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  13.997184791950758,
+                                       "y":  3161.5956068302976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PSQ274asgr1EEnim7U-eh",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -307.03386624713073,
+                                       "y":  3158.0956068302976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hLIT00Iz7rV56ZBIUhWYn",
+                      "type":  "topic",
+                      "label":  "Redis Modules",
+                      "position":  {
+                                       "x":  -460.32324473151516,
+                                       "y":  3143.5956068302976
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jicsfYw56VrbRUt7M8c85",
+                      "type":  "subtopic",
+                      "label":  "RedisJSON",
+                      "position":  {
+                                       "x":  -468.32324473151516,
+                                       "y":  3063.899240143158
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_GdTXcJO8uJlhPdfrmeXG",
+                      "type":  "subtopic",
+                      "label":  "Search",
+                      "position":  {
+                                       "x":  -468.32324473151516,
+                                       "y":  2904.899240143158
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RBr8opWSh2TKXC8Fmdg0j",
+                      "type":  "subtopic",
+                      "label":  "RedisTimeSeries",
+                      "position":  {
+                                       "x":  -468.32324473151516,
+                                       "y":  2957.899240143158
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GwVL5CvbnHsiWb1hVh7lK",
+                      "type":  "subtopic",
+                      "label":  "RedisBloom",
+                      "position":  {
+                                       "x":  -468.32324473151516,
+                                       "y":  3010.899240143158
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vWOOOTjEx8Ycz1NA0xZad",
+                      "type":  "paragraph",
+                      "label":  "Managing Redis in Production",
+                      "position":  {
+                                       "x":  -547.3232447315152,
+                                       "y":  3289.9218306559433
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "giyKPtQ-pziA064P8OQD-",
+                      "type":  "topic",
+                      "label":  "redis.conf",
+                      "position":  {
+                                       "x":  45.96613375286927,
+                                       "y":  3294.4218306559433
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GPsf1hc9hXNKgutGCribk",
+                      "type":  "label",
+                      "label":  "Important Configurations",
+                      "position":  {
+                                       "x":  45.96613375286927,
+                                       "y":  3348.3314038676613
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "wXRDsNGFckXV_CSiit5sN",
+                      "type":  "topic",
+                      "label":  "Backup and Recovery",
+                      "position":  {
+                                       "x":  41.96613375286927,
+                                       "y":  3435.2725756087743
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-gCy7Uj64KQJ39IYb_Vph",
+                      "type":  "label",
+                      "label":  "RDB and AOF Files",
+                      "position":  {
+                                       "x":  65.370749690558,
+                                       "y":  3489.2725756087743
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Cb-KazR4PuR86VX5oT0zi",
+                      "type":  "topic",
+                      "label":  "Upgrading Redis",
+                      "position":  {
+                                       "x":  -401.8779496312137,
+                                       "y":  3434.2725756087743
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VgqFVVf1rYiSbYLeUO6KL",
+                      "type":  "label",
+                      "label":  "Minimizing Downtimes",
+                      "position":  {
+                                       "x":  -398.3779496312137,
+                                       "y":  3488.032210578755
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "nUIfTkgm3PlSiqgun1BS7",
+                      "type":  "topic",
+                      "label":  "Disaster Recovery",
+                      "position":  {
+                                       "x":  -727.9644850173872,
+                                       "y":  3435.2725756087743
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8lyXDuZJ-KHl4v2_8Ew1h",
+                      "type":  "topic",
+                      "label":  "Redis Enterprise",
+                      "position":  {
+                                       "x":  -727.9644850173872,
+                                       "y":  3552.753447069508
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RwGWF4dtvfhcORWz7lisg",
+                      "type":  "label",
+                      "label":  "Enterprise Features",
+                      "position":  {
+                                       "x":  -715.4644850173872,
+                                       "y":  3813.6036656653055
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "cybF72wlJyJbHLUjitLvn",
+                      "type":  "subtopic",
+                      "label":  "Active-Active geo Distribution",
+                      "position":  {
+                                       "x":  -765.4644850173872,
+                                       "y":  3647.6036656653055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sWOFnbh2EyaHRzquz1UeF",
+                      "type":  "subtopic",
+                      "label":  "Redis on Flash",
+                      "position":  {
+                                       "x":  -765.4644850173872,
+                                       "y":  3700.6036656653055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ujs77bV8g8-FOm5hBtZFd",
+                      "type":  "subtopic",
+                      "label":  "Security and Compliance",
+                      "position":  {
+                                       "x":  -765.4644850173872,
+                                       "y":  3753.6036656653055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JlLwy69eQ1bPHAOOJNqjo",
+                      "type":  "subtopic",
+                      "label":  "When to consider enterprise?",
+                      "position":  {
+                                       "x":  -773.4644850173872,
+                                       "y":  3851.6036656653055
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "type":  "paragraph",
+                      "label":  "Continue Learning with following relevant tracks",
+                      "position":  {
+                                       "x":  -342.0466059451501,
+                                       "y":  3709.8659221702487
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OIcmPSbdsuWapb6HZ4BEi",
+                      "type":  "button",
+                      "label":  "MongoDB",
+                      "position":  {
+                                       "x":  -328.0328034608642,
+                                       "y":  3764.0115796033583
+                                   },
+                      "href":  "https://roadmap.sh/mongodb",
+                      "links":  null
+                  },
+                  {
+                      "id":  "qXKNK_IsGS8-JgLK-Q9oU",
+                      "type":  "button",
+                      "label":  "PostgreSQL",
+                      "position":  {
+                                       "x":  -191.4785882138204,
+                                       "y":  3764.0115796033583
+                                   },
+                      "href":  "https://roadmap.sh/postgresql-dba",
+                      "links":  null
+                  },
+                  {
+                      "id":  "RLtk1C3gofHnLJ17x3o5b",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -149.11049657354835,
+                                       "y":  3832.8659221702487
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-sFboM4eFUMVq1tlPl-fV",
+                      "type":  "button",
+                      "label":  "SQL",
+                      "position":  {
+                                       "x":  -47.00281520804924,
+                                       "y":  3764.0115796033583
+                                   },
+                      "href":  "https://roadmap.sh/sql",
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -101.76834989322975,
+                                       "y":  -183.45354709361834
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  -88.14383767998663,
+                                       "y":  -101.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "reactflow__edge-L191VgfCbX3ibSIKySpsNx2--3pADOHMDQ0H6ZKNjURynw1",
+                      "source":  "L191VgfCbX3ibSIKySpsN",
+                      "target":  "-3pADOHMDQ0H6ZKNjURyn",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge--3pADOHMDQ0H6ZKNjURynx2-gw04IG5uImCHxcFnOAAwyw1",
+                      "source":  "-3pADOHMDQ0H6ZKNjURyn",
+                      "target":  "gw04IG5uImCHxcFnOAAwy",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge--3pADOHMDQ0H6ZKNjURynz2-QXwoHEeisL4d6dpJOwYkUy1",
+                      "source":  "-3pADOHMDQ0H6ZKNjURyn",
+                      "target":  "QXwoHEeisL4d6dpJOwYkU",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-gw04IG5uImCHxcFnOAAwyx2-zxoi09oW1HbXNwvc14w9Uw1",
+                      "source":  "gw04IG5uImCHxcFnOAAwy",
+                      "target":  "zxoi09oW1HbXNwvc14w9U",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-80UujPXPhvKIJMSM67pwlx2-GjKw6hbNV57I2sxuLfkQww1",
+                      "source":  "80UujPXPhvKIJMSM67pwl",
+                      "target":  "GjKw6hbNV57I2sxuLfkQw",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Wl23Jh-ASJOQ850yjaTIUz2-Ljjl_kSEevtaBALxRh2Byy1",
+                      "source":  "Wl23Jh-ASJOQ850yjaTIU",
+                      "target":  "Ljjl_kSEevtaBALxRh2By",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-4-C4XqACUp4nvcMIj6djFz2-wY46Qj5Inw_ClBNI9PB_2y2",
+                      "source":  "4-C4XqACUp4nvcMIj6djF",
+                      "target":  "Qgkpr9vf9d6-vUg1o8XFj",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-wY46Qj5Inw_ClBNI9PB_2x2-u2TdoI7ILaxYgUUni9W_ww1",
+                      "source":  "Qgkpr9vf9d6-vUg1o8XFj",
+                      "target":  "u2TdoI7ILaxYgUUni9W_w",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qgkpr9vf9d6-vUg1o8XFjw2-wY46Qj5Inw_ClBNI9PB_2y1",
+                      "source":  "Qgkpr9vf9d6-vUg1o8XFj",
+                      "target":  "wY46Qj5Inw_ClBNI9PB_2",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wY46Qj5Inw_ClBNI9PB_2x2-QTbkWZ7BpqYmBhUivccPuw2",
+                      "source":  "wY46Qj5Inw_ClBNI9PB_2",
+                      "target":  "QTbkWZ7BpqYmBhUivccPu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-QTbkWZ7BpqYmBhUivccPux2-8gyVwKg3Ctt2w15X7xZgCw1",
+                      "source":  "QTbkWZ7BpqYmBhUivccPu",
+                      "target":  "8gyVwKg3Ctt2w15X7xZgC",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-8gyVwKg3Ctt2w15X7xZgCx2-Kjkc8rNezN_LBD5WMrBbEw1",
+                      "source":  "8gyVwKg3Ctt2w15X7xZgC",
+                      "target":  "Kjkc8rNezN_LBD5WMrBbE",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Kjkc8rNezN_LBD5WMrBbEz2-jrgaoDnt_RxTu79hk4hCDy2",
+                      "source":  "Kjkc8rNezN_LBD5WMrBbE",
+                      "target":  "jrgaoDnt_RxTu79hk4hCD",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "reactflow__edge-jrgaoDnt_RxTu79hk4hCDx2-LHlwjN3WHYUBUafzzwsWQw1",
+                      "source":  "jrgaoDnt_RxTu79hk4hCD",
+                      "target":  "LHlwjN3WHYUBUafzzwsWQ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-LHlwjN3WHYUBUafzzwsWQx2-7JzeyTrkZ_1_yxMVrqvZUw2",
+                      "source":  "LHlwjN3WHYUBUafzzwsWQ",
+                      "target":  "7JzeyTrkZ_1_yxMVrqvZU",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-7JzeyTrkZ_1_yxMVrqvZUy2-45ihdIfRW-jI38h-s4Vdcz1",
+                      "source":  "7JzeyTrkZ_1_yxMVrqvZU",
+                      "target":  "45ihdIfRW-jI38h-s4Vdc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-45ihdIfRW-jI38h-s4Vdcy2-cszjT3YK8oyhGpqLTQzwXz1",
+                      "source":  "45ihdIfRW-jI38h-s4Vdc",
+                      "target":  "0Q3AkE8leWAyYsww3-BHX",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-cszjT3YK8oyhGpqLTQzwXy2-CxiHaw63xmItCGdhpcsizz1",
+                      "source":  "0Q3AkE8leWAyYsww3-BHX",
+                      "target":  "CxiHaw63xmItCGdhpcsiz",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-0Q3AkE8leWAyYsww3-BHXx2-cszjT3YK8oyhGpqLTQzwXw1",
+                      "source":  "0Q3AkE8leWAyYsww3-BHX",
+                      "target":  "cszjT3YK8oyhGpqLTQzwX",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-ifAV_64bREZrJkxFnf7Cyz2-cszjT3YK8oyhGpqLTQzwXy1",
+                      "source":  "ifAV_64bREZrJkxFnf7Cy",
+                      "target":  "cszjT3YK8oyhGpqLTQzwX",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-cszjT3YK8oyhGpqLTQzwXx2-zXs_9n2yEb_eVi0WuOQKHy1",
+                      "source":  "cszjT3YK8oyhGpqLTQzwX",
+                      "target":  "zXs_9n2yEb_eVi0WuOQKH",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-zXs_9n2yEb_eVi0WuOQKHw2-S16vO5EHvxaylsnFzs4Kxx1",
+                      "source":  "zXs_9n2yEb_eVi0WuOQKH",
+                      "target":  "S16vO5EHvxaylsnFzs4Kx",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-zXs_9n2yEb_eVi0WuOQKHz2-9W_jaK1DSEZHRKdPcUM7hy1",
+                      "source":  "zXs_9n2yEb_eVi0WuOQKH",
+                      "target":  "_NiUdVQ85qnvryI38k_vQ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-9W_jaK1DSEZHRKdPcUM7hw2-4fIp9_ii_gYgEMFFk__BGx1",
+                      "source":  "_NiUdVQ85qnvryI38k_vQ",
+                      "target":  "4fIp9_ii_gYgEMFFk__BG",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-_NiUdVQ85qnvryI38k_vQx2-9W_jaK1DSEZHRKdPcUM7hw2",
+                      "source":  "_NiUdVQ85qnvryI38k_vQ",
+                      "target":  "9W_jaK1DSEZHRKdPcUM7h",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-9W_jaK1DSEZHRKdPcUM7hx2-VJosvi5KwlePkGxBzmxSHw1",
+                      "source":  "9W_jaK1DSEZHRKdPcUM7h",
+                      "target":  "VJosvi5KwlePkGxBzmxSH",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-9W_jaK1DSEZHRKdPcUM7hy2-YHbWlKrQqptUDbaQVy0_Az1",
+                      "source":  "9W_jaK1DSEZHRKdPcUM7h",
+                      "target":  "YHbWlKrQqptUDbaQVy0_A",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-YHbWlKrQqptUDbaQVy0_Ax2-Mpt_WSLngBqt131nAm3Nsw1",
+                      "source":  "YHbWlKrQqptUDbaQVy0_A",
+                      "target":  "Mpt_WSLngBqt131nAm3Ns",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-YHbWlKrQqptUDbaQVy0_Ay2-Veb30QrPYNjUn13dtGbUrz2",
+                      "source":  "YHbWlKrQqptUDbaQVy0_A",
+                      "target":  "Veb30QrPYNjUn13dtGbUr",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-Veb30QrPYNjUn13dtGbUrx2-PXWvq1ezVBU5UJVN887Esw2",
+                      "source":  "Veb30QrPYNjUn13dtGbUr",
+                      "target":  "PXWvq1ezVBU5UJVN887Es",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-Veb30QrPYNjUn13dtGbUry2-bQaek7f3dAaZfSUhwovm1w1",
+                      "source":  "Veb30QrPYNjUn13dtGbUr",
+                      "target":  "bQaek7f3dAaZfSUhwovm1",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-bQaek7f3dAaZfSUhwovm1z2-uvwbpHaA6rH6YrHuEdBxhw1",
+                      "source":  "bQaek7f3dAaZfSUhwovm1",
+                      "target":  "uvwbpHaA6rH6YrHuEdBxh",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-uvwbpHaA6rH6YrHuEdBxhx2-rSD8nJ-uNpHJVe5Hn66h7w1",
+                      "source":  "uvwbpHaA6rH6YrHuEdBxh",
+                      "target":  "rSD8nJ-uNpHJVe5Hn66h7",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-AQiCcHS6dBAAAPloxiXubz2-zmVjMf9wNHARBS_mBY4lYy1",
+                      "source":  "AQiCcHS6dBAAAPloxiXub",
+                      "target":  "zmVjMf9wNHARBS_mBY4lY",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-zmVjMf9wNHARBS_mBY4lYw2-gdiWwTQg6A-BFHdQBmgmHx1",
+                      "source":  "zmVjMf9wNHARBS_mBY4lY",
+                      "target":  "gdiWwTQg6A-BFHdQBmgmH",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qy42paiTUsO8HIwbWTMuiz2-k9HeweEN4enuboEppbJiPw1",
+                      "source":  "Qy42paiTUsO8HIwbWTMui",
+                      "target":  "k9HeweEN4enuboEppbJiP",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-k9HeweEN4enuboEppbJiPx2-7ETrwXaK2xR1AoS7tTyzWw2",
+                      "source":  "k9HeweEN4enuboEppbJiP",
+                      "target":  "7ETrwXaK2xR1AoS7tTyzW",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-hLIT00Iz7rV56ZBIUhWYnw2-jicsfYw56VrbRUt7M8c85x2",
+                      "source":  "hLIT00Iz7rV56ZBIUhWYn",
+                      "target":  "jicsfYw56VrbRUt7M8c85",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "reactflow__edge-hLIT00Iz7rV56ZBIUhWYnx2-vWOOOTjEx8Ycz1NA0xZadw1",
+                      "source":  "hLIT00Iz7rV56ZBIUhWYn",
+                      "target":  "vWOOOTjEx8Ycz1NA0xZad",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-vWOOOTjEx8Ycz1NA0xZadz2-giyKPtQ-pziA064P8OQD-y1",
+                      "source":  "vWOOOTjEx8Ycz1NA0xZad",
+                      "target":  "giyKPtQ-pziA064P8OQD-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge--gCy7Uj64KQJ39IYb_Vphx2-8lyXDuZJ-KHl4v2_8Ew1hw2",
+                      "source":  "GPsf1hc9hXNKgutGCribk",
+                      "target":  "wXRDsNGFckXV_CSiit5sN",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-wXRDsNGFckXV_CSiit5sNy2-8lyXDuZJ-KHl4v2_8Ew1hz1",
+                      "source":  "wXRDsNGFckXV_CSiit5sN",
+                      "target":  "Cb-KazR4PuR86VX5oT0zi",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Cb-KazR4PuR86VX5oT0ziy2-nUIfTkgm3PlSiqgun1BS7z2",
+                      "source":  "Cb-KazR4PuR86VX5oT0zi",
+                      "target":  "nUIfTkgm3PlSiqgun1BS7",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-nUIfTkgm3PlSiqgun1BS7x2-8lyXDuZJ-KHl4v2_8Ew1hw2",
+                      "source":  "nUIfTkgm3PlSiqgun1BS7",
+                      "target":  "8lyXDuZJ-KHl4v2_8Ew1h",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-8lyXDuZJ-KHl4v2_8Ew1hx2-H3njQtlasgGo0-IFiFZqLw1",
+                      "source":  "8lyXDuZJ-KHl4v2_8Ew1h",
+                      "target":  "H3njQtlasgGo0-IFiFZqL",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-8lyXDuZJ-KHl4v2_8Ew1hz2-0vLaVNJaJSHZ_bHli6Qzsw1",
+                      "source":  "8lyXDuZJ-KHl4v2_8Ew1h",
+                      "target":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

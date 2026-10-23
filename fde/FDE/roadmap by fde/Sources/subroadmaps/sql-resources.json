@@ -1,0 +1,3765 @@
+[
+    {
+        "id":  "R9DQNc0AyAQ2HLpP4HOk6",
+        "label":  "What are Relational Databases?",
+        "endpoint":  "https://roadmap.sh/sql/topic@R9DQNc0AyAQ2HLpP4HOk6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a relational database - AWS",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/relational-database/"
+                          },
+                          {
+                              "title":  "What is a relational database?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=OqjJjpjDRLc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fNTb9y3zs1HPYclAmu_Wv",
+        "label":  "RDBMS Benefits and Limitations",
+        "endpoint":  "https://roadmap.sh/sql/topic@fNTb9y3zs1HPYclAmu_Wv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Advantages and Disadvantages of DBMS",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/learn/what-is-a-relational-database"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nhUKKWyBH80nyKfGT8ErC",
+        "label":  "Learn the Basics",
+        "endpoint":  "https://roadmap.sh/sql/topic@nhUKKWyBH80nyKfGT8ErC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Tutorial - Mode",
+                              "type":  "article",
+                              "url":  "https://mode.com/sql-tutorial/"
+                          },
+                          {
+                              "title":  "SQL Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.sqltutorial.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gx4KaFqKgJX9n9_ZGMqlZ",
+        "label":  "SQL vs NoSQL Databases",
+        "endpoint":  "https://roadmap.sh/sql/topic@gx4KaFqKgJX9n9_ZGMqlZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding SQL vs NoSQL Databases",
+                              "type":  "article",
+                              "url":  "https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql"
+                          },
+                          {
+                              "title":  "SQL vs NoSQL Databases in 4 mins",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_Ss42Vb1SU4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JDDG4KfhtIlw1rkNCzUli",
+        "label":  "Basic SQL Syntax",
+        "endpoint":  "https://roadmap.sh/sql/topic@JDDG4KfhtIlw1rkNCzUli.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Tutorial - Mode",
+                              "type":  "article",
+                              "url":  "https://mode.com/sql-tutorial/"
+                          },
+                          {
+                              "title":  "SQL Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.sqltutorial.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6yoo7qC6X2jYDIjd3HIm7",
+        "label":  "SQL Keywords",
+        "endpoint":  "https://roadmap.sh/sql/topic@6yoo7qC6X2jYDIjd3HIm7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Keywords, Operators and Statements",
+                              "type":  "article",
+                              "url":  "https://blog.hubspot.com/website/sql-keywords-operators-statements"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tBzMDfCMh6MIagNaxCzin",
+        "label":  "Data Types",
+        "endpoint":  "https://roadmap.sh/sql/topic@tBzMDfCMh6MIagNaxCzin.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Data Types",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/sql-data-types"
+                          },
+                          {
+                              "title":  "MySQL 101 - Data Types",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vAiBa69YCnk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ffwniprGJHZzJ7t3lQcXz",
+        "label":  "Operators",
+        "endpoint":  "https://roadmap.sh/sql/topic@ffwniprGJHZzJ7t3lQcXz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Operators: 6 Different Types",
+                              "type":  "article",
+                              "url":  "https://dataengineeracademy.com/blog/sql-operators-6-different-types-code-examples/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rmqXH29n1oXtZ8tvmcRFn",
+        "label":  "SELECT",
+        "endpoint":  "https://roadmap.sh/sql/topic@rmqXH29n1oXtZ8tvmcRFn.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mPj6BiK5FKKkIQ9WsWEo6",
+        "label":  "INSERT",
+        "endpoint":  "https://roadmap.sh/sql/topic@mPj6BiK5FKKkIQ9WsWEo6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL INSERT Statement",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Yp1MKeIG-M4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eu9dJFi6gBPMBdy08Y5Bb",
+        "label":  "UPDATE",
+        "endpoint":  "https://roadmap.sh/sql/topic@eu9dJFi6gBPMBdy08Y5Bb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Efficient column updates in SQL",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/data/sql/how-to-update-a-column-based-on-a-filter-of-another-column"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ddtVaA4Ls6qRj-7OtTSIH",
+        "label":  "DELETE",
+        "endpoint":  "https://roadmap.sh/sql/topic@ddtVaA4Ls6qRj-7OtTSIH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DELETE",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/sql_delete.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xPOeXK1EPBNG56vgfG-VV",
+        "label":  "Data Definition Language (DDL)",
+        "endpoint":  "https://roadmap.sh/sql/topic@xPOeXK1EPBNG56vgfG-VV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Definition Language (DDL)",
+                              "type":  "article",
+                              "url":  "https://docs.getdbt.com/terms/ddl"
+                          },
+                          {
+                              "title":  "The Definitive Guide on Data Definition Language",
+                              "type":  "article",
+                              "url":  "https://www.dbvis.com/thetable/sql-ddl-the-definitive-guide-on-data-definition-language/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K5vhqTJrdPK08Txv8zaEj",
+        "label":  "Truncate Table",
+        "endpoint":  "https://roadmap.sh/sql/topic@K5vhqTJrdPK08Txv8zaEj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TRUNCATE TABLE",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/sql/sql-truncate-table.htm"
+                          },
+                          {
+                              "title":  "SQL Tutorial - TRUNCATE TABLE",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zJidbjOQlJM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WjXlO42WL9saDS7RIGapt",
+        "label":  "Alter Table",
+        "endpoint":  "https://roadmap.sh/sql/topic@WjXlO42WL9saDS7RIGapt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ALTER TABLE Statement",
+                              "type":  "article",
+                              "url":  "https://www.techonthenet.com/sql/tables/alter_table.php"
+                          },
+                          {
+                              "title":  "ALTER TABLE - PostgreSQL",
+                              "type":  "article",
+                              "url":  "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-alter-table/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "epEpBxRosLhuAuKwp823r",
+        "label":  "Create Table",
+        "endpoint":  "https://roadmap.sh/sql/topic@epEpBxRosLhuAuKwp823r.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CREATE TABLE",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/sql/sql-create-table.htm"
+                          },
+                          {
+                              "title":  "SQL CREATE TABLE",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/create-table"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YzJ6QmY2arMfRzMAPaI0T",
+        "label":  "Drop Table",
+        "endpoint":  "https://roadmap.sh/sql/topic@YzJ6QmY2arMfRzMAPaI0T.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Drop a Table",
+                              "type":  "article",
+                              "url":  "https://www.coginiti.co/tutorials/beginner/drop-a-table/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WMSXi-eez_hHGDM8kUdWz",
+        "label":  "Data Manipulation Language (DML)",
+        "endpoint":  "https://roadmap.sh/sql/topic@WMSXi-eez_hHGDM8kUdWz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is DML?",
+                              "type":  "article",
+                              "url":  "https://satoricyber.com/glossary/dml-data-manipulation-language"
+                          },
+                          {
+                              "title":  "What is DML?(Wiki)",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Data_manipulation_language"
+                          },
+                          {
+                              "title":  "Difference Between DDL \u0026 DML",
+                              "type":  "article",
+                              "url":  "https://appmaster.io/blog/difference-between-ddl-and-dml"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i8u8E_sne6XiKJo2FXDog",
+        "label":  "Select",
+        "endpoint":  "https://roadmap.sh/sql/topic@i8u8E_sne6XiKJo2FXDog.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N1Racr3ZpU320gS545We8",
+        "label":  "FROM",
+        "endpoint":  "https://roadmap.sh/sql/topic@N1Racr3ZpU320gS545We8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to write basic SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=YfTDBA45PHk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WhYAy6f7Euk3E49-ot644",
+        "label":  "WHERE",
+        "endpoint":  "https://roadmap.sh/sql/topic@WhYAy6f7Euk3E49-ot644.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "WHERE Clause",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/sql_where.asp"
+                          },
+                          {
+                              "title":  "How to filter with the WHERE clause in SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4Uv0o8IBqw0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NfCiSPrL4upMssukcw3Kh",
+        "label":  "ORDER BY",
+        "endpoint":  "https://roadmap.sh/sql/topic@NfCiSPrL4upMssukcw3Kh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL ORDER BY Sorting Clause",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=h_HHTNjAgS8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "14TKE6KhrH1yFtHcSZSXq",
+        "label":  "GROUP BY",
+        "endpoint":  "https://roadmap.sh/sql/topic@14TKE6KhrH1yFtHcSZSXq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL GROUP BY",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/group-by"
+                          },
+                          {
+                              "title":  "Advanced Aggregate Functions in SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nNrgRVIzeHg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ytwCkSMTiTuemE0KVfAfy",
+        "label":  "HAVING",
+        "endpoint":  "https://roadmap.sh/sql/topic@ytwCkSMTiTuemE0KVfAfy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL HAVING Clause",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/having"
+                          },
+                          {
+                              "title":  "HAVING Clause",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tYBOMw7Ob8E"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4UQQYbjzwVxZOAxBuXKQS",
+        "label":  "JOINs",
+        "endpoint":  "https://roadmap.sh/sql/topic@4UQQYbjzwVxZOAxBuXKQS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL JOINs Tutorial for beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0OQJDd3QqQM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-Hew0y53ziZK3epQnGA0O",
+        "label":  "INSERT",
+        "endpoint":  "https://roadmap.sh/sql/topic@-Hew0y53ziZK3epQnGA0O.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL INSERT Statement",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Yp1MKeIG-M4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KJJ6PYjTnr_3yU2mNPL9v",
+        "label":  "UPDATE",
+        "endpoint":  "https://roadmap.sh/sql/topic@KJJ6PYjTnr_3yU2mNPL9v.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Efficient column updates in SQL",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/data/sql/how-to-update-a-column-based-on-a-filter-of-another-column"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zWnvuHJLHr03PWkrW1wZZ",
+        "label":  "DELETE",
+        "endpoint":  "https://roadmap.sh/sql/topic@zWnvuHJLHr03PWkrW1wZZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DELETE",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/sql_delete.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LX9nzJ4uqznHN4SksoDvr",
+        "label":  "Aggregate Queries",
+        "endpoint":  "https://roadmap.sh/sql/topic@LX9nzJ4uqznHN4SksoDvr.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w4T3jFb0ilf1KNw-AvRXG",
+        "label":  "SUM",
+        "endpoint":  "https://roadmap.sh/sql/topic@w4T3jFb0ilf1KNw-AvRXG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL SUM",
+                              "type":  "article",
+                              "url":  "https://www.studysmarter.co.uk/explanations/computer-science/databases/sql-sum/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9aHYrOQDkA84tlxcVK5aD",
+        "label":  "COUNT",
+        "endpoint":  "https://roadmap.sh/sql/topic@9aHYrOQDkA84tlxcVK5aD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The SQL COUNT() Function",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/sql_count.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wou6YXLYUgomvcELh851L",
+        "label":  "AVG",
+        "endpoint":  "https://roadmap.sh/sql/topic@Wou6YXLYUgomvcELh851L.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AVG",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/sql-avg-function-introduction-and-examples/"
+                          },
+                          {
+                              "title":  "SQL AVG() Function",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/sql_avg.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bFEYMlqPZtTUYtDQxqHzT",
+        "label":  "MIN",
+        "endpoint":  "https://roadmap.sh/sql/topic@bFEYMlqPZtTUYtDQxqHzT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL MAX \u0026 MIN",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/min-and-max"
+                          },
+                          {
+                              "title":  "COUNT, SUM, AVG, MIN, MAX (SQL) - Aggregating Data",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=muwEdPsx534"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YqDJq3fPxUZlwsdq0kJg7",
+        "label":  "MAX",
+        "endpoint":  "https://roadmap.sh/sql/topic@YqDJq3fPxUZlwsdq0kJg7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MAX",
+                              "type":  "article",
+                              "url":  "https://www.techonthenet.com/sql/max.php"
+                          },
+                          {
+                              "title":  "Basic Aggregate Functions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jcoJuc5e3RE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Zw8IHfCCMSxmVjx5Ho5ff",
+        "label":  "GROUP BY",
+        "endpoint":  "https://roadmap.sh/sql/topic@Zw8IHfCCMSxmVjx5Ho5ff.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL GROUP BY",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/group-by"
+                          },
+                          {
+                              "title":  "Advanced Aggregate Functions in SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nNrgRVIzeHg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HhICJpCK5__b-itUoEBES",
+        "label":  "HAVING",
+        "endpoint":  "https://roadmap.sh/sql/topic@HhICJpCK5__b-itUoEBES.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL HAVING Clause",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/having"
+                          },
+                          {
+                              "title":  "HAVING Clause",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tYBOMw7Ob8E"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qBios3sZVhcJMpXmj9f7B",
+        "label":  "Data Constraints",
+        "endpoint":  "https://roadmap.sh/sql/topic@qBios3sZVhcJMpXmj9f7B.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Constraints",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/constraints"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Jlwmyq6CUQeDAlL4dazOP",
+        "label":  "Primary Key",
+        "endpoint":  "https://roadmap.sh/sql/topic@Jlwmyq6CUQeDAlL4dazOP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Primary Key",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/sql/sql-primary-key.htm"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DHz6sRLYhFeCbAcNJS8hm",
+        "label":  "Foreign Key",
+        "endpoint":  "https://roadmap.sh/sql/topic@DHz6sRLYhFeCbAcNJS8hm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a foreign key?",
+                              "type":  "article",
+                              "url":  "https://www.cockroachlabs.com/blog/what-is-a-foreign-key/"
+                          },
+                          {
+                              "title":  "Foreign Keys are easy (kind of)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rFssfx37UJw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5yGo8i7eplxtXOD_qfzOs",
+        "label":  "Unique",
+        "endpoint":  "https://roadmap.sh/sql/topic@5yGo8i7eplxtXOD_qfzOs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL UNIQUE Constraint",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/sql_unique.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M4M_-vjM9GNy0NmXZneDA",
+        "label":  "NOT NULL",
+        "endpoint":  "https://roadmap.sh/sql/topic@M4M_-vjM9GNy0NmXZneDA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL IS NULL and IS NOT NULL",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/is-null-not-null"
+                          },
+                          {
+                              "title":  "NOT NULL Constraint",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=unzHhq82mKU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Q0h9Wfnl_W9ThOkv7Q17A",
+        "label":  "CHECK",
+        "endpoint":  "https://roadmap.sh/sql/topic@Q0h9Wfnl_W9ThOkv7Q17A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CHECK Constraint",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=EeG2boJCXbc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8V6yw7kLaow-VVcv_K_pL",
+        "label":  "JOIN Queries",
+        "endpoint":  "https://roadmap.sh/sql/topic@8V6yw7kLaow-VVcv_K_pL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "7 SQL JOIN Examples With Detailed Explanations",
+                              "type":  "article",
+                              "url":  "https://learnsql.com/blog/sql-join-examples-with-explanations/"
+                          },
+                          {
+                              "title":  "Joins are easy",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=G3lJAxg1cy8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aaua13CkTxLOYXr8cAgPm",
+        "label":  "INNER JOIN",
+        "endpoint":  "https://roadmap.sh/sql/topic@aaua13CkTxLOYXr8cAgPm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL INNER JOIN Clause",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/inner-join"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "X9cJJ8zLZCF2cOoqxwFfY",
+        "label":  "LEFT JOIN",
+        "endpoint":  "https://roadmap.sh/sql/topic@X9cJJ8zLZCF2cOoqxwFfY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL LEFT JOIN - SQL Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=giKwmtsz1U8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "shpgZkh1CLqUwjOaRtAFy",
+        "label":  "RIGHT JOIN",
+        "endpoint":  "https://roadmap.sh/sql/topic@shpgZkh1CLqUwjOaRtAFy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL RIGHT JOIN With Examples",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/sql/right-join"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aS5zCyJRA779yHF0G2pje",
+        "label":  "FULL OUTER JOIN",
+        "endpoint":  "https://roadmap.sh/sql/topic@aS5zCyJRA779yHF0G2pje.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL FULL OUTER JOIN",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XpBkXo3DCEg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6qG0AVYd6Y1B8LOSDoMX9",
+        "label":  "Self Join",
+        "endpoint":  "https://roadmap.sh/sql/topic@6qG0AVYd6Y1B8LOSDoMX9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding the Self Joins in SQL",
+                              "type":  "article",
+                              "url":  "https://www.dbvis.com/thetable/understanding-self-joins-in-sql/"
+                          },
+                          {
+                              "title":  "SQL self joins",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/sql_join_self.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7ow6tiSSCnTpv_GYQU017",
+        "label":  "Cross Join",
+        "endpoint":  "https://roadmap.sh/sql/topic@7ow6tiSSCnTpv_GYQU017.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL CROSS JOIN With Examples",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/sql-cross-join-with-examples/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "86iZ8s8EdhSuYwgwAM_EO",
+        "label":  "Subqueries",
+        "endpoint":  "https://roadmap.sh/sql/topic@86iZ8s8EdhSuYwgwAM_EO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Sub Queries",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/sql/sql-sub-queries.htm"
+                          },
+                          {
+                              "title":  "Advanced SQL Tutorial | Subqueries",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=m1KcNV-Zhmc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eXQ-TrTlqL5p2AdGnozkL",
+        "label":  "Scalar",
+        "endpoint":  "https://roadmap.sh/sql/topic@eXQ-TrTlqL5p2AdGnozkL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Creating SQL Scalar Functions",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/docs/en/db2/12.1.x?topic=functions-creating-sql-scalar"
+                          },
+                          {
+                              "title":  "Using Scalar SQL to boost performance",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=v8X5FGzzc9A"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wmtt-3auWLdQWuVdwZLPd",
+        "label":  "Column",
+        "endpoint":  "https://roadmap.sh/sql/topic@wmtt-3auWLdQWuVdwZLPd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Column Types - PostgreSQL",
+                              "type":  "article",
+                              "url":  "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-data-types/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aLDl75i8gtLRA2Ud-fMmQ",
+        "label":  "Row",
+        "endpoint":  "https://roadmap.sh/sql/topic@aLDl75i8gtLRA2Ud-fMmQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Row - Database",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Row_%28database%29"
+                          },
+                          {
+                              "title":  "Database Row: Definition, Examples",
+                              "type":  "article",
+                              "url":  "https://www.devx.com/terms/database-row/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R9WDMRd-3wxsKH97-sT3n",
+        "label":  "Table",
+        "endpoint":  "https://roadmap.sh/sql/topic@R9WDMRd-3wxsKH97-sT3n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Table (Database)",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Table_%28database%29"
+                          },
+                          {
+                              "title":  "Introduction to Tables",
+                              "type":  "article",
+                              "url":  "https://support.microsoft.com/en-gb/office/introduction-to-tables-78ff21ea-2f76-4fb0-8af6-c318d1ee0ea7"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xkPJ2MYiXmzC4yqQWyB_7",
+        "label":  "Nested Subqueries",
+        "endpoint":  "https://roadmap.sh/sql/topic@xkPJ2MYiXmzC4yqQWyB_7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Nested Subqueries",
+                              "type":  "article",
+                              "url":  "https://www.studysmarter.co.uk/explanations/computer-science/databases/nested-subqueries-in-sql/"
+                          },
+                          {
+                              "title":  "MySQL Subqueries",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=i5acg3Hvu6g"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JZqS3Xapw6mfSPVgFW7av",
+        "label":  "Correlated Subqueries",
+        "endpoint":  "https://roadmap.sh/sql/topic@JZqS3Xapw6mfSPVgFW7av.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Correlated Subqueries",
+                              "type":  "official",
+                              "url":  "https://dev.mysql.com/doc/refman/8.4/en/correlated-subqueries.html"
+                          },
+                          {
+                              "title":  "Intro To Subqueries",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=TUxadt94L0M"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vTMd0bqz4eTgLnhfgY61h",
+        "label":  "Advanced Functions",
+        "endpoint":  "https://roadmap.sh/sql/topic@vTMd0bqz4eTgLnhfgY61h.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o2SH4iQn1Ap2yDZ7cVYLO",
+        "label":  "FLOOR",
+        "endpoint":  "https://roadmap.sh/sql/topic@o2SH4iQn1Ap2yDZ7cVYLO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Round in SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=AUXw2JRwCFY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6vYFb_D1N_-tLWZftL-Az",
+        "label":  "ABS",
+        "endpoint":  "https://roadmap.sh/sql/topic@6vYFb_D1N_-tLWZftL-Az.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to compute an absolute value in SQL",
+                              "type":  "article",
+                              "url":  "https://www.airops.com/sql-guide/how-to-compute-an-absolute-value-in-sql"
+                          },
+                          {
+                              "title":  "ABS",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/func_sqlserver_abs.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OUw--8zEq6lk5-6oySVHe",
+        "label":  "MOD",
+        "endpoint":  "https://roadmap.sh/sql/topic@OUw--8zEq6lk5-6oySVHe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MOD Function in SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=f1Rqf7CwjE0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9DntFiZV1AyaRPhYP5q6u",
+        "label":  "ROUND",
+        "endpoint":  "https://roadmap.sh/sql/topic@9DntFiZV1AyaRPhYP5q6u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL ROUND Function: Syntax, Usage, and Examples",
+                              "type":  "article",
+                              "url":  "https://mimo.org/glossary/sql/round"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BAqJQvcguhIhzyII5LRH6",
+        "label":  "CEILING",
+        "endpoint":  "https://roadmap.sh/sql/topic@BAqJQvcguhIhzyII5LRH6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL CEILING",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/func_sqlserver_ceiling.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5inpEqafeVCfqsURHzQQg",
+        "label":  "CONCAT",
+        "endpoint":  "https://roadmap.sh/sql/topic@5inpEqafeVCfqsURHzQQg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "An overview of the CONCAT function in SQL",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/an-overview-of-the-concat-function-in-sql-with-examples/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RH8DLiQpDUWqw3U1522q5",
+        "label":  "LENGTH",
+        "endpoint":  "https://roadmap.sh/sql/topic@RH8DLiQpDUWqw3U1522q5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Check the Length of a String in SQL",
+                              "type":  "article",
+                              "url":  "https://learnsql.com/cookbook/how-to-check-the-length-of-a-string-in-sql/"
+                          },
+                          {
+                              "title":  "MySQL Length Function",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/func_mysql_length.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PnG_5D6q66NAKxXVOwA6N",
+        "label":  "SUBSTRING",
+        "endpoint":  "https://roadmap.sh/sql/topic@PnG_5D6q66NAKxXVOwA6N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL SUBSTRING",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/func_sqlserver_substring.asp"
+                          },
+                          {
+                              "title":  "Advanced SQL Tutorial | String Functions + Use Cases",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GQj6_6V_jVA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VNbb3YPc0FtrROylRns8h",
+        "label":  "REPLACE",
+        "endpoint":  "https://roadmap.sh/sql/topic@VNbb3YPc0FtrROylRns8h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL REPLACE Function: Syntax, Usage, and Examples",
+                              "type":  "article",
+                              "url":  "https://mimo.org/glossary/sql/replace-function"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Othfo7NvTVzfyL906PLM1",
+        "label":  "UPPER",
+        "endpoint":  "https://roadmap.sh/sql/topic@Othfo7NvTVzfyL906PLM1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Convert a String to Uppercase in SQL",
+                              "type":  "article",
+                              "url":  "https://learnsql.com/cookbook/how-to-convert-a-string-to-uppercase-in-sql/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "knTG6pAq2mYP24WMa29xI",
+        "label":  "LOWER",
+        "endpoint":  "https://roadmap.sh/sql/topic@knTG6pAq2mYP24WMa29xI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to change text to lowercase in SQL",
+                              "type":  "article",
+                              "url":  "https://learnsql.com/cookbook/how-to-change-text-to-lowercase-in-sql/"
+                          },
+                          {
+                              "title":  "LOWER Function",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/sql/func_sqlserver_lower.asp"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W2ePJHdfEiEJ3ZKoRQKt_",
+        "label":  "CASE",
+        "endpoint":  "https://roadmap.sh/sql/topic@W2ePJHdfEiEJ3ZKoRQKt_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL CASE - Intermediate SQL",
+                              "type":  "article",
+                              "url":  "https://mode.com/sql-tutorial/sql-case"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KI6vngoYcHsnpIk8ErhhS",
+        "label":  "NULLIF",
+        "endpoint":  "https://roadmap.sh/sql/topic@KI6vngoYcHsnpIk8ErhhS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is NULLIF in SQL?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Jaw53T__RRY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "k7lZe4QRt9q4InUImFmvx",
+        "label":  "COALESCE",
+        "endpoint":  "https://roadmap.sh/sql/topic@k7lZe4QRt9q4InUImFmvx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to use the COALESCE function in SQL",
+                              "type":  "article",
+                              "url":  "https://learnsql.com/blog/coalesce-function-sql/"
+                          },
+                          {
+                              "title":  "COALESCE - PostgreSQL",
+                              "type":  "article",
+                              "url":  "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-coalesce/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ivqo2wa-_NhGU3vGd0pUI",
+        "label":  "DATE",
+        "endpoint":  "https://roadmap.sh/sql/topic@Ivqo2wa-_NhGU3vGd0pUI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Working with Dates",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XyZ9HwXoR7o"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "88KlrMqSza9_YaD7Dv61p",
+        "label":  "TIME",
+        "endpoint":  "https://roadmap.sh/sql/topic@88KlrMqSza9_YaD7Dv61p.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7hEqkoxkdAWmakGZsMJx-",
+        "label":  "TIMESTAMP",
+        "endpoint":  "https://roadmap.sh/sql/topic@7hEqkoxkdAWmakGZsMJx-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Different SQL TimeStamp functions in SQL Server",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/different-sql-timestamp-functions-in-sql-server/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BJ4fQvagTO0B5UtXblyx8",
+        "label":  "DATEPART",
+        "endpoint":  "https://roadmap.sh/sql/topic@BJ4fQvagTO0B5UtXblyx8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL DATEPART",
+                              "type":  "article",
+                              "url":  "https://hightouch.com/sql-dictionary/sql-datepart"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1E1WdWOyqxbbdiIbw26dZ",
+        "label":  "DATEADD",
+        "endpoint":  "https://roadmap.sh/sql/topic@1E1WdWOyqxbbdiIbw26dZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DATEADD",
+                              "type":  "article",
+                              "url":  "https://www.mssqltips.com/sqlservertutorial/9380/sql-dateadd-function/"
+                          },
+                          {
+                              "title":  "DATEADD Function",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DYCWOzzOycU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2tyezwOIxV6O84N-Q3Awh",
+        "label":  "Views",
+        "endpoint":  "https://roadmap.sh/sql/topic@2tyezwOIxV6O84N-Q3Awh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Views Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cLSxasHg9WY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PcsGK4VBh0zNQIPZvNES4",
+        "label":  "Creating Views",
+        "endpoint":  "https://roadmap.sh/sql/topic@PcsGK4VBh0zNQIPZvNES4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to create a view in SQL",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/how-to-create-a-view-in-sql-server/"
+                          },
+                          {
+                              "title":  "SQL Views in 4 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vLLkNI-vkV8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3eE-l-P93nOXoWfLr8PSW",
+        "label":  "Modifying Views",
+        "endpoint":  "https://roadmap.sh/sql/topic@3eE-l-P93nOXoWfLr8PSW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Modify Views in SQL Server",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/create-view-sql-modifying-views-in-sql-server/"
+                          },
+                          {
+                              "title":  "SQL VIEWs in 4 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vLLkNI-vkV8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MIOuWWcCjLAmgzog2DBC3",
+        "label":  "Dropping Views",
+        "endpoint":  "https://roadmap.sh/sql/topic@MIOuWWcCjLAmgzog2DBC3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DROP VIEW",
+                              "type":  "article",
+                              "url":  "https://study.com/academy/lesson/sql-drop-view-tutorial-overview.html"
+                          },
+                          {
+                              "title":  "DROP or DELETE a View",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/sql/sql-drop-view.htm"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LcljR70T-OnzSrJJDqOWf",
+        "label":  "Indexes",
+        "endpoint":  "https://roadmap.sh/sql/topic@LcljR70T-OnzSrJJDqOWf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Indexing Best Practices",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BIlFTFrEFOI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NtxGd6Vx-REBclry7lZuE",
+        "label":  "Managing Indexes",
+        "endpoint":  "https://roadmap.sh/sql/topic@NtxGd6Vx-REBclry7lZuE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Server Indexes",
+                              "type":  "article",
+                              "url":  "https://www.sqlservercentral.com/articles/introduction-to-indexes"
+                          },
+                          {
+                              "title":  "Optimize index maintenance",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/sql/relational-databases/indexes/reorganize-and-rebuild-indexes?view=sql-server-ver16"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ps9Yv2s-bKvEegGAbPsiA",
+        "label":  "Query Optimization",
+        "endpoint":  "https://roadmap.sh/sql/topic@Ps9Yv2s-bKvEegGAbPsiA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "12 Ways to Optimize SQL Queries",
+                              "type":  "article",
+                              "url":  "https://www.developernation.net/blog/12-ways-to-optimize-sql-queries-in-database-management/"
+                          },
+                          {
+                              "title":  "SQL Query Optimization",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GA8SaXDLdsY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OdaBXz2XBAVLsQ-m7xtAM",
+        "label":  "Transactions",
+        "endpoint":  "https://roadmap.sh/sql/topic@OdaBXz2XBAVLsQ-m7xtAM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Transactions",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/sql/sql-transactions.htm"
+                          },
+                          {
+                              "title":  "A Guide to ACID Properties in Database Management Systems",
+                              "type":  "article",
+                              "url":  "https://www.mongodb.com/resources/basics/databases/acid-transactions"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7sTW1vwUhCFOMXYjScVEt",
+        "label":  "BEGIN",
+        "endpoint":  "https://roadmap.sh/sql/topic@7sTW1vwUhCFOMXYjScVEt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BEGIN...END Statement",
+                              "type":  "article",
+                              "url":  "https://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.infocenter.dc00801.1510/html/iqrefso/BABFBJAB.htm"
+                          },
+                          {
+                              "title":  "SQL \u0027BEGIN\u0027 \u0026 \u0027END\u0027 Statements",
+                              "type":  "article",
+                              "url":  "https://reintech.io/blog/understanding-sql-begin-end-statements-guide"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3cMECz5QPVDOFrk5duObs",
+        "label":  "COMMIT",
+        "endpoint":  "https://roadmap.sh/sql/topic@3cMECz5QPVDOFrk5duObs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL COMMIT and ROLLBACK",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/sql-commit-sql-rollback"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xbD67KVlt3UhHpKh8HLx8",
+        "label":  "ROLLBACK",
+        "endpoint":  "https://roadmap.sh/sql/topic@xbD67KVlt3UhHpKh8HLx8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Difference between COMMIT and ROLLBACK in SQL",
+                              "type":  "article",
+                              "url":  "https://byjus.com/gate/difference-between-commit-and-rollback-in-sql/"
+                          },
+                          {
+                              "title":  "How to undo a mistake a in SQL: Rollback and Commit",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jomsdMLiIZM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pJtYvXUo81aZfPuRjIbMq",
+        "label":  "SAVEPOINT",
+        "endpoint":  "https://roadmap.sh/sql/topic@pJtYvXUo81aZfPuRjIbMq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL SAVEPOINT",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/docs/pl/informix-servers/12.10?topic=statements-savepoint-statement"
+                          },
+                          {
+                              "title":  "DBMS - Save Point",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=30ldSUkswGM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "igg34gLPl3HYVAmRNFGcV",
+        "label":  "ACID",
+        "endpoint":  "https://roadmap.sh/sql/topic@igg34gLPl3HYVAmRNFGcV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is ACID Compliant Database?",
+                              "type":  "article",
+                              "url":  "https://retool.com/blog/whats-an-acid-compliant-database/"
+                          },
+                          {
+                              "title":  "ACID Explained: Atomic, Consistent, Isolated \u0026 Durable",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yaQ5YMWkxq4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ujeq8EIFcrqkBjoFizsJM",
+        "label":  "Transaction Isolation Levels",
+        "endpoint":  "https://roadmap.sh/sql/topic@ujeq8EIFcrqkBjoFizsJM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Everything you always wanted to know about SQL isolation levels",
+                              "type":  "article",
+                              "url":  "https://www.cockroachlabs.com/blog/sql-isolation-levels-explained/"
+                          },
+                          {
+                              "title":  "Isolation Levels in SQL Server",
+                              "type":  "article",
+                              "url":  "https://www.sqlservercentral.com/articles/isolation-levels-in-sql-server"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R1ktDJpXOz0PTllAcBrdu",
+        "label":  "Data Integrity \u0026 Security",
+        "endpoint":  "https://roadmap.sh/sql/topic@R1ktDJpXOz0PTllAcBrdu.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mBQ3Z8GlFcpIena3IB7D_",
+        "label":  "Data Integrity Constraints",
+        "endpoint":  "https://roadmap.sh/sql/topic@mBQ3Z8GlFcpIena3IB7D_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Integrity Constraints in DBMS: Key to Database Quality",
+                              "type":  "article",
+                              "url":  "https://www.theknowledgeacademy.com/blog/integrity-constraints-in-dbms/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "03qMopxzjx_-dZbYw9b7J",
+        "label":  "GRANT and Revoke",
+        "endpoint":  "https://roadmap.sh/sql/topic@03qMopxzjx_-dZbYw9b7J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GRANT",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/docs/en/qmf/13.1.3?topic=SS9UMF_13.1.3/igm/igm/tpc/dsq_priv_sql_grant.htm"
+                          },
+                          {
+                              "title":  "REVOKE",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/docs/en/qmf/13.1.3?topic=SS9UMF_13.1.3/igm/igm/tpc/dsq_priv_sql_revoke.htm"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vhBZqqmUcEon6-Vwvla4q",
+        "label":  "DB Security Best Practices",
+        "endpoint":  "https://roadmap.sh/sql/topic@vhBZqqmUcEon6-Vwvla4q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is database security?",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/think/topics/database-security"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w7FNjdwqjY7X69aJqqBy4",
+        "label":  "Stored Procedures \u0026 Functions",
+        "endpoint":  "https://roadmap.sh/sql/topic@w7FNjdwqjY7X69aJqqBy4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Stored Procedure vs Functions",
+                              "type":  "article",
+                              "url":  "https://www.shiksha.com/online-courses/articles/stored-procedure-vs-function-what-are-the-differences/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4rqCPpTb0dAgpheBKshRG",
+        "label":  "Performance Optimization",
+        "endpoint":  "https://roadmap.sh/sql/topic@4rqCPpTb0dAgpheBKshRG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Performance Tuning SQL Queries",
+                              "type":  "article",
+                              "url":  "https://mode.com/sql-tutorial/sql-performance-tuning"
+                          },
+                          {
+                              "title":  "SQL performance tuning",
+                              "type":  "article",
+                              "url":  "https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9wOgP0i9G4HSeZGn2Gm7r",
+        "label":  "Using Indexes",
+        "endpoint":  "https://roadmap.sh/sql/topic@9wOgP0i9G4HSeZGn2Gm7r.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is an index in SQL?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/2955459/what-is-an-index-in-sql"
+                          },
+                          {
+                              "title":  "SQL Indexes - Definition, Examples, and Tips",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NZgfYbAmge8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "C0dhS6uLf4TUSfvcWyXhv",
+        "label":  "Optimizing Joins",
+        "endpoint":  "https://roadmap.sh/sql/topic@C0dhS6uLf4TUSfvcWyXhv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Optimize a SQL Query with Multiple Joins",
+                              "type":  "article",
+                              "url":  "https://dezbor.com/blog/optimize-sql-query-with-multiple-joins"
+                          },
+                          {
+                              "title":  "Secret to optimizing SQL queries",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BHwzDmr6d7s"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UVTgbZrqpbYl1bQvQejcF",
+        "label":  "Reducing Subqueries",
+        "endpoint":  "https://roadmap.sh/sql/topic@UVTgbZrqpbYl1bQvQejcF.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w53CSY53nAAN0ux-XeJ4c",
+        "label":  "Selective Projection",
+        "endpoint":  "https://roadmap.sh/sql/topic@w53CSY53nAAN0ux-XeJ4c.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "C6P69YiFdS-ioPXMNfX07",
+        "label":  "Query Analysis Techniques",
+        "endpoint":  "https://roadmap.sh/sql/topic@C6P69YiFdS-ioPXMNfX07.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "EXPLAIN",
+                              "type":  "article",
+                              "url":  "https://docs.snowflake.com/en/sql-reference/sql/explain"
+                          },
+                          {
+                              "title":  "EXPLAIN PLAN",
+                              "type":  "article",
+                              "url":  "https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/EXPLAIN-PLAN.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UDqbT1y-YzBrljfKSz_RG",
+        "label":  "Advanced SQL",
+        "endpoint":  "https://roadmap.sh/sql/topic@UDqbT1y-YzBrljfKSz_RG.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TjgwabhEtaSoYMLNr6q9l",
+        "label":  "Recursive Queries",
+        "endpoint":  "https://roadmap.sh/sql/topic@TjgwabhEtaSoYMLNr6q9l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Recursive Queries in SQL",
+                              "type":  "article",
+                              "url":  "https://codedamn.com/news/sql/recursive-queries-in-sql"
+                          },
+                          {
+                              "title":  "Recursive SQL Expression Visually Explained",
+                              "type":  "article",
+                              "url":  "https://builtin.com/data-science/recursive-sql"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nwFaz9i-1s0WVrVaFsoqb",
+        "label":  "Pivot / Unpivot Operations",
+        "endpoint":  "https://roadmap.sh/sql/topic@nwFaz9i-1s0WVrVaFsoqb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL PIVOT",
+                              "type":  "article",
+                              "url":  "https://builtin.com/articles/sql-pivot"
+                          },
+                          {
+                              "title":  "SQL UNPIVOT",
+                              "type":  "article",
+                              "url":  "https://duckdb.org/docs/sql/statements/unpivot.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tBvXLLp5FKeSSN35Kj1X4",
+        "label":  "Window Functions",
+        "endpoint":  "https://roadmap.sh/sql/topic@tBvXLLp5FKeSSN35Kj1X4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL Window Functions",
+                              "type":  "article",
+                              "url":  "https://mode.com/sql-tutorial/sql-window-functions"
+                          },
+                          {
+                              "title":  "SQL Window Functions in 10 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=y1KCM8vbYe4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tedQynR0xicVKhuR1oahw",
+        "label":  "Common Table Expressions",
+        "endpoint":  "https://roadmap.sh/sql/topic@tedQynR0xicVKhuR1oahw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Common Table Expressions (CTEs)",
+                              "type":  "article",
+                              "url":  "https://hightouch.com/sql-dictionary/sql-common-table-expression-cte"
+                          },
+                          {
+                              "title":  "What is a Common Table Expression?",
+                              "type":  "article",
+                              "url":  "https://learnsql.com/blog/what-is-common-table-expression/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z5Sf0VU14ZCQ80kL1qOqc",
+        "label":  "Dynamic SQL",
+        "endpoint":  "https://roadmap.sh/sql/topic@z5Sf0VU14ZCQ80kL1qOqc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dynamic SQL in SQL Server",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/dynamic-sql-in-sql-server/"
+                          },
+                          {
+                              "title":  "Dynamic SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=01LZMCotcpY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zW27ZHdLwQY-85iqbBKQZ",
+        "label":  "row_number",
+        "endpoint":  "https://roadmap.sh/sql/topic@zW27ZHdLwQY-85iqbBKQZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL ROW_NUMBER",
+                              "type":  "article",
+                              "url":  "https://www.sqltutorial.org/sql-window-functions/sql-row_number/"
+                          },
+                          {
+                              "title":  "How to Use ROW_NUMBER OVER() in SQL to Rank Data",
+                              "type":  "article",
+                              "url":  "https://learnsql.com/blog/row-number-over-in-sql/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cucCPw3KfetAP2OMFUs0X",
+        "label":  "rank",
+        "endpoint":  "https://roadmap.sh/sql/topic@cucCPw3KfetAP2OMFUs0X.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Overview of SQL RANK Functions",
+                              "type":  "article",
+                              "url":  "https://www.sqlshack.com/overview-of-sql-rank-functions/"
+                          },
+                          {
+                              "title":  "RANK, DENSE_RANK, ROW_NUMBER SQL Analytical Functions Simplified",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xMWEVFC4FOk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QM0ltgPu8lLLYc2MsTLj-",
+        "label":  "dense_rank",
+        "endpoint":  "https://roadmap.sh/sql/topic@QM0ltgPu8lLLYc2MsTLj-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL DENSE_RANK",
+                              "type":  "article",
+                              "url":  "https://www.sqltutorial.org/sql-window-functions/sql-dense_rank/"
+                          },
+                          {
+                              "title":  "Breaking Down DENSE_RANK",
+                              "type":  "article",
+                              "url":  "https://www.kdnuggets.com/breaking-down-denserank-a-step-by-step-guide-for-sql-enthusiasts"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aJJjaGunRrwyh9MjQfJt-",
+        "label":  "lead",
+        "endpoint":  "https://roadmap.sh/sql/topic@aJJjaGunRrwyh9MjQfJt-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL LEAD",
+                              "type":  "article",
+                              "url":  "https://www.codecademy.com/resources/docs/sql/window-functions/lead"
+                          },
+                          {
+                              "title":  "LAG and LEAD Window Functions in SQL",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nHEEyX_yDvo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BcXdxY6bld5c0YNFSKkh-",
+        "label":  "lag",
+        "endpoint":  "https://roadmap.sh/sql/topic@BcXdxY6bld5c0YNFSKkh-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LAG and LEAD functions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=j2u52RQ0qlw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - SQL Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/ZVeXng"
+                              },
+                              {
+                                  "title":  "roadmap.sh - Master SQL",
+                                  "type":  "course",
+                                  "url":  "https://roadmap.sh/courses/sql"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Xp6G2Us7Y6LeKoYQh_AKl",
+        "label":  "first_value",
+        "endpoint":  "https://roadmap.sh/sql/topic@Xp6G2Us7Y6LeKoYQh_AKl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL FIRST_VALUE Function",
+                              "type":  "article",
+                              "url":  "https://www.sqltutorial.org/sql-window-functions/sql-first_value/"
+                          },
+                          {
+                              "title":  "IRST VALUE function in SQL Server",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pUCmWi96V3A\u0026pp=ygUSZmlyc3QgdmFsdWUgaW4gc3Fs/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

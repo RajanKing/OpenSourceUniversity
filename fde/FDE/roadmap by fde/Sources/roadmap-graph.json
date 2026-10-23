@@ -1,0 +1,3184 @@
+{
+    "source":  "https://roadmap.sh/forward-deployed-engineer",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-10-20T16:04:54.442Z",
+    "nodes":  [
+                  {
+                      "id":  "k_Pcuf0G5xgHpEM0ieRt-",
+                      "type":  "paragraph",
+                      "label":  "AI Engineering is the core skill of the FDE role at AI labs and AI-native companies.",
+                      "position":  {
+                                       "x":  222.76876349377056,
+                                       "y":  1517.142581858849
+                                   },
+                      "width":  318,
+                      "height":  109,
+                      "measured":  {
+                                       "width":  318,
+                                       "height":  109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zS0JXpULjSu4SWO741zVp",
+                      "type":  "paragraph",
+                      "label":  "DSA is the first gate in FDE interviews. You won\u0027t get to show your AI skills if you don\u0027t pass this round.",
+                      "position":  {
+                                       "x":  -541.6948600597652,
+                                       "y":  583.0969679665834
+                                   },
+                      "width":  325,
+                      "height":  102,
+                      "measured":  {
+                                       "width":  325,
+                                       "height":  102
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "J-cENDOF6pUjN-wgIs02h",
+                      "type":  "paragraph",
+                      "label":  "A large share of FDE work starts with a data audit. If you can\u0027t untangle a customer\u0027s schema, you can\u0027t build on top of it.",
+                      "position":  {
+                                       "x":  -535.1948600597652,
+                                       "y":  1318.5807592276865
+                                   },
+                      "width":  337,
+                      "height":  118,
+                      "measured":  {
+                                       "width":  337,
+                                       "height":  118
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "frjoz7VJvI1X61zPow3VP",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  107.86030439910975
+                                   },
+                      "width":  270,
+                      "height":  335,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  335
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-jhJbNIZbAha6Lm1RJ9ma",
+                      "type":  "vertical",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -23.38208258431436,
+                                       "y":  -155
+                                   },
+                      "width":  20,
+                      "height":  100,
+                      "measured":  {
+                                       "width":  20,
+                                       "height":  100
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9yG3qY_gwr77Uz2XN5wQO",
+                      "type":  "title",
+                      "label":  "FDE Roadmap",
+                      "position":  {
+                                       "x":  -126.38208258431436,
+                                       "y":  -45
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  226,
+                                       "height":  68
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XMksIsrFfHP899uom5BQJ",
+                      "type":  "label",
+                      "label":  "Customer Delivery \u0026 Field Skills",
+                      "position":  {
+                                       "x":  -163.38208258431436,
+                                       "y":  2942.299485127459
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  299,
+                                       "height":  42
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s4Kooj99igkE02P-D-dAU",
+                      "type":  "subtopic",
+                      "label":  "Requirements Gathering",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2942.242129006496
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KqQHfy1Z8w-v8p73QkvG5",
+                      "type":  "subtopic",
+                      "label":  "Scoping \u0026 Sequencing",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2995.242129006496
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eKUy2q5cGskmcg-sAAtYW",
+                      "type":  "subtopic",
+                      "label":  "Scope, Speed, Quality",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  3048.242129006496
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hO7BCDFmbvQVcgM7W2t9S",
+                      "type":  "topic",
+                      "label":  "Discovery \u0026 Scoping",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  3049.1660899034155
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ir0uv9E3flgBz_cHntOf4",
+                      "type":  "subtopic",
+                      "label":  "Technical Writing",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  3155.1660899034155
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iaNbLDFrEDYEKwpkGFWts",
+                      "type":  "topic",
+                      "label":  "Communication",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  3155.1660899034155
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c8dBwWaKLiW6X2HWfmVJt",
+                      "type":  "subtopic",
+                      "label":  "Enterprise Workflow",
+                      "position":  {
+                                       "x":  235.9210390992938,
+                                       "y":  2943.1660899034155
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kyHwTMFBQxbHrGBcv3q0O",
+                      "type":  "subtopic",
+                      "label":  "ROI \u0026 AI Impact",
+                      "position":  {
+                                       "x":  235.9210390992938,
+                                       "y":  2996.1660899034155
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L76T2X7AFpVtpMF9CjBJo",
+                      "type":  "subtopic",
+                      "label":  "Stakeholder Management",
+                      "position":  {
+                                       "x":  235.9210390992938,
+                                       "y":  3049.1660899034155
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bE7j2U28V8Vf9OKHBqLwW",
+                      "type":  "topic",
+                      "label":  "Business Acumen",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  3102.1660899034155
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DoQwnxlPrx8suV2GRbF17",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  184.20279171516415,
+                                       "y":  -155.2674474525378
+                                   },
+                      "width":  355,
+                      "height":  143,
+                      "measured":  {
+                                       "width":  355,
+                                       "height":  143
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VtqrDBk_y5m5UsknaxVv-",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  196.70279171516415,
+                                       "y":  -76.2674474525378
+                                   },
+                      "width":  330,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  330,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "F9qB_OgCXZyTjepJUagfX",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  -137
+                                   },
+                      "width":  270,
+                      "height":  214,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  214
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "iEl2hP_MdzYqgWJV_gVVr",
+                                        "label":  "AI Engineer Roadmap",
+                                        "url":  "https://roadmap.sh/ai-engineer"
+                                    },
+                                    {
+                                        "id":  "lsjRtZzxtjHQAeSZ315FT",
+                                        "label":  "Full Stack Roadmap",
+                                        "url":  "https://roadmap.sh/full-stack"
+                                    },
+                                    {
+                                        "id":  "cND6oioo5hp5JBK_9s1_K",
+                                        "label":  "System Design Roadmap",
+                                        "url":  "https://roadmap.sh/system-design"
+                                    },
+                                    {
+                                        "id":  "1ImiuCrnV_OgsFT-lgzps",
+                                        "label":  "DevOps Roadmap",
+                                        "url":  "https://roadmap.sh/devops"
+                                    },
+                                    {
+                                        "id":  "he4fsm4woSDuM2G-odZkt",
+                                        "label":  "Data Engineer Roadmap",
+                                        "url":  "https://roadmap.sh/data-engineer"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "PBtnaTE_5AMOa5mxbhoT2",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  168.21343772948302
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YNaf7swqsvYaXRK6uevdv",
+                      "type":  "subtopic",
+                      "label":  "Roles \u0026 Responsabilities",
+                      "position":  {
+                                       "x":  233.9222883579663,
+                                       "y":  168.21343772948302
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PTv5RMrw7S8IsJauhuKUJ",
+                      "type":  "paragraph",
+                      "label":  "FDE are fluent in least one major cloud platform and know how to deploy infrastructure as code..",
+                      "position":  {
+                                       "x":  -540.1948600597652,
+                                       "y":  2303.462178661859
+                                   },
+                      "width":  316,
+                      "height":  105,
+                      "measured":  {
+                                       "width":  316,
+                                       "height":  105
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U2mQX5_XwmW74HFEM1Uzw",
+                      "type":  "subtopic",
+                      "label":  "Product Feedback Loop",
+                      "position":  {
+                                       "x":  235.9210390992938,
+                                       "y":  3102.1660899034155
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ju00mr0KLGN2BV6yEQGPt",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -24.9648411348293,
+                                       "y":  3379.331582973771
+                                   },
+                      "width":  21,
+                      "height":  104,
+                      "measured":  {
+                                       "width":  21,
+                                       "height":  104
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sVXZrBCsiSzWBBYWTm-nQ",
+                      "type":  "paragraph",
+                      "label":  "Continue Learning with following relevant tracks",
+                      "position":  {
+                                       "x":  -436.9254559496342,
+                                       "y":  3288.667997531213
+                                   },
+                      "width":  847,
+                      "height":  123,
+                      "measured":  {
+                                       "width":  847,
+                                       "height":  123
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sQsxo9QyLKZyhMnFUcxhS",
+                      "type":  "button",
+                      "label":  "Full Stack",
+                      "position":  {
+                                       "x":  -258.46484113482927,
+                                       "y":  3347.652638397404
+                                   },
+                      "width":  160,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  160,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/full-stack",
+                      "links":  null
+                  },
+                  {
+                      "id":  "DezWXw5LWeP1S5Sosj90S",
+                      "type":  "button",
+                      "label":  "System Design",
+                      "position":  {
+                                       "x":  -94.4648411348293,
+                                       "y":  3347.652638397404
+                                   },
+                      "width":  160,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  160,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/system-design",
+                      "links":  null
+                  },
+                  {
+                      "id":  "DsvdvpHWD0FgTjdkSJ9Uu",
+                      "type":  "button",
+                      "label":  "AI Engineer",
+                      "position":  {
+                                       "x":  -422.46484113482927,
+                                       "y":  3347.652638397404
+                                   },
+                      "width":  160,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  160,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "6xyLVLpBj8aUHAcpLeUe0",
+                      "type":  "button",
+                      "label":  "DevOps",
+                      "position":  {
+                                       "x":  69.53515886517073,
+                                       "y":  3347.652638397404
+                                   },
+                      "width":  160,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  160,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/devops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "jUTeDug6FX6ed0L9IKU25",
+                      "type":  "paragraph",
+                      "label":  "FDE is not a beginner role, you will most probably be already a Full-Stack Developer stepping into an FDE role.",
+                      "position":  {
+                                       "x":  220.84004286952165,
+                                       "y":  7.732552547462205
+                                   },
+                      "width":  326,
+                      "height":  115,
+                      "measured":  {
+                                       "width":  326,
+                                       "height":  115
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XjxnVjO0fR2XNzBUSzA4L",
+                      "type":  "subtopic",
+                      "label":  "From X to FDE",
+                      "position":  {
+                                       "x":  233.9222883579663,
+                                       "y":  115.21343772948302
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cb67_B_KzR89lpYM292Q1",
+                      "type":  "button",
+                      "label":  "Frontend Roadmap",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  897.3056807617639
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/frontend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "lvDsd7OcS6VdO1jY_qqhS",
+                      "type":  "button",
+                      "label":  "Backend Roadmap",
+                      "position":  {
+                                       "x":  235.9967800220664,
+                                       "y":  1048.9297148238174
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "PGioFebjgiFR3qHhgrl83",
+                      "type":  "button",
+                      "label":  "Linux Roadmap",
+                      "position":  {
+                                       "x":  233.34004286952165,
+                                       "y":  693.8214999603908
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/linux",
+                      "links":  null
+                  },
+                  {
+                      "id":  "NTrsCU9kWqfSjKbAId8kv",
+                      "type":  "button",
+                      "label":  "AI Engineer Roadmap",
+                      "position":  {
+                                       "x":  237.76876349377056,
+                                       "y":  1621.6866665110842
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "CNTtsgHntKdMsM7FgrrB8",
+                      "type":  "topic",
+                      "label":  "Frontend Skills",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  897.3056807617639
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kK16boEALRDQdRmFRphso",
+                      "type":  "topic",
+                      "label":  "Backend Skills",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  1048.9297148238174
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CruESa0Ir9fSbxyX3ny13",
+                      "type":  "topic",
+                      "label":  "Linux Skills",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  722.8214999603908
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tTTDizQfuACFUoAAsTCt1",
+                      "type":  "topic",
+                      "label":  "AI Engineering Skills",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  1621.6866665110842
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GYzlAYbgtX6gXcJ-1RPHk",
+                      "type":  "button",
+                      "label":  "DevOps Roadmap",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  2440.197850932933
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/devops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "FeRiOUzojZv7YLFu9WDXY",
+                      "type":  "paragraph",
+                      "label":  "FDEs need to be proficient in full-stack development, have high agency and be able to deliver full apps for customers.",
+                      "position":  {
+                                       "x":  -535.1948600597652,
+                                       "y":  786.9297148238173
+                                   },
+                      "width":  337,
+                      "height":  107,
+                      "measured":  {
+                                       "width":  337,
+                                       "height":  107
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aqrK4e6B8LFvFimKoqCNF",
+                      "type":  "topic",
+                      "label":  "DSA \u0026 System Design",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  511.4716621475643
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rWs6LTeT7QhgklqkE_L9m",
+                      "type":  "button",
+                      "label":  "DSA Roadmap",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  491.0588913134393
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/datastructures-and-algorithms",
+                      "links":  null
+                  },
+                  {
+                      "id":  "7cX-avJHMV55wf2wAs6mn",
+                      "type":  "paragraph",
+                      "label":  "FDEs are responsible for proving to customers that what they built won\u0027t break or go rogue in production.",
+                      "position":  {
+                                       "x":  209.26876349377056,
+                                       "y":  2433.462178661859
+                                   },
+                      "width":  337,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  337,
+                                       "height":  108
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lN5Z_UILjs_ahEwsBcjXZ",
+                      "type":  "button",
+                      "label":  "System Design Roadmap",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  544.0588913134393
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/system-design",
+                      "links":  null
+                  },
+                  {
+                      "id":  "EvX8GhFrPtsZVc_kAHs6Z",
+                      "type":  "topic",
+                      "label":  "DevOps Skills",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  2440.197850932933
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YCgynnhFV1SBxRXiC87me",
+                      "type":  "subtopic",
+                      "label":  "FDE Tiers",
+                      "position":  {
+                                       "x":  233.9222883579663,
+                                       "y":  221.21343772948302
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_eDNhYepoGg5xEtVP9vCQ",
+                      "type":  "subtopic",
+                      "label":  "React",
+                      "position":  {
+                                       "x":  372.9967800220664,
+                                       "y":  897.3056807617639
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4Sapys7HLhU28PMQ3jkqt",
+                      "type":  "subtopic",
+                      "label":  "JavaScript",
+                      "position":  {
+                                       "x":  235.9967800220664,
+                                       "y":  897.3056807617639
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rF75dtVrADi7BRHwzO16V",
+                      "type":  "subtopic",
+                      "label":  "CSS",
+                      "position":  {
+                                       "x":  235.9967800220664,
+                                       "y":  844.3056807617639
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7KtMQnYE-0WC3gQtbgUbH",
+                      "type":  "subtopic",
+                      "label":  "HTML",
+                      "position":  {
+                                       "x":  372.9967800220664,
+                                       "y":  844.3056807617639
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MzzUMMuXQc-C7_9UkLV-4",
+                      "type":  "subtopic",
+                      "label":  "PostgreSQL",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  1027.4440935447633
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tEXMziuU8UFl2Er5LoJvD",
+                      "type":  "subtopic",
+                      "label":  "NoSQL DBs",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  1080.4440935447633
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aOVpood08EcWfHsvg1H6n",
+                      "type":  "subtopic",
+                      "label":  "Node.js",
+                      "position":  {
+                                       "x":  -388.4879098903441,
+                                       "y":  974.4440935447633
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3HkClnguwCyjVTRVV4c98",
+                      "type":  "subtopic",
+                      "label":  "APIs Design",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  1133.4440935447633
+                                   },
+                      "width":  170,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  170,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NN_45roxRWVB2NYUmdZuN",
+                      "type":  "subtopic",
+                      "label":  "GraphQL",
+                      "position":  {
+                                       "x":  -351.4879098903441,
+                                       "y":  1133.4440935447633
+                                   },
+                      "width":  97,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  97,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gKyndvPYk8SViQuX4x6Wl",
+                      "type":  "subtopic",
+                      "label":  "Data Modeling",
+                      "position":  {
+                                       "x":  237.76876349377056,
+                                       "y":  1188.5807592276865
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wuE44lXPOAuQcMxn45pby",
+                      "type":  "subtopic",
+                      "label":  "Data Pipelines",
+                      "position":  {
+                                       "x":  237.76876349377056,
+                                       "y":  1241.5807592276865
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZBqPYTyF-o4RLeuhbtCuj",
+                      "type":  "subtopic",
+                      "label":  "Spark",
+                      "position":  {
+                                       "x":  237.76876349377056,
+                                       "y":  1347.5807592276865
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WRmM6EHABFNhkcbsDs-Ho",
+                      "type":  "subtopic",
+                      "label":  "Airflow",
+                      "position":  {
+                                       "x":  374.76876349377056,
+                                       "y":  1347.5807592276865
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Hh1n8Bu06WCntZqRLvGA1",
+                      "type":  "subtopic",
+                      "label":  "Data Warehouses",
+                      "position":  {
+                                       "x":  237.76876349377056,
+                                       "y":  1294.5807592276865
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aZCmG5rYJgSGnwTNouNvy",
+                      "type":  "subtopic",
+                      "label":  "LLM Fundamentals",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1460.6866665110842
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GvXo2Bw1nRqSWyT96b9m_",
+                      "type":  "subtopic",
+                      "label":  "Prompt Engineering",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1513.6866665110842
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "otaIXT7IDshdXJxrPZtqr",
+                      "type":  "subtopic",
+                      "label":  "RAGs",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1619.6866665110842
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wsxosek5h-zD79jIRvB3q",
+                      "type":  "subtopic",
+                      "label":  "Vector DBs",
+                      "position":  {
+                                       "x":  -386.11431159009635,
+                                       "y":  1619.6866665110842
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "71RdAONPBwnQRWa9kWeit",
+                      "type":  "subtopic",
+                      "label":  "Choosing Model Providers",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1672.6866665110842
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "axvABWpvFn6jGhtVX5YIb",
+                      "type":  "subtopic",
+                      "label":  "Agent Architectures",
+                      "position":  {
+                                       "x":  237.76876349377054,
+                                       "y":  1715.2312521997424
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vP-x_VlFL5ysVUVTuRXhS",
+                      "type":  "subtopic",
+                      "label":  "Tools \u0026 Functions",
+                      "position":  {
+                                       "x":  237.76876349377054,
+                                       "y":  1768.2312521997424
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "x1ssHdRyrjE09dAIGJDS3",
+                      "type":  "subtopic",
+                      "label":  "Memory \u0026 State",
+                      "position":  {
+                                       "x":  237.76876349377054,
+                                       "y":  1821.2312521997424
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PQCIbHisPwhqCREVsEgTI",
+                      "type":  "subtopic",
+                      "label":  "MCP",
+                      "position":  {
+                                       "x":  237.7687634937705,
+                                       "y":  1874.2312521997424
+                                   },
+                      "width":  100,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  100,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pDB2w6qDVFY9FFoqCX66K",
+                      "type":  "subtopic",
+                      "label":  "Multi-Agents",
+                      "position":  {
+                                       "x":  341.7687634937705,
+                                       "y":  1874.2312521997424
+                                   },
+                      "width":  166,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  166,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "type":  "topic",
+                      "label":  "AI Agents",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  1821.2312521997424
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gjPK-grobmB5pB0vc_Ckj",
+                      "type":  "subtopic",
+                      "label":  "Claude Code",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1962.9831766653365
+                                   },
+                      "width":  148,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  148,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JTLV9lLF1fKj-8aW_R-hj",
+                      "type":  "subtopic",
+                      "label":  "Codex",
+                      "position":  {
+                                       "x":  -371.11431159009635,
+                                       "y":  1962.9831766653365
+                                   },
+                      "width":  118,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  118,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i-0fMVk1wvTcwks-9Nzq7",
+                      "type":  "subtopic",
+                      "label":  "Gemini",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  2015.9831766653365
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5wYiyIOLCEUmAz5Sr108f",
+                      "type":  "subtopic",
+                      "label":  "Cursor",
+                      "position":  {
+                                       "x":  -386.11431159009635,
+                                       "y":  2015.9831766653365
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OmVYSzwXgYlMG2xz1FsyW",
+                      "type":  "topic",
+                      "label":  "Vibe Coding",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  1962.9831766653365
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5flayikfLHbQdXQdN3acM",
+                      "type":  "subtopic",
+                      "label":  "Working with Legacy Systems",
+                      "position":  {
+                                       "x":  237.7687634937705,
+                                       "y":  2067.0954583911002
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "65qB3vye3tbI-O3EIBvGu",
+                      "type":  "topic",
+                      "label":  "Integration Engineering",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  2067.0954583911002
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8aIZ6GqTIXHBBCdUPN8EF",
+                      "type":  "label",
+                      "label":  "DevOps \u0026 Cloud Skills",
+                      "position":  {
+                                       "x":  -121.38208258431436,
+                                       "y":  2159.462178661859
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  215,
+                                       "height":  42
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gN4BwjAFGWyraYh6PXdXv",
+                      "type":  "subtopic",
+                      "label":  "AWS",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  2198.462178661859
+                                   },
+                      "width":  87,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  87,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oTiY8mTQUIxP70T-vQ1KF",
+                      "type":  "subtopic",
+                      "label":  "GCP",
+                      "position":  {
+                                       "x":  -432.11431159009635,
+                                       "y":  2198.462178661859
+                                   },
+                      "width":  87,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  87,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zVl_tprCCMCA7DQXXoJGw",
+                      "type":  "subtopic",
+                      "label":  "Azure",
+                      "position":  {
+                                       "x":  -341.11431159009635,
+                                       "y":  2198.462178661859
+                                   },
+                      "width":  87,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  87,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3LspdlmWTx3ApI76Askce",
+                      "type":  "subtopic",
+                      "label":  "Terraform",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  2251.462178661859
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-ewFRbnqRVqY3MLQYbwJl",
+                      "type":  "topic",
+                      "label":  "Cloud Platforms",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  2251.462178661859
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RABrqfc3T8NjdJOabl2jV",
+                      "type":  "subtopic",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  235.92103909929384,
+                                       "y":  2290.807898245753
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8sgdY07GymYjXQ2XWzrxl",
+                      "type":  "subtopic",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  235.92103909929384,
+                                       "y":  2343.807898245753
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iF3d4ajumcuE4g4XQMG3o",
+                      "type":  "topic",
+                      "label":  "Containers",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  2345.641234122218
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CTdNVvY92vrR1G6DYSLdS",
+                      "type":  "label",
+                      "label":  "Production AI Systems",
+                      "position":  {
+                                       "x":  -122.38208258431436,
+                                       "y":  2527.2216369984467
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  218,
+                                       "height":  42
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KG8YieOpAPgrdilQhSZih",
+                      "type":  "subtopic",
+                      "label":  "Inference Optimization",
+                      "position":  {
+                                       "x":  235.92103909929384,
+                                       "y":  2674.2216369984467
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3bAZD-MgDbLu5Tds2Jvv2",
+                      "type":  "topic",
+                      "label":  "MLOps",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  2832.2216369984467
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MbW7Q4Zde_b9GzW52oH5D",
+                      "type":  "subtopic",
+                      "label":  "Prompt Management",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1725.6866665110842
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nqinppM-vkHMf2Rp9314E",
+                      "type":  "subtopic",
+                      "label":  "Building Eval Pipelines",
+                      "position":  {
+                                       "x":  235.92103909929384,
+                                       "y":  2568.2216369984467
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mcpy66swu-PyPF0QOEy8t",
+                      "type":  "subtopic",
+                      "label":  "Debugging Agent Logic",
+                      "position":  {
+                                       "x":  235.92103909929384,
+                                       "y":  2621.2216369984467
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ioP31uEELX2wUHzh9SXBR",
+                      "type":  "topic",
+                      "label":  "Observability",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  2621.2216369984467
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aLzM7M8UKIw4Kx1nvo1Ei",
+                      "type":  "subtopic",
+                      "label":  "DevSecOps",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2521.6576643674957
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "upn4b8jBWiw1zs6C7dH-i",
+                      "type":  "subtopic",
+                      "label":  "API Security",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2574.6576643674957
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wcK8DCAlH0W82qKVqtIOi",
+                      "type":  "subtopic",
+                      "label":  "Authentication",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2627.6576643674957
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IDXv7mdEFDvz9JZQsJONI",
+                      "type":  "subtopic",
+                      "label":  "AI Governance",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2680.6576643674957
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pW5xKU794I8nzrMNFFQB3",
+                      "type":  "subtopic",
+                      "label":  "Data Privacy \u0026 Compliance",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2733.6576643674957
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "type":  "topic",
+                      "label":  "Security",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  2733.6576643674957
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8uLQLnTJCWJt90ir-Nemz",
+                      "type":  "subtopic",
+                      "label":  "Time-to-Value",
+                      "position":  {
+                                       "x":  235.9210390992938,
+                                       "y":  3155.1660899034155
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-tezsr3BCn6uBq0KQYRT-",
+                      "type":  "subtopic",
+                      "label":  "Executive Reporting",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  3208.1660899034155
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "E9LIQBR4Dg50e4atHROEl",
+                      "type":  "label",
+                      "label":  "FDE Glossary",
+                      "position":  {
+                                       "x":  -450.9879098903441,
+                                       "y":  119
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  121,
+                                       "height":  37
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "3KTzi-jLNFLvVKtvplMgZ",
+                      "type":  "subtopic",
+                      "label":  "Delta",
+                      "position":  {
+                                       "x":  -510.4879098903441,
+                                       "y":  163.09696796658338
+                                   },
+                      "width":  118,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  118,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bsEgOaC-vIliEoGiuJT6u",
+                      "type":  "subtopic",
+                      "label":  "Last-Mile Integration",
+                      "position":  {
+                                       "x":  -510.4879098903441,
+                                       "y":  216.09696796658338
+                                   },
+                      "width":  240,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  240,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7ftuUKj-IHxdBa5TPT_uz",
+                      "type":  "subtopic",
+                      "label":  "Day 2 Operations",
+                      "position":  {
+                                       "x":  -510.4879098903441,
+                                       "y":  269.0969679665834
+                                   },
+                      "width":  240,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  240,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cpexsDyRMgtGcQqhwx3Yn",
+                      "type":  "subtopic",
+                      "label":  "UAT",
+                      "position":  {
+                                       "x":  -388.4879098903441,
+                                       "y":  163.09696796658338
+                                   },
+                      "width":  118,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  118,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ssi6dE8eDVxN6cStem3bY",
+                      "type":  "subtopic",
+                      "label":  "Productized Consulting",
+                      "position":  {
+                                       "x":  -510.4879098903441,
+                                       "y":  322.0969679665834
+                                   },
+                      "width":  240,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  240,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KGT-rraH93uw_e9L6Lcyy",
+                      "type":  "subtopic",
+                      "label":  "Embedded Engineering",
+                      "position":  {
+                                       "x":  -510.4879098903441,
+                                       "y":  375.0969679665834
+                                   },
+                      "width":  240,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  240,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7ySv_lXZVdhCGWoQOPseF",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -249.8820825843144,
+                                       "y":  182.71343772948302
+                                   },
+                      "width":  111,
+                      "height":  20,
+                      "measured":  {
+                                       "width":  111,
+                                       "height":  20
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xCr_NZRwhRozn0g1thGIM",
+                      "type":  "label",
+                      "label":  "Computer Science Basics",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  283.0969679665834
+                                   },
+                      "width":  250,
+                      "height":  42,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  42
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "nRqHDTqV9C0D7JdA-zcWR",
+                      "type":  "topic",
+                      "label":  "Learn a Language",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  404.0969679665834
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8101s5MaG8KQ-EIOQcHLS",
+                      "type":  "topic",
+                      "label":  "Git \u0026 GitHub",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  610.0969679665834
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ODruinJ00ZWpBlszIZX69",
+                      "type":  "subtopic",
+                      "label":  "Python ",
+                      "position":  {
+                                       "x":  233.9222883579663,
+                                       "y":  351.0969679665834
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qizDxdlyDmdlatQIAKyuE",
+                      "type":  "subtopic",
+                      "label":  "Java / Scala",
+                      "position":  {
+                                       "x":  233.9222883579663,
+                                       "y":  457.0969679665834
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U1yJGtIH4MgMqmbHS_wKf",
+                      "type":  "subtopic",
+                      "label":  "JavaScript / TypeScript",
+                      "position":  {
+                                       "x":  233.9222883579663,
+                                       "y":  404.0969679665834
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bUJu0cW5BvXxyjM59PK2x",
+                      "type":  "subtopic",
+                      "label":  "Go",
+                      "position":  {
+                                       "x":  233.9222883579663,
+                                       "y":  510.0969679665834
+                                   },
+                      "width":  87,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  87,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O5jddHR_1FuQstAzf2Fna",
+                      "type":  "subtopic",
+                      "label":  "Rust",
+                      "position":  {
+                                       "x":  324.9222883579663,
+                                       "y":  510.0969679665834
+                                   },
+                      "width":  87,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  87,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KfMUR-vU8CHyef0HQOIdg",
+                      "type":  "subtopic",
+                      "label":  "C++",
+                      "position":  {
+                                       "x":  415.9222883579663,
+                                       "y":  510.0969679665834
+                                   },
+                      "width":  90,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  90,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "abbIOx7vou14eU7kJD81O",
+                      "type":  "paragraph",
+                      "label":  "Python is the go-to language for FDEs.",
+                      "position":  {
+                                       "x":  211.70279171516415,
+                                       "y":  300.0969679665834
+                                   },
+                      "width":  342,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  342,
+                                       "height":  59
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cm5mtbXDu0_LRGHJC49cd",
+                      "type":  "button",
+                      "label":  "Git \u0026 GitHub Roadmap",
+                      "position":  {
+                                       "x":  233.34004286952162,
+                                       "y":  610.0969679665834
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/git-github",
+                      "links":  null
+                  },
+                  {
+                      "id":  "snDv-9nuGy5mkeOl-_S42",
+                      "type":  "button",
+                      "label":  "Shell \u0026 Bash Roadmap",
+                      "position":  {
+                                       "x":  233.34004286952165,
+                                       "y":  746.8214999603908
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/shell-bash",
+                      "links":  null
+                  },
+                  {
+                      "id":  "8JRYbM_Ro5meYGGyh6wwD",
+                      "type":  "label",
+                      "label":  "Full Stack Development",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  812.6967730748175
+                                   },
+                      "width":  250,
+                      "height":  42,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  42
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zK-xxOHJx5jR626xZu_xZ",
+                      "type":  "button",
+                      "label":  "Frontend Project Ideas",
+                      "position":  {
+                                       "x":  235.9967800220664,
+                                       "y":  950.3056807617639
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/frontend/projects",
+                      "links":  null
+                  },
+                  {
+                      "id":  "KlbUf_q8hMxia5UxLOY3G",
+                      "type":  "subtopic",
+                      "label":  "SQL",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  974.4440935447633
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cQUhtRHvkSaYbb40jWho_",
+                      "type":  "button",
+                      "label":  "Backend Project Ideas",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  1186.4440935447633
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/frontend/projects",
+                      "links":  null
+                  },
+                  {
+                      "id":  "pYs114gnTMY_ls1HYCLbX",
+                      "type":  "label",
+                      "label":  "Data Engineering",
+                      "position":  {
+                                       "x":  -100.88208258431436,
+                                       "y":  1164.4440935447633
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  175,
+                                       "height":  42
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "type":  "topic",
+                      "label":  "Data Engineering Skills",
+                      "position":  {
+                                       "x":  -138.38208258431436,
+                                       "y":  1269.5807592276865
+                                   },
+                      "width":  250,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  250,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JHLNb4lfJwfEK71agOHeG",
+                      "type":  "button",
+                      "label":  "Data Engineer Roadmap",
+                      "position":  {
+                                       "x":  -525.4879098903441,
+                                       "y":  1269.5807592276865
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/data-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "3zgCCg_RdIlrD62-3f7B5",
+                      "type":  "label",
+                      "label":  "AI Engineering",
+                      "position":  {
+                                       "x":  -88.38208258431436,
+                                       "y":  1428.6866665110842
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  150,
+                                       "height":  42
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "h_8qnxjz9gVgCoezlHEvO",
+                      "type":  "subtopic",
+                      "label":  "Context Engineering",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1566.6866665110842
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Yn0Vyvug0th-zhqiuunVm",
+                      "type":  "button",
+                      "label":  "AI Agents Roadmap",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1821.2312521997424
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/ai-agents",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xnOP1vdZvEi0jpD7Ux87Z",
+                      "type":  "label",
+                      "label":  "AI-Assisted Coding Tools",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  1924.9831766653365
+                                   },
+                      "width":  null,
+                      "height":  null,
+                      "measured":  {
+                                       "width":  205,
+                                       "height":  37
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "90TU702898q1eQ9X-tVfd",
+                      "type":  "button",
+                      "label":  "Vibe Coding Roadmap",
+                      "position":  {
+                                       "x":  237.7687634937705,
+                                       "y":  1962.9831766653365
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/vibe-coding",
+                      "links":  null
+                  },
+                  {
+                      "id":  "wGWfChyM1wjKO6e--NhC3",
+                      "type":  "button",
+                      "label":  "Inference Engineering",
+                      "position":  {
+                                       "x":  235.9210390992938,
+                                       "y":  2773.227442569327
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/inference-engineering",
+                      "links":  null
+                  },
+                  {
+                      "id":  "gxZqt0k_O7iQNqCyENFfD",
+                      "type":  "button",
+                      "label":  "MLOps Roadmap",
+                      "position":  {
+                                       "x":  -528.6484375,
+                                       "y":  2832.2216369984467
+                                   },
+                      "width":  270,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  270,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/mlops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "uSLzfLPXxS5-P7ozscvjZ",
+                      "type":  "button",
+                      "label":  "Data Engineer",
+                      "position":  {
+                                       "x":  233.53515886517073,
+                                       "y":  3347.652638397404
+                                   },
+                      "width":  160,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  160,
+                                       "height":  49
+                                   },
+                      "href":  "https://roadmap.sh/data-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "zfl9PVZgX4yvf9TxCFnEZ",
+                      "type":  "subtopic",
+                      "label":  "OpenClaw",
+                      "position":  {
+                                       "x":  -523.1143115900963,
+                                       "y":  2068.9831766653365
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dDD668SrlaZzoAD0mWBcn",
+                      "type":  "subtopic",
+                      "label":  "OpenCode",
+                      "position":  {
+                                       "x":  -386.11431159009635,
+                                       "y":  2068.9831766653365
+                                   },
+                      "width":  133,
+                      "height":  49,
+                      "measured":  {
+                                       "width":  133,
+                                       "height":  49
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "t9VzgLcT4oXDqE6kNJklJ",
+                      "source":  "XMksIsrFfHP899uom5BQJ",
+                      "target":  "hO7BCDFmbvQVcgM7W2t9S",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "9PfasPxPvKzVSJtQoTCzp",
+                      "source":  "hO7BCDFmbvQVcgM7W2t9S",
+                      "target":  "s4Kooj99igkE02P-D-dAU",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "rEH63Hce3NOf-jhF1zeO6",
+                      "source":  "hO7BCDFmbvQVcgM7W2t9S",
+                      "target":  "KqQHfy1Z8w-v8p73QkvG5",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "LQSlkqxlYb0amo9xhGvlI",
+                      "source":  "hO7BCDFmbvQVcgM7W2t9S",
+                      "target":  "eKUy2q5cGskmcg-sAAtYW",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__9yG3qY_gwr77Uz2XN5wQOx2-LRBwP7EQj4byox7yKdPAjw1",
+                      "source":  "9yG3qY_gwr77Uz2XN5wQO",
+                      "target":  "PBtnaTE_5AMOa5mxbhoT2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__LRBwP7EQj4byox7yKdPAjz2-E7o6LDxng5zNFg_mgltg6y1",
+                      "source":  "PBtnaTE_5AMOa5mxbhoT2",
+                      "target":  "YNaf7swqsvYaXRK6uevdv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "msV2f1KI4GhIwKOBsTT5B",
+                      "source":  "bE7j2U28V8Vf9OKHBqLwW",
+                      "target":  "c8dBwWaKLiW6X2HWfmVJt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "yCCwElPVRYPjKDzBiiN7n",
+                      "source":  "bE7j2U28V8Vf9OKHBqLwW",
+                      "target":  "kyHwTMFBQxbHrGBcv3q0O",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "8nc1gF788UjrDTH38XYZg",
+                      "source":  "bE7j2U28V8Vf9OKHBqLwW",
+                      "target":  "L76T2X7AFpVtpMF9CjBJo",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "171fAzxQRD8WYBGeGOvlK",
+                      "source":  "bE7j2U28V8Vf9OKHBqLwW",
+                      "target":  "U2mQX5_XwmW74HFEM1Uzw",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "6luU4DB_hnhoB8EmKkFTa",
+                      "source":  "iaNbLDFrEDYEKwpkGFWts",
+                      "target":  "ir0uv9E3flgBz_cHntOf4",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__iaNbLDFrEDYEKwpkGFWtsx2-sVXZrBCsiSzWBBYWTm-nQw1",
+                      "source":  "iaNbLDFrEDYEKwpkGFWts",
+                      "target":  "sVXZrBCsiSzWBBYWTm-nQ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__LRBwP7EQj4byox7yKdPAjz2-414WIX6TuK2h1jEtzRG2Hy1",
+                      "source":  "PBtnaTE_5AMOa5mxbhoT2",
+                      "target":  "XjxnVjO0fR2XNzBUSzA4L",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__CNTtsgHntKdMsM7FgrrB8y2-cb67_B_KzR89lpYM292Q1z1",
+                      "source":  "CNTtsgHntKdMsM7FgrrB8",
+                      "target":  "cb67_B_KzR89lpYM292Q1",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__EvX8GhFrPtsZVc_kAHs6Zy2-wGWfChyM1wjKO6e--NhC3z1",
+                      "source":  "EvX8GhFrPtsZVc_kAHs6Z",
+                      "target":  "GYzlAYbgtX6gXcJ-1RPHk",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "R3a_qdNUxtCG7XGxJ2MWl",
+                      "source":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "target":  "axvABWpvFn6jGhtVX5YIb",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "JUCox5u0ipvkj_bvj1gG1",
+                      "source":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "target":  "vP-x_VlFL5ysVUVTuRXhS",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "Q6hJdTXbQZzXKg5kdhwSi",
+                      "source":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "target":  "x1ssHdRyrjE09dAIGJDS3",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "C55u5FzT9TayWsBCbuUwd",
+                      "source":  "65qB3vye3tbI-O3EIBvGu",
+                      "target":  "5flayikfLHbQdXQdN3acM",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "zEGvtCBdHd7kRxyN1YQ-e",
+                      "source":  "iF3d4ajumcuE4g4XQMG3o",
+                      "target":  "RABrqfc3T8NjdJOabl2jV",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "HZZA0zjQczxpeRpE5PyEU",
+                      "source":  "iF3d4ajumcuE4g4XQMG3o",
+                      "target":  "8sgdY07GymYjXQ2XWzrxl",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "usXtRl_3j78OEE_Vi_P1K",
+                      "source":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "target":  "aLzM7M8UKIw4Kx1nvo1Ei",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "DDCwl0QNCOpe79qAIgXdj",
+                      "source":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "target":  "upn4b8jBWiw1zs6C7dH-i",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "4VHqRy0bJnubiMtpZCEFV",
+                      "source":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "target":  "wcK8DCAlH0W82qKVqtIOi",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "dDQEoL4kL6ROpkOJOs-qk",
+                      "source":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "target":  "IDXv7mdEFDvz9JZQsJONI",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "jRhR3MvDz59LJiKb7rPKC",
+                      "source":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "target":  "pW5xKU794I8nzrMNFFQB3",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__PBtnaTE_5AMOa5mxbhoT2z2-YCgynnhFV1SBxRXiC87mey1",
+                      "source":  "PBtnaTE_5AMOa5mxbhoT2",
+                      "target":  "YCgynnhFV1SBxRXiC87me",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__PBtnaTE_5AMOa5mxbhoT2x2-3zgCCg_RdIlrD62-3f7B5w1",
+                      "source":  "PBtnaTE_5AMOa5mxbhoT2",
+                      "target":  "xCr_NZRwhRozn0g1thGIM",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__nRqHDTqV9C0D7JdA-zcWRz2-ODruinJ00ZWpBlszIZX69y2",
+                      "source":  "nRqHDTqV9C0D7JdA-zcWR",
+                      "target":  "ODruinJ00ZWpBlszIZX69",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__nRqHDTqV9C0D7JdA-zcWRz2-U1yJGtIH4MgMqmbHS_wKfy1",
+                      "source":  "nRqHDTqV9C0D7JdA-zcWR",
+                      "target":  "U1yJGtIH4MgMqmbHS_wKf",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__nRqHDTqV9C0D7JdA-zcWRz2-qizDxdlyDmdlatQIAKyuEy1",
+                      "source":  "nRqHDTqV9C0D7JdA-zcWR",
+                      "target":  "qizDxdlyDmdlatQIAKyuE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__nRqHDTqV9C0D7JdA-zcWRz2-bUJu0cW5BvXxyjM59PK2xy1",
+                      "source":  "nRqHDTqV9C0D7JdA-zcWR",
+                      "target":  "bUJu0cW5BvXxyjM59PK2x",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__3zgCCg_RdIlrD62-3f7B5x2-nRqHDTqV9C0D7JdA-zcWRw1",
+                      "source":  "xCr_NZRwhRozn0g1thGIM",
+                      "target":  "nRqHDTqV9C0D7JdA-zcWR",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__nRqHDTqV9C0D7JdA-zcWRx2-aqrK4e6B8LFvFimKoqCNFw1",
+                      "source":  "nRqHDTqV9C0D7JdA-zcWR",
+                      "target":  "aqrK4e6B8LFvFimKoqCNF",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__aqrK4e6B8LFvFimKoqCNFy2-cm5mtbXDu0_LRGHJC49cdz1",
+                      "source":  "aqrK4e6B8LFvFimKoqCNF",
+                      "target":  "rWs6LTeT7QhgklqkE_L9m",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__aqrK4e6B8LFvFimKoqCNFy2-lN5Z_UILjs_ahEwsBcjXZz2",
+                      "source":  "aqrK4e6B8LFvFimKoqCNF",
+                      "target":  "lN5Z_UILjs_ahEwsBcjXZ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__aqrK4e6B8LFvFimKoqCNFx2-8101s5MaG8KQ-EIOQcHLSw2",
+                      "source":  "aqrK4e6B8LFvFimKoqCNF",
+                      "target":  "8101s5MaG8KQ-EIOQcHLS",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__8101s5MaG8KQ-EIOQcHLSz2-cm5mtbXDu0_LRGHJC49cdy1",
+                      "source":  "8101s5MaG8KQ-EIOQcHLS",
+                      "target":  "cm5mtbXDu0_LRGHJC49cd",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__8101s5MaG8KQ-EIOQcHLSx2-CruESa0Ir9fSbxyX3ny13w2",
+                      "source":  "8101s5MaG8KQ-EIOQcHLS",
+                      "target":  "CruESa0Ir9fSbxyX3ny13",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__CruESa0Ir9fSbxyX3ny13z2-PGioFebjgiFR3qHhgrl83y1",
+                      "source":  "CruESa0Ir9fSbxyX3ny13",
+                      "target":  "PGioFebjgiFR3qHhgrl83",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__CruESa0Ir9fSbxyX3ny13z2-snDv-9nuGy5mkeOl-_S42y2",
+                      "source":  "CruESa0Ir9fSbxyX3ny13",
+                      "target":  "snDv-9nuGy5mkeOl-_S42",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__CruESa0Ir9fSbxyX3ny13x2-3zgCCg_RdIlrD62-3f7B5w1",
+                      "source":  "CruESa0Ir9fSbxyX3ny13",
+                      "target":  "8JRYbM_Ro5meYGGyh6wwD",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__3zgCCg_RdIlrD62-3f7B5x2-CNTtsgHntKdMsM7FgrrB8w2",
+                      "source":  "8JRYbM_Ro5meYGGyh6wwD",
+                      "target":  "CNTtsgHntKdMsM7FgrrB8",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__CNTtsgHntKdMsM7FgrrB8z2-rF75dtVrADi7BRHwzO16Vy1",
+                      "source":  "CNTtsgHntKdMsM7FgrrB8",
+                      "target":  "rF75dtVrADi7BRHwzO16V",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__CNTtsgHntKdMsM7FgrrB8z2-4Sapys7HLhU28PMQ3jkqty1",
+                      "source":  "CNTtsgHntKdMsM7FgrrB8",
+                      "target":  "4Sapys7HLhU28PMQ3jkqt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__CNTtsgHntKdMsM7FgrrB8z2-cQUhtRHvkSaYbb40jWho_y1",
+                      "source":  "CNTtsgHntKdMsM7FgrrB8",
+                      "target":  "zK-xxOHJx5jR626xZu_xZ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__CNTtsgHntKdMsM7FgrrB8x2-kK16boEALRDQdRmFRphsow2",
+                      "source":  "CNTtsgHntKdMsM7FgrrB8",
+                      "target":  "kK16boEALRDQdRmFRphso",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__kK16boEALRDQdRmFRphsoy2-aOVpood08EcWfHsvg1H6nz1",
+                      "source":  "kK16boEALRDQdRmFRphso",
+                      "target":  "aOVpood08EcWfHsvg1H6n",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__kK16boEALRDQdRmFRphsoy2-MzzUMMuXQc-C7_9UkLV-4z1",
+                      "source":  "kK16boEALRDQdRmFRphso",
+                      "target":  "MzzUMMuXQc-C7_9UkLV-4",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__kK16boEALRDQdRmFRphsoy2-tEXMziuU8UFl2Er5LoJvDz1",
+                      "source":  "kK16boEALRDQdRmFRphso",
+                      "target":  "tEXMziuU8UFl2Er5LoJvD",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__kK16boEALRDQdRmFRphsoy2-NN_45roxRWVB2NYUmdZuNz1",
+                      "source":  "kK16boEALRDQdRmFRphso",
+                      "target":  "NN_45roxRWVB2NYUmdZuN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__kK16boEALRDQdRmFRphsoz2-JHLNb4lfJwfEK71agOHeGy1",
+                      "source":  "kK16boEALRDQdRmFRphso",
+                      "target":  "lvDsd7OcS6VdO1jY_qqhS",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__kK16boEALRDQdRmFRphsox2-3zgCCg_RdIlrD62-3f7B5w2",
+                      "source":  "kK16boEALRDQdRmFRphso",
+                      "target":  "pYs114gnTMY_ls1HYCLbX",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__3zgCCg_RdIlrD62-3f7B5x2-W6pvQiVX7pxa_rRZXe-3bw1",
+                      "source":  "pYs114gnTMY_ls1HYCLbX",
+                      "target":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__W6pvQiVX7pxa_rRZXe-3bz2-gKyndvPYk8SViQuX4x6Wly2",
+                      "source":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "target":  "gKyndvPYk8SViQuX4x6Wl",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__W6pvQiVX7pxa_rRZXe-3bz2-wuE44lXPOAuQcMxn45pbyy1",
+                      "source":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "target":  "wuE44lXPOAuQcMxn45pby",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__W6pvQiVX7pxa_rRZXe-3bz2-Hh1n8Bu06WCntZqRLvGA1y1",
+                      "source":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "target":  "Hh1n8Bu06WCntZqRLvGA1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__W6pvQiVX7pxa_rRZXe-3bz2-ZBqPYTyF-o4RLeuhbtCujy1",
+                      "source":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "target":  "ZBqPYTyF-o4RLeuhbtCuj",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__W6pvQiVX7pxa_rRZXe-3by2-JHLNb4lfJwfEK71agOHeGz1",
+                      "source":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "target":  "JHLNb4lfJwfEK71agOHeG",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__W6pvQiVX7pxa_rRZXe-3bx2-3zgCCg_RdIlrD62-3f7B5w1",
+                      "source":  "W6pvQiVX7pxa_rRZXe-3b",
+                      "target":  "3zgCCg_RdIlrD62-3f7B5",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__3zgCCg_RdIlrD62-3f7B5x2-tTTDizQfuACFUoAAsTCt1w1",
+                      "source":  "3zgCCg_RdIlrD62-3f7B5",
+                      "target":  "tTTDizQfuACFUoAAsTCt1",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__tTTDizQfuACFUoAAsTCt1z2-90TU702898q1eQ9X-tVfdy2",
+                      "source":  "tTTDizQfuACFUoAAsTCt1",
+                      "target":  "NTrsCU9kWqfSjKbAId8kv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__tTTDizQfuACFUoAAsTCt1y2-aZCmG5rYJgSGnwTNouNvyz1",
+                      "source":  "tTTDizQfuACFUoAAsTCt1",
+                      "target":  "aZCmG5rYJgSGnwTNouNvy",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__wsxosek5h-zD79jIRvB3qz2-tTTDizQfuACFUoAAsTCt1y1",
+                      "source":  "wsxosek5h-zD79jIRvB3q",
+                      "target":  "tTTDizQfuACFUoAAsTCt1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__h_8qnxjz9gVgCoezlHEvOz2-tTTDizQfuACFUoAAsTCt1y1",
+                      "source":  "h_8qnxjz9gVgCoezlHEvO",
+                      "target":  "tTTDizQfuACFUoAAsTCt1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__GvXo2Bw1nRqSWyT96b9m_z2-tTTDizQfuACFUoAAsTCt1y2",
+                      "source":  "GvXo2Bw1nRqSWyT96b9m_",
+                      "target":  "tTTDizQfuACFUoAAsTCt1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__71RdAONPBwnQRWa9kWeitz2-tTTDizQfuACFUoAAsTCt1y1",
+                      "source":  "71RdAONPBwnQRWa9kWeit",
+                      "target":  "tTTDizQfuACFUoAAsTCt1",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__10CJpvB1Dl1SFN0jrPGpBw2-tTTDizQfuACFUoAAsTCt1x2",
+                      "source":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "target":  "tTTDizQfuACFUoAAsTCt1",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__10CJpvB1Dl1SFN0jrPGpBz2-PQCIbHisPwhqCREVsEgTIy2",
+                      "source":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "target":  "PQCIbHisPwhqCREVsEgTI",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__10CJpvB1Dl1SFN0jrPGpBy2-90TU702898q1eQ9X-tVfdz1",
+                      "source":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "target":  "Yn0Vyvug0th-zhqiuunVm",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__10CJpvB1Dl1SFN0jrPGpBx2-OmVYSzwXgYlMG2xz1FsyWw1",
+                      "source":  "10CJpvB1Dl1SFN0jrPGpB",
+                      "target":  "OmVYSzwXgYlMG2xz1FsyW",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__OmVYSzwXgYlMG2xz1FsyWy2-JTLV9lLF1fKj-8aW_R-hjz1",
+                      "source":  "OmVYSzwXgYlMG2xz1FsyW",
+                      "target":  "JTLV9lLF1fKj-8aW_R-hj",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__OmVYSzwXgYlMG2xz1FsyWy2-5wYiyIOLCEUmAz5Sr108fz1",
+                      "source":  "OmVYSzwXgYlMG2xz1FsyW",
+                      "target":  "5wYiyIOLCEUmAz5Sr108f",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__OmVYSzwXgYlMG2xz1FsyWz2-90TU702898q1eQ9X-tVfdy1",
+                      "source":  "OmVYSzwXgYlMG2xz1FsyW",
+                      "target":  "90TU702898q1eQ9X-tVfd",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__OmVYSzwXgYlMG2xz1FsyWx2-65qB3vye3tbI-O3EIBvGuw1",
+                      "source":  "OmVYSzwXgYlMG2xz1FsyW",
+                      "target":  "65qB3vye3tbI-O3EIBvGu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__65qB3vye3tbI-O3EIBvGux2-8aIZ6GqTIXHBBCdUPN8EFw2",
+                      "source":  "65qB3vye3tbI-O3EIBvGu",
+                      "target":  "8aIZ6GqTIXHBBCdUPN8EF",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__8aIZ6GqTIXHBBCdUPN8EFx2--ewFRbnqRVqY3MLQYbwJlw2",
+                      "source":  "8aIZ6GqTIXHBBCdUPN8EF",
+                      "target":  "-ewFRbnqRVqY3MLQYbwJl",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__-ewFRbnqRVqY3MLQYbwJly2-zVl_tprCCMCA7DQXXoJGwz1",
+                      "source":  "-ewFRbnqRVqY3MLQYbwJl",
+                      "target":  "zVl_tprCCMCA7DQXXoJGw",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__-ewFRbnqRVqY3MLQYbwJly2-3LspdlmWTx3ApI76Askcez2",
+                      "source":  "-ewFRbnqRVqY3MLQYbwJl",
+                      "target":  "3LspdlmWTx3ApI76Askce",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__-ewFRbnqRVqY3MLQYbwJlx2-iF3d4ajumcuE4g4XQMG3ow2",
+                      "source":  "-ewFRbnqRVqY3MLQYbwJl",
+                      "target":  "iF3d4ajumcuE4g4XQMG3o",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__iF3d4ajumcuE4g4XQMG3ox2-EvX8GhFrPtsZVc_kAHs6Zw2",
+                      "source":  "iF3d4ajumcuE4g4XQMG3o",
+                      "target":  "EvX8GhFrPtsZVc_kAHs6Z",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__EvX8GhFrPtsZVc_kAHs6Zx2-odYtAfShD4yYL8OninA2gw1",
+                      "source":  "EvX8GhFrPtsZVc_kAHs6Z",
+                      "target":  "CTdNVvY92vrR1G6DYSLdS",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__CTdNVvY92vrR1G6DYSLdSx2-ioP31uEELX2wUHzh9SXBRw1",
+                      "source":  "CTdNVvY92vrR1G6DYSLdS",
+                      "target":  "ioP31uEELX2wUHzh9SXBR",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__ioP31uEELX2wUHzh9SXBRz2-KG8YieOpAPgrdilQhSZihy1",
+                      "source":  "ioP31uEELX2wUHzh9SXBR",
+                      "target":  "KG8YieOpAPgrdilQhSZih",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__ioP31uEELX2wUHzh9SXBRz2-nqinppM-vkHMf2Rp9314Ey2",
+                      "source":  "ioP31uEELX2wUHzh9SXBR",
+                      "target":  "nqinppM-vkHMf2Rp9314E",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__ioP31uEELX2wUHzh9SXBRz2-Mcpy66swu-PyPF0QOEy8ty1",
+                      "source":  "ioP31uEELX2wUHzh9SXBR",
+                      "target":  "Mcpy66swu-PyPF0QOEy8t",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__ioP31uEELX2wUHzh9SXBRx2-_jSbrQbZ6Zpi7RqiXL__Xw2",
+                      "source":  "ioP31uEELX2wUHzh9SXBR",
+                      "target":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge___jSbrQbZ6Zpi7RqiXL__Xx2-3bAZD-MgDbLu5Tds2Jvv2w1",
+                      "source":  "_jSbrQbZ6Zpi7RqiXL__X",
+                      "target":  "3bAZD-MgDbLu5Tds2Jvv2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__KG8YieOpAPgrdilQhSZihx2-wGWfChyM1wjKO6e--NhC3w1",
+                      "source":  "KG8YieOpAPgrdilQhSZih",
+                      "target":  "wGWfChyM1wjKO6e--NhC3",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__3bAZD-MgDbLu5Tds2Jvv2y2-gxZqt0k_O7iQNqCyENFfDz2",
+                      "source":  "3bAZD-MgDbLu5Tds2Jvv2",
+                      "target":  "gxZqt0k_O7iQNqCyENFfD",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__3bAZD-MgDbLu5Tds2Jvv2x2-XMksIsrFfHP899uom5BQJw2",
+                      "source":  "3bAZD-MgDbLu5Tds2Jvv2",
+                      "target":  "XMksIsrFfHP899uom5BQJ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2",
+                      "style":  "solid"
+                  },
+                  {
+                      "id":  "xy-edge__bE7j2U28V8Vf9OKHBqLwWz2-8uLQLnTJCWJt90ir-Nemzy2",
+                      "source":  "bE7j2U28V8Vf9OKHBqLwW",
+                      "target":  "8uLQLnTJCWJt90ir-Nemz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__iaNbLDFrEDYEKwpkGFWtsy2--tezsr3BCn6uBq0KQYRT-z1",
+                      "source":  "iaNbLDFrEDYEKwpkGFWts",
+                      "target":  "-tezsr3BCn6uBq0KQYRT-",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1",
+                      "style":  "dashed"
+                  },
+                  {
+                      "id":  "xy-edge__OmVYSzwXgYlMG2xz1FsyWy2-dDD668SrlaZzoAD0mWBcnz2",
+                      "source":  "OmVYSzwXgYlMG2xz1FsyW",
+                      "target":  "dDD668SrlaZzoAD0mWBcn",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2",
+                      "style":  "dashed"
+                  }
+              ]
+}

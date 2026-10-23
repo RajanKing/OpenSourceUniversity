@@ -1,0 +1,3224 @@
+[
+    {
+        "id":  "z50iixpcCMe9sTh-gwTI3",
+        "label":  "MongoDB Basics",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@z50iixpcCMe9sTh-gwTI3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MongoDB",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/"
+                          },
+                          {
+                              "title":  "What Is MongoDB?",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/company/what-is-mongodb"
+                          },
+                          {
+                              "title":  "MongoDB Database Documentation",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cMfsRtvzvDZZJ0TqeUOxm",
+        "label":  "SQL vs NoSQL",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@cMfsRtvzvDZZJ0TqeUOxm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SQL vs NoSQL: What\u0027s the Difference?",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql"
+                          },
+                          {
+                              "title":  "What is NoSQL? - MongoDB",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/basics/databases/nosql-explained"
+                          },
+                          {
+                              "title":  "MongoDB vs. PostgreSQL: Key differences and when to use each",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/mongodb/vs-postgresql"
+                          },
+                          {
+                              "title":  "Types of NoSQL Databases: How to Choose the Right One",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/backend/types-of-nosql-databases"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tJljSlb5S_tZLZhZHHd_I",
+        "label":  "What is MongoDB?",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@tJljSlb5S_tZLZhZHHd_I.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MongoDB Overview Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/mongodb-overview"
+                          },
+                          {
+                              "title":  "MongoDB - The Modern No SQL Database",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/"
+                          },
+                          {
+                              "title":  "MongoDB Documentation",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs"
+                          },
+                          {
+                              "title":  "What is Atlas?",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/atlas/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qh8MEbXKPVt8mqlarhUj0",
+        "label":  "When to use MongoDB?",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@qh8MEbXKPVt8mqlarhUj0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MongoDB - The Modern No SQL Database",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/"
+                          },
+                          {
+                              "title":  "MongoDB Documentation",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs"
+                          },
+                          {
+                              "title":  "Why Use MongoDB and When to Use It?",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/products/fundamentals/why-use-mongodb"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1UXfFROvcunyhkx0zB_1S",
+        "label":  "What is MongoDB Atlas?",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@1UXfFROvcunyhkx0zB_1S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Atlas Essentials Course | MongoDB University",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/learning-paths/atlas-essentials"
+                          },
+                          {
+                              "title":  "MongoDB Atlas | The Modern, Multi-Cloud Database",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/atlas"
+                          },
+                          {
+                              "title":  "What is Atlas?",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/atlas/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1pCWjSvjvbox5OpyWJ8Kv",
+        "label":  "MongoDB Terminology",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@1pCWjSvjvbox5OpyWJ8Kv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MongoDB Security",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/security/"
+                          },
+                          {
+                              "title":  "MongoDB Database Documentation",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/glossary/"
+                          },
+                          {
+                              "title":  "MongoDB Basics: Basic Terminology of Mongo",
+                              "type":  "article",
+                              "url":  "https://medium.com/@gurbar.sidhu/mongodb-basics-1f111004e5d3"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_UIfRdlj6BeEESw1FW9RH",
+        "label":  "Data Model \u0026 Data Types",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@_UIfRdlj6BeEESw1FW9RH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Relational to Document Model Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/relational-to-document-model"
+                          },
+                          {
+                              "title":  "Schema Design Patterns and Anti-patterns Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/schema-design-patterns-and-antipatterns"
+                          },
+                          {
+                              "title":  "Advanced Schema Patterns and Anti-patterns Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/advanced-schema-patterns-and-antipatterns"
+                          },
+                          {
+                              "title":  "Schema Design Optimization Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/schema-design-optimization"
+                          },
+                          {
+                              "title":  "Data Model",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/data-modeling/"
+                          },
+                          {
+                              "title":  "Data Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/"
+                          },
+                          {
+                              "title":  "A Comprehensive Guide to Data Modeling in MongoDB",
+                              "type":  "article",
+                              "url":  "https://medium.com/@skhans/a-comprehensive-guide-to-data-modeling-in-mongodb-b63b2df9d9dd"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "F4W9XBSbkpzWIrAhRBSRS",
+        "label":  "BSON vs JSON",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@F4W9XBSbkpzWIrAhRBSRS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "JSON and BSON",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/basics/json-and-bson"
+                          },
+                          {
+                              "title":  "BSON Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/bson-types/"
+                          },
+                          {
+                              "title":  "Understanding BSON: The Backbone of MongoDB\u0027s Data Format",
+                              "type":  "article",
+                              "url":  "https://dev.to/abhay_yt_52a8e72b213be229/understanding-bson-the-backbone-of-mongodbs-data-format-11oa"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6MqhN-PTf1PRzYCTxC8pn",
+        "label":  "Embedded Objects \u0026 Arrays",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@6MqhN-PTf1PRzYCTxC8pn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Query an Array of Embedded Documents ",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/query-array-of-documents/"
+                          },
+                          {
+                              "title":  "Embedding MongoDB Documents For Ease And Performance",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/products/fundamentals/embedded-mongodb"
+                          },
+                          {
+                              "title":  "Embedded Documents in MongoDB",
+                              "type":  "article",
+                              "url":  "https://medium.com/@bubu.tripathy/embedded-documents-in-mongodb-793af431846c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4Cf_wcoByPqpOOpdbAJuq",
+        "label":  "Double",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@4Cf_wcoByPqpOOpdbAJuq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Double",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/#double"
+                          },
+                          {
+                              "title":  "Double Data Type",
+                              "type":  "article",
+                              "url":  "https://www.scaler.com/topics/mongodb-data-types/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eU4XCnrf27FO3KCda8QYw",
+        "label":  "String",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@eU4XCnrf27FO3KCda8QYw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "String Data Type",
+                              "type":  "article",
+                              "url":  "https://www.sqliz.com/mongodb-ref/string/5"
+                          },
+                          {
+                              "title":  "How to Handle Special Characters in MongoDB Connection String",
+                              "type":  "article",
+                              "url":  "https://medium.com/@monisykhan/how-to-handle-special-characters-in-mongodb-connection-strings-655967139452"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q6ZKxFcSAQ8bgUdGaDpuu",
+        "label":  "Array",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@q6ZKxFcSAQ8bgUdGaDpuu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Query an Array",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/query-arrays/"
+                          },
+                          {
+                              "title":  "Mastering the Art of Querying Arrays in MongoDB",
+                              "type":  "article",
+                              "url":  "https://medium.com/dataprophet/mastering-the-art-of-querying-arrays-in-mongodb-a-comprehensive-guide-a70b83447be7"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QcdZKNcCtKls6P4YNXR2W",
+        "label":  "Object",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@QcdZKNcCtKls6P4YNXR2W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/"
+                          },
+                          {
+                              "title":  "Object data type in MongoDB",
+                              "type":  "article",
+                              "url":  "https://www.slingacademy.com/article/object-data-type-in-mongodb-tutorial-examples/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UM6jH6bAijYS0Hmw87UQ-",
+        "label":  "Binary Data",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@UM6jH6bAijYS0Hmw87UQ-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BinData ()",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/bindata/"
+                          },
+                          {
+                              "title":  "BSON Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/bson-types/"
+                          },
+                          {
+                              "title":  "Understanding BSON: The Backbone of MongoDB\u0027s Data Format",
+                              "type":  "article",
+                              "url":  "https://dev.to/abhay_yt_52a8e72b213be229/understanding-bson-the-backbone-of-mongodbs-data-format-11oa"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kx_GOr51UMpdUAnS5u9qZ",
+        "label":  "Undefined",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@kx_GOr51UMpdUAnS5u9qZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "BSON Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/bson-types/#std-label-bson-types"
+                          },
+                          {
+                              "title":  "Query for Null or Missing Fields",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/query-for-null-fields/"
+                          },
+                          {
+                              "title":  "Migrate Undefined Data and Queries",
+                              "type":  "article",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/bson-types/migrate-undefined/"
+                          },
+                          {
+                              "title":  "Master Null Handling in MongoDB",
+                              "type":  "article",
+                              "url":  "https://www.mydbops.com/blog/null-handling-in-mongodb"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mxd3-l3-NtPw53dEvhqm4",
+        "label":  "Object ID",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@mxd3-l3-NtPw53dEvhqm4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ObjectId",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/objectid/"
+                          },
+                          {
+                              "title":  "Usage of ObjectId () in MongoDB with Examples",
+                              "type":  "article",
+                              "url":  "https://www.softwaretestinghelp.com/mongodb/objectid-mongodb/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hmo7zCZ1jKgobS5R0eBSD",
+        "label":  "Boolean",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@hmo7zCZ1jKgobS5R0eBSD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$type",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/type/"
+                          },
+                          {
+                              "title":  "How to Index Boolean Values",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/atlas/atlas-search/field-types/boolean-type/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "T6cq--pute6-8aG7z6QKN",
+        "label":  "Date",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@T6cq--pute6-8aG7z6QKN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Date and Datetime",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/date/"
+                          },
+                          {
+                              "title":  "Data Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/"
+                          },
+                          {
+                              "title":  "Working with dates and times in MongoDB",
+                              "type":  "article",
+                              "url":  "https://www.prisma.io/dataguide/mongodb/working-with-dates"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "g6AKQiFcY_8lsWRbkbZSC",
+        "label":  "Null",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@g6AKQiFcY_8lsWRbkbZSC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Query for Null or Missing Fields",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/query-for-null-fields/"
+                          },
+                          {
+                              "title":  "Master Null Handling in MongoDB",
+                              "type":  "article",
+                              "url":  "https://www.mydbops.com/blog/null-handling-in-mongodb"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z6I9XgIGQYWUd5l9DIZRX",
+        "label":  "Regular Expression",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@z6I9XgIGQYWUd5l9DIZRX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$regex",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/regex/"
+                          },
+                          {
+                              "title":  "Mastering Regex in MongoDB: A Beginner\u0027s Guide",
+                              "type":  "article",
+                              "url":  "https://medium.com/@jaydeepdnai.imscit20/mastering-regex-in-mongodb-a-beginners-guide-886bcb404725"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UXO5i6nPa5CRW1z7FAn_S",
+        "label":  "JavaScript",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@UXO5i6nPa5CRW1z7FAn_S.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Javascript Function on Server",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/store-javascript-function-on-server/"
+                          },
+                          {
+                              "title":  "Unleash Data Magic with MongoDB Custom JavaScript Functions",
+                              "type":  "article",
+                              "url":  "https://thelinuxcode.com/mongodb-custom-function/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XAS4jQlsHkttLDuSSsD2o",
+        "label":  "Symbol",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@XAS4jQlsHkttLDuSSsD2o.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Field Names with Periods and Dollar Signs",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/dot-dollar-considerations/"
+                          },
+                          {
+                              "title":  "Symbols - MongoDB Meta Documents",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/meta/style-guide/style/symbols/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xKFZSKG2GPD-phY2HLMsx",
+        "label":  "Int32/Int",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@xKFZSKG2GPD-phY2HLMsx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Int32",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/#int32"
+                          },
+                          {
+                              "title":  "MongoDB Int32 and Long Data Types",
+                              "type":  "article",
+                              "url":  "https://www.slingacademy.com/article/mongodb-int32-and-long-data-types-a-practical-guide-with-examples/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iJFDFdIN_N4-DlJwrFIiB",
+        "label":  "Int64 / Long",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@iJFDFdIN_N4-DlJwrFIiB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Long",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/#long"
+                          },
+                          {
+                              "title":  "MongoDB Int64",
+                              "type":  "article",
+                              "url":  "https://www.tedblob.com/mongodb-query-int64/"
+                          },
+                          {
+                              "title":  "@articleIssue with int64 stored in the field _id",
+                              "type":  "article",
+                              "url":  "https://www.mongodb.com/community/forums/t/issue-with-int64-stored-in-the-field-id/277905"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zbFH2NRHZEOv5eKLL_HR0",
+        "label":  "Timestamp",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@zbFH2NRHZEOv5eKLL_HR0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Timestamp",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/bson-types/#timestamps"
+                          },
+                          {
+                              "title":  "Working with Dates",
+                              "type":  "article",
+                              "url":  "https://www.prisma.io/dataguide/mongodb/working-with-dates"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OGtR5D_DUCSci1lFBT83z",
+        "label":  "Decimal128",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@OGtR5D_DUCSci1lFBT83z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/#decimal128"
+                          },
+                          {
+                              "title":  "decimal128",
+                              "type":  "article",
+                              "url":  "https://pymongo.readthedocs.io/en/stable/api/bson/decimal128.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jQSMLd6gG158tJDzo1k_1",
+        "label":  "Min Key",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@jQSMLd6gG158tJDzo1k_1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Multikey Indexes",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/indexes/index-types/index-multikey/"
+                          },
+                          {
+                              "title":  "MinKey Class",
+                              "type":  "article",
+                              "url":  "https://mongodb.github.io/node-mongodb-native/4.2/classes/MinKey.html"
+                          },
+                          {
+                              "title":  "MongoDB max() and min() Example",
+                              "type":  "article",
+                              "url":  "https://examples.javacodegeeks.com/software-development/mongodb/mongodb-max-and-min-example/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QF7SL237FyBQdqvKUzop6",
+        "label":  "Max Key",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@QF7SL237FyBQdqvKUzop6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Multikey Indexes",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/indexes/index-types/index-multikey/"
+                          },
+                          {
+                              "title":  "MaxKey Class",
+                              "type":  "article",
+                              "url":  "https://mongodb.github.io/node-mongodb-native/4.2/classes/MaxKey.html"
+                          },
+                          {
+                              "title":  "MongoDB max() and min() Example",
+                              "type":  "article",
+                              "url":  "https://examples.javacodegeeks.com/software-development/mongodb/mongodb-max-and-min-example/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7SGYNo3oHlgm_1cwhWfw7",
+        "label":  "Collections \u0026 Methods",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@7SGYNo3oHlgm_1cwhWfw7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CRUD Operations Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/crud-operations-in-mongodb"
+                          },
+                          {
+                              "title":  "Collection Methods",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/js-collection/"
+                          },
+                          {
+                              "title":  "createIndex",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/"
+                          },
+                          {
+                              "title":  "count",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.count/"
+                          },
+                          {
+                              "title":  "distinct",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.distinct/"
+                          },
+                          {
+                              "title":  "A Comprehensive Guide to MongoDB Methods",
+                              "type":  "article",
+                              "url":  "https://medium.com/@coderwithtools/a-comprehensive-guide-to-mongodb-methods-syntax-and-examples-feee0ac07599"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hC83jKoO_XFI83WpsdN_Z",
+        "label":  "Counting Documents",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@hC83jKoO_XFI83WpsdN_Z.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Counting Documents",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.countdocuments/"
+                          },
+                          {
+                              "title":  "estimatedDocumentCount",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.estimateddocumentcount/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mXdn4u5CiQRDE83qMiWZX",
+        "label":  "insert() and relevant",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@mXdn4u5CiQRDE83qMiWZX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Insert Commands",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/command/insert/"
+                          },
+                          {
+                              "title":  "MongoDB CRUD Operations: Insert and Find Documents",
+                              "type":  "official",
+                              "url":  "https://learn.mongodb.com/courses/mongodb-crud-operations-insert-and-find-documents"
+                          },
+                          {
+                              "title":  "A Comprehensive Guide to MongoDB Methods",
+                              "type":  "article",
+                              "url":  "https://medium.com/@coderwithtools/a-comprehensive-guide-to-mongodb-methods-syntax-and-examples-feee0ac07599"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iMpCEXRDXg0Kq9OFNywbI",
+        "label":  "find() and relevant",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@iMpCEXRDXg0Kq9OFNywbI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Query Documents",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/query-documents/"
+                          },
+                          {
+                              "title":  "find()",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.find/"
+                          },
+                          {
+                              "title":  "Cursors",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/js-cursor/"
+                          },
+                          {
+                              "title":  "findOneAndUpdate()",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.findoneandupdate/"
+                          },
+                          {
+                              "title":  "A Complete Guide to MongoDB Queries with Examples",
+                              "type":  "article",
+                              "url":  "https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "liGbnGyQaG-Vqt6cuB91N",
+        "label":  "update() and relevant",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@liGbnGyQaG-Vqt6cuB91N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Update Operations",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/update/"
+                          },
+                          {
+                              "title":  "Collection Update Methods",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.update/"
+                          },
+                          {
+                              "title":  "How to Update Data in Mongodb in 2025?",
+                              "type":  "article",
+                              "url":  "https://dev.to/cristianalex_17/how-to-update-data-in-mongodb-in-2025-3b0a"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qjoLxSkfKbzG1sZUXnyw9",
+        "label":  "delete() and relevant",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@qjoLxSkfKbzG1sZUXnyw9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Delete Operations",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/command/delete/"
+                          },
+                          {
+                              "title":  "MongoDB Delete Documents",
+                              "type":  "article",
+                              "url":  "https://boxoflearn.com/mongodb-delete-documents/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yc2HqhjhIV6UU_2P-ykKB",
+        "label":  "bulkWrite() and relevant",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@yc2HqhjhIV6UU_2P-ykKB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "db.collection.bulkWrite()",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.bulkwrite/"
+                          },
+                          {
+                              "title":  "MongoDB: InsertMany vs BulkWrite",
+                              "type":  "article",
+                              "url":  "https://medium.com/@msbytedev/mongodb-insertmany-vs-bulkwrite-2f9da91b544c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4h8NdcdXmNqJxLkVJqPtX",
+        "label":  "validate()",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@4h8NdcdXmNqJxLkVJqPtX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Validate",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/command/validate/"
+                          },
+                          {
+                              "title":  "Real-World Example: MongoDB Data Validation and Sanitization",
+                              "type":  "article",
+                              "url":  "https://codezup.com/mongodb-data-validation-sanitization-example/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "thOckmrCJ45NVNPNxm4eg",
+        "label":  "Read / Write Concerns",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@thOckmrCJ45NVNPNxm4eg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Read Concerns",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/read-concern/"
+                          },
+                          {
+                              "title":  "Replication in MongoDB",
+                              "type":  "official",
+                              "url":  "https://learn.mongodb.com/learn/course/replication-in-mongodb/lesson-5-read-and-write-concerns-with-mongodb-deployments/learn?client=customer\u0026page=2"
+                          },
+                          {
+                              "title":  "Set Global Read and Write Concerns in MongoDB 4.4",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/developer/products/mongodb/global-read-write-concerns/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K9x7yQP59cB764Q5PqAs_",
+        "label":  "Cursors",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@K9x7yQP59cB764Q5PqAs_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cursors",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/js-cursor/"
+                          },
+                          {
+                              "title":  "Understanding Cursor in MongoDB",
+                              "type":  "article",
+                              "url":  "https://medium.com/@satyamguptaece/understanding-cursor-in-mongodb-b8a9e1a8cb0c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s8El0Q22GD_rOZGlDtkgH",
+        "label":  "Retryable Reads / Writes",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@s8El0Q22GD_rOZGlDtkgH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Retryable Reads",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/retryable-writes/"
+                          },
+                          {
+                              "title":  "Retryable Writes",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/retryable-reads/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B8SFhoVV8ei1Yz6vl57l_",
+        "label":  "Query Operators",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@B8SFhoVV8ei1Yz6vl57l_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Query and Projection Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/"
+                          },
+                          {
+                              "title":  "$project",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gakF5Zfgk7QIgg_UwqG_Y",
+        "label":  "$project",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@gakF5Zfgk7QIgg_UwqG_Y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Aggregation Pipeline",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/aggregation-pipeline/"
+                          },
+                          {
+                              "title":  "$project",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/"
+                          },
+                          {
+                              "title":  "$group",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sxDyp3bP-YhgmDMVUFTaA",
+        "label":  "$include",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@sxDyp3bP-YhgmDMVUFTaA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Project Fields to Return from Query",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/project-fields-from-query-results/"
+                          },
+                          {
+                              "title":  "$include",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/indexes/index-types/index-wildcard/create-wildcard-index-multiple-fields/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nk0V3o3oKuIb8A0gDECFJ",
+        "label":  "$exclude",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@nk0V3o3oKuIb8A0gDECFJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Include or Exclude Fields in a Wildcard Index",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/indexes/index-types/index-wildcard/create-wildcard-index-multiple-fields/"
+                          },
+                          {
+                              "title":  "Project Fields to Return from Query",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/project-fields-from-query-results/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9mmxYBtvPYZlvFjQvE-2N",
+        "label":  "$slice",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@9mmxYBtvPYZlvFjQvE-2N.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$slice",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/slice/"
+                          },
+                          {
+                              "title":  "MongoDB slice - Syntax \u0026 Examples",
+                              "type":  "article",
+                              "url":  "https://database.guide/mongodb-slice/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2h8z2mrgRKSLKI-eBc3zM",
+        "label":  "$eq",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@2h8z2mrgRKSLKI-eBc3zM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$eq",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/eq/"
+                          },
+                          {
+                              "title":  "MongoDB $eq Aggregation Pipeline Operator",
+                              "type":  "article",
+                              "url":  "https://database.guide/mongodb-eq/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wbZb0RwmANH4ssF07cAar",
+        "label":  "$gt",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@wbZb0RwmANH4ssF07cAar.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          },
+                          {
+                              "title":  "$gt",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/gt/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5-MLEEigFPRloN7wLa05T",
+        "label":  "$lt",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@5-MLEEigFPRloN7wLa05T.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$lt",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/lt/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eOfsrmOQI0dJW6HV_myVH",
+        "label":  "$lte",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@eOfsrmOQI0dJW6HV_myVH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$lte",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/lte/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kV5Tmu9ocDnuPQvkx2W0u",
+        "label":  "$gte",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@kV5Tmu9ocDnuPQvkx2W0u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          },
+                          {
+                              "title":  "$gte",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/gte/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Q8dr1JPEnLX0z4DiQwnAz",
+        "label":  "$ne",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@Q8dr1JPEnLX0z4DiQwnAz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$ne",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/ne/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wd20OKQYYuW_bT6U-yRxT",
+        "label":  "$in",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@Wd20OKQYYuW_bT6U-yRxT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          },
+                          {
+                              "title":  "$in",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/in/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZKHUCskdKQf4IaMUTN_e7",
+        "label":  "$nin",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@ZKHUCskdKQf4IaMUTN_e7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$nin",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/nin/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hPPoO8ysGeEGEQhdveiDO",
+        "label":  "$all",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@hPPoO8ysGeEGEQhdveiDO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$all",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/all/"
+                          },
+                          {
+                              "title":  "$all and $elemMatch in MongoDB",
+                              "type":  "article",
+                              "url":  "https://dev.to/kawsarkabir/all-and-elemmatch-in-mongodb-4od6"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TJHVY8DRWbDKeT_pIPJay",
+        "label":  "$elemMatch",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@TJHVY8DRWbDKeT_pIPJay.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$elemMatch",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/elemmatch/"
+                          },
+                          {
+                              "title":  "MongoDB $elemMatch Query Operator",
+                              "type":  "article",
+                              "url":  "https://codeforgeek.com/elemmatch-in-mongodb/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-VMIkV6S6H1blngxLXk7Y",
+        "label":  "$size",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@-VMIkV6S6H1blngxLXk7Y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$size",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/size/"
+                          },
+                          {
+                              "title":  "5 Ways to Check the Size of a Collection in MongoDB",
+                              "type":  "article",
+                              "url":  "https://database.guide/5-ways-to-check-the-size-of-a-collection-in-mongodb/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "12kfpSapv2uNxpHzLkFSL",
+        "label":  "$exists",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@12kfpSapv2uNxpHzLkFSL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$exists",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/exists/"
+                          },
+                          {
+                              "title":  "MongoDB $exists Operator",
+                              "type":  "article",
+                              "url":  "https://sparkbyexamples.com/mongodb/using-mongodb-exists-operator/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BxzMbF7cdvGPuy1EcRvWd",
+        "label":  "$type",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@BxzMbF7cdvGPuy1EcRvWd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$\\type",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/type/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          },
+                          {
+                              "title":  "BSON Types",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/bson-types/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PmfjHFz-DW69pNh_t13Nm",
+        "label":  "$regex",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@PmfjHFz-DW69pNh_t13Nm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$regex",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/regex/"
+                          },
+                          {
+                              "title":  "Mastering Regex in MongoDB: A Beginner\u0027s Guide",
+                              "type":  "article",
+                              "url":  "https://medium.com/@jaydeepdnai.imscit20/mastering-regex-in-mongodb-a-beginners-guide-886bcb404725"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-62S4wRxHpIM2I59xjGun",
+        "label":  "$and",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@-62S4wRxHpIM2I59xjGun.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$and",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/and/"
+                          },
+                          {
+                              "title":  "$and operator",
+                              "type":  "article",
+                              "url":  "https://codeforgeek.com/and-operator-in-mongodb/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "43BfjlUju-yJaGv-FaJty",
+        "label":  "$or",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@43BfjlUju-yJaGv-FaJty.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$or",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/or/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qaUj9916Fh4BtiLz_pwQs",
+        "label":  "$not",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@qaUj9916Fh4BtiLz_pwQs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$not",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/not/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7xq_mdQOlUTuhfnogOl8h",
+        "label":  "$nor",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@7xq_mdQOlUTuhfnogOl8h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$nor",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/nor/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "A9W2LsivDc0ialLp83fYP",
+        "label":  "Performance Optimization",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@A9W2LsivDc0ialLp83fYP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MongoDB Monitoring Tooling Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/monitoring-tooling"
+                          },
+                          {
+                              "title":  "Performance Tools and Techniques Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/performance-tools-and-techniques"
+                          },
+                          {
+                              "title":  "Comprehensive Guide to Optimising MongoDB Performance",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/developer/products/mongodb/guide-to-optimizing-mongodb-performance/"
+                          },
+                          {
+                              "title":  "How To Optimize MongoDB Performance \u0026 Security",
+                              "type":  "article",
+                              "url":  "https://medium.com/@noel.benji/how-to-optimize-mongodb-performance-security-6fd3ba1304c1"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "haA1ltV6VzgJVJcJNMK0W",
+        "label":  "Creating Indexes",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@haA1ltV6VzgJVJcJNMK0W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "createIndex",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/"
+                          },
+                          {
+                              "title":  "Geospatial Queries",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/geospatial-queries/"
+                          },
+                          {
+                              "title":  "Single vs Compound Mongodb Index",
+                              "type":  "article",
+                              "url":  "https://medium.com/@rakeebnazar/single-vs-compound-mongodb-index-in-depth-analysis-5319cfdd2ce"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SjPzR6JjdBeiqFsrRJPfW",
+        "label":  "Single Field",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@SjPzR6JjdBeiqFsrRJPfW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Single Field Indexes",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/indexes/index-types/index-single/"
+                          },
+                          {
+                              "title":  "How to Create Single-Field Indexes in MongoDB for Faster Queries",
+                              "type":  "article",
+                              "url":  "https://javascript.plainenglish.io/how-to-create-single-field-indexes-in-mongodb-for-faster-queries-a9b816924b5a"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eSb4WAfWxJu6R95pPX6wm",
+        "label":  "Compound",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@eSb4WAfWxJu6R95pPX6wm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Compound Indexes",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/indexes/index-types/index-compound/"
+                          },
+                          {
+                              "title":  "Single vs Compound Mongodb Index",
+                              "type":  "article",
+                              "url":  "https://medium.com/@rakeebnazar/single-vs-compound-mongodb-index-in-depth-analysis-5319cfdd2ce"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PV_3TEYdtVZ2VCDZEOsu_",
+        "label":  "Text",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@PV_3TEYdtVZ2VCDZEOsu_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$text",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/query/text/"
+                          },
+                          {
+                              "title":  "Full-Text Search in MongoDB",
+                              "type":  "article",
+                              "url":  "https://devforid.medium.com/full-text-search-in-mongodb-655169b59fce"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "butGgZXGPTZI-sWx24bOr",
+        "label":  "Expiring",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@butGgZXGPTZI-sWx24bOr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Expire Data from Collections by Setting TTL",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/expire-data/"
+                          },
+                          {
+                              "title":  "Understanding TTL in MongoDB",
+                              "type":  "article",
+                              "url":  "https://medium.com/@darshitanjaria/understanding-ttl-in-mongodb-automatically-expiring-documents-e8b1defc1158"
+                          },
+                          {
+                              "title":  "Understanding MongoDB Indexes and Expiry",
+                              "type":  "article",
+                              "url":  "https://stenzr.medium.com/understanding-mongodb-indexes-and-expiry-019831790542"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bqXlDnPuMQIKulD9cTvPf",
+        "label":  "Geospatial Indexes",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@bqXlDnPuMQIKulD9cTvPf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Geospatial Queries",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/geospatial-queries/"
+                          },
+                          {
+                              "title":  "Geospatial Indexes in MongoDB",
+                              "type":  "article",
+                              "url":  "https://netsharpdev.com/2021/09/09/geoindexes-in-mongodb/"
+                          },
+                          {
+                              "title":  "Geospatial Data in MongoDB: Storage, Indexing, and Queries",
+                              "type":  "article",
+                              "url":  "https://medium.com/@AbbasPlusPlus/geospatial-data-in-mongodb-storage-indexing-and-queries-1c6db21b7970"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YidhAuVk_VGukx_FfJSz2",
+        "label":  "Atlas Search Indexes",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@YidhAuVk_VGukx_FfJSz2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Vector Search Fundamentals Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/vector-search-fundamentals"
+                          },
+                          {
+                              "title":  "Search Fundamentals Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/search-fundamentals"
+                          },
+                          {
+                              "title":  "Atlas Search Indexes",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/atlas/atlas-search/manage-indexes/"
+                          },
+                          {
+                              "title":  "Atlas Search Made Easy: A Summary Guide for Developers",
+                              "type":  "article",
+                              "url":  "https://medium.com/@sumitkessar/atlas-search-made-easy-a-summary-guide-for-developers-883c27886987"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kG0ZeGatgvC1azZKMQiA_",
+        "label":  "Query Optimization",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@kG0ZeGatgvC1azZKMQiA_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Query Optimization Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/query-optimization"
+                          },
+                          {
+                              "title":  "Optimize Query Performance",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/optimize-query-performance-with-indexes-and-projections/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gpihoIJkzSS1WOvmH2ueo",
+        "label":  "Aggregation",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@gpihoIJkzSS1WOvmH2ueo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Fundamentals of Data Transformation Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/fundamentals-of-data-transformation"
+                          },
+                          {
+                              "title":  "Aggregation Operations",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/aggregation/"
+                          },
+                          {
+                              "title":  "MongoDB Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          },
+                          {
+                              "title":  "How To Use Aggregations in MongoDB",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-use-aggregations-in-mongodb"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_c7itVw1R1_UB-NPtL-WI",
+        "label":  "$match",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@_c7itVw1R1_UB-NPtL-WI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$match",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/match/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          },
+                          {
+                              "title":  "How to use match inside lookup in Mongo Aggregation",
+                              "type":  "article",
+                              "url":  "https://medium.com/@arashramy/how-to-use-match-inside-lookup-in-mongo-aggregation-2431a8920ec6"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nz048lC4Q4S7fMVbxLGEk",
+        "label":  "$group",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@nz048lC4Q4S7fMVbxLGEk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          },
+                          {
+                              "title":  "$group",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/"
+                          },
+                          {
+                              "title":  "MongoDB $group (aggregation) Usage with Examples",
+                              "type":  "article",
+                              "url":  "https://sparkbyexamples.com/mongodb/mongodb-group-aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BCWS8uV2pSWe7CX-VlnTg",
+        "label":  "$sort",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@BCWS8uV2pSWe7CX-VlnTg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$sort",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/sort/"
+                          },
+                          {
+                              "title":  "Sort Records: How to Sort by Date, Name, and More",
+                              "type":  "article",
+                              "url":  "https://www.prisma.io/dataguide/mongodb/mongodb-sorting"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dO2mJejkWBH903LG0dWgN",
+        "label":  "$project",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@dO2mJejkWBH903LG0dWgN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Aggregation Pipeline",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/aggregation-pipeline/"
+                          },
+                          {
+                              "title":  "$project",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/"
+                          },
+                          {
+                              "title":  "$group",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4CjjGPOy-385Bco_PeQwa",
+        "label":  "$skip",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@4CjjGPOy-385Bco_PeQwa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$skip",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/skip/"
+                          },
+                          {
+                              "title":  "MongoDB Skip Documents - Syntax \u0026 Examples ",
+                              "type":  "article",
+                              "url":  "https://www.tutorialkart.com/mongodb/mongodb-skip-documents/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AzUVaGnGv9uypJ31alR9r",
+        "label":  "$limit",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@AzUVaGnGv9uypJ31alR9r.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$limit",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/limit/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AY-8KJGA9ZA6ay3rbURt3",
+        "label":  "$unwind",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@AY-8KJGA9ZA6ay3rbURt3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$unwind",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/unwind/"
+                          },
+                          {
+                              "title":  "Advanced Techniques with MongoDB: Mastering Lookup",
+                              "type":  "article",
+                              "url":  "https://medium.com/@akshatgupta1903/advanced-techniques-with-mongodb-mastering-lookup-and-unwind-acfc8a8ad5b9"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "strw_oGTkZEH-o8zA4IRP",
+        "label":  "$lookup",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@strw_oGTkZEH-o8zA4IRP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$lookup",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/lookup/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CfM0iyd2bNRIiDWTUkspd",
+        "label":  "$sum",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@CfM0iyd2bNRIiDWTUkspd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "$sum",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/sum/"
+                          },
+                          {
+                              "title":  "Aggregation Operators",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eDks8Jmsbq3_nHgLydyxP",
+        "label":  "Pipelines, Stages and Operators",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@eDks8Jmsbq3_nHgLydyxP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Aggregation Pipeline",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/aggregation-pipeline/"
+                          },
+                          {
+                              "title":  "Aggregation Stages",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation-pipeline/"
+                          },
+                          {
+                              "title":  "$project",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/"
+                          },
+                          {
+                              "title":  "$group",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aHcmsaqAfG5fC90VV-EHP",
+        "label":  "Transactions",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@aHcmsaqAfG5fC90VV-EHP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Transactions",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/transactions/"
+                          },
+                          {
+                              "title":  "Transactions in MongoDB Basics and Example",
+                              "type":  "article",
+                              "url":  "https://medium.com/@vikramgyawali57/transactions-in-mongodb-basics-and-example-4c2d8aab55eb"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6H2MMnEfS6uHGS-6pFo8u",
+        "label":  "Developer Tools",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@6H2MMnEfS6uHGS-6pFo8u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MongoDB Compass",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/try/download/compass"
+                          },
+                          {
+                              "title":  "MongoDB Shell",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/products/tools/shell"
+                          },
+                          {
+                              "title":  "MongoDB Developer Tools",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/products/tools"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "73REfcB_T0yBP-KQ0EYmF",
+        "label":  "Language Drivers",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@73REfcB_T0yBP-KQ0EYmF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Python Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/python"
+                          },
+                          {
+                              "title":  "Visit Dedicated JavaScript Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/javascript"
+                          },
+                          {
+                              "title":  "Visit Dedicated Go Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/golang"
+                          },
+                          {
+                              "title":  "Start Developing with MongoDB",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/drivers/"
+                          },
+                          {
+                              "title":  "MongoDB Driver Performance in Several Languages",
+                              "type":  "article",
+                              "url":  "https://medium.com/clarityai-engineering/mongodb-driver-performance-in-several-languages-888899494b88"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JAosQ9tFj7y70lGQ0vHzC",
+        "label":  "Kafka",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@JAosQ9tFj7y70lGQ0vHzC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kafka Connector v1.15 - MongoDB Docs",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/kafka-connector/current/"
+                          },
+                          {
+                              "title":  "Data Streaming with Apache Kafka \u0026 MongoDB",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/products/integrations/data-streaming-with-apache-kafka-and-mongodb"
+                          },
+                          {
+                              "title":  "Unleash Data Magic with MongoDB Custom JavaScript Functions",
+                              "type":  "article",
+                              "url":  "https://thelinuxcode.com/mongodb-custom-function/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K09-nD6xF5YJUQBBpFXMz",
+        "label":  "Spark",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@K09-nD6xF5YJUQBBpFXMz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Apache Spark™ - Unified Engine for large-scale data analytics",
+                              "type":  "official",
+                              "url":  "https://spark.apache.org/?ref=producthunt"
+                          },
+                          {
+                              "title":  "MongoDB Connector for Spark",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/spark-connector/current/"
+                          },
+                          {
+                              "title":  "MongoDB Configuration with Spark",
+                              "type":  "article",
+                              "url":  "https://medium.com/@ahmiihassan354/mongodb-configuration-with-spark-38e3d464d6ffhttps://www.prisma.io/dataguide/mongodb/mongodb-sorting"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kJJ-W6BV1ofIvuFT_PCcz",
+        "label":  "Elastic Search",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@kJJ-W6BV1ofIvuFT_PCcz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Elasticsearch: The Official Distributed Search \u0026 Analytics Engine",
+                              "type":  "official",
+                              "url":  "https://www.elastic.co/elasticsearch"
+                          },
+                          {
+                              "title":  "Elasticsearch vs MongoDB Atlas Search",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/compare/mongodb-atlas-search-vs-elastic-elasticsearch"
+                          },
+                          {
+                              "title":  "MongoDB vs Elasticsearch",
+                              "type":  "article",
+                              "url":  "https://medium.com/@emmaw4430/mongodb-vs-elasticsearch-deciding-the-right-database-solution-for-your-project-c6c8fb89cbfe"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xaWDHCkcGm4oovPPxVMB9",
+        "label":  "mongodump",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@xaWDHCkcGm4oovPPxVMB9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "mongodump",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/database-tools/mongodump/"
+                          },
+                          {
+                              "title":  "How To Use mongodump for MongoDB Backups",
+                              "type":  "article",
+                              "url":  "https://www.bmc.com/blogs/mongodb-mongodump/3"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TKngxMNGMgrdO26D7eeSg",
+        "label":  "mongorestore",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@TKngxMNGMgrdO26D7eeSg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "mongorestore",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/database-tools/mongorestore/"
+                          },
+                          {
+                              "title":  "Mongorestore Examples for Restoring MongoDB Backups",
+                              "type":  "article",
+                              "url":  "https://www.bmc.com/blogs/mongodb-mongorestore/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cOKQQ7SaiawWF49MdCGTh",
+        "label":  "Scaling MongoDB",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@cOKQQ7SaiawWF49MdCGTh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Resilience: Atlas Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/data-resilience-atlas"
+                          },
+                          {
+                              "title":  "Scaling",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/basics/scaling"
+                          },
+                          {
+                              "title":  "Scalability With MongoDB Atlas",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/resources/products/capabilities/scalability-with-mongodb-atlas"
+                          },
+                          {
+                              "title":  "Scaling MongoDB for Larger Datasets",
+                              "type":  "article",
+                              "url":  "https://medium.com/mongodb-tutorial/scaling-mongodb-for-larger-datasets-strategies-and-technical-considerations-b9d35243ff49"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QrHT-H12AV4-V-y_nzmNk",
+        "label":  "Replicasets",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@QrHT-H12AV4-V-y_nzmNk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cluster Reliability Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/cluster-reliability"
+                          },
+                          {
+                              "title":  "Data Resilience: Self-Managed Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/data-resilience-self-managed"
+                          },
+                          {
+                              "title":  "Replication",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/replication/"
+                          },
+                          {
+                              "title":  "Replication in MongoDB",
+                              "type":  "official",
+                              "url":  "https://learn.mongodb.com/learn/course/replication-in-mongodb/lesson-5-read-and-write-concerns-with-mongodb-deployments/learn?client=customer\u0026page=2"
+                          },
+                          {
+                              "title":  "Replica Sets and Shards in MongoDB: Architecture and Benefits",
+                              "type":  "article",
+                              "url":  "https://dev-aditya.medium.com/replica-sets-and-shards-in-mongodb-architecture-and-benefits-a3c83f39e4f0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CijW3HCjVRZHQIBsQ9_0H",
+        "label":  "Sharded Clusters",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@CijW3HCjVRZHQIBsQ9_0H.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Sharding Strategies Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/sharding-strategies"
+                          },
+                          {
+                              "title":  "Deploy a Self-Managed Sharded Cluster",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/deploy-shard-cluster/"
+                          },
+                          {
+                              "title":  "Sharding",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/sharding/"
+                          },
+                          {
+                              "title":  "MongoDB Sharding: A Step by Step Guide to Setup A MongoDB Shard Cluster",
+                              "type":  "article",
+                              "url":  "https://medium.com/@sanklecha.harsh/mongodb-sharding-a-step-by-step-guide-to-setup-a-mongodb-shard-cluster-98668f53a078"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iVDxuERBjKMBHueEfqP0x",
+        "label":  "Tuning Configuration",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@iVDxuERBjKMBHueEfqP0x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Comprehensive Guide to Optimising MongoDB Performance",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/developer/products/mongodb/guide-to-optimizing-mongodb-performance/"
+                          },
+                          {
+                              "title":  "Optimizing Performance in MongoDB",
+                              "type":  "article",
+                              "url":  "https://medium.com/@halimebardakci/optimizing-performance-in-mongodb-tips-and-tricks-b1d635220eec"
+                          },
+                          {
+                              "title":  "How To Optimize MongoDB Performance \u0026 Security",
+                              "type":  "article",
+                              "url":  "https://medium.com/@noel.benji/how-to-optimize-mongodb-performance-security-6fd3ba1304c1"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XjB0uOnsYl4edzZWpQ-nm",
+        "label":  "Indexing",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@XjB0uOnsYl4edzZWpQ-nm.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Indexing Design Fundamentals Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/indexing-design-fundamentals"
+                          },
+                          {
+                              "title":  "Indexing",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/indexes/"
+                          },
+                          {
+                              "title":  "How To Use Indexes in MongoDB",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4L9UQ4oaaK3wZwOLIMa6T",
+        "label":  "Query Optimization",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@4L9UQ4oaaK3wZwOLIMa6T.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Query Optimization Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/query-optimization"
+                          },
+                          {
+                              "title":  "Optimize Query Performance",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/optimize-query-performance-with-indexes-and-projections/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LC923iJhfiUDIs_0-9rc7",
+        "label":  "MongoDB Security",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@LC923iJhfiUDIs_0-9rc7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Secure MongoDB Self-Managed: AuthN and AuthZ Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/secure-mongodb-self-managed-authn-and-authz"
+                          },
+                          {
+                              "title":  "MongoDB Security",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/security/"
+                          },
+                          {
+                              "title":  "MongoDB Database Documentation",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/"
+                          },
+                          {
+                              "title":  "MongoDB Security: Best Practices to Keep Your Data Safe",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorial-series/mongodb-security-best-practices-to-keep-your-data-safe"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yRJ6jeysFXBpwLEqvrdKk",
+        "label":  "Role-based Access Control",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@yRJ6jeysFXBpwLEqvrdKk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Role-Based Access Control",
+                              "type":  "official",
+                              "url":  "http://www.mongodb.com/docs/manual/core/authorization/"
+                          },
+                          {
+                              "title":  "Understanding MongoDB Role-based Access Control",
+                              "type":  "article",
+                              "url":  "https://medium.com/mongodb/understanding-mongodb-role-based-access-control-rbac-in-action-a-step-by-step-guide-8c679241f8b6"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NV39oWwr7iB_dnlnD_Q6Y",
+        "label":  "X.509 Certificate Auth",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@NV39oWwr7iB_dnlnD_Q6Y.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Use X.509 Certificates to Authenticate Clients",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/configure-x509-client-authentication/"
+                          },
+                          {
+                              "title":  "Secure MongoDB with X.509 TLS/SSL certificates",
+                              "type":  "article",
+                              "url":  "https://medium.com/@studio3t/secure-mongodb-with-x-509-tls-ssl-certificates-42ff4290d9f3"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YuzMOO7kf2tO6V6WehqF_",
+        "label":  "Kerberos Authentication",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@YuzMOO7kf2tO6V6WehqF_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kerberos Authentication on Self-Managed Deployments",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/kerberos/"
+                          },
+                          {
+                              "title":  "Configure MongoDB with Kerberos Authentication",
+                              "type":  "article",
+                              "url":  "https://hackernoon.com/mongodb-kerberos-a3dfdf322d1c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NoDNdno9UOlMrOC0Wga9E",
+        "label":  "LDAP Proxy Auth",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@NoDNdno9UOlMrOC0Wga9E.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Self-Managed LDAP Proxy Authentication",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/security-ldap/"
+                          },
+                          {
+                              "title":  "LDAP Authorization — MongoDB Manual",
+                              "type":  "article",
+                              "url":  "https://www.xuchao.org/docs/mongodb/core/security-ldap-external.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w1L-yFBM2AyeNBFyH5skW",
+        "label":  "MongoDB Audit",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@w1L-yFBM2AyeNBFyH5skW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Configure Auditing - Database Manual",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/configure-auditing/"
+                          },
+                          {
+                              "title":  "Auditing and Monitoring MongoDB for Security",
+                              "type":  "article",
+                              "url":  "https://medium.com/@platform.engineers/auditing-and-monitoring-mongodb-for-security-0981df3cc22b"
+                          },
+                          {
+                              "title":  "MongoDB Auditing for Enhanced Security and Compliance",
+                              "type":  "article",
+                              "url":  "https://www.mydbops.com/blog/mongodb-auditing-for-enhanced-security-and-compliance"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iJjqlTgXxHWC-8bh6uCGQ",
+        "label":  "Encryption at Rest",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@iJjqlTgXxHWC-8bh6uCGQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Encryption at Rest",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/security-encryption-at-rest/"
+                          },
+                          {
+                              "title":  "Encrypted Fields and Enabled Queries",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/queryable-encryption/fundamentals/encrypt-and-query/"
+                          },
+                          {
+                              "title":  "Encryption at Rest and In Transit in MongoDB",
+                              "type":  "article",
+                              "url":  "https://syskool.com/encryption-at-rest-and-in-transit-in-mongodb/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LpfuM6SuhlNNjBcHM68ee",
+        "label":  "Queryable Encryption",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@LpfuM6SuhlNNjBcHM68ee.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Queryable Encryption",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/queryable-encryption/"
+                          },
+                          {
+                              "title":  "Queryable Encryption in MongoDB",
+                              "type":  "article",
+                              "url":  "https://www.geopits.com/blog/intro-to-queryable-encryption-in-mongodb.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YJiWemHO1l5q9WhgoHyYd",
+        "label":  "Client-Side Field Level",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@YJiWemHO1l5q9WhgoHyYd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Client-Side Field Level Encryption",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/csfle/"
+                          },
+                          {
+                              "title":  "Integrating with MongoDB Client Side Field Level Encryption",
+                              "type":  "article",
+                              "url":  "https://mongoosejs.com/docs/field-level-encryption.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5F7zAAnvnVTTnBzOB7TSu",
+        "label":  "TLS / SSL Encryption",
+        "endpoint":  "https://roadmap.sh/mongodb/topic@5F7zAAnvnVTTnBzOB7TSu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Networking Security: Self-Managed Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/networking-security-self-managed"
+                          },
+                          {
+                              "title":  "Networking Security: Atlas Skill Badge",
+                              "type":  "course",
+                              "url":  "https://learn.mongodb.com/courses/networking-security-atlas"
+                          },
+                          {
+                              "title":  "TLS / SSL Encryption",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/core/security-transport-encryption/"
+                          },
+                          {
+                              "title":  "Configure mongod and mongos for TLS/SSL",
+                              "type":  "official",
+                              "url":  "https://www.mongodb.com/docs/manual/tutorial/configure-ssl/"
+                          },
+                          {
+                              "title":  "How to Enable TLS/SSL on MongoDB",
+                              "type":  "article",
+                              "url":  "https://medium.com/mongoaudit/how-to-enable-tls-ssl-on-mongodb-d973a92cefa6"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

@@ -1,0 +1,2544 @@
+[
+    {
+        "id":  "KDd40JOAvZ8O1mfhTYB3K",
+        "label":  "Introduction to TypeScript",
+        "endpoint":  "https://roadmap.sh/typescript/topic@KDd40JOAvZ8O1mfhTYB3K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Overview of TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"
+                          },
+                          {
+                              "title":  "TypeScript Official Handbook",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/intro.html"
+                          },
+                          {
+                              "title":  "What Is TypeScript?",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/what-is-typescript/"
+                          },
+                          {
+                              "title":  "Video: Where TypeScript Excels",
+                              "type":  "video",
+                              "url":  "https://youtu.be/BUo7B6UuoJ4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MQWzN_kXxVJMOYbRXSGJc",
+        "label":  "TypeScript vs JavaScript",
+        "endpoint":  "https://roadmap.sh/typescript/topic@MQWzN_kXxVJMOYbRXSGJc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Learning JavaScript and TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html#learning-javascript-and-typescript"
+                          },
+                          {
+                              "title":  "TypeScript vs. JavaScript",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/typescript-vs-javascript/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - JavaScript Deep Dive",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/javascript-deep-dive-c0a?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dcLaEU_lb0z_QypL1ZhpX",
+        "label":  "TS and JS Interoperability",
+        "endpoint":  "https://roadmap.sh/typescript/topic@dcLaEU_lb0z_QypL1ZhpX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Checking JavaScript Files",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html"
+                          },
+                          {
+                              "title":  "Using JavaScript in TypeScript",
+                              "type":  "video",
+                              "url":  "https://youtu.be/AZhZlEbBaB4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - JavaScript Deep Dive",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/javascript-deep-dive-c0a?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dA8CNQOgJRDa0T7rmyS7f",
+        "label":  "Installation and Configuration",
+        "endpoint":  "https://roadmap.sh/typescript/topic@dA8CNQOgJRDa0T7rmyS7f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Install and Configure TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/download"
+                          },
+                          {
+                              "title":  "TypeScript Getting Started",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DmqrX56d9KnBcOSwlJR2q",
+        "label":  "tsconfig.json",
+        "endpoint":  "https://roadmap.sh/typescript/topic@DmqrX56d9KnBcOSwlJR2q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a tsconfig.json",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#handbook-content"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RrExVb7l2gd0s_TlNdLeD",
+        "label":  "Compiler Options",
+        "endpoint":  "https://roadmap.sh/typescript/topic@RrExVb7l2gd0s_TlNdLeD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Compiler Options",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/compiler-options.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qdy4ZIY2EKgmPNdu_ndcg",
+        "label":  "Running TypeScript",
+        "endpoint":  "https://roadmap.sh/typescript/topic@qdy4ZIY2EKgmPNdu_ndcg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Running your TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Iv_t13PSVzet5VPKFtAp1",
+        "label":  "tsc",
+        "endpoint":  "https://roadmap.sh/typescript/topic@Iv_t13PSVzet5VPKFtAp1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "tsc CLI Options",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/compiler-options.html#using-the-cli"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZCM2_X4BiKh5FTCizrr-E",
+        "label":  "ts-node",
+        "endpoint":  "https://roadmap.sh/typescript/topic@ZCM2_X4BiKh5FTCizrr-E.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ts-node - GitHub Project",
+                              "type":  "opensource",
+                              "url":  "https://github.com/TypeStrong/ts-node"
+                          },
+                          {
+                              "title":  "How To Run TypeScript Scripts with ts-node",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/typescript-running-typescript-ts-node"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_bZ71i36haWgHQTY0yMOx",
+        "label":  "TS Playground",
+        "endpoint":  "https://roadmap.sh/typescript/topic@_bZ71i36haWgHQTY0yMOx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript Official - Playground",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/play"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qcrGApxNzkGYxgcd7o45d",
+        "label":  "TypeScript Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@qcrGApxNzkGYxgcd7o45d.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript - Everyday Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hfIHxa5i_5rEpjtzqEsic",
+        "label":  "boolean",
+        "endpoint":  "https://roadmap.sh/typescript/topic@hfIHxa5i_5rEpjtzqEsic.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Number, String, Boolean, Symbol and Object",
+                              "type":  "article",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UH9d3cvGy_e67WFNFwCyf",
+        "label":  "number",
+        "endpoint":  "https://roadmap.sh/typescript/topic@UH9d3cvGy_e67WFNFwCyf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Number, String, Boolean, Symbol and Object",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "d8iV-IBZ6cSnH8Z5_HRmc",
+        "label":  "string",
+        "endpoint":  "https://roadmap.sh/typescript/topic@d8iV-IBZ6cSnH8Z5_HRmc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Number, String, Boolean, Symbol and Object",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yLlQg7BF--ZwRHbXBWfOi",
+        "label":  "void",
+        "endpoint":  "https://roadmap.sh/typescript/topic@yLlQg7BF--ZwRHbXBWfOi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "void - TypeScript Docs",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/functions.html#void"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Sa6IZtM4XJstultz-pbh0",
+        "label":  "undefined",
+        "endpoint":  "https://roadmap.sh/typescript/topic@Sa6IZtM4XJstultz-pbh0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "null and undefined",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cjAwawhZLo1qVQ93XIdm2",
+        "label":  "null",
+        "endpoint":  "https://roadmap.sh/typescript/topic@cjAwawhZLo1qVQ93XIdm2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "null and undefined",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mVKsM7R4Ivpdhnbwt1aRb",
+        "label":  "Interface",
+        "endpoint":  "https://roadmap.sh/typescript/topic@mVKsM7R4Ivpdhnbwt1aRb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Object Types - Interfaces",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/objects.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tTSITP1W1ymS-njbFb8Ts",
+        "label":  "Class",
+        "endpoint":  "https://roadmap.sh/typescript/topic@tTSITP1W1ymS-njbFb8Ts.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript Classes",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/classes.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bfZIXHceDKDGQl-24kQpT",
+        "label":  "Enum",
+        "endpoint":  "https://roadmap.sh/typescript/topic@bfZIXHceDKDGQl-24kQpT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript - Enums",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/enums.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YbDuIo1BbZKEAZwmXlCdZ",
+        "label":  "Array",
+        "endpoint":  "https://roadmap.sh/typescript/topic@YbDuIo1BbZKEAZwmXlCdZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Arrays",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#arrays"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jq-GD0DLyzrEXQKUmt5kv",
+        "label":  "Tuple",
+        "endpoint":  "https://roadmap.sh/typescript/topic@jq-GD0DLyzrEXQKUmt5kv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tuple Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/objects.html#tuple-types"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vnqvm_WiaKqpdxrW4wRGa",
+        "label":  "Object",
+        "endpoint":  "https://roadmap.sh/typescript/topic@vnqvm_WiaKqpdxrW4wRGa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Object Types in TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#object-types"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O2TYbd9i_OQwQk2dKh-ly",
+        "label":  "unknown",
+        "endpoint":  "https://roadmap.sh/typescript/topic@O2TYbd9i_OQwQk2dKh-ly.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Unknown Type in TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-0.html#new-unknown-top-type"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yXiLegSlL7SveU8rBGj8U",
+        "label":  "any",
+        "endpoint":  "https://roadmap.sh/typescript/topic@yXiLegSlL7SveU8rBGj8U.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "any type in TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0pi9VTbngcAIswuu5LIYg",
+        "label":  "never",
+        "endpoint":  "https://roadmap.sh/typescript/topic@0pi9VTbngcAIswuu5LIYg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Never Type",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#the-never-type"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pGFnTqi0-RSj0YRmNA5iy",
+        "label":  "as const",
+        "endpoint":  "https://roadmap.sh/typescript/topic@pGFnTqi0-RSj0YRmNA5iy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "const assertions",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ba0baUbomrW9td_K8U-5L",
+        "label":  "as [type]",
+        "endpoint":  "https://roadmap.sh/typescript/topic@Ba0baUbomrW9td_K8U-5L.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type assertions",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "afTNr36VqeXoJpHxm2IoS",
+        "label":  "as any",
+        "endpoint":  "https://roadmap.sh/typescript/topic@afTNr36VqeXoJpHxm2IoS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "any",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mjaL5ocLnM8VQlhUxW6KU",
+        "label":  "Non-null Assertion",
+        "endpoint":  "https://roadmap.sh/typescript/topic@mjaL5ocLnM8VQlhUxW6KU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Non-null assertion operator",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html#non-null-assertion-operator"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HD1UGOidp7JGKdW6CEdQ_",
+        "label":  "satisfies keyword",
+        "endpoint":  "https://roadmap.sh/typescript/topic@HD1UGOidp7JGKdW6CEdQ_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "satisfies Keyword",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-9.html#the-satisfies-operator"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KUur-gfOBQodTS-irFet7",
+        "label":  "Type Inference",
+        "endpoint":  "https://roadmap.sh/typescript/topic@KUur-gfOBQodTS-irFet7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Inference",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/type-inference.html#handbook-content"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "alMJCEyUZ90xz-2_g3YRj",
+        "label":  "Type Compatibility",
+        "endpoint":  "https://roadmap.sh/typescript/topic@alMJCEyUZ90xz-2_g3YRj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Compatibility",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/type-compatibility.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qefnsugcveizVq2TORRgn",
+        "label":  "Combining Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@qefnsugcveizVq2TORRgn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Union Types in TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types"
+                          },
+                          {
+                              "title":  "Intersection Types in TypeScript",
+                              "type":  "article",
+                              "url":  "https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/"
+                          },
+                          {
+                              "title":  "Type Aliases",
+                              "type":  "article",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases"
+                          },
+                          {
+                              "title":  "Keyof Type Operator",
+                              "type":  "article",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5z5w3yv1HbOpMlzEd4Iot",
+        "label":  "Union Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@5z5w3yv1HbOpMlzEd4Iot.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Union Types in TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RWYXEZMODUrqwRWf_Lqi9",
+        "label":  "Intersection Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@RWYXEZMODUrqwRWf_Lqi9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intersection Types in TypeScript",
+                              "type":  "article",
+                              "url":  "https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M_3O21zjppgWptIT5dtu8",
+        "label":  "Type Aliases",
+        "endpoint":  "https://roadmap.sh/typescript/topic@M_3O21zjppgWptIT5dtu8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Aliases",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "t1Tcesfq7bV2TkHcfD6lU",
+        "label":  "keyof Operator",
+        "endpoint":  "https://roadmap.sh/typescript/topic@t1Tcesfq7bV2TkHcfD6lU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "keyof Type Operator",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cFZsxpYHDxm7IWwergb3r",
+        "label":  "Type Guards / Narrowing",
+        "endpoint":  "https://roadmap.sh/typescript/topic@cFZsxpYHDxm7IWwergb3r.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Guards - TypeScript Docs",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EDOU5a7UK17yp3PdFBJMc",
+        "label":  "instanceof",
+        "endpoint":  "https://roadmap.sh/typescript/topic@EDOU5a7UK17yp3PdFBJMc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "instanceOf Operator",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#instanceof-narrowing"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZiOcFZy85p7tLzUkyKDei",
+        "label":  "typeof",
+        "endpoint":  "https://roadmap.sh/typescript/topic@ZiOcFZy85p7tLzUkyKDei.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Guards and Differentiating Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wy2yIK5vgLjEcc9VjuQK5",
+        "label":  "Equality",
+        "endpoint":  "https://roadmap.sh/typescript/topic@Wy2yIK5vgLjEcc9VjuQK5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Equality Narrowing",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#equality-narrowing"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Xonbxc7MvMEonKBvbkCAH",
+        "label":  "Truthiness",
+        "endpoint":  "https://roadmap.sh/typescript/topic@Xonbxc7MvMEonKBvbkCAH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Truthiness Narrowing",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#truthiness-narrowing"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1DOSAieOmWUNNsQQrqf2m",
+        "label":  "Type Predicates",
+        "endpoint":  "https://roadmap.sh/typescript/topic@1DOSAieOmWUNNsQQrqf2m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Guards and Differentiating Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qOynVkDi1gFz0mxyJHjfJ",
+        "label":  "TypeScript Functions",
+        "endpoint":  "https://roadmap.sh/typescript/topic@qOynVkDi1gFz0mxyJHjfJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Functions in TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/functions.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9FIhHwDNzyKpb42NmSv3K",
+        "label":  "Typing Functions",
+        "endpoint":  "https://roadmap.sh/typescript/topic@9FIhHwDNzyKpb42NmSv3K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript Functions",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/functions.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-0Zp6b8NjDyz9MAQE3HfS",
+        "label":  "Function Overloading",
+        "endpoint":  "https://roadmap.sh/typescript/topic@-0Zp6b8NjDyz9MAQE3HfS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Function Overloads",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aH1DxiG5xrdNlKutJ_gTz",
+        "label":  "TypeScript Interfaces",
+        "endpoint":  "https://roadmap.sh/typescript/topic@aH1DxiG5xrdNlKutJ_gTz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript - Interfaces",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/objects.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TxkEpoOiuUm-fXJuFVKcH",
+        "label":  "Types vs Interfaces",
+        "endpoint":  "https://roadmap.sh/typescript/topic@TxkEpoOiuUm-fXJuFVKcH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Interfaces vs. Type Aliases",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces"
+                          },
+                          {
+                              "title":  "Interfaces vs Types in TypeScript",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O-9WQqidujLIEOTcOfy4n",
+        "label":  "Extending Interfaces",
+        "endpoint":  "https://roadmap.sh/typescript/topic@O-9WQqidujLIEOTcOfy4n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Extending Interfaces",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/objects.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fY40W8prpgiNqRL50w7ub",
+        "label":  "Interface Declaration",
+        "endpoint":  "https://roadmap.sh/typescript/topic@fY40W8prpgiNqRL50w7ub.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Extending Interfaces",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/objects.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lvtTSHH9yBTCiLng8btnI",
+        "label":  "Hybrid Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@lvtTSHH9yBTCiLng8btnI.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ib0jfZzukYOZ42AdJqt_W",
+        "label":  "Classes",
+        "endpoint":  "https://roadmap.sh/typescript/topic@ib0jfZzukYOZ42AdJqt_W.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tutorial - Classes",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/classes.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3XrKbK5Od2eoM0BLaS4kU",
+        "label":  "Constructor Params",
+        "endpoint":  "https://roadmap.sh/typescript/topic@3XrKbK5Od2eoM0BLaS4kU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript - Construct",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/classes.html#constructors"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oxzcYXxy2I7GI7nbvFYVa",
+        "label":  "Constructor Overloading",
+        "endpoint":  "https://roadmap.sh/typescript/topic@oxzcYXxy2I7GI7nbvFYVa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Constructors - TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/classes.html#constructors"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RJ7on8WoxrKcXrR3qY5Rs",
+        "label":  "Access Modifiers",
+        "endpoint":  "https://roadmap.sh/typescript/topic@RJ7on8WoxrKcXrR3qY5Rs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript Access Modifiers",
+                              "type":  "official",
+                              "url":  "https://www.typescripttutorial.net/typescript-tutorial/typescript-access-modifiers/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tZFWeWHdOUJcCEtHfXH9p",
+        "label":  "Abstract Classes",
+        "endpoint":  "https://roadmap.sh/typescript/topic@tZFWeWHdOUJcCEtHfXH9p.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Abstract Classes",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/classes.html#abstract-classes-and-members"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8P0-vb9nlnmz7iC4UvyJZ",
+        "label":  "Inheritance vs Polymorphism",
+        "endpoint":  "https://roadmap.sh/typescript/topic@8P0-vb9nlnmz7iC4UvyJZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dev.to - Mastering OOP in TypeScript",
+                              "type":  "article",
+                              "url":  "https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p"
+                          },
+                          {
+                              "title":  "Inheritance and Polymorphism In TypeScript",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Sn6K57YSuwU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aknqutxN2WDQ4RFcT-szM",
+        "label":  "Method Overriding",
+        "endpoint":  "https://roadmap.sh/typescript/topic@aknqutxN2WDQ4RFcT-szM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript - Overriding Methods",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/classes.html#overriding-methods"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4gaKqNtGLFqpk9WVKZl0v",
+        "label":  "Generics",
+        "endpoint":  "https://roadmap.sh/typescript/topic@4gaKqNtGLFqpk9WVKZl0v.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hello World of Generics",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "T2-VAVfntouJOoWHpHZ3n",
+        "label":  "Generic Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@T2-VAVfntouJOoWHpHZ3n.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hello World of Generics",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0NXHAOUYGIwuPwlN7r_B3",
+        "label":  "Generic Constraints",
+        "endpoint":  "https://roadmap.sh/typescript/topic@0NXHAOUYGIwuPwlN7r_B3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Generic Constraints - TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/generics.html#generic-constraints"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TRx3wvWnRdJJf5eL-GBG4",
+        "label":  "Decorators",
+        "endpoint":  "https://roadmap.sh/typescript/topic@TRx3wvWnRdJJf5eL-GBG4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Decorators",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/decorators.html#handbook-content"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LSwUHfalnk5MgHt21PANb",
+        "label":  "Utility Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@LSwUHfalnk5MgHt21PANb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript - Utility Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/utility-types.html"
+                          },
+                          {
+                              "title":  "TypeScript Utility Types Guide",
+                              "type":  "article",
+                              "url":  "https://camchenry.com/blog/typescript-utility-types"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gBTem9Dp3IQLAkqGX4fOF",
+        "label":  "Partial",
+        "endpoint":  "https://roadmap.sh/typescript/topic@gBTem9Dp3IQLAkqGX4fOF.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "E88tHQvARkHURZwGaO02l",
+        "label":  "Pick",
+        "endpoint":  "https://roadmap.sh/typescript/topic@E88tHQvARkHURZwGaO02l.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pick\u003cType, Keys\u003e",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/utility-types.html#picktype-keys"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yjlxygHl8QONNUrdx-Q0A",
+        "label":  "Omit",
+        "endpoint":  "https://roadmap.sh/typescript/topic@yjlxygHl8QONNUrdx-Q0A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Omit\u003cType, Keys\u003e",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IuO9-O_DQdDYuAbdGWdgb",
+        "label":  "Readonly",
+        "endpoint":  "https://roadmap.sh/typescript/topic@IuO9-O_DQdDYuAbdGWdgb.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DRdBmF5Dt_r09LoPOxOuq",
+        "label":  "Record",
+        "endpoint":  "https://roadmap.sh/typescript/topic@DRdBmF5Dt_r09LoPOxOuq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Record\u003cKeys, Type\u003e",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeys-type"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0fvOXi9gJbEc7etqTggNE",
+        "label":  "Exclude",
+        "endpoint":  "https://roadmap.sh/typescript/topic@0fvOXi9gJbEc7etqTggNE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Exclude\u003cUnionType, ExcludedMembers\u003e",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/utility-types.html#excludeuniontype-excludedmembers"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IIAbAzXiVQm1JEi2MTMZN",
+        "label":  "Extract",
+        "endpoint":  "https://roadmap.sh/typescript/topic@IIAbAzXiVQm1JEi2MTMZN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Extract\u003cType, Union\u003e",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttype-union"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_BAZlBEzE7ddr315OeHvl",
+        "label":  "NonNullable",
+        "endpoint":  "https://roadmap.sh/typescript/topic@_BAZlBEzE7ddr315OeHvl.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "a7hl0iMZ-jcUACxqIYVqv",
+        "label":  "Parameters",
+        "endpoint":  "https://roadmap.sh/typescript/topic@a7hl0iMZ-jcUACxqIYVqv.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "On75JR_UkiIlha0_qaSeu",
+        "label":  "ReturnType",
+        "endpoint":  "https://roadmap.sh/typescript/topic@On75JR_UkiIlha0_qaSeu.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "izGAjNtrh3BzQt3KiZX0W",
+        "label":  "InstanceType",
+        "endpoint":  "https://roadmap.sh/typescript/topic@izGAjNtrh3BzQt3KiZX0W.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aEhI_9mFWXRIZh1ZxTuzu",
+        "label":  "Awaited",
+        "endpoint":  "https://roadmap.sh/typescript/topic@aEhI_9mFWXRIZh1ZxTuzu.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2F7vOL__v9dLBohA263aj",
+        "label":  "Advanced Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@2F7vOL__v9dLBohA263aj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Advanced Topics",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/type-compatibility.html#advanced-topics"
+                          },
+                          {
+                              "title":  "Tutorial of Typescript - Advanced Types",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLw5h0DiJ-9PBIgIyd2ZA1CVnJf0BLFJg2"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VQ-V9qIdKgnpSJg2UnpuB",
+        "label":  "Mapped Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@VQ-V9qIdKgnpSJg2UnpuB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mapped Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#handbook-content"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ubGIhi-WLE0EopTYXzmPL",
+        "label":  "Conditional Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@ubGIhi-WLE0EopTYXzmPL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Conditional Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#handbook-content"
+                          },
+                          {
+                              "title":  "Conditional Types - Advanced TypeScript",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QFWrbNehKk0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CWzGwvl6NwYCaLYSLIjqQ",
+        "label":  "Literal Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@CWzGwvl6NwYCaLYSLIjqQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Literal Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-types"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xP25nGw42VqdfZ_9pDMXd",
+        "label":  "Template Literal Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@xP25nGw42VqdfZ_9pDMXd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Template Literal Types",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html#handbook-content"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N8xBTJ74xv1E5hSLYZtze",
+        "label":  "Recursive Types",
+        "endpoint":  "https://roadmap.sh/typescript/topic@N8xBTJ74xv1E5hSLYZtze.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Recursive Types in TypeScript",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/play/3-7/types-and-code-flow/recursive-type-references.ts.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sE9lqkkqwnsVJxTJv37YZ",
+        "label":  "TypeScript Modules",
+        "endpoint":  "https://roadmap.sh/typescript/topic@sE9lqkkqwnsVJxTJv37YZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Modules",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/modules.html#handbook-content"
+                          },
+                          {
+                              "title":  "TypeScript - Modules",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=EpOPR03z4Vw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EtVwQ4lnWi3IIFHGb2Qib",
+        "label":  "Namespaces",
+        "endpoint":  "https://roadmap.sh/typescript/topic@EtVwQ4lnWi3IIFHGb2Qib.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Overview of Namespaces",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/namespaces.html"
+                          },
+                          {
+                              "title":  "Namespaces and Modules",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html"
+                          },
+                          {
+                              "title":  "TypeScript - Using Namespaces",
+                              "type":  "official",
+                              "url":  "https://typescriptlang.org/docs/handbook/namespaces-and-modules.html#using-namespaces"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "k_5y77k8ZZ9_O2WpWXWTY",
+        "label":  "Ambient Modules",
+        "endpoint":  "https://roadmap.sh/typescript/topic@k_5y77k8ZZ9_O2WpWXWTY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ambient Modules",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/modules/reference.html#ambient-modules"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "egQWk1n3p8Pep83yIwCtI",
+        "label":  "External Modules",
+        "endpoint":  "https://roadmap.sh/typescript/topic@egQWk1n3p8Pep83yIwCtI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TypeScript - External Module",
+                              "type":  "article",
+                              "url":  "https://learncodeweb.com/typescript/modules-in-typescript-explain-with-an-example/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "16TT8R4N-9tCfWmPetqMP",
+        "label":  "Namespace Augmentation",
+        "endpoint":  "https://roadmap.sh/typescript/topic@16TT8R4N-9tCfWmPetqMP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Module Augmentation",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/declaration-merging.html#module-augmentation"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JQwWeB1gkANSYfQmH69Bs",
+        "label":  "Global Augmentation",
+        "endpoint":  "https://roadmap.sh/typescript/topic@JQwWeB1gkANSYfQmH69Bs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Global augmentation",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/declaration-merging.html#global-augmentation"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RqZaWGxxNRItBhVwWKysc",
+        "label":  "Ecosystem",
+        "endpoint":  "https://roadmap.sh/typescript/topic@RqZaWGxxNRItBhVwWKysc.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fU8Vnw1DobM4iXl1Tq6EK",
+        "label":  "Formatting",
+        "endpoint":  "https://roadmap.sh/typescript/topic@fU8Vnw1DobM4iXl1Tq6EK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prettier Website",
+                              "type":  "article",
+                              "url":  "https://prettier.io"
+                          },
+                          {
+                              "title":  "Why Prettier",
+                              "type":  "article",
+                              "url":  "https://prettier.io/docs/en/why-prettier.html"
+                          },
+                          {
+                              "title":  "BiomeJS Website",
+                              "type":  "article",
+                              "url":  "https://biomejs.dev"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8PcAPOrKisKRYPWamz4nV",
+        "label":  "Linting",
+        "endpoint":  "https://roadmap.sh/typescript/topic@8PcAPOrKisKRYPWamz4nV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ESLint Official Website",
+                              "type":  "article",
+                              "url":  "https://eslint.org/"
+                          },
+                          {
+                              "title":  "Introduction to ESLint",
+                              "type":  "article",
+                              "url":  "https://dev.to/shivambmgupta/eslint-what-why-when-how-5f1d"
+                          },
+                          {
+                              "title":  "ESLint Quickstart - find errors automatically",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qhuFviJn-es"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PCX3KcvMUW3mmQEepLTXp",
+        "label":  "Useful Packages",
+        "endpoint":  "https://roadmap.sh/typescript/topic@PCX3KcvMUW3mmQEepLTXp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "zod",
+                              "type":  "official",
+                              "url":  "https://zod.dev/"
+                          },
+                          {
+                              "title":  "valibot",
+                              "type":  "official",
+                              "url":  "https://valibot.dev/"
+                          },
+                          {
+                              "title":  "ts-node",
+                              "type":  "official",
+                              "url":  "https://typestrong.org/ts-node"
+                          },
+                          {
+                              "title":  "ts-morph",
+                              "type":  "opensource",
+                              "url":  "https://github.com/dsherret/ts-morph"
+                          },
+                          {
+                              "title":  "ts-jest",
+                              "type":  "opensource",
+                              "url":  "https://github.com/kulshekhar/ts-jest"
+                          },
+                          {
+                              "title":  "typesync",
+                              "type":  "opensource",
+                              "url":  "https://github.com/jeffijoe/typesync"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I5uwfej5XMwR2N2gpBILh",
+        "label":  "Build Tools",
+        "endpoint":  "https://roadmap.sh/typescript/topic@I5uwfej5XMwR2N2gpBILh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "webpack is a static module bundler for modern JavaScript applications",
+                              "type":  "official",
+                              "url":  "https://webpack.js.org/"
+                          },
+                          {
+                              "title":  "Vite Next Generation Frontend Tooling",
+                              "type":  "official",
+                              "url":  "https://vitejs.dev"
+                          },
+                          {
+                              "title":  "Parcel is a zero configuration build tool for the web",
+                              "type":  "official",
+                              "url":  "https://parceljs.org/"
+                          },
+                          {
+                              "title":  "esbuild is an extremely fast JavaScript bundler and minifier",
+                              "type":  "official",
+                              "url":  "https://esbuild.github.io/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Learn TypeScript",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/learn-typescript-c03c?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

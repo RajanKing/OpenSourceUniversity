@@ -1,0 +1,2754 @@
+{
+    "slug":  "inference-engineering",
+    "source":  "https://roadmap.sh/inference-engineering",
+    "title":  "Inference Engineering",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-10-22T16:07:57.663Z",
+    "nodes":  [
+                  {
+                      "id":  "QHKzidu07TDtguuuL-StN",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -711.5440764108317,
+                                       "y":  128.37426131230205
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -22.17597045622216,
+                                       "y":  -175
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zqZkyVgigifcRS1H7F_b",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  -9.67597045622216,
+                                       "y":  -93.41409214634496
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "LdhFo8UrT6EBs6IE42uLx",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  -235.5
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "qH0LPtPGcn4Lc1RhXwKVp",
+                                        "label":  "AI Engineer Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/ai-engineer"
+                                    },
+                                    {
+                                        "id":  "lYZdNGa-RbSvjTZyyfsHK",
+                                        "label":  "ML Roadmap",
+                                        "url":  "https://roadmap.sh/machine-learning"
+                                    },
+                                    {
+                                        "id":  "238-WiFvfjvmE2SiVytBR",
+                                        "label":  "C++ Roadmap",
+                                        "url":  "https://roadmap.sh/cpp"
+                                    },
+                                    {
+                                        "id":  "e-VBCAduQ28Cl-q1sBBR7",
+                                        "label":  "Docker Roadmap",
+                                        "url":  "https://roadmap.sh/docker"
+                                    },
+                                    {
+                                        "id":  "i0mmnqgbSRkDvzqDpXGfi",
+                                        "label":  "Kubernetes Roadmap",
+                                        "url":  "https://roadmap.sh/kubernetes"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "SrhF2rv9JOPQX1yNN6M_2",
+                      "type":  "vertical",
+                      "label":  null,
+                      "position":  {
+                                       "x":  -210.92556515060755,
+                                       "y":  -140.5330966590561
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k7Xjv5V1AKUsz3kK0BeRs",
+                      "type":  "title",
+                      "label":  "Inference Engineer",
+                      "position":  {
+                                       "x":  -343.92556515060755,
+                                       "y":  -38.257250127297425
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uxm_BIAyhfFmcE94k9i9J",
+                      "type":  "subtopic",
+                      "label":  "Tokens Per Second ",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  233.59558415632262
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kvNIi3aY5rn69_hYkDyUK",
+                      "type":  "subtopic",
+                      "label":  "Latency vs. Throughput",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  339.5955841563226
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8y280d5BPXrDZwtsHZCaX",
+                      "type":  "subtopic",
+                      "label":  "Latency Percentiles",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  392.5955841563226
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tENGACXKSKVPmZy9a3D2z",
+                      "type":  "subtopic",
+                      "label":  "End-to-End Metrics",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  445.5955841563226
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0-BRllrMiShLlytidGkST",
+                      "type":  "subtopic",
+                      "label":  "Real-Time Factor",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  498.5955841563225
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZqFQmNizkU6ykTMCrmTWf",
+                      "type":  "subtopic",
+                      "label":  "AI-Native Applications",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  811.0546535593367
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SkvPauxjmqok4TyNWSACL",
+                      "type":  "subtopic",
+                      "label":  "Online vs. Offline Inf.",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  656.874261312302
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SFMvVdgTZv_POWFGWWM_s",
+                      "type":  "subtopic",
+                      "label":  "Consumer vs. B2B",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  864.0546535593367
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jQAWZ1plw4_wPE1UvE_Ux",
+                      "type":  "subtopic",
+                      "label":  "Model Selection",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  1016.1107043334723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lVf5GoJF_PVTkTiQFTNVg",
+                      "type":  "subtopic",
+                      "label":  "Model Evaluation",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  1069.1107043334723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fWJplrAuUStEMNNLQc75G",
+                      "type":  "subtopic",
+                      "label":  "Fine-Tuning",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  1122.1107043334723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IdNkeL9pzy4lFv17ak1Vy",
+                      "type":  "subtopic",
+                      "label":  "Distillation",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  1175.1107043334723
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Y9YkcfblXHEvS-gdEWwaE",
+                      "type":  "subtopic",
+                      "label":  "Reasoning Models",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  917.0546535593367
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2DsjfW9r4dOI3LDQU80qt",
+                      "type":  "subtopic",
+                      "label":  "Shared vs. Dedicated Inf.",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  149.2449187875809
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-A23UrsRdSwBQEZWU9kfw",
+                      "type":  "label",
+                      "label":  "Models \u0026 Performance",
+                      "position":  {
+                                       "x":  -312.42556515060755,
+                                       "y":  254.75242617537015
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nORbxBOAtl9sNU4sIJgP3",
+                      "type":  "subtopic",
+                      "label":  "Encoder-Decoder Arch.",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  362.8691780833645
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p2S0W3EDn768jbqzc7CE7",
+                      "type":  "topic",
+                      "label":  "Neural Networks",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  362.8691780833645
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xHM7qjigMmXEwxeMEeMWl",
+                      "type":  "subtopic",
+                      "label":  "Transformer Blocks",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  487.78826566395
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2KY3T5JVHQBR8pmAiuq0V",
+                      "type":  "subtopic",
+                      "label":  "Attention Mechanism",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  540.78826566395
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V678kX8FPChTZCe7Nqwhv",
+                      "type":  "subtopic",
+                      "label":  "KV Cache",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  593.78826566395
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7BddTfOkWmlL4HAkFBXtq",
+                      "type":  "subtopic",
+                      "label":  "Mixture of Experts (MoE)",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  646.78826566395
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "irgGvEnY1_WW1EPtuMKgC",
+                      "type":  "topic",
+                      "label":  "Large Language Models",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  540.78826566395
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aagMwPPmi6ngfkIqZL-Mg",
+                      "type":  "subtopic",
+                      "label":  "Diffusion Models",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  733.7538093089306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xsV4WevPzhfydyvxVzGcw",
+                      "type":  "subtopic",
+                      "label":  "Image Generation Arch.",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  786.7538093089306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "biVjpCA3bsKI7sa_aBIUE",
+                      "type":  "subtopic",
+                      "label":  "Few-Step Image Generation",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  839.7538093089306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yTSrQfJsE-Mf4ZU_hJwYT",
+                      "type":  "subtopic",
+                      "label":  "Video Generation Models",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  892.7538093089306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mebx7HS-I-eNP5i3f6Clf",
+                      "type":  "topic",
+                      "label":  "Image \u0026 Video Models",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  786.7538093089306
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uc2enkdtRqA5K7kbgrYJF",
+                      "type":  "subtopic",
+                      "label":  "Ops:Byte Ratio ",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  972.4659766836398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XF-wMQCqPZiWv1XmryPBP",
+                      "type":  "subtopic",
+                      "label":  "Roofline Model",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1078.4659766836398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QVadKzBfLdegat-4wgOMX",
+                      "type":  "subtopic",
+                      "label":  "LLM Bottlenecks",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1131.4659766836398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0lRP9cmoS-_wxQSsIcRQg",
+                      "type":  "subtopic",
+                      "label":  "Image \u0026 Video Bottlenecks",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1184.4659766836398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "type":  "topic",
+                      "label":  "Bottleneck Analysis",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  1078.4659766836398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mQcj-H3R789o6nDh8tG9k",
+                      "type":  "subtopic",
+                      "label":  "FlashAttention",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1270.613254348744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VcIRY4vSi7JkcV6g13vkN",
+                      "type":  "subtopic",
+                      "label":  "PagedAttention",
+                      "position":  {
+                                       "x":  202.72725372429417,
+                                       "y":  1270.613254348744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6oTnNEsX_6Cu6lowEz9vg",
+                      "type":  "subtopic",
+                      "label":  "Attention Variants",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1323.613254348744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KWM3V7_15_Aur0He9j2Va",
+                      "type":  "topic",
+                      "label":  "Attention Optimization",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  1270.613254348744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ujDs0URW59Xkp82_uXHGT",
+                      "type":  "label",
+                      "label":  "Hardware",
+                      "position":  {
+                                       "x":  -252.42556515060755,
+                                       "y":  1365.9591936777294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o_tknzA4tqcpbU6t5HO-T",
+                      "type":  "subtopic",
+                      "label":  "Compute",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  1409.9591936777294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5829d5dvXq9qlMSD1CG0N",
+                      "type":  "subtopic",
+                      "label":  "Memory",
+                      "position":  {
+                                       "x":  -572.1641204473877,
+                                       "y":  1409.9591936777294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dAo4PMB_VnRFMSjyDrLj0",
+                      "type":  "subtopic",
+                      "label":  "Instances \u0026 Interconnects",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  1462.9591936777294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "da0HGfSDr6_DV4ZJcrcIB",
+                      "type":  "subtopic",
+                      "label":  "Sizing \u0026 Procurement",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  1515.9591936777294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "00JLMvn8DUJBCw6-BxO0y",
+                      "type":  "topic",
+                      "label":  "GPU Architecture",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  1462.9591936777294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XQMbaW1tFdO8Os6mxcR2M",
+                      "type":  "subtopic",
+                      "label":  "Hopper",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1423.413950442826
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LihLABERuKBw30G_j48Fj",
+                      "type":  "subtopic",
+                      "label":  "Blackwell",
+                      "position":  {
+                                       "x":  202.72725372429417,
+                                       "y":  1423.413950442826
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kPT86kA0WwE_fWUAAKCTT",
+                      "type":  "subtopic",
+                      "label":  "Grace \u0026 Vera",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1476.413950442826
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "umz3jScWQViO9-lACUU4f",
+                      "type":  "topic",
+                      "label":  "GPU Models",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  1572.1869903383958
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fQDl7_3nRGa8NFivOIgTP",
+                      "type":  "subtopic",
+                      "label":  "Desktop Inference",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  1621.1869903383958
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kqzHHoiZ9y4tCS6MMlLHQ",
+                      "type":  "subtopic",
+                      "label":  "Mobile Inference",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  1674.1869903383958
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FilQGz3geyyvHZGyKPW3G",
+                      "type":  "topic",
+                      "label":  "Local \u0026 Edge Inference",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  1674.1869903383958
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jn6djJbCq4BpbmW10HFMQ",
+                      "type":  "label",
+                      "label":  "Software",
+                      "position":  {
+                                       "x":  -248.42556515060755,
+                                       "y":  1771.110878979053
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1dWPVaSQ4TfVU3Obx3m19",
+                      "type":  "subtopic",
+                      "label":  "Writing Custom Kernels",
+                      "position":  {
+                                       "x":  65.7272537242942,
+                                       "y":  1866.2376002973058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iKW1wqzd5EfRKvNIRshNN",
+                      "type":  "subtopic",
+                      "label":  "Kernel Selection \u0026 Fusion",
+                      "position":  {
+                                       "x":  -711.1641204473877,
+                                       "y":  1866.2376002973058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DwJJLFLPHGn9zdccTlLY2",
+                      "type":  "topic",
+                      "label":  "CUDA",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  1866.2376002973058
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AHVfxQRXmRoiTxC1eeMme",
+                      "type":  "subtopic",
+                      "label":  "PyTorch",
+                      "position":  {
+                                       "x":  65.7272537242942,
+                                       "y":  1964.1934631199458
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H_e3KZ7p7enUCYE5M5Lr7",
+                      "type":  "subtopic",
+                      "label":  "Transformers \u0026 Diffusers",
+                      "position":  {
+                                       "x":  65.7272537242942,
+                                       "y":  2017.1934631199458
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "D4uNOZgG0w-nFL3a89pDM",
+                      "type":  "topic",
+                      "label":  "Frameworks \u0026 Libraries",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  1964.1934631199458
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wcAtbab81IJdpFh6L-heP",
+                      "type":  "subtopic",
+                      "label":  "vLLM",
+                      "position":  {
+                                       "x":  68.27540901414079,
+                                       "y":  2099.894251469933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YtlAf6qloKMmaSr9Bkkl_",
+                      "type":  "subtopic",
+                      "label":  "SGLang",
+                      "position":  {
+                                       "x":  205.2754090141408,
+                                       "y":  2099.894251469933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n2_zIGkQgyYCMYPypz3vb",
+                      "type":  "subtopic",
+                      "label":  "TensorRT-LLM",
+                      "position":  {
+                                       "x":  68.27540901414079,
+                                       "y":  2152.894251469933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ctdMz6rHa4Cwl1x19V_5k",
+                      "type":  "subtopic",
+                      "label":  "NVIDIA Dynamo",
+                      "position":  {
+                                       "x":  68.27540901414079,
+                                       "y":  2205.894251469933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "01j1KkEB-nIXxP-rENcJ3",
+                      "type":  "topic",
+                      "label":  "Inference Engines",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  2152.894251469933
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XXfjlqd0CYHwBR5-Kdmmi",
+                      "type":  "subtopic",
+                      "label":  "Performance Benchmarking",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2341.4352041051316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "S2GZw9etrrvEJzV9V-1C_",
+                      "type":  "subtopic",
+                      "label":  "Profiling Performance",
+                      "position":  {
+                                       "x":  65.7272537242942,
+                                       "y":  2341.4352041051316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TxK7B_FF38ms3eKPGug2w",
+                      "type":  "topic",
+                      "label":  "Benchmarking \u0026 Profiling",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  2341.4352041051316
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VVZqb0FNhzk2NcHftvu_D",
+                      "type":  "label",
+                      "label":  "Inference Techniques",
+                      "position":  {
+                                       "x":  -306.92556515060755,
+                                       "y":  2428.4251030054697
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zvvs8cB98IRee1okBILsS",
+                      "type":  "subtopic",
+                      "label":  "Post-Training Quantization",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2530.4460764275404
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QCXV4Utq0Ajs1krLM3fhg",
+                      "type":  "subtopic",
+                      "label":  "Quantization-Aware Training",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2477.4460764275404
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mK_4R8liXtl64iG7ONvgz",
+                      "type":  "subtopic",
+                      "label":  "Measuring Quality Impact",
+                      "position":  {
+                                       "x":  65.7272537242942,
+                                       "y":  2530.4460764275404
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DaSqcLHfnJ4_n9utVVTSk",
+                      "type":  "topic",
+                      "label":  "Quantization",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  2530.4460764275404
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "m0EIHovHWGkWULN0a3C3v",
+                      "type":  "subtopic",
+                      "label":  "Draft-Target Decoding",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  2705.175190006242
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0FZTg3_ZnTpMOQ078OOxE",
+                      "type":  "subtopic",
+                      "label":  "EAGLE",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  2758.175190006242
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZOclQMd7JASGXTRyctfW2",
+                      "type":  "subtopic",
+                      "label":  "N-gram",
+                      "position":  {
+                                       "x":  205.94366399290203,
+                                       "y":  2758.175190006242
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gMWgd10cxcQG_RG2oSAEH",
+                      "type":  "topic",
+                      "label":  "Speculative Decoding",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  2729.5489601560294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2nGv7_8PTWYr7uqbudCcX",
+                      "type":  "subtopic",
+                      "label":  "Caching Approaches",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2859.7839230801424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gkt2Gr34RJJf1NZgbmtXf",
+                      "type":  "subtopic",
+                      "label":  "KV Cache Storage",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2912.7839230801424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3DR0Qvqu2qUTi9niU_63n",
+                      "type":  "subtopic",
+                      "label":  "Cache-Aware Routing",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2965.7839230801424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uL3Fn8XfS1Yv_PJd9R8wi",
+                      "type":  "subtopic",
+                      "label":  "Long Context Handling",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  3018.7839230801424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PzEj5yq1lDQ324RWYpDdQ",
+                      "type":  "topic",
+                      "label":  "Caching",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  2912.7839230801424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "csghcNLDywO8oTIZNXeyP",
+                      "type":  "subtopic",
+                      "label":  "Tensor Parallelism",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  3005.9491405157505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "62y78y-RXZT_QCUfd-YFE",
+                      "type":  "subtopic",
+                      "label":  "Expert Parallelism",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  3058.9491405157505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9KLS3gWArBofLEULu3sQc",
+                      "type":  "subtopic",
+                      "label":  "Pipeline Parallelism",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  2952.9491405157505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FZx2xsqw_cmYLFS3GMAl-",
+                      "type":  "subtopic",
+                      "label":  "Multi-Node Inference",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  3111.9491405157505
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CiXsdHHL0e2DN4ICI5jeX",
+                      "type":  "topic",
+                      "label":  "Model Parallelism",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3033.575046261575
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KhTFecXEkHR4WX-_TYY3g",
+                      "type":  "subtopic",
+                      "label":  "NVIDIA Dynamo",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3132.4317491769443
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f6PWIqf4LubR7lQztaoB5",
+                      "type":  "topic",
+                      "label":  "Disaggregation",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3132.4317491769443
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YPzV6efHI-5K8Umsqww37",
+                      "type":  "label",
+                      "label":  "Inference Beyond LLMs",
+                      "position":  {
+                                       "x":  -316.92556515060755,
+                                       "y":  3223.6261967755127
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7pRZu7xa2_43HVwKty9px",
+                      "type":  "subtopic",
+                      "label":  "Video Processing for VLMs",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  3259.7982861566766
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "plw2WiOoGxg64P-Kv-Xm7",
+                      "type":  "subtopic",
+                      "label":  "Omni-Modal Models",
+                      "position":  {
+                                       "x":  68.94366399290203,
+                                       "y":  3312.7982861566766
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JsjmQrN1V_dM1Kw6UnYLc",
+                      "type":  "topic",
+                      "label":  "Vision Language Models",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3313.2982861566766
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M7K6d-Qw4BpM724LfM1u6",
+                      "type":  "subtopic",
+                      "label":  "LLM-based models",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3418.6261967755127
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GmCkfSeVDJ8T8WLZ7DoOp",
+                      "type":  "subtopic",
+                      "label":  "Embedding Model Inference",
+                      "position":  {
+                                       "x":  66.52546394235912,
+                                       "y":  3418.6261967755127
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Tvt-vX1gWuJZJBHh5vfKu",
+                      "type":  "topic",
+                      "label":  "Embedding Models",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3418.0354522778744
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P0BA_p3xqpxkQsFHqM0AZ",
+                      "type":  "subtopic",
+                      "label":  "Voice Activity Detection ",
+                      "position":  {
+                                       "x":  66.52546394235912,
+                                       "y":  3498.427445785066
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6PRICRK6aRQCoThxnevB0",
+                      "type":  "subtopic",
+                      "label":  "Auto. Speech Recognition",
+                      "position":  {
+                                       "x":  66.52546394235912,
+                                       "y":  3551.427445785066
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XnhhN1QVWzlp9DUwkii9-",
+                      "type":  "subtopic",
+                      "label":  "Text-to-Speech (TTS)",
+                      "position":  {
+                                       "x":  66.52546394235912,
+                                       "y":  3604.427445785066
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3VbPNaSnzWZ-pC-lGFMrh",
+                      "type":  "subtopic",
+                      "label":  "Streaming TTS",
+                      "position":  {
+                                       "x":  66.52546394235912,
+                                       "y":  3657.427445785066
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "moyS740HQoUUovilx1Yyt",
+                      "type":  "subtopic",
+                      "label":  "Speech-to-Speech Models",
+                      "position":  {
+                                       "x":  66.52546394235912,
+                                       "y":  3710.427445785066
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "type":  "topic",
+                      "label":  "Speech",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3551.427445785066
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lnIHjq4nvCs3zvUln-jHR",
+                      "type":  "subtopic",
+                      "label":  "Image Generation Inference",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3597.2191639697653
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PqEH1ez5dg5tEsspgfAK1",
+                      "type":  "subtopic",
+                      "label":  "Video Generation Inference",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3650.2191639697653
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U0l_xCUiizbJfjfrlBaJ0",
+                      "type":  "topic",
+                      "label":  "Image \u0026 Video Generation",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3650.2191639697653
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ztmj0zC8XLb7x_PWxOOgu",
+                      "type":  "label",
+                      "label":  "Production",
+                      "position":  {
+                                       "x":  -257.42556515060755,
+                                       "y":  3746.918905572177
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wEaM8VyAo6MFsc3RXQ7Ar",
+                      "type":  "subtopic",
+                      "label":  "Dependency Management",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3812.502663490967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KB7ExU9X49omOuk9D_Qal",
+                      "type":  "subtopic",
+                      "label":  "NIMs",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3865.502663490967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "--ohScNmF5LR04P8e95AP",
+                      "type":  "topic",
+                      "label":  "Containerization",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3837.502663490967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h_PDOMA-V-n7Pab3epuP3",
+                      "type":  "subtopic",
+                      "label":  "Continuous Batching",
+                      "position":  {
+                                       "x":  76.52546394235912,
+                                       "y":  3931.9946860365944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Q3zM9MN5lmHRAUWjdLdXR",
+                      "type":  "subtopic",
+                      "label":  "Cold Starts",
+                      "position":  {
+                                       "x":  76.52546394235912,
+                                       "y":  3984.9946860365944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DSyTAtFC1TvC1P7yD10Nb",
+                      "type":  "subtopic",
+                      "label":  "Routing \u0026 Load Balancing",
+                      "position":  {
+                                       "x":  76.52546394235912,
+                                       "y":  4037.9946860365944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KdceJEDBdy3TbzG5suE38",
+                      "type":  "subtopic",
+                      "label":  "LoRA-Aware Routing",
+                      "position":  {
+                                       "x":  76.52546394235912,
+                                       "y":  4090.9946860365944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "k-zXOGynI0B0yyT-n3raa",
+                      "type":  "subtopic",
+                      "label":  "Request Queueing",
+                      "position":  {
+                                       "x":  76.52546394235912,
+                                       "y":  4143.994686036594
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Pi87dWgu5NTIJRQUc169s",
+                      "type":  "subtopic",
+                      "label":  "Scale to Zero",
+                      "position":  {
+                                       "x":  76.52546394235912,
+                                       "y":  4196.994686036594
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SKs0yuBEAyeTPQxLll3EM",
+                      "type":  "subtopic",
+                      "label":  "Indep. Component Scaling",
+                      "position":  {
+                                       "x":  76.52546394235912,
+                                       "y":  4249.994686036594
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o_gotSHKIPtV5SgGN3Vja",
+                      "type":  "topic",
+                      "label":  "Autoscaling",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  3984.946821310357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4mbGBgTu8AtrFHVYiffkB",
+                      "type":  "subtopic",
+                      "label":  "GPU Procurement",
+                      "position":  {
+                                       "x":  -713.0874544986194,
+                                       "y":  4072.104833664069
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xrr5Y1sbN2eyQyuA5LlAW",
+                      "type":  "subtopic",
+                      "label":  "Capacity Management",
+                      "position":  {
+                                       "x":  -713.0874544986194,
+                                       "y":  4125.104833664069
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mzF2mHSj8cvr9mvr16R0N",
+                      "type":  "subtopic",
+                      "label":  "Geo-Aware Load Balancing",
+                      "position":  {
+                                       "x":  -713.0874544986194,
+                                       "y":  4178.104833664069
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4x-4BFZH7bfNteD5ZAwTI",
+                      "type":  "subtopic",
+                      "label":  "Security and Compliance",
+                      "position":  {
+                                       "x":  -716.2846959364888,
+                                       "y":  4248.262693571885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "d78UiI_FZyLsU6O52btXg",
+                      "type":  "topic",
+                      "label":  "Multi-Cloud",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  4125.104833664069
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "le4sPQ0h9l-vlmCB4G8ZY",
+                      "type":  "subtopic",
+                      "label":  "Zero-Downtime Deplo.",
+                      "position":  {
+                                       "x":  -716.2846959364888,
+                                       "y":  4301.262693571885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gof4kW2LbkNCtH68c7Xvq",
+                      "type":  "subtopic",
+                      "label":  "Cost Estimation",
+                      "position":  {
+                                       "x":  -716.2846959364888,
+                                       "y":  4354.262693571885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w-dVv5dFNxD7Rqy16m4uL",
+                      "type":  "subtopic",
+                      "label":  "Observability",
+                      "position":  {
+                                       "x":  -716.2846959364888,
+                                       "y":  4407.262693571885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZlOtQtxJST10nuHjhbUx6",
+                      "type":  "topic",
+                      "label":  "Testing \u0026 Deployment",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  4327.762693571885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GL-9aJKTJT9s4maeT37Uf",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  131.2449187875809
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fVUfQYb8BP_hFMmd1S2-J",
+                      "type":  "subtopic",
+                      "label":  "Inference vs. Training",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  96.2449187875809
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xCgNhwbS_ELxEyRHD1enO",
+                      "type":  "subtopic",
+                      "label":  "Time to First Token",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  180.59558415632262
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hwKZmfYFiIu6plbiXtJRI",
+                      "type":  "subtopic",
+                      "label":  "Prefill \u0026 Decode Phases",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  603.874261312302
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fnygfhaQmDB4DHfOvTtlo",
+                      "type":  "label",
+                      "label":  "Basic Terminology",
+                      "position":  {
+                                       "x":  -668.5440764108317,
+                                       "y":  134.7449187875809
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "sre_s0dvpOP0DTM66a3hu",
+                      "type":  "subtopic",
+                      "label":  "Inter-Token Latency",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  286.5955841563226
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uIhVVlMsykuxJCa02f-i-",
+                      "type":  "subtopic",
+                      "label":  "The Inference Stack ",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  202.2449187875809
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bLTZS3iMsyXhOkp9JXAEb",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -439.16412044738775,
+                                       "y":  145.7449187875809
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aT5KcxJkb5UvuyI-Kx6xJ",
+                      "type":  "label",
+                      "label":  "Latency Metrics",
+                      "position":  {
+                                       "x":  -643.0440764108317,
+                                       "y":  557.5955841563225
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "LOzGIi4JX6dgsQMiPd3qh",
+                      "type":  "label",
+                      "label":  "Application Context",
+                      "position":  {
+                                       "x":  -661.0440764108317,
+                                       "y":  970.1589118316838
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "k6eXs6zmr8kZFMNDThElJ",
+                      "type":  "label",
+                      "label":  "Inference Phases",
+                      "position":  {
+                                       "x":  -654.5440764108317,
+                                       "y":  763.0860883799916
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "3M7ZdXgElUaE9ictQZ1Ra",
+                      "type":  "label",
+                      "label":  "Model Strategy",
+                      "position":  {
+                                       "x":  -644.5440764108317,
+                                       "y":  1227.5809606656162
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "59mMKSva9vkoMxHErNXOd",
+                      "type":  "subtopic",
+                      "label":  "Asynchronous Inference",
+                      "position":  {
+                                       "x":  -698.5440764108317,
+                                       "y":  709.874261312302
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fCSKZwDVR9T9izAWJvp42",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -211.56045345786686,
+                                       "y":  4567.205221945633
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O6bOZdNyGxVoBorRSSzdH",
+                      "type":  "paragraph",
+                      "label":  "Also visit the following related roadmaps",
+                      "position":  {
+                                       "x":  -604.5604534578669,
+                                       "y":  4514.50850116441
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KRoUAgGBmiBUuuMDrOgBt",
+                      "type":  "button",
+                      "label":  "C++",
+                      "position":  {
+                                       "x":  -182.11900452193083,
+                                       "y":  4567.205221945633
+                                   },
+                      "href":  "https://roadmap.sh/cpp",
+                      "links":  null
+                  },
+                  {
+                      "id":  "qFu-nbV9PFqTn5WeWk6Sm",
+                      "type":  "button",
+                      "label":  "AI Engineer",
+                      "position":  {
+                                       "x":  -590.1190045219308,
+                                       "y":  4567.205221945633
+                                   },
+                      "href":  "https://roadmap.sh/frontend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "JldKYJJwmZEeD95S_qIYr",
+                      "type":  "button",
+                      "label":  "Machine Learning",
+                      "position":  {
+                                       "x":  -386.11900452193083,
+                                       "y":  4567.205221945633
+                                   },
+                      "href":  "https://roadmap.sh/html",
+                      "links":  null
+                  },
+                  {
+                      "id":  "fBW5CgQzeQU36y3rBWZl1",
+                      "type":  "button",
+                      "label":  "Machine Learning",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  415.8691780833645
+                                   },
+                      "href":  "https://roadmap.sh/machine-learning",
+                      "links":  null
+                  },
+                  {
+                      "id":  "KAt5FzglOUtH7jLlzDn-I",
+                      "type":  "subtopic",
+                      "label":  "Open vs Closed Models",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  43.2449187875809
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P075KhZr9p_5PBpIufnsU",
+                      "type":  "button",
+                      "label":  "AI Engineer",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  593.78826566395
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "bPO6uwod30-ewwbo8i1eU",
+                      "type":  "subtopic",
+                      "label":  "Arithmetic Intensity",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1025.4659766836398
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Uq3mE-0WIASHfcBDEnbLj",
+                      "type":  "subtopic",
+                      "label":  "NVIDIA",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  1572.1869903383958
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "am4Hh-14g6Awk0WcFmVN7",
+                      "type":  "subtopic",
+                      "label":  "Other Accelerators",
+                      "position":  {
+                                       "x":  65.7272537242942,
+                                       "y":  1625.1869903383958
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9gWengbl5Bf57hVU6D6yh",
+                      "type":  "button",
+                      "label":  "C++",
+                      "position":  {
+                                       "x":  65.7272537242942,
+                                       "y":  1761.2376002973058
+                                   },
+                      "href":  "https://roadmap.sh/cpp",
+                      "links":  null
+                  },
+                  {
+                      "id":  "lTjWXB8YRwx11e8lxSgNm",
+                      "type":  "topic",
+                      "label":  "Model Formats \u0026 Runtimes",
+                      "position":  {
+                                       "x":  -335.92556515060755,
+                                       "y":  2051.9169808135302
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jkbrf0_JDljWmVq_o9XE-",
+                      "type":  "subtopic",
+                      "label":  "safetensors",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  1997.358752940927
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Vmtbdre3SZzwq3FxOO-Bc",
+                      "type":  "subtopic",
+                      "label":  "ONNX Runtime",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2050.358752940927
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "M4qjJSEAnsjrmP3A_O8HC",
+                      "type":  "subtopic",
+                      "label":  "TensorRT",
+                      "position":  {
+                                       "x":  -572.1641204473877,
+                                       "y":  1997.358752940927
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KHDnY7byKgmaPtC_0uDBM",
+                      "type":  "subtopic",
+                      "label":  "SGLang Genai-bench",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2235.867957950637
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zffK61pNUJDwkX7Ukql8y",
+                      "type":  "subtopic",
+                      "label":  "AIPerf",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2182.867957950637
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IQuJFfMP1dW0ELlip6LOd",
+                      "type":  "subtopic",
+                      "label":  "Locust",
+                      "position":  {
+                                       "x":  -572.1641204473877,
+                                       "y":  2182.867957950637
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zhiKpdZm8zOg4e3bm1OgN",
+                      "type":  "subtopic",
+                      "label":  "ModelOpt",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2619.5489601560294
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ak3xqQwe80R3ColShg79_",
+                      "type":  "label",
+                      "label":  "Quantization Approaches",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2434.3713875510352
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "QKq0C2Jq64UJm-pik2mp5",
+                      "type":  "label",
+                      "label":  "Speculation Algorithms",
+                      "position":  {
+                                       "x":  65.72725372429417,
+                                       "y":  2667.175190006242
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "ef3EneMibOaDQkKcpipGY",
+                      "type":  "subtopic",
+                      "label":  "BERT-style models",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3365.6261967755127
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YF-b3XWFvCLaQRkMQo8nu",
+                      "type":  "label",
+                      "label":  "Embedding Architectures",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3321.7982861566766
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "AKWx-7h0eYGX_LJQ1uIYC",
+                      "type":  "button",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  66.52546394235912,
+                                       "y":  3836.002663490967
+                                   },
+                      "href":  "https://roadmap.sh/docker",
+                      "links":  null
+                  },
+                  {
+                      "id":  "J41oJ0awkkaiCxF8ff5vv",
+                      "type":  "button",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  3983.446821310357
+                                   },
+                      "href":  "https://roadmap.sh/kubernetes",
+                      "links":  null
+                  },
+                  {
+                      "id":  "-sh7BnlpHmVk0nYRZGzr8",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  50.72725372429417,
+                                       "y":  3931.9946860365944
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "06KEvJbBonsc-cm9D7o4a",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -64.26682355679549,
+                                       "y":  3999.446821310357
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f7BsPBrUebrTgyvIHYb8S",
+                      "type":  "button",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  65.88099547806917,
+                                       "y":  4567.205221945633
+                                   },
+                      "href":  "https://roadmap.sh/css",
+                      "links":  null
+                  },
+                  {
+                      "id":  "gRb7NbE1CVIFg7b-H5wop",
+                      "type":  "button",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  -58.11900452193083,
+                                       "y":  4567.205221945633
+                                   },
+                      "href":  "https://roadmap.sh/html",
+                      "links":  null
+                  },
+                  {
+                      "id":  "FbfHP9hFBuISrGzKaX-qm",
+                      "type":  "paragraph",
+                      "label":  "Learn more through this book",
+                      "position":  {
+                                       "x":  -711.5632849475203,
+                                       "y":  -0.257250127297425
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-dmCivVJ-rSyH_2IGBKYX",
+                      "type":  "button",
+                      "label":  "Inference Engineering",
+                      "position":  {
+                                       "x":  -696.0632849475203,
+                                       "y":  47.50176215457711
+                                   },
+                      "href":  "https://www.baseten.co/inference-engineering/",
+                      "links":  null
+                  },
+                  {
+                      "id":  "HnJ29eZchSHMvU-mSIXCJ",
+                      "type":  "subtopic",
+                      "label":  "Structured Outputs",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2705.175190006242
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "E8mQE9mlIPW6wpmJBQe0b",
+                      "type":  "subtopic",
+                      "label":  "Constrained Decoding",
+                      "position":  {
+                                       "x":  -709.1641204473877,
+                                       "y":  2758.175190006242
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "hhHCkfxwmgSgNHZs81HXZ",
+                      "source":  "-A23UrsRdSwBQEZWU9kfw",
+                      "target":  "p2S0W3EDn768jbqzc7CE7",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "sgrhUg6J6xnPpOYAOKg_b",
+                      "source":  "p2S0W3EDn768jbqzc7CE7",
+                      "target":  "nORbxBOAtl9sNU4sIJgP3",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "2mPU_mr74m6x_1l_Wz2oz",
+                      "source":  "Mebx7HS-I-eNP5i3f6Clf",
+                      "target":  "aagMwPPmi6ngfkIqZL-Mg",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "-2B63ZgMXrAfis1KxmZlL",
+                      "source":  "Mebx7HS-I-eNP5i3f6Clf",
+                      "target":  "xsV4WevPzhfydyvxVzGcw",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "-MUXEz5sAQCsQpMCIaWs4",
+                      "source":  "Mebx7HS-I-eNP5i3f6Clf",
+                      "target":  "biVjpCA3bsKI7sa_aBIUE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "E2c7KhLaFCsevL5SX4XqF",
+                      "source":  "Mebx7HS-I-eNP5i3f6Clf",
+                      "target":  "yTSrQfJsE-Mf4ZU_hJwYT",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "-2pOhk-FXpFtoC0Vvz7fP",
+                      "source":  "Mebx7HS-I-eNP5i3f6Clf",
+                      "target":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "dUhJiZHfJ5cyVflOQWMip",
+                      "source":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "target":  "KWM3V7_15_Aur0He9j2Va",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "6ZVNIVlAVOKemy5DJLnrB",
+                      "source":  "KWM3V7_15_Aur0He9j2Va",
+                      "target":  "mQcj-H3R789o6nDh8tG9k",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "DsaFchMEyVz1DD5QkrJRz",
+                      "source":  "KWM3V7_15_Aur0He9j2Va",
+                      "target":  "6oTnNEsX_6Cu6lowEz9vg",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "GuBm5lGbHJPJKThPVPmvf",
+                      "source":  "KWM3V7_15_Aur0He9j2Va",
+                      "target":  "ujDs0URW59Xkp82_uXHGT",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "2zI5w2BzMb_OXh4bwQdFN",
+                      "source":  "ujDs0URW59Xkp82_uXHGT",
+                      "target":  "00JLMvn8DUJBCw6-BxO0y",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "fs-MVm5OrH0mnqSOx4VR_",
+                      "source":  "00JLMvn8DUJBCw6-BxO0y",
+                      "target":  "5829d5dvXq9qlMSD1CG0N",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "lnZ-dzXdJhjdIUKj037gv",
+                      "source":  "00JLMvn8DUJBCw6-BxO0y",
+                      "target":  "dAo4PMB_VnRFMSjyDrLj0",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "cMZsw8rQ0ZTCdjg8Dw0D7",
+                      "source":  "00JLMvn8DUJBCw6-BxO0y",
+                      "target":  "da0HGfSDr6_DV4ZJcrcIB",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "-uYF5p2T4JOktihgmdf7b",
+                      "source":  "00JLMvn8DUJBCw6-BxO0y",
+                      "target":  "umz3jScWQViO9-lACUU4f",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "RfYxyQapSt980oaGtEkp3",
+                      "source":  "FilQGz3geyyvHZGyKPW3G",
+                      "target":  "Jn6djJbCq4BpbmW10HFMQ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "yqYyAUTHTEdI6cKr_bPcn",
+                      "source":  "Jn6djJbCq4BpbmW10HFMQ",
+                      "target":  "DwJJLFLPHGn9zdccTlLY2",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "ikq0AnDNz9y4QiPrqakp2",
+                      "source":  "DwJJLFLPHGn9zdccTlLY2",
+                      "target":  "iKW1wqzd5EfRKvNIRshNN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "v3lNsU07fKiocQvh53AQr",
+                      "source":  "DwJJLFLPHGn9zdccTlLY2",
+                      "target":  "D4uNOZgG0w-nFL3a89pDM",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "QxTksQEGlMv_8cQyFaoIW",
+                      "source":  "D4uNOZgG0w-nFL3a89pDM",
+                      "target":  "AHVfxQRXmRoiTxC1eeMme",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "ZQrdRZ02dXBcss-Lb4wPA",
+                      "source":  "D4uNOZgG0w-nFL3a89pDM",
+                      "target":  "H_e3KZ7p7enUCYE5M5Lr7",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "KZbB8E_Vb2w0ZYy10Vqv7",
+                      "source":  "D4uNOZgG0w-nFL3a89pDM",
+                      "target":  "01j1KkEB-nIXxP-rENcJ3",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "2yHT0YcDPza2C7fEEqBMT",
+                      "source":  "01j1KkEB-nIXxP-rENcJ3",
+                      "target":  "TxK7B_FF38ms3eKPGug2w",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "fKRKFGolvUU6yCZWvppaX",
+                      "source":  "TxK7B_FF38ms3eKPGug2w",
+                      "target":  "S2GZw9etrrvEJzV9V-1C_",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "qS3kVNTBbFXi34ekQTRxV",
+                      "source":  "TxK7B_FF38ms3eKPGug2w",
+                      "target":  "VVZqb0FNhzk2NcHftvu_D",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "Y3WoJx84_o5ntTDFQb_TJ",
+                      "source":  "gMWgd10cxcQG_RG2oSAEH",
+                      "target":  "m0EIHovHWGkWULN0a3C3v",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "55BTUg9AvuELNa9TpSrWG",
+                      "source":  "gMWgd10cxcQG_RG2oSAEH",
+                      "target":  "PzEj5yq1lDQ324RWYpDdQ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "v0ondcDDaHJBTYU9bjbKH",
+                      "source":  "PzEj5yq1lDQ324RWYpDdQ",
+                      "target":  "2nGv7_8PTWYr7uqbudCcX",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "_A_fZuB25C9uNIPav7D9q",
+                      "source":  "PzEj5yq1lDQ324RWYpDdQ",
+                      "target":  "gkt2Gr34RJJf1NZgbmtXf",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "n_pXHNTVKrilBRrxtVfpC",
+                      "source":  "PzEj5yq1lDQ324RWYpDdQ",
+                      "target":  "3DR0Qvqu2qUTi9niU_63n",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "4uvKBJ4ifdgtVrrNSRLKw",
+                      "source":  "PzEj5yq1lDQ324RWYpDdQ",
+                      "target":  "uL3Fn8XfS1Yv_PJd9R8wi",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "W2NYLuOlt9mDRjT4UQbL4",
+                      "source":  "PzEj5yq1lDQ324RWYpDdQ",
+                      "target":  "CiXsdHHL0e2DN4ICI5jeX",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "mRG2cg1LTEx6DvUZFWmTl",
+                      "source":  "CiXsdHHL0e2DN4ICI5jeX",
+                      "target":  "csghcNLDywO8oTIZNXeyP",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "OkDVvvw_BHiYZWPAPdh3C",
+                      "source":  "CiXsdHHL0e2DN4ICI5jeX",
+                      "target":  "62y78y-RXZT_QCUfd-YFE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "JvRlpEr54MKNGpKgjNI7I",
+                      "source":  "CiXsdHHL0e2DN4ICI5jeX",
+                      "target":  "9KLS3gWArBofLEULu3sQc",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "9aSFP8fCVhdcYiQr2xmLJ",
+                      "source":  "CiXsdHHL0e2DN4ICI5jeX",
+                      "target":  "FZx2xsqw_cmYLFS3GMAl-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "u9OFca2Kd24KwNcUexF8M",
+                      "source":  "CiXsdHHL0e2DN4ICI5jeX",
+                      "target":  "f6PWIqf4LubR7lQztaoB5",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "0HBoJGTZmpbkLs_FLw-Tm",
+                      "source":  "f6PWIqf4LubR7lQztaoB5",
+                      "target":  "KhTFecXEkHR4WX-_TYY3g",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "TlzBNHlyumIJGx5Pp2Yqe",
+                      "source":  "f6PWIqf4LubR7lQztaoB5",
+                      "target":  "YPzV6efHI-5K8Umsqww37",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "pmW-5wR2dApP7-CqR0PTe",
+                      "source":  "YPzV6efHI-5K8Umsqww37",
+                      "target":  "JsjmQrN1V_dM1Kw6UnYLc",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "wtIfTuwXC7h5xInNvztC6",
+                      "source":  "JsjmQrN1V_dM1Kw6UnYLc",
+                      "target":  "7pRZu7xa2_43HVwKty9px",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "WUegQ_6Yi55MGirkzJ6zv",
+                      "source":  "JsjmQrN1V_dM1Kw6UnYLc",
+                      "target":  "plw2WiOoGxg64P-Kv-Xm7",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "O_vPDLjzzSoI6F-VR4E_I",
+                      "source":  "JsjmQrN1V_dM1Kw6UnYLc",
+                      "target":  "Tvt-vX1gWuJZJBHh5vfKu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "RCCPa5XVwsAC9N1zZRJb5",
+                      "source":  "Tvt-vX1gWuJZJBHh5vfKu",
+                      "target":  "M7K6d-Qw4BpM724LfM1u6",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "Pew-DsukR0pfjd7uH7Yut",
+                      "source":  "Tvt-vX1gWuJZJBHh5vfKu",
+                      "target":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "czIDdQyTe8SK23BWolv8W",
+                      "source":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "target":  "P0BA_p3xqpxkQsFHqM0AZ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "B-pa038KwnqOmR4cEnTrw",
+                      "source":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "target":  "6PRICRK6aRQCoThxnevB0",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "fTvzhjJFiYy48QaCluSUD",
+                      "source":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "target":  "XnhhN1QVWzlp9DUwkii9-",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "otIf0wGNbRdKqvFmvmAH9",
+                      "source":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "target":  "3VbPNaSnzWZ-pC-lGFMrh",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "1AEokBo8I4rG1dIRq9d-E",
+                      "source":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "target":  "moyS740HQoUUovilx1Yyt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "8WZGv7P_1I_nh2xCclHW1",
+                      "source":  "Lk8906Mpi3yxiSt8EC_BC",
+                      "target":  "U0l_xCUiizbJfjfrlBaJ0",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "OyWQB_XGuVxiuZfY2-K22",
+                      "source":  "U0l_xCUiizbJfjfrlBaJ0",
+                      "target":  "lnIHjq4nvCs3zvUln-jHR",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "uxN_NfhFMHzzhtu6JCy5p",
+                      "source":  "U0l_xCUiizbJfjfrlBaJ0",
+                      "target":  "PqEH1ez5dg5tEsspgfAK1",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "BkjPATVynEVqaM7AkGEoj",
+                      "source":  "Ztmj0zC8XLb7x_PWxOOgu",
+                      "target":  "--ohScNmF5LR04P8e95AP",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "WYtlB53uJWrhmHbuiSRa5",
+                      "source":  "--ohScNmF5LR04P8e95AP",
+                      "target":  "wEaM8VyAo6MFsc3RXQ7Ar",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "B31Bb5lokKAbDwMeWs7v1",
+                      "source":  "--ohScNmF5LR04P8e95AP",
+                      "target":  "KB7ExU9X49omOuk9D_Qal",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xm1mm80gmtNTKaltdHtJb",
+                      "source":  "--ohScNmF5LR04P8e95AP",
+                      "target":  "o_gotSHKIPtV5SgGN3Vja",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "Xmk6A70ZMYex9VgWS8Zl7",
+                      "source":  "o_gotSHKIPtV5SgGN3Vja",
+                      "target":  "d78UiI_FZyLsU6O52btXg",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "JE0acezl33tvCf7IjkDME",
+                      "source":  "d78UiI_FZyLsU6O52btXg",
+                      "target":  "4mbGBgTu8AtrFHVYiffkB",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "tl8dY48iaIUeMhXNRLqyN",
+                      "source":  "d78UiI_FZyLsU6O52btXg",
+                      "target":  "xrr5Y1sbN2eyQyuA5LlAW",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "aa1w0D_Jixefao0LtvQ9W",
+                      "source":  "d78UiI_FZyLsU6O52btXg",
+                      "target":  "mzF2mHSj8cvr9mvr16R0N",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__GL-9aJKTJT9s4maeT37Ufw2-k7Xjv5V1AKUsz3kK0BeRsx1",
+                      "source":  "GL-9aJKTJT9s4maeT37Uf",
+                      "target":  "k7Xjv5V1AKUsz3kK0BeRs",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__GL-9aJKTJT9s4maeT37Ufz2-fVUfQYb8BP_hFMmd1S2-Jy2",
+                      "source":  "GL-9aJKTJT9s4maeT37Uf",
+                      "target":  "fVUfQYb8BP_hFMmd1S2-J",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__GL-9aJKTJT9s4maeT37Ufz2-2DsjfW9r4dOI3LDQU80qty1",
+                      "source":  "GL-9aJKTJT9s4maeT37Uf",
+                      "target":  "2DsjfW9r4dOI3LDQU80qt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__GL-9aJKTJT9s4maeT37Ufx2--A23UrsRdSwBQEZWU9kfww2",
+                      "source":  "GL-9aJKTJT9s4maeT37Uf",
+                      "target":  "-A23UrsRdSwBQEZWU9kfw",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "lFPRAccHbz5MElSzCJTOL",
+                      "source":  "irgGvEnY1_WW1EPtuMKgC",
+                      "target":  "xHM7qjigMmXEwxeMEeMWl",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "W0_AlJa8J3tNW1XX3Yc9D",
+                      "source":  "irgGvEnY1_WW1EPtuMKgC",
+                      "target":  "2KY3T5JVHQBR8pmAiuq0V",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "Tz17MMKpy0-TEnN89IAh1",
+                      "source":  "irgGvEnY1_WW1EPtuMKgC",
+                      "target":  "V678kX8FPChTZCe7Nqwhv",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "hUMY9LzCTbtur9e8YSbFl",
+                      "source":  "irgGvEnY1_WW1EPtuMKgC",
+                      "target":  "7BddTfOkWmlL4HAkFBXtq",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__P075KhZr9p_5PBpIufnsUx2-irgGvEnY1_WW1EPtuMKgCw2",
+                      "source":  "fBW5CgQzeQU36y3rBWZl1",
+                      "target":  "irgGvEnY1_WW1EPtuMKgC",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__uIhVVlMsykuxJCa02f-i-y2-GL-9aJKTJT9s4maeT37Ufz1",
+                      "source":  "uIhVVlMsykuxJCa02f-i-",
+                      "target":  "GL-9aJKTJT9s4maeT37Uf",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__Mebx7HS-I-eNP5i3f6Clfw2-P075KhZr9p_5PBpIufnsUx1",
+                      "source":  "Mebx7HS-I-eNP5i3f6Clf",
+                      "target":  "P075KhZr9p_5PBpIufnsU",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__Gtd4g4MtB9zFfahRpbE2Kz2-uc2enkdtRqA5K7kbgrYJFy1",
+                      "source":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "target":  "uc2enkdtRqA5K7kbgrYJF",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__Gtd4g4MtB9zFfahRpbE2Kz2-bPO6uwod30-ewwbo8i1eUy1",
+                      "source":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "target":  "bPO6uwod30-ewwbo8i1eU",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__XF-wMQCqPZiWv1XmryPBPy2-Gtd4g4MtB9zFfahRpbE2Kz1",
+                      "source":  "XF-wMQCqPZiWv1XmryPBP",
+                      "target":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__QVadKzBfLdegat-4wgOMXy2-Gtd4g4MtB9zFfahRpbE2Kz2",
+                      "source":  "QVadKzBfLdegat-4wgOMX",
+                      "target":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__0lRP9cmoS-_wxQSsIcRQgy2-Gtd4g4MtB9zFfahRpbE2Kz2",
+                      "source":  "0lRP9cmoS-_wxQSsIcRQg",
+                      "target":  "Gtd4g4MtB9zFfahRpbE2K",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__Uq3mE-0WIASHfcBDEnbLjw2-kPT86kA0WwE_fWUAAKCTTx1",
+                      "source":  "Uq3mE-0WIASHfcBDEnbLj",
+                      "target":  "kPT86kA0WwE_fWUAAKCTT",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__umz3jScWQViO9-lACUU4fz2-Uq3mE-0WIASHfcBDEnbLjy1",
+                      "source":  "umz3jScWQViO9-lACUU4f",
+                      "target":  "Uq3mE-0WIASHfcBDEnbLj",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__umz3jScWQViO9-lACUU4fz2-am4Hh-14g6Awk0WcFmVN7y1",
+                      "source":  "umz3jScWQViO9-lACUU4f",
+                      "target":  "am4Hh-14g6Awk0WcFmVN7",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__umz3jScWQViO9-lACUU4fx2-FilQGz3geyyvHZGyKPW3Gw1",
+                      "source":  "umz3jScWQViO9-lACUU4f",
+                      "target":  "FilQGz3geyyvHZGyKPW3G",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__FilQGz3geyyvHZGyKPW3Gy2-fQDl7_3nRGa8NFivOIgTPz1",
+                      "source":  "FilQGz3geyyvHZGyKPW3G",
+                      "target":  "fQDl7_3nRGa8NFivOIgTP",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__kqzHHoiZ9y4tCS6MMlLHQz2-FilQGz3geyyvHZGyKPW3Gy1",
+                      "source":  "kqzHHoiZ9y4tCS6MMlLHQ",
+                      "target":  "FilQGz3geyyvHZGyKPW3G",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__GL-9aJKTJT9s4maeT37Ufz2-KAt5FzglOUtH7jLlzDn-Iy1",
+                      "source":  "GL-9aJKTJT9s4maeT37Uf",
+                      "target":  "KAt5FzglOUtH7jLlzDn-I",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__DwJJLFLPHGn9zdccTlLY2z2-1dWPVaSQ4TfVU3Obx3m19y1",
+                      "source":  "DwJJLFLPHGn9zdccTlLY2",
+                      "target":  "1dWPVaSQ4TfVU3Obx3m19",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__1dWPVaSQ4TfVU3Obx3m19w2-J41oJ0awkkaiCxF8ff5vvx1",
+                      "source":  "1dWPVaSQ4TfVU3Obx3m19",
+                      "target":  "9gWengbl5Bf57hVU6D6yh",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__lTjWXB8YRwx11e8lxSgNmy2-M4qjJSEAnsjrmP3A_O8HCz1",
+                      "source":  "lTjWXB8YRwx11e8lxSgNm",
+                      "target":  "M4qjJSEAnsjrmP3A_O8HC",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__lTjWXB8YRwx11e8lxSgNmy2-Vmtbdre3SZzwq3FxOO-Bcz1",
+                      "source":  "lTjWXB8YRwx11e8lxSgNm",
+                      "target":  "Vmtbdre3SZzwq3FxOO-Bc",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__01j1KkEB-nIXxP-rENcJ3z2-n2_zIGkQgyYCMYPypz3vby1",
+                      "source":  "01j1KkEB-nIXxP-rENcJ3",
+                      "target":  "n2_zIGkQgyYCMYPypz3vb",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__01j1KkEB-nIXxP-rENcJ3z2-wcAtbab81IJdpFh6L-hePy2",
+                      "source":  "01j1KkEB-nIXxP-rENcJ3",
+                      "target":  "wcAtbab81IJdpFh6L-heP",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__01j1KkEB-nIXxP-rENcJ3z2-ctdMz6rHa4Cwl1x19V_5ky2",
+                      "source":  "01j1KkEB-nIXxP-rENcJ3",
+                      "target":  "ctdMz6rHa4Cwl1x19V_5k",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__TxK7B_FF38ms3eKPGug2wy2-XXfjlqd0CYHwBR5-Kdmmiz1",
+                      "source":  "TxK7B_FF38ms3eKPGug2w",
+                      "target":  "XXfjlqd0CYHwBR5-Kdmmi",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__Zvvs8cB98IRee1okBILsSx2-zhiKpdZm8zOg4e3bm1OgNw2",
+                      "source":  "Zvvs8cB98IRee1okBILsS",
+                      "target":  "zhiKpdZm8zOg4e3bm1OgN",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__VVZqb0FNhzk2NcHftvu_Dx2-DaSqcLHfnJ4_n9utVVTSkw1",
+                      "source":  "VVZqb0FNhzk2NcHftvu_D",
+                      "target":  "DaSqcLHfnJ4_n9utVVTSk",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__DaSqcLHfnJ4_n9utVVTSky2-QCXV4Utq0Ajs1krLM3fhgz1",
+                      "source":  "DaSqcLHfnJ4_n9utVVTSk",
+                      "target":  "QCXV4Utq0Ajs1krLM3fhg",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__DaSqcLHfnJ4_n9utVVTSky2-Zvvs8cB98IRee1okBILsSz1",
+                      "source":  "DaSqcLHfnJ4_n9utVVTSk",
+                      "target":  "Zvvs8cB98IRee1okBILsS",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__DaSqcLHfnJ4_n9utVVTSkz2-mK_4R8liXtl64iG7ONvgzy1",
+                      "source":  "DaSqcLHfnJ4_n9utVVTSk",
+                      "target":  "mK_4R8liXtl64iG7ONvgz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__DaSqcLHfnJ4_n9utVVTSkx2-gMWgd10cxcQG_RG2oSAEHw2",
+                      "source":  "DaSqcLHfnJ4_n9utVVTSk",
+                      "target":  "gMWgd10cxcQG_RG2oSAEH",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__GmCkfSeVDJ8T8WLZ7DoOpy2-Tvt-vX1gWuJZJBHh5vfKuz1",
+                      "source":  "GmCkfSeVDJ8T8WLZ7DoOp",
+                      "target":  "Tvt-vX1gWuJZJBHh5vfKu",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__gMWgd10cxcQG_RG2oSAEHz2-0FZTg3_ZnTpMOQ078OOxEy1",
+                      "source":  "gMWgd10cxcQG_RG2oSAEH",
+                      "target":  "0FZTg3_ZnTpMOQ078OOxE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__U0l_xCUiizbJfjfrlBaJ0x2-Ztmj0zC8XLb7x_PWxOOguw1",
+                      "source":  "U0l_xCUiizbJfjfrlBaJ0",
+                      "target":  "Ztmj0zC8XLb7x_PWxOOgu",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__--ohScNmF5LR04P8e95APz2-J41oJ0awkkaiCxF8ff5vvy1",
+                      "source":  "--ohScNmF5LR04P8e95AP",
+                      "target":  "AKWx-7h0eYGX_LJQ1uIYC",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__o_gotSHKIPtV5SgGN3Vjay2-J41oJ0awkkaiCxF8ff5vvz1",
+                      "source":  "o_gotSHKIPtV5SgGN3Vja",
+                      "target":  "J41oJ0awkkaiCxF8ff5vv",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "KOutFePu41UQuuRsP5JKg",
+                      "source":  "ZlOtQtxJST10nuHjhbUx6",
+                      "target":  "4x-4BFZH7bfNteD5ZAwTI",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "WFG8e3bNiow0kc9FbhWda",
+                      "source":  "ZlOtQtxJST10nuHjhbUx6",
+                      "target":  "le4sPQ0h9l-vlmCB4G8ZY",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "IcBXiK1K_i0l8E4kAXqPh",
+                      "source":  "ZlOtQtxJST10nuHjhbUx6",
+                      "target":  "Gof4kW2LbkNCtH68c7Xvq",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "QcFoVzF03rEjVc6aIcg9h",
+                      "source":  "ZlOtQtxJST10nuHjhbUx6",
+                      "target":  "w-dVv5dFNxD7Rqy16m4uL",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__d78UiI_FZyLsU6O52btXgx2-ZlOtQtxJST10nuHjhbUx6w1",
+                      "source":  "d78UiI_FZyLsU6O52btXg",
+                      "target":  "ZlOtQtxJST10nuHjhbUx6",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__XXfjlqd0CYHwBR5-Kdmmiw2-KHDnY7byKgmaPtC_0uDBMx1",
+                      "source":  "XXfjlqd0CYHwBR5-Kdmmi",
+                      "target":  "KHDnY7byKgmaPtC_0uDBM",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__ZlOtQtxJST10nuHjhbUx6x2-O6bOZdNyGxVoBorRSSzdHw1",
+                      "source":  "ZlOtQtxJST10nuHjhbUx6",
+                      "target":  "O6bOZdNyGxVoBorRSSzdH",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__gMWgd10cxcQG_RG2oSAEHy2-HnJ29eZchSHMvU-mSIXCJz1",
+                      "source":  "gMWgd10cxcQG_RG2oSAEH",
+                      "target":  "HnJ29eZchSHMvU-mSIXCJ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__gMWgd10cxcQG_RG2oSAEHy2-E8mQE9mlIPW6wpmJBQe0bz1",
+                      "source":  "gMWgd10cxcQG_RG2oSAEH",
+                      "target":  "E8mQE9mlIPW6wpmJBQe0b",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  }
+              ]
+}

@@ -1,0 +1,3689 @@
+[
+    {
+        "id":  "tU4Umtnfu01t9gLlnlK6b",
+        "label":  "CLI Tools",
+        "endpoint":  "https://roadmap.sh/react/topic@tU4Umtnfu01t9gLlnlK6b.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "vite",
+                              "type":  "article",
+                              "url":  "https://vitejs.dev"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y9ToYDix-koRbR6FLydFw",
+        "label":  "Vite",
+        "endpoint":  "https://roadmap.sh/react/topic@y9ToYDix-koRbR6FLydFw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Vite Website",
+                              "type":  "official",
+                              "url":  "https://vitejs.dev"
+                          },
+                          {
+                              "title":  "Vite Documentation",
+                              "type":  "official",
+                              "url":  "https://vitejs.dev/guide"
+                          },
+                          {
+                              "title":  "Vite Crash Course",
+                              "type":  "video",
+                              "url":  "https://youtu.be/LQQ3CR2JTX8"
+                          },
+                          {
+                              "title":  "Vite Crash Course | Faster Alternative To CRA | 2023",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=89NJdbYTgJ8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "79K4xgljcoSHkCYI1D55O",
+        "label":  "Components",
+        "endpoint":  "https://roadmap.sh/react/topic@79K4xgljcoSHkCYI1D55O.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Creating and nesting components",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn#components"
+                          },
+                          {
+                              "title":  "Explore the different types of components in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-component-types/"
+                          },
+                          {
+                              "title":  "What is the difference between components, elements, and instances?",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-element-component/"
+                          },
+                          {
+                              "title":  "Components \u0026 Templates in React",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9D1x7-2FmTA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8mw4TxlLN4ZKAlLl-_NVV",
+        "label":  "Functional Components",
+        "endpoint":  "https://roadmap.sh/react/topic@8mw4TxlLN4ZKAlLl-_NVV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Functional Components and Props",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/Component"
+                          },
+                          {
+                              "title":  "Your first component",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/your-first-component"
+                          },
+                          {
+                              "title":  "Passing props to a component",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/passing-props-to-a-component"
+                          },
+                          {
+                              "title":  "Functional Components in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-function-component/"
+                          },
+                          {
+                              "title":  "React JS Functional Components",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NJ_qbsLf52w"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WREBxWSNQDD_6fzpHL6CE",
+        "label":  "JSX",
+        "endpoint":  "https://roadmap.sh/react/topic@WREBxWSNQDD_6fzpHL6CE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Writing markup with JSX",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/writing-markup-with-jsx"
+                          },
+                          {
+                              "title":  "JavaScript in JSX with Curly Braces",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/javascript-in-jsx-with-curly-braces"
+                          },
+                          {
+                              "title":  "Working with JSX - React - CodeGuage",
+                              "type":  "article",
+                              "url":  "https://www.codeguage.com/courses/react/jsx"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RFuy3Eho3mnW1GpP08BVw",
+        "label":  "Props vs State",
+        "endpoint":  "https://roadmap.sh/react/topic@RFuy3Eho3mnW1GpP08BVw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "State: A Component\u0027s Memory",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/state-a-components-memory"
+                          },
+                          {
+                              "title":  "How to use Props in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-pass-props-to-component/"
+                          },
+                          {
+                              "title":  "What is the difference between state and props in React?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/27991366/what-is-the-difference-between-state-and-props-in-react"
+                          },
+                          {
+                              "title":  "How to update state from props in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-derive-state-props/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aE6XBgH23135_9QmD4ff2",
+        "label":  "Conditional Rendering",
+        "endpoint":  "https://roadmap.sh/react/topic@aE6XBgH23135_9QmD4ff2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Conditional Rendering",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/conditional-rendering"
+                          },
+                          {
+                              "title":  "Different techniques for conditional rendering in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/conditional-rendering-react/"
+                          },
+                          {
+                              "title":  "Conditional rendering in React",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4oCVDkb_EIs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4T59gdcwdXqj9kCuK7cfp",
+        "label":  "Composition",
+        "endpoint":  "https://roadmap.sh/react/topic@4T59gdcwdXqj9kCuK7cfp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Passing JSX as children",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/passing-props-to-a-component#passing-jsx-as-children"
+                          },
+                          {
+                              "title":  "Composition vs Inheritance",
+                              "type":  "article",
+                              "url":  "https://reactjs.org/docs/composition-vs-inheritance.html"
+                          },
+                          {
+                              "title":  "How to perform component composition in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-component-composition/"
+                          },
+                          {
+                              "title":  "Achieving Reusability With React Composition",
+                              "type":  "article",
+                              "url":  "https://formidable.com/blog/2021/react-composition/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0uiGsC5SWavNdlFqizkKe",
+        "label":  "Rendering",
+        "endpoint":  "https://roadmap.sh/react/topic@0uiGsC5SWavNdlFqizkKe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Render and Commit - Official Docs",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/render-and-commit"
+                          },
+                          {
+                              "title":  "Rendering in React - ui.dev",
+                              "type":  "article",
+                              "url":  "https://ui.dev/why-react-renders"
+                          },
+                          {
+                              "title":  "Fix the slow render before you fix the re-render",
+                              "type":  "article",
+                              "url":  "https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8OBlgDRUg-CTgDXY-QHyO",
+        "label":  "Component Lifecycle",
+        "endpoint":  "https://roadmap.sh/react/topic@8OBlgDRUg-CTgDXY-QHyO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lifecycle of Reactive Effects",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/lifecycle-of-reactive-effects"
+                          },
+                          {
+                              "title":  "Class Component",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/Component"
+                          },
+                          {
+                              "title":  "React component lifecycle: React lifecycle methods \u0026 hooks",
+                              "type":  "article",
+                              "url":  "https://tsh.io/blog/react-component-lifecycle-methods-vs-hooks/"
+                          },
+                          {
+                              "title":  "The React lifecycle: methods and hooks explained",
+                              "type":  "article",
+                              "url":  "https://retool.com/blog/the-react-lifecycle-methods-and-hooks-explained#react-hooks-and-the-component-lifecycle"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HeWVCPHqVnnbOn6zIim4K",
+        "label":  "Lists and Keys",
+        "endpoint":  "https://roadmap.sh/react/topic@HeWVCPHqVnnbOn6zIim4K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lists and Keys",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/rendering-lists#keeping-list-items-in-order-with-key"
+                          },
+                          {
+                              "title":  "Rendering Lists",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/rendering-lists"
+                          },
+                          {
+                              "title":  "List components in React by Example",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-list-component/"
+                          },
+                          {
+                              "title":  "Why do we need the key prop in React?",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-list-key/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vdumdIglnouf1KyGIGZnc",
+        "label":  "Render Props",
+        "endpoint":  "https://roadmap.sh/react/topic@vdumdIglnouf1KyGIGZnc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Render Props in React",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/passing-props-to-a-component"
+                          },
+                          {
+                              "title":  "How to create a Render Prop Component",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-render-props/"
+                          },
+                          {
+                              "title":  "Render Props Pattern",
+                              "type":  "article",
+                              "url":  "https://www.patterns.dev/posts/render-props-pattern/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_zNAOhFWMcWqP4oxNPCXF",
+        "label":  "Refs",
+        "endpoint":  "https://roadmap.sh/react/topic@_zNAOhFWMcWqP4oxNPCXF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Referencing Values with Refs",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/referencing-values-with-refs"
+                          },
+                          {
+                              "title":  "Manipulating the DOM with Refs",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/manipulating-the-dom-with-refs"
+                          },
+                          {
+                              "title":  "Examples of using refs in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-ref/"
+                          },
+                          {
+                              "title":  "Learn useRef in 11 Minutes - Web Dev Simplified",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t2ypzz6gJm0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Nex2HcTOYIbfqUzXyxSMY",
+        "label":  "Events",
+        "endpoint":  "https://roadmap.sh/react/topic@Nex2HcTOYIbfqUzXyxSMY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Responding to Events",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/responding-to-events"
+                          },
+                          {
+                              "title":  "React Event Object (Synthetic Event)",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react-dom/components/common#react-event-object"
+                          },
+                          {
+                              "title":  "React Event Handler",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-event-handler/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zOENl96GUZRw2PP2KxIck",
+        "label":  "High Order Components",
+        "endpoint":  "https://roadmap.sh/react/topic@zOENl96GUZRw2PP2KxIck.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "High-Order Components",
+                              "type":  "article",
+                              "url":  "https://reactjs.org/docs/higher-order-components.html"
+                          },
+                          {
+                              "title":  "How to create a Higher-Order Component",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-higher-order-components/"
+                          },
+                          {
+                              "title":  "Learn React Higher Order Component (HOC) in 10 Minutes",
+                              "type":  "video",
+                              "url":  "https://youtu.be/J5P0q7EROfw?si=-8s5h1b0mZSGVgLt"
+                          },
+                          {
+                              "title":  "ReactJS Tutorial - Higher Order Components (Part 1)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=B6aNv8nkUSw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LbLQhonBqzxHU6B-L--Vq",
+        "label":  "Hooks",
+        "endpoint":  "https://roadmap.sh/react/topic@LbLQhonBqzxHU6B-L--Vq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hooks Reference",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8OnzX03hkZ9K9i__tjmFX",
+        "label":  "useEffect",
+        "endpoint":  "https://roadmap.sh/react/topic@8OnzX03hkZ9K9i__tjmFX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using the Effect Hook",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/useEffect"
+                          },
+                          {
+                              "title":  "React useEffect Hook by Example",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-useeffect-hook/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HX75SExuzR5AP7TQ94qid",
+        "label":  "Creating Custom Hooks",
+        "endpoint":  "https://roadmap.sh/react/topic@HX75SExuzR5AP7TQ94qid.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Reusing Logic with Custom Hooks",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/reusing-logic-with-custom-hooks"
+                          },
+                          {
+                              "title":  "How to create a custom Hook (2) followed by Examples",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-custom-hook/"
+                          },
+                          {
+                              "title":  "Custom Hooks in React",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=I2Bgi0Qcdvc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dgoDNDtW2_q9R9yhkXrcz",
+        "label":  "useCallback",
+        "endpoint":  "https://roadmap.sh/react/topic@dgoDNDtW2_q9R9yhkXrcz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "React Documentation on useCallback",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/useCallback"
+                          },
+                          {
+                              "title":  "useCallback Explained in Depth",
+                              "type":  "article",
+                              "url":  "https://kentcdodds.com/blog/usememo-and-usecallback"
+                          },
+                          {
+                              "title":  "useCallback Hook: An Introductory Guide",
+                              "type":  "article",
+                              "url":  "https://dmitripavlutin.com/dont-overuse-react-usecallback/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "t_laNdMmdLApYszqXRdWg",
+        "label":  "useRef",
+        "endpoint":  "https://roadmap.sh/react/topic@t_laNdMmdLApYszqXRdWg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "useRef",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/useRef"
+                          },
+                          {
+                              "title":  "WebDevSimplified",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t2ypzz6gJm0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w3bNp7OkehI1gjx8NzlC8",
+        "label":  "useMemo",
+        "endpoint":  "https://roadmap.sh/react/topic@w3bNp7OkehI1gjx8NzlC8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "useMemo Docs",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/useMemo"
+                          },
+                          {
+                              "title":  "useMemo and useCallback - Josh W. Comeau",
+                              "type":  "article",
+                              "url":  "https://www.joshwcomeau.com/react/usememo-and-usecallback/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v48Mv0wQqjXbvy8x6gDjQ",
+        "label":  "useReducer",
+        "endpoint":  "https://roadmap.sh/react/topic@v48Mv0wQqjXbvy8x6gDjQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "useReducer Docs",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/useReducer"
+                          },
+                          {
+                              "title":  "The React useReducer Hook",
+                              "type":  "article",
+                              "url":  "https://www.telerik.com/blogs/react-usereducer-hook"
+                          },
+                          {
+                              "title":  "A guide to the React useReducer Hook",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/react-usereducer-hook-ultimate-guide/"
+                          },
+                          {
+                              "title":  "Learn React Hooks: useReducer - Simply Explained!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rgp_iCVS8ys\u0026t"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "D5_O-uElftYGQr_bTU_se",
+        "label":  "useContext",
+        "endpoint":  "https://roadmap.sh/react/topic@D5_O-uElftYGQr_bTU_se.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using useContext",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/useContext"
+                          },
+                          {
+                              "title":  "Explore the concept of context",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/passing-data-deeply-with-context"
+                          },
+                          {
+                              "title":  "Learn useContext In 13 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5LrDIWkK_Bc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FK59Zsm5ENA9g11XWCan_",
+        "label":  "useState",
+        "endpoint":  "https://roadmap.sh/react/topic@FK59Zsm5ENA9g11XWCan_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "useState Documentation",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/useState"
+                          },
+                          {
+                              "title":  "State: A Component\u0027s Memory",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/state-a-components-memory"
+                          },
+                          {
+                              "title":  "Adding Interactivity",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/adding-interactivity"
+                          },
+                          {
+                              "title":  "eact Hooks: useState Explained",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-usestate-hook/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mkyU0ug8MXxV4biHuOity",
+        "label":  "Hooks Best Practices",
+        "endpoint":  "https://roadmap.sh/react/topic@mkyU0ug8MXxV4biHuOity.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Rules of Hooks",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/rules/rules-of-hooks/"
+                          },
+                          {
+                              "title":  "React Hooks Best Practices: Unlocking Efficiency and Elegance",
+                              "type":  "article",
+                              "url":  "https://medium.com/womenintechnology/react-hooks-best-practices-unlocking-efficiency-and-elegance-da23f7e1418a"
+                          },
+                          {
+                              "title":  "Mastering React Hooks: Best Practices and Common Pitfalls",
+                              "type":  "article",
+                              "url":  "https://dev.to/codesensei/mastering-react-hooks-best-practices-and-common-pitfalls-3d9i"
+                          },
+                          {
+                              "title":  "React Custom Hooks: Best Practices and Examples",
+                              "type":  "article",
+                              "url":  "https://utopia-insights.dev/react-custom-hooks-best-practices-and-examples/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NStw6bi_pPB49K41BFSgo",
+        "label":  "Routers",
+        "endpoint":  "https://roadmap.sh/react/topic@NStw6bi_pPB49K41BFSgo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to use Routing in React JS: A Comprehensive Guide.",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/react-router-v6-guide/"
+                          },
+                          {
+                              "title":  "React Router 6 – Tutorial for Beginners.",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=59IXY5IDrBA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zWL8VLx_g0SWubavJDs6i",
+        "label":  "Tanstack Router",
+        "endpoint":  "https://roadmap.sh/react/topic@zWL8VLx_g0SWubavJDs6i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TanStack Router Documentation",
+                              "type":  "article",
+                              "url":  "https://tanstack.com/router/latest/docs/framework/react/overview"
+                          },
+                          {
+                              "title":  "TanStack Router - Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4sslBg8LprE\u0026list=PLOQjd5dsGSxJilh0lBofeY8Qib98kzmF5"
+                          },
+                          {
+                              "title":  "TanStack Router Vite: Ultimate Guide for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=AN9rD7y9MS8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jvp43wFkKlGQX2y7IxkbM",
+        "label":  "React Router",
+        "endpoint":  "https://roadmap.sh/react/topic@jvp43wFkKlGQX2y7IxkbM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "React Router — Official Website",
+                              "type":  "official",
+                              "url":  "https://reactrouter.com/"
+                          },
+                          {
+                              "title":  "What is React Router?",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/react/react_router.asp"
+                          },
+                          {
+                              "title":  "React Router V7: A Crash Course",
+                              "type":  "article",
+                              "url":  "https://dev.to/pedrotech/react-router-v7-a-crash-course-2m86"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I7_mX4h-Yywp1YyTJRKXI",
+        "label":  "State Management",
+        "endpoint":  "https://roadmap.sh/react/topic@I7_mX4h-Yywp1YyTJRKXI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is State Management?",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchapparchitecture/definition/state-management"
+                          },
+                          {
+                              "title":  "Overview of State in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-state/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "10uL0r388lKh8pWYWqRZD",
+        "label":  "Context",
+        "endpoint":  "https://roadmap.sh/react/topic@10uL0r388lKh8pWYWqRZD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Passing Data Deeply with Context",
+                              "type":  "official",
+                              "url":  "https://react.dev/learn/passing-data-deeply-with-context"
+                          },
+                          {
+                              "title":  "State with useContext and useState/useReducer",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext/"
+                          },
+                          {
+                              "title":  "React Context API Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t9WmZFnE6Hg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nl5imPsdY2oEWlg-9TTuk",
+        "label":  "Zustand",
+        "endpoint":  "https://roadmap.sh/react/topic@nl5imPsdY2oEWlg-9TTuk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Zustand - Official Website",
+                              "type":  "official",
+                              "url":  "https://zustand-demo.pmnd.rs/"
+                          },
+                          {
+                              "title":  "Zustand Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/pmndrs/zustand"
+                          },
+                          {
+                              "title":  "Working with Zustand",
+                              "type":  "article",
+                              "url":  "https://tkdodo.eu/blog/working-with-zustand"
+                          },
+                          {
+                              "title":  "Zustand Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=AYO4qHAnLQI\u0026t"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yI6XiNW04EL78UL4lkVgd",
+        "label":  "Jotai",
+        "endpoint":  "https://roadmap.sh/react/topic@yI6XiNW04EL78UL4lkVgd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website: Jotai",
+                              "type":  "official",
+                              "url":  "https://jotai.org/"
+                          },
+                          {
+                              "title":  "State Management on React - Jotai",
+                              "type":  "article",
+                              "url":  "https://dev.to/kevin-uehara/state-management-on-react-part-3-jotai-i7f"
+                          },
+                          {
+                              "title":  "Jotai React - Better Global State Management",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZcKzPZN7Ids"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DfrCkbD-HEHwLymv10zb5",
+        "label":  "Writing CSS",
+        "endpoint":  "https://roadmap.sh/react/topic@DfrCkbD-HEHwLymv10zb5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated CSS Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/css"
+                          },
+                          {
+                              "title":  "Ways to CSS style a React application",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-css-styling/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "CSS Modules",
+                                "type":  "inline",
+                                "url":  "https://github.com/css-modules/css-modules"
+                            },
+                            {
+                                "title":  "CSS in JS",
+                                "type":  "inline",
+                                "url":  "https://css-tricks.com/a-thorough-analysis-of-css-in-js/"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MnDgQq9Vcxsu3wDqv5uh2",
+        "label":  "Headless Components",
+        "endpoint":  "https://roadmap.sh/react/topic@MnDgQq9Vcxsu3wDqv5uh2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are headless components?",
+                              "type":  "article",
+                              "url":  "https://dev.to/verthon/headless-ui-libraries-the-key-to-flexible-and-accessible-user-interfaces-546p"
+                          },
+                          {
+                              "title":  "Headless Components: A Comprehensive Guide",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/the-complete-guide-to-building-headless-interface-components-in-react/"
+                          },
+                          {
+                              "title":  "Rise of Headless Components",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_WtVG_pKsxM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KO3viVIJJREtxXxsocN7j",
+        "label":  "Tailwind CSS",
+        "endpoint":  "https://roadmap.sh/react/topic@KO3viVIJJREtxXxsocN7j.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tailwind Website",
+                              "type":  "official",
+                              "url":  "https://tailwindcss.com"
+                          },
+                          {
+                              "title":  "Tailwind CSS Full Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lCxcTsOHrjo"
+                          },
+                          {
+                              "title":  "Tailwind CSS Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UBOj6rqRUME"
+                          },
+                          {
+                              "title":  "Should You Use Tailwind CSS?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hdGsFpZ0J2E"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "thfnymb_UIiKxakKfiua5",
+        "label":  "Component / Libraries",
+        "endpoint":  "https://roadmap.sh/react/topic@thfnymb_UIiKxakKfiua5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "MUI: React Component Library",
+                              "type":  "article",
+                              "url":  "https://mui.com/"
+                          },
+                          {
+                              "title":  "NextUI.org",
+                              "type":  "article",
+                              "url":  "https://nextui.org/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "akVNUPOqaTXaSHoQFlkP_",
+        "label":  "Panda CSS",
+        "endpoint":  "https://roadmap.sh/react/topic@akVNUPOqaTXaSHoQFlkP_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://panda-css.com"
+                          },
+                          {
+                              "title":  "Tutorials and videos to get started with Panda!",
+                              "type":  "official",
+                              "url":  "https://panda-css.com/learn"
+                          },
+                          {
+                              "title":  "Panda CSS – CSS-in-JS without Runtime Overhead",
+                              "type":  "article",
+                              "url":  "https://infinum.com/blog/panda-css-css-in-js-without-runtime-overhead/"
+                          },
+                          {
+                              "title":  "Panda CSS First Impressions | Theo Reacts",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UlY-Ixddjm0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uqphqAnlcJOLnwHZs5jWu",
+        "label":  "Chakra UI",
+        "endpoint":  "https://roadmap.sh/react/topic@uqphqAnlcJOLnwHZs5jWu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Chakra UI Website",
+                              "type":  "article",
+                              "url":  "https://chakra-ui.com/"
+                          },
+                          {
+                              "title":  "Chakra UI Official Getting Started",
+                              "type":  "article",
+                              "url":  "https://chakra-ui.com/docs"
+                          },
+                          {
+                              "title":  "Official Getting Started Video",
+                              "type":  "video",
+                              "url":  "https://youtu.be/wI2vqXsjsIo"
+                          },
+                          {
+                              "title":  "Chakra UI Crash Course",
+                              "type":  "video",
+                              "url":  "https://youtu.be/s-bIsz-NR3c"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gy7eBxPOlwG8BvxHVLDQ9",
+        "label":  "Material UI",
+        "endpoint":  "https://roadmap.sh/react/topic@gy7eBxPOlwG8BvxHVLDQ9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Material UI website",
+                              "type":  "official",
+                              "url":  "https://mui.com/material-ui/getting-started/"
+                          },
+                          {
+                              "title":  "React Material UI Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BHEPVdfBAqE\u0026list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO"
+                          },
+                          {
+                              "title":  "Material UI with React",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5cvg2qZwYrI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "njKsYNkwTXPQ1NjlGKXab",
+        "label":  "Shadcn UI",
+        "endpoint":  "https://roadmap.sh/react/topic@njKsYNkwTXPQ1NjlGKXab.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://ui.shadcn.com/"
+                          },
+                          {
+                              "title":  "Documentation",
+                              "type":  "official",
+                              "url":  "https://ui.shadcn.com/docs"
+                          },
+                          {
+                              "title":  "Shadcn Guide",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/shadcn-ui-adoption-guide/"
+                          },
+                          {
+                              "title":  "Shadcn Setup and Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=v0_AT8zaLo8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "awoEhwPKjUcR84XGL6Som",
+        "label":  "CSS Modules",
+        "endpoint":  "https://roadmap.sh/react/topic@awoEhwPKjUcR84XGL6Som.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Project GitHub Repository",
+                              "type":  "opensource",
+                              "url":  "https://github.com/css-modules/css-modules"
+                          },
+                          {
+                              "title":  "Using CSS Modules In React App",
+                              "type":  "article",
+                              "url":  "https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87"
+                          },
+                          {
+                              "title":  "CSS Modules: Why are they great?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pKMWU9OrA2s"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XL9XOV2h0BAuA5cFcM5L_",
+        "label":  "Radix UI",
+        "endpoint":  "https://roadmap.sh/react/topic@XL9XOV2h0BAuA5cFcM5L_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started with Radix UI",
+                              "type":  "official",
+                              "url":  "https://www.radix-ui.com/themes/docs/overview/getting-started"
+                          },
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://www.radix-ui.com/"
+                          },
+                          {
+                              "title":  "What is Radix UI?",
+                              "type":  "article",
+                              "url":  "https://medium.com/@olivier.trinh/what-is-radix-ui-ff535bbb52d5"
+                          },
+                          {
+                              "title":  "Radix UI Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLlNdnoKwDZdwANQoaakE8-kYMyKFOETlo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RvDfKoa_HIW3QDBfkPv3m",
+        "label":  "React Aria",
+        "endpoint":  "https://roadmap.sh/react/topic@RvDfKoa_HIW3QDBfkPv3m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started with React Aria",
+                              "type":  "official",
+                              "url":  "https://react-spectrum.adobe.com/react-aria/"
+                          },
+                          {
+                              "title":  "Why You Should Use React Aria Components",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lTPh6NGLAmk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kiCTo0U6VgNON8rv_Ktlj",
+        "label":  "Ark UI",
+        "endpoint":  "https://roadmap.sh/react/topic@kiCTo0U6VgNON8rv_Ktlj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://ark-ui.com/"
+                          },
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://ark-ui.com/react/docs/overview/introduction"
+                          },
+                          {
+                              "title":  "What is ARK UI?",
+                              "type":  "article",
+                              "url":  "https://shaxadd.medium.com/enhance-your-user-interfaces-with-ark-ui-a-comprehensive-guide-7e87dd0a79cf"
+                          },
+                          {
+                              "title":  "Hands On ARK UI",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zjo-77I0unk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b4AP2OggxFAwsQtUwiUJJ",
+        "label":  "API Calls",
+        "endpoint":  "https://roadmap.sh/react/topic@b4AP2OggxFAwsQtUwiUJJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AJAX and APIs",
+                              "type":  "article",
+                              "url":  "https://reactjs.org/docs/faq-ajax.html"
+                          },
+                          {
+                              "title":  "How to fetch data in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-hooks-fetch-data/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8nMbfGxe3STMbrAVcqHHh",
+        "label":  "Apollo",
+        "endpoint":  "https://roadmap.sh/react/topic@8nMbfGxe3STMbrAVcqHHh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Apollo Website",
+                              "type":  "article",
+                              "url":  "https://www.apollographql.com"
+                          },
+                          {
+                              "title":  "Official Docs",
+                              "type":  "article",
+                              "url":  "https://www.apollographql.com/docs/"
+                          },
+                          {
+                              "title":  "Official YouTube Channel",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/c/ApolloGraphQL/"
+                          },
+                          {
+                              "title":  "GraphQL With React Tutorial - Apollo Client",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=YyUWW04HwKY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cLfM342sZfsCwmPPxQpEI",
+        "label":  "Relay",
+        "endpoint":  "https://roadmap.sh/react/topic@cLfM342sZfsCwmPPxQpEI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://relay.dev/"
+                          },
+                          {
+                              "title":  "Introduction to Relay modern",
+                              "type":  "official",
+                              "url":  "https://relay.dev/docs/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9M5jRu0pj8KMvg9f-2oqZ",
+        "label":  "urql",
+        "endpoint":  "https://roadmap.sh/react/topic@9M5jRu0pj8KMvg9f-2oqZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "urql - Formidable Labs",
+                              "type":  "article",
+                              "url":  "https://formidable.com/open-source/urql/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-ea1KsXEyz-4voHXklG_J",
+        "label":  "swr",
+        "endpoint":  "https://roadmap.sh/react/topic@-ea1KsXEyz-4voHXklG_J.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SWR: React Hooks for Data Fetching",
+                              "type":  "article",
+                              "url":  "https://swr.vercel.app/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5EPmbiNdP_vhIXclv_GjV",
+        "label":  "Tanstack Query",
+        "endpoint":  "https://roadmap.sh/react/topic@5EPmbiNdP_vhIXclv_GjV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TanStack Query",
+                              "type":  "official",
+                              "url":  "https://tanstack.com/query/latest"
+                          },
+                          {
+                              "title":  "TanStack Query",
+                              "type":  "opensource",
+                              "url":  "https://github.com/TanStack/query"
+                          },
+                          {
+                              "title":  "TanStack for Beginners: A Complete Guide \u0026 Tutorial",
+                              "type":  "article",
+                              "url":  "https://codeparrot.ai/blogs/tanstack-for-beginners-a-complete-guide-tutorial"
+                          },
+                          {
+                              "title":  "TanStack Query - How to become a React Query God",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=mPaCnwpFvZY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ElqWQClryfSYdL7P_mgYK",
+        "label":  "Axios",
+        "endpoint":  "https://roadmap.sh/react/topic@ElqWQClryfSYdL7P_mgYK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Axios Getting Started",
+                              "type":  "article",
+                              "url":  "https://axios-http.com/docs/intro"
+                          },
+                          {
+                              "title":  "How to make HTTP requests with Axios",
+                              "type":  "article",
+                              "url":  "https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/#why"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "h49-tjEkKcq7d7ikRHIOx",
+        "label":  "rtk-query",
+        "endpoint":  "https://roadmap.sh/react/topic@h49-tjEkKcq7d7ikRHIOx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RTK Query - Official Website",
+                              "type":  "article",
+                              "url":  "https://redux-toolkit.js.org/rtk-query/overview"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "RTK Query",
+                                "type":  "inline",
+                                "url":  "https://redux-toolkit.js.org/rtk-query/overview"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "e_lwZ-a72-tAan2KDX6k3",
+        "label":  "Testing",
+        "endpoint":  "https://roadmap.sh/react/topic@e_lwZ-a72-tAan2KDX6k3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Software Testing?",
+                              "type":  "article",
+                              "url":  "https://www.guru99.com/software-testing-introduction-importance.html"
+                          },
+                          {
+                              "title":  "Testing Pyramid",
+                              "type":  "article",
+                              "url":  "https://www.browserstack.com/guide/testing-pyramid-for-test-automation"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "opa61u9gYgSpoPtxp58wu",
+        "label":  "Jest",
+        "endpoint":  "https://roadmap.sh/react/topic@opa61u9gYgSpoPtxp58wu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Jest Website",
+                              "type":  "official",
+                              "url":  "https://jestjs.io/"
+                          },
+                          {
+                              "title":  "Testing JavaScript with Jest on Vultr",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/blog/test-javascript-with-jest-on-vultr/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LULjhsPNONyI5912DKzPw",
+        "label":  "Vitest",
+        "endpoint":  "https://roadmap.sh/react/topic@LULjhsPNONyI5912DKzPw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Vitest Website",
+                              "type":  "official",
+                              "url":  "https://vitest.dev/"
+                          },
+                          {
+                              "title":  "Testing with Vitest",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cM_AeQHzlGg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cQllxv7qGbRtM9O5llgN6",
+        "label":  "react-testing-library",
+        "endpoint":  "https://roadmap.sh/react/topic@cQllxv7qGbRtM9O5llgN6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "React Testing Library",
+                              "type":  "article",
+                              "url":  "https://testing-library.com/docs/react-testing-library/intro/"
+                          },
+                          {
+                              "title":  "How to use React Testing Library",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-testing-library/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zN7Ps1puD-YpHbKi1pHH8",
+        "label":  "Cypress",
+        "endpoint":  "https://roadmap.sh/react/topic@zN7Ps1puD-YpHbKi1pHH8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://www.cypress.io/"
+                          },
+                          {
+                              "title":  "Official Documentation",
+                              "type":  "article",
+                              "url":  "https://docs.cypress.io/guides/overview/why-cypress#Other"
+                          },
+                          {
+                              "title":  "Cypress End-to-End Testing",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7N63cMKosIE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "g39P0c6M2sHNoUPs0m8tr",
+        "label":  "Playwright",
+        "endpoint":  "https://roadmap.sh/react/topic@g39P0c6M2sHNoUPs0m8tr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website: Playwright",
+                              "type":  "official",
+                              "url":  "https://playwright.dev/"
+                          },
+                          {
+                              "title":  "Playwright Tutorial: Learn Basics and Setup",
+                              "type":  "article",
+                              "url":  "https://www.browserstack.com/guide/playwright-tutorial"
+                          },
+                          {
+                              "title":  "Get started with end-to-end testing: Playwright",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLQ6Buerc008ed-F9OksF7ek37wR3y916p"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W-atg_Msa9uPLr6RXAKSb",
+        "label":  "Frameworks",
+        "endpoint":  "https://roadmap.sh/react/topic@W-atg_Msa9uPLr6RXAKSb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Next.js",
+                              "type":  "article",
+                              "url":  "https://nextjs.org/"
+                          },
+                          {
+                              "title":  "Remix",
+                              "type":  "article",
+                              "url":  "https://remix.run/"
+                          },
+                          {
+                              "title":  "Next.js 14 Full Course 2024",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=wm5gMKuwSYk"
+                          },
+                          {
+                              "title":  "Remix Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RBYJTop1e-g"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HdWq9ue0JdwmwqSIN2OD_",
+        "label":  "Next.js",
+        "endpoint":  "https://roadmap.sh/react/topic@HdWq9ue0JdwmwqSIN2OD_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Next.js Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/nextjs"
+                          },
+                          {
+                              "title":  "Official Docs for Getting Started",
+                              "type":  "official",
+                              "url":  "https://nextjs.org/docs/getting-started"
+                          },
+                          {
+                              "title":  "Mastering Next.js",
+                              "type":  "article",
+                              "url":  "https://masteringnextjs.com/"
+                          },
+                          {
+                              "title":  "Next.js Full course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9P8mASSREYM\u0026list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_HoZkE7FH-v3wI_722ZTF",
+        "label":  "Astro",
+        "endpoint":  "https://roadmap.sh/react/topic@_HoZkE7FH-v3wI_722ZTF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Astro Website",
+                              "type":  "official",
+                              "url":  "https://astro.build/"
+                          },
+                          {
+                              "title":  "Astro Crash Course in 60 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NniT0vKyn-E"
+                          },
+                          {
+                              "title":  "How To: Add/Integrate React.js and TailwindCss into Astro framework",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=d6CsWTVa42o"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-WjJBYCmRRj08n_9HxohY",
+        "label":  "react-router",
+        "endpoint":  "https://roadmap.sh/react/topic@-WjJBYCmRRj08n_9HxohY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://reactrouter.com/"
+                          },
+                          {
+                              "title":  "remix-run react-router",
+                              "type":  "opensource",
+                              "url":  "https://github.com/remix-run/react-router"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KHcC5pFN3qLnsbPPKpYd2",
+        "label":  "Forms",
+        "endpoint":  "https://roadmap.sh/react/topic@KHcC5pFN3qLnsbPPKpYd2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to use Forms in React",
+                              "type":  "article",
+                              "url":  "https://www.robinwieruch.de/react-form/"
+                          },
+                          {
+                              "title":  "React Forms: the SIMPLEST way",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CT-72lTXdPg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_5ht0PAdVOJWPzTRS1mVg",
+        "label":  "React Hook Form",
+        "endpoint":  "https://roadmap.sh/react/topic@_5ht0PAdVOJWPzTRS1mVg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "react-hook-form/react-hook-form",
+                              "type":  "opensource",
+                              "url":  "https://github.com/react-hook-form/react-hook-form"
+                          },
+                          {
+                              "title":  "React Hook Form: Official Website",
+                              "type":  "article",
+                              "url":  "https://react-hook-form.com/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gr1CaLvL7tFOkIRywSsID",
+        "label":  "Formik",
+        "endpoint":  "https://roadmap.sh/react/topic@gr1CaLvL7tFOkIRywSsID.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website — Formik",
+                              "type":  "official",
+                              "url":  "https://formik.org/"
+                          },
+                          {
+                              "title":  "formik/formik",
+                              "type":  "opensource",
+                              "url":  "https://github.com/formik/formik"
+                          },
+                          {
+                              "title":  "Formik - Building React Forms easier",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=khGypss-RJs"
+                          },
+                          {
+                              "title":  "React Formik Tutorial with Yup (React Form Validation)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7Ophfq0lEAY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UNlvRp6k3_RDoTAAIEfJ1",
+        "label":  "Types \u0026 Validation",
+        "endpoint":  "https://roadmap.sh/react/topic@UNlvRp6k3_RDoTAAIEfJ1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is TypeScript and why would I use it in place of JavaScript?",
+                              "type":  "article",
+                              "url":  "https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript"
+                          },
+                          {
+                              "title":  "When Use Zod",
+                              "type":  "article",
+                              "url":  "https://www.totaltypescript.com/when-should-you-use-zod"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ElgRwv5LSVg5FXGx-2K2s",
+        "label":  "TypeScript",
+        "endpoint":  "https://roadmap.sh/react/topic@ElgRwv5LSVg5FXGx-2K2s.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated TypeScript Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/typescript"
+                          },
+                          {
+                              "title":  "Official Website",
+                              "type":  "official",
+                              "url":  "https://www.typescriptlang.org/"
+                          },
+                          {
+                              "title":  "The TypeScript Handbook",
+                              "type":  "article",
+                              "url":  "https://www.typescriptlang.org/docs/handbook/intro.html"
+                          },
+                          {
+                              "title":  "TypeScript for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BwuLxPH8IDs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K3RZ8ESxWCpLKHePF87Hy",
+        "label":  "Zod",
+        "endpoint":  "https://roadmap.sh/react/topic@K3RZ8ESxWCpLKHePF87Hy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Zod Website",
+                              "type":  "official",
+                              "url":  "https://zod.dev/"
+                          },
+                          {
+                              "title":  "Learn Zod In 30 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=L6BE-U3oy80"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bRpeoo9zXrnZ2IHSI7JX4",
+        "label":  "Animation",
+        "endpoint":  "https://roadmap.sh/react/topic@bRpeoo9zXrnZ2IHSI7JX4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Framer Motion Docs",
+                              "type":  "article",
+                              "url":  "https://www.framer.com/motion/"
+                          },
+                          {
+                              "title":  "GSAP Docs",
+                              "type":  "article",
+                              "url":  "https://gsap.com/docs/v3/"
+                          },
+                          {
+                              "title":  "React Spring Docs",
+                              "type":  "article",
+                              "url":  "https://www.react-spring.dev/docs/getting-started"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SUeXDkmOLipdRP4fSrZOH",
+        "label":  "Server APIs",
+        "endpoint":  "https://roadmap.sh/react/topic@SUeXDkmOLipdRP4fSrZOH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Documentation For API",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react-dom/server"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "framework",
+                                "type":  "inline",
+                                "url":  "https://react.dev/learn/start-a-new-react-project#production-grade-react-frameworks"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "H6-XGDjs4f-qbv13v5av0",
+        "label":  "Framer Motion",
+        "endpoint":  "https://roadmap.sh/react/topic@H6-XGDjs4f-qbv13v5av0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Framer Motion Website",
+                              "type":  "official",
+                              "url":  "https://www.framer.com/motion/introduction/"
+                          },
+                          {
+                              "title":  "Framer Motion Crash Course with React \u0026 TS",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hjbxaYTMhy0\u0026list=PLA4qBVt61k3Phpwt7uqaptIg9NYZ5aNu_"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WzoB5B6SdOI4Mzv6U51nY",
+        "label":  "react spring",
+        "endpoint":  "https://roadmap.sh/react/topic@WzoB5B6SdOI4Mzv6U51nY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "React Spring — Official Website",
+                              "type":  "official",
+                              "url":  "https://www.react-spring.dev/"
+                          },
+                          {
+                              "title":  "How to Create Interactive Animations Using React Spring",
+                              "type":  "article",
+                              "url":  "https://www.sitepoint.com/react-spring-interactive-animations/"
+                          },
+                          {
+                              "title":  "React Spring Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=f2vdduklY20\u0026list=PLLnpHn493BHGrM7tAQL8qVtqwqzbuuE5_"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y2dI1DVLWKAkv6VRpgaQa",
+        "label":  "GSock",
+        "endpoint":  "https://roadmap.sh/react/topic@y2dI1DVLWKAkv6VRpgaQa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GSAP: Homepage",
+                              "type":  "official",
+                              "url":  "https://gsap.com/docs/v3/"
+                          },
+                          {
+                              "title":  "The Beginner\u0027s Guide to the GreenSock Animation Platform",
+                              "type":  "article",
+                              "url":  "https://www.freecodecamp.org/news/the-beginners-guide-to-the-greensock-animation-platform-7dc9fd9eb826/"
+                          },
+                          {
+                              "title":  "Intro to Greensock Web Animation",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=EOa7ccPWvXg"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_F3WMxhzaK9F8_-zHDDMF",
+        "label":  "Suspense",
+        "endpoint":  "https://roadmap.sh/react/topic@_F3WMxhzaK9F8_-zHDDMF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "React Suspense",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/Suspense"
+                          },
+                          {
+                              "title":  "React Suspense - A complete guide",
+                              "type":  "article",
+                              "url":  "https://hygraph.com/blog/react-suspense"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DcDggX4OmmwvJGHwuV86t",
+        "label":  "Portals",
+        "endpoint":  "https://roadmap.sh/react/topic@DcDggX4OmmwvJGHwuV86t.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Portals in React",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react-dom/createPortal"
+                          },
+                          {
+                              "title":  "React Portals",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=HpHLa-5Wdys"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gMHMjsh0i8paLZUH5mDX3",
+        "label":  "Error Boundaries",
+        "endpoint":  "https://roadmap.sh/react/topic@gMHMjsh0i8paLZUH5mDX3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Error Boundaries in React",
+                              "type":  "official",
+                              "url":  "https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "txARr3lgTvy-vJCj5zAb1",
+        "label":  "Mobile Applications",
+        "endpoint":  "https://roadmap.sh/react/topic@txARr3lgTvy-vJCj5zAb1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "React Native Official website",
+                              "type":  "article",
+                              "url":  "https://reactnative.dev/"
+                          },
+                          {
+                              "title":  "React Native Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZBCUegTZF7M"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NvXAq1vN2wpncdW-yTL4c",
+        "label":  "React Native",
+        "endpoint":  "https://roadmap.sh/react/topic@NvXAq1vN2wpncdW-yTL4c.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated React Native Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/react-native"
+                          },
+                          {
+                              "title":  "React Native: Official Website",
+                              "type":  "official",
+                              "url":  "https://reactnative.dev/"
+                          },
+                          {
+                              "title":  "Official Getting Started",
+                              "type":  "official",
+                              "url":  "https://reactnative.dev/docs/getting-started"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1kbrCI5JS0c9wbzxXpgFU",
+        "label":  "MobX",
+        "endpoint":  "https://roadmap.sh/react/topic@1kbrCI5JS0c9wbzxXpgFU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Website: MobX",
+                              "type":  "official",
+                              "url":  "https://mobx.js.org/"
+                          },
+                          {
+                              "title":  "How to Improve State Management in React with MobX",
+                              "type":  "article",
+                              "url":  "https://medium.com/whitespectre/how-to-improve-state-management-in-react-with-mobx-568808ff86a4"
+                          },
+                          {
+                              "title":  "Mobx React - State Management",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=AgcaGGkYy_8"
+                          },
+                          {
+                              "title":  "MobX Tutorial with React and Typescript",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ElgfQdq-Htk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "Scrimba - Advanced React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/advanced-react-c02h?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build a Movie Search App in React",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u?via=roadmap"
+                              },
+                              {
+                                  "title":  "Scrimba - Build Tic Tac Toe with React Hooks",
+                                  "type":  "course",
+                                  "url":  "https://v2.scrimba.com/build-tic-tac-toe-with-react-hooks-c0m?via=roadmap"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_-2WpGnJ1CMj_acD1dr_i",
+        "label":  "Formish",
+        "endpoint":  "https://roadmap.sh/react/topic@_-2WpGnJ1CMj_acD1dr_i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Formisch",
+                              "type":  "official",
+                              "url":  "https://formisch.dev/"
+                          },
+                          {
+                              "title":  "formisch",
+                              "type":  "opensource",
+                              "url":  "https://github.com/open-circle/formisch"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "EOQGj1ALgdp6u9thVHdmc",
+        "label":  "Valibot",
+        "endpoint":  "https://roadmap.sh/react/topic@EOQGj1ALgdp6u9thVHdmc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Valibot - Alternative to Zod",
+                              "type":  "official",
+                              "url":  "https://valibot.dev/"
+                          },
+                          {
+                              "title":  "valibot",
+                              "type":  "opensource",
+                              "url":  "https://github.com/open-circle/valibot"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wuwnktmNGfmvIbZhe8YCB",
+        "label":  "Base UI",
+        "endpoint":  "https://roadmap.sh/react/topic@wuwnktmNGfmvIbZhe8YCB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Base UI Docs",
+                              "type":  "official",
+                              "url":  "https://base-ui.com/react/overview/quick-start"
+                          },
+                          {
+                              "title":  "base-ui",
+                              "type":  "opensource",
+                              "url":  "https://github.com/mui/base-ui"
+                          },
+                          {
+                              "title":  "Learning Base UI",
+                              "type":  "article",
+                              "url":  "https://v5.baseweb.design/getting-started/learn/"
+                          },
+                          {
+                              "title":  "Build Your Own UI Library Course | React BaseUI",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QxZCjhyq5Ak"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

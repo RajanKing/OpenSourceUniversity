@@ -1,0 +1,2921 @@
+[
+    {
+        "id":  "Z4uVzAoNzcAkyjd-lp3_M",
+        "label":  "Pick a Language",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Z4uVzAoNzcAkyjd-lp3_M.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HVD9G3JlLBsAg111vQILj",
+        "label":  "JavaScript",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@HVD9G3JlLBsAg111vQILj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated JavaScript Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/javascript"
+                          },
+                          {
+                              "title":  "Official Documentation",
+                              "type":  "official",
+                              "url":  "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"
+                          },
+                          {
+                              "title":  "The Modern JavaScript Tutorial",
+                              "type":  "article",
+                              "url":  "https://javascript.info/"
+                          },
+                          {
+                              "title":  "JavaScript Crash Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://youtu.be/hdI2bqOjy3c"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6a2aca8ed5b55a91aab11124",
+                                "title":  "JavaScript Foundations",
+                                "slug":  "javascript-foundations",
+                                "description":  "The JavaScript you need before Node.js, frontend frameworks, APIs, and CLI apps.",
+                                "lessonIds":  [
+                                                  "6a27367ad5b55a91aab0e0cc",
+                                                  "6a273f65d5b55a91aab0e124",
+                                                  "6a27f0dad5b55a91aab0e2a9",
+                                                  "6a27ff2ed5b55a91aab0e378",
+                                                  "6a280307d5b55a91aab0e3df",
+                                                  "6a281cbfd5b55a91aab0e47b",
+                                                  "6a2889f2d5b55a91aab0e7b2",
+                                                  "6a294dfed5b55a91aab0e974",
+                                                  "6a2965e0d5b55a91aab0f351",
+                                                  "6a296e77d5b55a91aab0f382",
+                                                  "6a2976e4d5b55a91aab0f66a",
+                                                  "6a297985d5b55a91aab0f90c",
+                                                  "6a297c52d5b55a91aab0fc67",
+                                                  "6a29cb66d5b55a91aab10c0c",
+                                                  "6a2ac002d5b55a91aab10e48"
+                                              ],
+                                "projectIds":  [
+                                                   "6a2c214a2204ffbc59e58d7b",
+                                                   "6a2c214b2204ffbc59e58d85",
+                                                   "6a2c214c2204ffbc59e58d8f",
+                                                   "6a2c214d2204ffbc59e58d99",
+                                                   "6a2c214e2204ffbc59e58da3",
+                                                   "6a2c214f2204ffbc59e58dad",
+                                                   "6a2c21502204ffbc59e58db7",
+                                                   "6a2c21512204ffbc59e58dc1",
+                                                   "6a2c21532204ffbc59e58dcb",
+                                                   "6a2c21542204ffbc59e58dd5",
+                                                   "6a2c21552204ffbc59e58ddf",
+                                                   "6a2c21562204ffbc59e58de9",
+                                                   "6a2c21572204ffbc59e58df3",
+                                                   "6a2c21582204ffbc59e58dfd",
+                                                   "6a2c215a2204ffbc59e58e07"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  118,
+                                "lessonCount":  15,
+                                "quizCount":  0,
+                                "projectCount":  15
+                            }
+                        ]
+    },
+    {
+        "id":  "gjZZOwmYkXQHPfg9Ynz80",
+        "label":  "Java",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@gjZZOwmYkXQHPfg9Ynz80.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Java Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/java"
+                          },
+                          {
+                              "title":  "Java Website",
+                              "type":  "official",
+                              "url":  "https://www.java.com/"
+                          },
+                          {
+                              "title":  "Java Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=eIrMbAQSU34"
+                          },
+                          {
+                              "title":  "Complete Java course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xk4_1vDrzzo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OkdM_PJge70j5tsjT2Esl",
+        "label":  "Go",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@OkdM_PJge70j5tsjT2Esl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Go Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/golang"
+                          },
+                          {
+                              "title":  "A Tour of Go – Go Basics",
+                              "type":  "official",
+                              "url":  "https://go.dev/tour/welcome/1"
+                          },
+                          {
+                              "title":  "Go Reference Documentation",
+                              "type":  "official",
+                              "url":  "https://go.dev/doc/"
+                          },
+                          {
+                              "title":  "Go, the Programming Language of the Cloud",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/go-the-programming-language-of-the-cloud/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BZvNEZjCNuHPg5SkX90bt",
+        "label":  "C#",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@BZvNEZjCNuHPg5SkX90bt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C# Learning Path",
+                              "type":  "article",
+                              "url":  "https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website"
+                          },
+                          {
+                              "title":  "Introduction to C#",
+                              "type":  "article",
+                              "url":  "https://docs.microsoft.com/en-us/shows/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha"
+                          },
+                          {
+                              "title":  "C# tutorials",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gfkTfcpWqAY\u0026list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IWmq4UFB5j6O3UJfarh1u",
+        "label":  "C++",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@IWmq4UFB5j6O3UJfarh1u.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated C++ Roadmap",
+                              "type":  "official",
+                              "url":  "https://roadmap.sh/cpp"
+                          },
+                          {
+                              "title":  "Learn Cpp",
+                              "type":  "article",
+                              "url":  "https://learncpp.com/"
+                          },
+                          {
+                              "title":  "C++ Reference",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XyRCXhZjQFcDNaUSNNQV-",
+        "label":  "Python",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@XyRCXhZjQFcDNaUSNNQV-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Python Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/python"
+                          },
+                          {
+                              "title":  "Visit Dedicated Python for Data Analysis Roadmap",
+                              "type":  "official",
+                              "url":  "https://roadmap.sh/python-data-analysis"
+                          },
+                          {
+                              "title":  "Python Getting Started",
+                              "type":  "official",
+                              "url":  "https://www.python.org/about/gettingstarted/"
+                          },
+                          {
+                              "title":  "An Introduction to Python for Non-Programmers",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/an-introduction-to-python-for-non-programmers/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "acgRMEuL4ZGGRHpZ7kXSo",
+        "label":  "Rust",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@acgRMEuL4ZGGRHpZ7kXSo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Rust Programming Language - online book",
+                              "type":  "article",
+                              "url":  "https://doc.rust-lang.org/book/"
+                          },
+                          {
+                              "title":  "Rust by Example - collection of runnable examples",
+                              "type":  "article",
+                              "url":  "https://doc.rust-lang.org/stable/rust-by-example/index.html"
+                          },
+                          {
+                              "title":  "Rust vs. Go: Why They’re Better Together",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/rust-vs-go-why-theyre-better-together/"
+                          },
+                          {
+                              "title":  "Rust by the Numbers: The Rust Programming Language in 2021",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/rust-by-the-numbers-the-rust-programming-language-in-2021/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9h1mz0xAUvPrnRm9VndJF",
+        "label":  "Ruby",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@9h1mz0xAUvPrnRm9VndJF.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ruby Website",
+                              "type":  "official",
+                              "url":  "https://www.ruby-lang.org/en/"
+                          },
+                          {
+                              "title":  "Learn Ruby in 20 minutes",
+                              "type":  "article",
+                              "url":  "https://www.ruby-lang.org/en/documentation/quickstart/"
+                          },
+                          {
+                              "title":  "Ruby, An Introduction to a Programmer’s Best Friend",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/ruby-a-programmers-best-friend/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ebQdTOAOV54WBToHmFtBk",
+        "label":  "Programming Fundamentals",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@ebQdTOAOV54WBToHmFtBk.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kE6qddRhO8C5ur3JbeuhF",
+        "label":  "Language Syntax",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@kE6qddRhO8C5ur3JbeuhF.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "G74Xp8_EMZO2oEzNTRAli",
+        "label":  "Control Structures",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@G74Xp8_EMZO2oEzNTRAli.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Cu08m5JOfvrPUDGony144",
+        "label":  "Functions",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Cu08m5JOfvrPUDGony144.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QFR1FMOf2OV3n3jcDnOCP",
+        "label":  "OOP Basics",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@QFR1FMOf2OV3n3jcDnOCP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Object-Oriented Programming (Simplified)",
+                              "type":  "video",
+                              "url":  "https://youtu.be/pTB0EiLXUC8?si=I8rV2K5fhpoqmixX"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tvy3Vic8Vp-Ie2x_OyZ5b",
+        "label":  "Pseudo Code",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@tvy3Vic8Vp-Ie2x_OyZ5b.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jvWuYXWRtt_ePawc4q1Tg",
+        "label":  "What are Data Structures?",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@jvWuYXWRtt_ePawc4q1Tg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What an Algorithms and More(MIT)",
+                              "type":  "video",
+                              "url":  "https://youtu.be/Zc54gFhdpLA?si=F_1QRigN_h2t2nSp\u0026t=133"
+                          },
+                          {
+                              "title":  "What Are Data Structures?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bum_19loj9A"
+                          },
+                          {
+                              "title":  "Introduction to Algorithms",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0IAPZzGSbME"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8_GkF9zhRL8tvT2qu-bGj",
+        "label":  "Why are Data Structures Important?",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@8_GkF9zhRL8tvT2qu-bGj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Data Structures? Why is it Important?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=18V8Avz2OH8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iTlpa9A7h33FkUAv0UaVZ",
+        "label":  "Basic Data Structures",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@iTlpa9A7h33FkUAv0UaVZ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lxY3ErxJ_D3zkSAXIBUpv",
+        "label":  "Array",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@lxY3ErxJ_D3zkSAXIBUpv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Arrays in Python",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gDqQf4Ekr2A\u0026ab_channel=codebasics"
+                          },
+                          {
+                              "title":  "Arrays in Java",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ei_4Nt7XWOw\u0026ab_channel=BroCode"
+                          },
+                          {
+                              "title":  "Arrays in Javascript",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yQ1fz8LY354"
+                          },
+                          {
+                              "title":  "Arrays in GoLang",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=e-oBn806Pzc\u0026pp=ygUIYXJyYXkgZ28%3D"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bRu9u8pEAQ1TmKygjIjyI",
+        "label":  "Linked Lists",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@bRu9u8pEAQ1TmKygjIjyI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Linked Lists vs Python Lists: When to Use Each",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/linked-list"
+                          },
+                          {
+                              "title":  "Introduction To Linked List",
+                              "type":  "video",
+                              "url":  "https://youtu.be/Nq7ok-OyEpg?si=xttaGoYKcoJ09Ln2"
+                          },
+                          {
+                              "title":  "Python Linked List",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qp8u-frRAnU\u0026list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12\u0026index=4\u0026ab_channel=codebasics"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jvKRykGNy140FlquF2fcK",
+        "label":  "Stacks",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@jvKRykGNy140FlquF2fcK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Leetcode",
+                              "type":  "article",
+                              "url":  "https://leetcode.com/problems/valid-parentheses/"
+                          },
+                          {
+                              "title":  "Stacks",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GYptUgnIM_I\u0026list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma\u0026index=69\u0026ab_channel=takeUforward"
+                          },
+                          {
+                              "title":  "Stack Data Structure Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=O1KeXo8lE8A"
+                          },
+                          {
+                              "title":  "Python Stacks",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zwb3GmNAtFk"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v0phjC75jhmE1z-f9ZMck",
+        "label":  "Queues",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@v0phjC75jhmE1z-f9ZMck.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Queue",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=M6GnoUDpqEE"
+                          },
+                          {
+                              "title":  "Python Queue",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rUUrmGKYwHw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kSy-8ubESdmIX4Fyl8TSu",
+        "label":  "Hash Tables",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@kSy-8ubESdmIX4Fyl8TSu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hashmaps in Python: Master Implementation and Use Cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/hashmap"
+                          },
+                          {
+                              "title":  "Hash Table",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=KEs5UyBJ39g\u0026ab_channel=takeUforward"
+                          },
+                          {
+                              "title":  "Python Hash Table Part 1",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ea8BRGxGmlA"
+                          },
+                          {
+                              "title":  "Python Hash Table Part 2",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=54iv1si4YCM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VotdHk0_bI3CeoIf-KoKu",
+        "label":  "Algorithmic Complexity",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@VotdHk0_bI3CeoIf-KoKu.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "unaYmPzK761Eh_iZMLeRC",
+        "label":  "Time vs Space Complexity",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@unaYmPzK761Eh_iZMLeRC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cheat Sheet",
+                              "type":  "article",
+                              "url":  "https://www.bigocheatsheet.com/"
+                          },
+                          {
+                              "title":  "Big-O Notation",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/guides/big-o-notation"
+                          },
+                          {
+                              "title":  "Big O Notation — Calculating Time Complexity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Z0bH0cMY0E8"
+                          },
+                          {
+                              "title":  "Free Code Camp Big-O Tutorial",
+                              "type":  "video",
+                              "url":  "https://youtu.be/Mo4vesaut8g?si=1jyb-EkfCLf9PNND"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HosRc0hczubBHrWxCzEJj",
+        "label":  "How to Calculate Complexity?",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@HosRc0hczubBHrWxCzEJj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Time \u0026 Space Complexity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Z0bH0cMY0E8"
+                          },
+                          {
+                              "title":  "How Write and Analyze Algorithm",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xGYsEqe9Vl0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nqnO1Wz3gYIMR98_BnF2V",
+        "label":  "Common Runtimes",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@nqnO1Wz3gYIMR98_BnF2V.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_bpV8MkVOY8ZatTXYaEE4",
+        "label":  "Constant",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@_bpV8MkVOY8ZatTXYaEE4.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Cnceet0yroFHzn8npAir8",
+        "label":  "Logarithmic",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Cnceet0yroFHzn8npAir8.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HOpL-4jYhOe0LNrrkPrET",
+        "label":  "Linear",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@HOpL-4jYhOe0LNrrkPrET.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QKhmM_IG1FkBudfdrf1aT",
+        "label":  "Polynomial",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@QKhmM_IG1FkBudfdrf1aT.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xqzaYJBvlsNtT6qZ59ktv",
+        "label":  "Exponential",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@xqzaYJBvlsNtT6qZ59ktv.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wclY3cmt1fBNYjLsmijdW",
+        "label":  "Factorial",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@wclY3cmt1fBNYjLsmijdW.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "v0LrabYYOKzV4oCXOK2Rs",
+        "label":  "Asymptotic Notation",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@v0LrabYYOKzV4oCXOK2Rs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Asymptotic Analysis: Big-O Notation and More",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/dsa/asymptotic-notations"
+                          },
+                          {
+                              "title":  "The Big O Notation",
+                              "type":  "article",
+                              "url":  "https://towardsdatascience.com/big-o-notation-32fb458e5260/?utm_source=roadmap\u0026utm_medium=Referral\u0026utm_campaign=TDS+roadmap+integration"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oylTfop_JDPHJ3jYuA2Nq",
+        "label":  "Big-O Notation",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@oylTfop_JDPHJ3jYuA2Nq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Big-O Cheat Sheet",
+                              "type":  "article",
+                              "url":  "https://www.bigocheatsheet.com/"
+                          },
+                          {
+                              "title":  "Introduction to Big O Notation and Time Complexity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=D6xkbGLQesk"
+                          },
+                          {
+                              "title":  "Big-O Notation",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BgLTDT03QtU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ex6tzu6gwrarWm1CNFufO",
+        "label":  "Big-θ Notation",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Ex6tzu6gwrarWm1CNFufO.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CkUi93TvTkEm2_isHNvqr",
+        "label":  "Big-Ω Notation",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@CkUi93TvTkEm2_isHNvqr.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WzFkdkcbL8ea9DBkjfSwa",
+        "label":  "Sorting Algorithms",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@WzFkdkcbL8ea9DBkjfSwa.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zUDKCJCQHLW4c_6A349R3",
+        "label":  "Bubble Sort",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@zUDKCJCQHLW4c_6A349R3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bubble Sort Visualize",
+                              "type":  "article",
+                              "url":  "https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/"
+                          },
+                          {
+                              "title":  "Bubble Sort",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Jdtq5uKz-w4"
+                          },
+                          {
+                              "title":  "Bubble Sort",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=p__ETf2CKY4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "k0UBAj3hOYab4mUziOYyW",
+        "label":  "Merge Sort",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@k0UBAj3hOYab4mUziOYyW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Merge Sort in Python: Step-by-Step Guide + Code",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/merge-sort"
+                          },
+                          {
+                              "title":  "Merge Sort Visualize",
+                              "type":  "article",
+                              "url":  "https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/"
+                          },
+                          {
+                              "title":  "Merge Sort",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4VqmGXwpLqc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "liJfTV5ajAFZcfwBdVGpU",
+        "label":  "Insertion Sort",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@liJfTV5ajAFZcfwBdVGpU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Insertion Sort",
+                              "type":  "course",
+                              "url":  "https://youtu.be/JU767SDMDvA"
+                          },
+                          {
+                              "title":  "Insertion Sort Visualization",
+                              "type":  "article",
+                              "url":  "https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LgEV0Wm4avrOqR8bV5GXW",
+        "label":  "Quick Sort",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@LgEV0Wm4avrOqR8bV5GXW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Quick Sort Visualize",
+                              "type":  "article",
+                              "url":  "https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/visualize/"
+                          },
+                          {
+                              "title":  "A Complete Overview of Quicksort",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0SkOjNaO1XY"
+                          },
+                          {
+                              "title":  "QuickSort",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=7h1s2SojIRw"
+                          },
+                          {
+                              "title":  "QuickSort Analysis",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-qOVVRIZzao"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SMgBHvqXLD6Cgr2nix4wR",
+        "label":  "Selection Sort",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@SMgBHvqXLD6Cgr2nix4wR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Selection Sort Visualize",
+                              "type":  "article",
+                              "url":  "https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/practice-problems/"
+                          },
+                          {
+                              "title":  "Selection sort in 3 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=g-PGLbMth_g\u0026t=5s"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yMv9Oa3hsgT8Adx6m_rdL",
+        "label":  "Heap Sort",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@yMv9Oa3hsgT8Adx6m_rdL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Heap Sort Visualize",
+                              "type":  "article",
+                              "url":  "https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/"
+                          },
+                          {
+                              "title":  "Heap sort in 4 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2DmK_H7IdTo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z_Cf_alLAYSCyYtNviRcO",
+        "label":  "Search Algorithms",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@z_Cf_alLAYSCyYtNviRcO.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AtX-PeI8nY4-5bA-xLla0",
+        "label":  "Linear Search",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@AtX-PeI8nY4-5bA-xLla0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Learn Linear Search in 3 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=246V51AWwZM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Wt74MRKaZcs8lYvfqjffT",
+        "label":  "Binary Search",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Wt74MRKaZcs8lYvfqjffT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Binary search in Python 101: Implementation and use cases",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/binary-search"
+                          },
+                          {
+                              "title":  "Learn Binary Search in 10 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xrMppTpoqdw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r2Jagzbx0qOG-VtxBY-mz",
+        "label":  "Tree Data Structures",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@r2Jagzbx0qOG-VtxBY-mz.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2Od5lNc6fCM6Gyj_axj4n",
+        "label":  "Tree Traversal",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@2Od5lNc6fCM6Gyj_axj4n.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YJsAQWJpLwVN6oCxNwNAn",
+        "label":  "Search Algorithms",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@YJsAQWJpLwVN6oCxNwNAn.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pfg-qclOpvlsGMdlZ1aoj",
+        "label":  "Breadth First Search",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@pfg-qclOpvlsGMdlZ1aoj.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gR8KcOIADUxS8hdiEaGZy",
+        "label":  "Depth First Search",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@gR8KcOIADUxS8hdiEaGZy.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iCA7UKZih4ItDmDNEC8Q-",
+        "label":  "In-Order Traversal",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@iCA7UKZih4ItDmDNEC8Q-.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BMEoO65zsX51H4Js1gcWI",
+        "label":  "Pre-Order Traversal",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@BMEoO65zsX51H4Js1gcWI.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "j6_DyKiyG1wBuygQkxWB7",
+        "label":  "Post-Order Traversal",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@j6_DyKiyG1wBuygQkxWB7.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RPU5CGp2Li5lk0UB-zNHT",
+        "label":  "Binary Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@RPU5CGp2Li5lk0UB-zNHT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Binary Tree",
+                              "type":  "video",
+                              "url":  "https://youtu.be/4r_XR9fUPhQ?si=PBsRjix_Z9kVHgMM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UYm7unZfXd9Ge5EYV4odb",
+        "label":  "Binary Search Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@UYm7unZfXd9Ge5EYV4odb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Binary Search Tree Part-1",
+                              "type":  "video",
+                              "url":  "https://youtu.be/lFq5mYUWEBk?si=GKRm1O278NCetnry"
+                          },
+                          {
+                              "title":  "Binary Search Tree Part-2",
+                              "type":  "video",
+                              "url":  "https://youtu.be/JnrbMQyGLiU?si=1pfKn2akKXWLshY6"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5MCgKpylPzDZaGBEUU51r",
+        "label":  "AVL Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@5MCgKpylPzDZaGBEUU51r.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AVL trees in 5 minutes — Intro \u0026 Search",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DB1HFCEdLxA"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2F6BcbAzICynOK3oEj-Is",
+        "label":  "B-Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@2F6BcbAzICynOK3oEj-Is.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "B-trees in 4 minutes — Intro",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=FgWbADOG44s"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "j_r1tB16bA7R3yDAWN7Oj",
+        "label":  "Graph Data Structures",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@j_r1tB16bA7R3yDAWN7Oj.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XVw2_dL3uN0SOWmjH1Uao",
+        "label":  "Directed Graph",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@XVw2_dL3uN0SOWmjH1Uao.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VnKm_j7McUW9Lo0iKyPUp",
+        "label":  "Undirected Graph",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@VnKm_j7McUW9Lo0iKyPUp.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LW5HZMca4lvhbbA8KYaOa",
+        "label":  "Search Algorithms",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@LW5HZMca4lvhbbA8KYaOa.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "c7LdXJPv-5M-NPKSCXYuB",
+        "label":  "Breadth First Search",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@c7LdXJPv-5M-NPKSCXYuB.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NrPO7vF8Z1WzmA9Ca3Y_E",
+        "label":  "Depth First Search",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@NrPO7vF8Z1WzmA9Ca3Y_E.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Learn Depth First Search in 7 minutes",
+                              "type":  "video",
+                              "url":  "https://youtu.be/by93qH4ACxo?si=FXcUfuwB5atV5SIY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "N-qvYirxpORcaTslvlOL0",
+        "label":  "Shortest Path Algorithms",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@N-qvYirxpORcaTslvlOL0.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "87UugvReiywF0E7Acos9U",
+        "label":  "Dijkstra\u0027s Algorithm",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@87UugvReiywF0E7Acos9U.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7CgGwdwHnOmISmEPtJegN",
+        "label":  "Bellman-Ford Algoritm",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@7CgGwdwHnOmISmEPtJegN.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ktqau1VkVrnnVYByqcacM",
+        "label":  "Minimum Spanning Tree",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Ktqau1VkVrnnVYByqcacM.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yEWnYjW0ZLVhsLc9rH4ae",
+        "label":  "Prim\u0027s Algorithm",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@yEWnYjW0ZLVhsLc9rH4ae.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "F3bPbwIdCNMzL7QXEYJK3",
+        "label":  "Kruskal\u0027s Algorithm",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@F3bPbwIdCNMzL7QXEYJK3.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "KnyUHDvpDTUO0EkAs9pT8",
+        "label":  "Advanced Data Structures",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@KnyUHDvpDTUO0EkAs9pT8.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zy3wpb1MjizfUfx9_rZy2",
+        "label":  "Trie",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@zy3wpb1MjizfUfx9_rZy2.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iFNS3x9wVRIjpixct6H7x",
+        "label":  "Segment Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@iFNS3x9wVRIjpixct6H7x.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V9SWO58kaMsU1NT7q26WG",
+        "label":  "Fenwick Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@V9SWO58kaMsU1NT7q26WG.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "La8XAT0BWvqRCrvQxtZIp",
+        "label":  "Disjoint Set (Union-Find)",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@La8XAT0BWvqRCrvQxtZIp.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zprVkxpojaxNo0LQar3Ex",
+        "label":  "Suffix Trees and Arrays",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@zprVkxpojaxNo0LQar3Ex.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kSpgFuAHyzySWlGBLOHZR",
+        "label":  "Complex Data Structures",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@kSpgFuAHyzySWlGBLOHZR.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2G6vn7K11_mPQQ7_IXJ96",
+        "label":  "B/B+ Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@2G6vn7K11_mPQQ7_IXJ96.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "B Trees and B+ Trees. How they are useful in Databases",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=aZjYr87r1b8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TQu-OBpvR-aQfMByUcwyM",
+        "label":  "Skip List",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@TQu-OBpvR-aQfMByUcwyM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Skip Lists",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NDGpsfwAaqo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uxErZ4gLeKqwhrUG88InQ",
+        "label":  "ISAM",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@uxErZ4gLeKqwhrUG88InQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DBMS - Index Sequential Access Method (ISAM)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=EiW1VVPor10"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o0fNAhJ1LsCdmGzY2ni_x",
+        "label":  "2-3 Trees",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@o0fNAhJ1LsCdmGzY2ni_x.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ar7GEGfI9O_dLPbIEVhF_",
+        "label":  "Indexing",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Ar7GEGfI9O_dLPbIEVhF_.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4noav5w_8GrMTXN1Lxm5h",
+        "label":  "Linear",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@4noav5w_8GrMTXN1Lxm5h.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZXUfeyfC5oSKkGktXuK8t",
+        "label":  "Tree-Based",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@ZXUfeyfC5oSKkGktXuK8t.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Y1Uz6XRbR1YqFtO4akiPA",
+        "label":  "Problem Solving Techniques",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@Y1Uz6XRbR1YqFtO4akiPA.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5T2y6Iqi-I_zOtLkeSPzY",
+        "label":  "Brute Force",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@5T2y6Iqi-I_zOtLkeSPzY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Brute Force Technique in Algorithms",
+                              "type":  "article",
+                              "url":  "https://medium.com/@shraddharao_/brute-force-technique-in-algorithms-34bac04bde8a"
+                          },
+                          {
+                              "title":  "Brute Force Algorithm Explained With C++ Examples",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BYWf6-tpQ4k"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mKoC5o__gLSTjAlq8iXkV",
+        "label":  "Backtracking",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@mKoC5o__gLSTjAlq8iXkV.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is backtracking?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Peo7k2osVVs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qUlqyTjk3XKF9DEm6Lsgb",
+        "label":  "Greedy Algorithms",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@qUlqyTjk3XKF9DEm6Lsgb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Greedy Algorithms Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bC7o8P_Ste4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RiS8KZs3YBE6mKWPHszMp",
+        "label":  "Randomised Algorithms",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@RiS8KZs3YBE6mKWPHszMp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Algorithm Classification Randomized Algorithm",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=J_EVG6yCOz0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xchWhsizaKgYuHPC4Tz9H",
+        "label":  "Divide and Conquer",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@xchWhsizaKgYuHPC4Tz9H.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Merge Sort in Python: Step-by-Step Guide + Code",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/merge-sort"
+                          },
+                          {
+                              "title":  "Divide \u0026 Conquer Algorithm In 3 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=YOh6hBtX5l0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4ZAzcwP0oPGZ9Rw042V8-",
+        "label":  "Recursion",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@4ZAzcwP0oPGZ9Rw042V8-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Merge Sort in Python: Step-by-Step Guide + Code",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/merge-sort"
+                          },
+                          {
+                              "title":  "Recursion in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rf60MejMz3E"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jKAZNybU9cxufNBdFsqsP",
+        "label":  "Dynamic Programming",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@jKAZNybU9cxufNBdFsqsP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Getting Started with Dynamic Programming in Data Structures and Algorithms",
+                              "type":  "article",
+                              "url":  "https://medium.com/@PythonicPioneer/getting-started-with-dynamic-programming-in-data-structures-and-algorithms-126c7a16775c"
+                          },
+                          {
+                              "title":  "What Is Dynamic Programming and How To Use It",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vYquumk4nWw\u0026t=4s"
+                          },
+                          {
+                              "title":  "5 Simple Steps for Solving Dynamic Programming Problems",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=aPQY__2H3tE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "itvhUXbe9dr9JN5ga2jYy",
+        "label":  "Two Pointer Technique",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@itvhUXbe9dr9JN5ga2jYy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Two Pointers Technique",
+                              "type":  "article",
+                              "url":  "https://medium.com/@johnnyJK/data-structures-and-algorithms-907a63d691c1"
+                          },
+                          {
+                              "title":  "Mastering the Two Pointers Technique: An In-Depth Guide",
+                              "type":  "article",
+                              "url":  "https://lordkonadu.medium.com/mastering-the-two-pointers-technique-an-in-depth-guide-3c2167584ccc"
+                          },
+                          {
+                              "title":  "Visual introduction Two Pointer Algorithm",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=On03HWe2tZM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gbHVR-ojRxv9I0E5eSlWy",
+        "label":  "Sliding Window Technique",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@gbHVR-ojRxv9I0E5eSlWy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mastering Sliding Window Techniques",
+                              "type":  "article",
+                              "url":  "https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7"
+                          },
+                          {
+                              "title":  "Sliding window technique",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=p-ss2JNynmw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VMV4F-SPKWn9CtpHXEjeN",
+        "label":  "Platforms to Practice",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@VMV4F-SPKWn9CtpHXEjeN.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "waM_j5mbe_XoA7h8u4vFN",
+        "label":  "Leetcode",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@waM_j5mbe_XoA7h8u4vFN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Leetcode Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/leetcode"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8-7phxPp1D1mv2yubpLBo",
+        "label":  "Edabit",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@8-7phxPp1D1mv2yubpLBo.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "J_No8GTa92DcwPtua30wL",
+        "label":  "Fast and Slow Pointers",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@J_No8GTa92DcwPtua30wL.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L1FIJAluyxG6CGaVLM20O",
+        "label":  "Cyclic Sort",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@L1FIJAluyxG6CGaVLM20O.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "S2mBvlFTd673XcXxisD5P",
+        "label":  "Merge Intervals",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@S2mBvlFTd673XcXxisD5P.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JcchUF_U99zkFpXp3VT2R",
+        "label":  "Kth Element",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@JcchUF_U99zkFpXp3VT2R.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MGb8ufztTK75aXAyEAuaf",
+        "label":  "Two Heaps",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@MGb8ufztTK75aXAyEAuaf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Two Heaps — A Coding Pattern for Median-finding (Emre Bolat)",
+                              "type":  "article",
+                              "url":  "https://emre.me/coding-patterns/two-heaps/"
+                          },
+                          {
+                              "title":  "Coding Pattern - Two Heaps",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9P7W5aEaatQ"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gaaRAL3HR48Qj9rz1CkDU",
+        "label":  "Multi-threaded",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@gaaRAL3HR48Qj9rz1CkDU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Python Multithreading: The Most Practical Intro",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/python/multithreading"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q9qLI6HzOJ0vYaIVrZ5CU",
+        "label":  "Island traversal",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@q9qLI6HzOJ0vYaIVrZ5CU.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R3Coq0TG1_cSOXzXWgpuI",
+        "label":  "Heap",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@R3Coq0TG1_cSOXzXWgpuI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Heap Data Structure",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/dsa/heap-data-structure"
+                          },
+                          {
+                              "title":  "Heap Data Structure",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t0Cq6tVNRBA"
+                          },
+                          {
+                              "title":  "Heaps and Priority Queues",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=B7hVxCmfPtM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AabJqPUwFVBVS02YPDPvL",
+        "label":  "A* Algorithm",
+        "endpoint":  "https://roadmap.sh/datastructures-and-algorithms/topic@AabJqPUwFVBVS02YPDPvL.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Data Structures and Algorithms in Python",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/WOP4WZ"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

@@ -1,0 +1,2312 @@
+{
+    "slug":  "devops",
+    "source":  "https://roadmap.sh/devops",
+    "title":  "DevOps Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-07-29T09:51:43.464Z",
+    "nodes":  [
+                  {
+                      "id":  "iU2f2TbjbjrCSDoIQN75c",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1274.6452398367048,
+                                       "y":  2506.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fL1LKBwDDxnzuUaxMxfMz",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1272.4080590588455,
+                                       "y":  2063.6937435857144
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bnHYl23RxloIt7dR5V7PF",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1858.1022029048668,
+                                       "y":  1792.2739894115864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JizyX8jse920gpWcmoSED",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1992.153929822237,
+                                       "y":  1314.467983134743
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SPXgDee7rpQAX3FfTdA3J",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1584.5509969897735,
+                                       "y":  1298.3406565459877
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "45zz5L6lKJrF9JWgyj1Pz",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1189.5750786843228,
+                                       "y":  1275.9816693737002
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7crPw2SKw-TlsSe9kpZFQ",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1189.5750786843228,
+                                       "y":  1041.0187194026719
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "78fdvOJN2xs2co5L8Ldvf",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  2094.770175365231,
+                                       "y":  870.537249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PsbYeHGMd9E1UNqcaFQOz",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1977.602202904867,
+                                       "y":  1009.6753673258584
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2-SE-hXZHqrxxogHYfC9O",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1489.8528975202719,
+                                       "y":  742.537249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Z9kbJS29EAsTKguLJlOiu",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1450.3113390834426,
+                                       "y":  399.0352879521563
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OY4ipeYrizxKKv9Z72iLR",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1191.5919421168855,
+                                       "y":  446.46233894852605
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fqBgeJj5fan4TT7K2E6c7",
+                      "type":  "title",
+                      "label":  "DevOps",
+                      "position":  {
+                                       "x":  1678.7802652868972,
+                                       "y":  95.62780506297416
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "J4hDw1hZqw6pI4iykkXXQ",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1739.2802652868972,
+                                       "y":  9.627805062974176
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v5FGKQc-_7NYEsWjmTEuq",
+                      "type":  "topic",
+                      "label":  "Learn a Programming Language",
+                      "position":  {
+                                       "x":  1602.7802652868972,
+                                       "y":  229.3007298193524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TwVfCYMS9jSaJ6UyYmC-K",
+                      "type":  "subtopic",
+                      "label":  "Python",
+                      "position":  {
+                                       "x":  2039.941514522558,
+                                       "y":  176.3007298193524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PuXAPYA0bsMgwcnlwJxQn",
+                      "type":  "subtopic",
+                      "label":  "Ruby",
+                      "position":  {
+                                       "x":  2152.597833816051,
+                                       "y":  176.3007298193524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "npnMwSDEK2aLGgnuZZ4dO",
+                      "type":  "subtopic",
+                      "label":  "Go",
+                      "position":  {
+                                       "x":  2039.941514522558,
+                                       "y":  229.3007298193524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eL62bKAoJCMsu7zPlgyhy",
+                      "type":  "subtopic",
+                      "label":  "Rust",
+                      "position":  {
+                                       "x":  2152.597833816051,
+                                       "y":  229.3007298193524
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QCdemtWa2mE78poNXeqzr",
+                      "type":  "subtopic",
+                      "label":  "JavaScript / Node.js",
+                      "position":  {
+                                       "x":  2039.941514522558,
+                                       "y":  285.02996643945045
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LFXvvH86fAyJBtQVd7acq",
+                      "type":  "legend",
+                      "label":  "",
+                      "position":  {
+                                       "x":  1195.6220092352162,
+                                       "y":  -23.69562777188412
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qe84v529VbCyydl0BKFk2",
+                      "type":  "topic",
+                      "label":  "Operating System",
+                      "position":  {
+                                       "x":  1353.3113390834426,
+                                       "y":  355.1966436651256
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3A1SykJ5JxBFeVzSzDEWJ",
+                      "type":  "label",
+                      "label":  "Linux",
+                      "position":  {
+                                       "x":  1403.5509969897735,
+                                       "y":  457.64985874666695
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "8hSJLQBKu8ablW2Lwxknv",
+                      "type":  "label",
+                      "label":  "Unix",
+                      "position":  {
+                                       "x":  1244.050901958697,
+                                       "y":  459.72277607327175
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "cTqVab0VbVcn3W7i0wBrX",
+                      "type":  "subtopic",
+                      "label":  "Ubuntu / Debian",
+                      "position":  {
+                                       "x":  1335.5509969897735,
+                                       "y":  504.9832131980173
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zhNUK953p6tjREndk3yQZ",
+                      "type":  "subtopic",
+                      "label":  "SUSE Linux",
+                      "position":  {
+                                       "x":  1335.5509969897735,
+                                       "y":  557.9832131980173
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7mS6Y_BOAHNgM3OjyFtZ9",
+                      "type":  "subtopic",
+                      "label":  "RHEL / Derivatives",
+                      "position":  {
+                                       "x":  1335.5509969897735,
+                                       "y":  610.9832131980173
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PiPHFimToormOPl1EtEe8",
+                      "type":  "subtopic",
+                      "label":  "FreeBSD",
+                      "position":  {
+                                       "x":  1210.050901958697,
+                                       "y":  501.9832131980173
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "97cJYKqv7CPPUXkKNwM4x",
+                      "type":  "subtopic",
+                      "label":  "OpenBSD",
+                      "position":  {
+                                       "x":  1210.050901958697,
+                                       "y":  556.9832131980173
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "haiYSwNt3rjiiwCDszPk1",
+                      "type":  "subtopic",
+                      "label":  "NetBSD",
+                      "position":  {
+                                       "x":  1210.050901958697,
+                                       "y":  609.9832131980173
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UOQimp7QkM3sxmFvk5d3i",
+                      "type":  "subtopic",
+                      "label":  "Windows",
+                      "position":  {
+                                       "x":  1191.3528975202719,
+                                       "y":  355.1966436651256
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "type":  "topic",
+                      "label":  "Terminal Knowledge",
+                      "position":  {
+                                       "x":  1704.2802652868972,
+                                       "y":  536.1811226053657
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "x-JWvG1iw86ULL9KrQmRu",
+                      "type":  "subtopic",
+                      "label":  "Process Monitoring",
+                      "position":  {
+                                       "x":  2008.4055424608705,
+                                       "y":  458.18112260536566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gIEQDgKOsoEnSv8mpEzGH",
+                      "type":  "subtopic",
+                      "label":  "Performance Monitoring",
+                      "position":  {
+                                       "x":  2008.4055424608705,
+                                       "y":  511.18112260536566
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OaqKLZe-XnngcDhDzCtRt",
+                      "type":  "subtopic",
+                      "label":  "Networking Tools",
+                      "position":  {
+                                       "x":  2008.4055424608705,
+                                       "y":  564.1811226053657
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cUifrP7v55psTb20IZndf",
+                      "type":  "subtopic",
+                      "label":  "Text Manipulation",
+                      "position":  {
+                                       "x":  2008.4055424608705,
+                                       "y":  617.1811226053657
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "syBIAL1mHbJLnTBoSxXI7",
+                      "type":  "subtopic",
+                      "label":  "Bash",
+                      "position":  {
+                                       "x":  1704.2802652868972,
+                                       "y":  387.7552314433875
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "z6IBekR8Xl-6f8WEb05Nw",
+                      "type":  "subtopic",
+                      "label":  "Power Shell",
+                      "position":  {
+                                       "x":  1704.2802652868972,
+                                       "y":  440.7552314433875
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Jt8BmtLUH6fHT2pGKoJs3",
+                      "type":  "subtopic",
+                      "label":  "Vim / Nano /  Emacs",
+                      "position":  {
+                                       "x":  1704.2802652868972,
+                                       "y":  623.462338948526
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZusrlGqCntlKDPOaTiWqI",
+                      "type":  "label",
+                      "label":  "Scripting",
+                      "position":  {
+                                       "x":  1762.6858674228688,
+                                       "y":  347
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "LvhFmlxz5uIy7k_nzx2Bv",
+                      "type":  "topic",
+                      "label":  "Version Control Systems",
+                      "position":  {
+                                       "x":  1347.5432844855075,
+                                       "y":  717.6852605686394
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uyDm1SpOQdpHjq9zBAdck",
+                      "type":  "subtopic",
+                      "label":  "Git",
+                      "position":  {
+                                       "x":  1189.9080590588455,
+                                       "y":  717.6852605686394
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h10BH3OybHcIN2iDTSGkn",
+                      "type":  "topic",
+                      "label":  "VCS Hosting",
+                      "position":  {
+                                       "x":  1410,
+                                       "y":  909.037249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ot9I_IHdnq2yAMffrSrbN",
+                      "type":  "subtopic",
+                      "label":  "GitHub",
+                      "position":  {
+                                       "x":  1186.9080590588455,
+                                       "y":  856.037249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oQIB0KE0BibjIYmxrpPZS",
+                      "type":  "subtopic",
+                      "label":  "GitLab",
+                      "position":  {
+                                       "x":  1186.9080590588455,
+                                       "y":  909.037249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Z7SsBWgluZWr9iWb2e9XO",
+                      "type":  "subtopic",
+                      "label":  "Bitbucket",
+                      "position":  {
+                                       "x":  1186.9080590588455,
+                                       "y":  962.037249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jCWrnQNgjHKyhzd9dwOHz",
+                      "type":  "topic",
+                      "label":  "What is and how to setup X ?",
+                      "position":  {
+                                       "x":  1976.1022029048668,
+                                       "y":  909.037249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "F93XnRj0BLswJkzyRggLS",
+                      "type":  "subtopic",
+                      "label":  "Forward Proxy",
+                      "position":  {
+                                       "x":  1923.2980619884293,
+                                       "y":  716.4440052182314
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f3tM2uo6LLSOmyeFfLc7h",
+                      "type":  "subtopic",
+                      "label":  "Firewall",
+                      "position":  {
+                                       "x":  2091.2980619884293,
+                                       "y":  769.4440052182314
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ukOrSeyK1ElOt9tTjCkfO",
+                      "type":  "subtopic",
+                      "label":  "Nginx",
+                      "position":  {
+                                       "x":  1996.770175365231,
+                                       "y":  1024.7608674321284
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dF3otkMMN09tgCzci8Jyv",
+                      "type":  "subtopic",
+                      "label":  "Tomcat",
+                      "position":  {
+                                       "x":  1996.770175365231,
+                                       "y":  1077.7608674321284
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0_GMTcMeZv3A8dYkHRoW7",
+                      "type":  "subtopic",
+                      "label":  "Apache",
+                      "position":  {
+                                       "x":  2104.711689887789,
+                                       "y":  1077.7608674321284
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "54UZNO2q8M5FiA_XbcU_D",
+                      "type":  "subtopic",
+                      "label":  "Caddy",
+                      "position":  {
+                                       "x":  2104.711689887789,
+                                       "y":  1024.7608674321284
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5iJOE1QxMvf8BQ_8ssiI8",
+                      "type":  "subtopic",
+                      "label":  "IIS",
+                      "position":  {
+                                       "x":  1996.770175365231,
+                                       "y":  1131.7608674321284
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R4XSY4TSjU1M7cW66zUqJ",
+                      "type":  "subtopic",
+                      "label":  "Caching Server",
+                      "position":  {
+                                       "x":  1922.2980619884293,
+                                       "y":  769.4440052182314
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i8Sd9maB_BeFurULrHXNq",
+                      "type":  "subtopic",
+                      "label":  "Load Balancer",
+                      "position":  {
+                                       "x":  1918.5487566038344,
+                                       "y":  822.4440052182314
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eGF7iyigl57myx2ejpmNC",
+                      "type":  "subtopic",
+                      "label":  "Reverse Proxy",
+                      "position":  {
+                                       "x":  2090.2980619884293,
+                                       "y":  716.4440052182314
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CQhUflAcv1lhBnmDY0gaz",
+                      "type":  "topic",
+                      "label":  "Containers",
+                      "position":  {
+                                       "x":  1664.8844464722006,
+                                       "y":  909.037249249727
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P0acFNZ413MSKElHqCxr3",
+                      "type":  "subtopic",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  1664.8844464722006,
+                                       "y":  772.1520720921645
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qYRJYIZsmf-inMqKECRkI",
+                      "type":  "subtopic",
+                      "label":  "LXC",
+                      "position":  {
+                                       "x":  1664.8844464722006,
+                                       "y":  825.1520720921645
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Wd9SlWGg6QtxgiUVLyZL",
+                      "type":  "topic",
+                      "label":  "Cloud Providers",
+                      "position":  {
+                                       "x":  1584.5509969897735,
+                                       "y":  1280.9816693737002
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1ieK6B_oqW8qOC6bdmiJe",
+                      "type":  "subtopic",
+                      "label":  "AWS",
+                      "position":  {
+                                       "x":  1599.3528975202719,
+                                       "y":  1342
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ctor79Vd7EXDMdrLyUcu_",
+                      "type":  "subtopic",
+                      "label":  "Azure",
+                      "position":  {
+                                       "x":  1714.1818168890086,
+                                       "y":  1342.307095657017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zYrOxFQkl3KSe67fh3smD",
+                      "type":  "subtopic",
+                      "label":  "Google Cloud",
+                      "position":  {
+                                       "x":  1599.3528975202719,
+                                       "y":  1395.307095657017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-h-kNVDNzZYnQAR_4lfXc",
+                      "type":  "subtopic",
+                      "label":  "Digital Ocean",
+                      "position":  {
+                                       "x":  1599.3528975202719,
+                                       "y":  1448.307095657017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YUJf-6ccHvYjL_RzufQ-G",
+                      "type":  "subtopic",
+                      "label":  "Alibaba Cloud",
+                      "position":  {
+                                       "x":  1599.3528975202719,
+                                       "y":  1554.307095657017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "I327qPYGMcdayRR5WT0Ek",
+                      "type":  "subtopic",
+                      "label":  "Hetzner",
+                      "position":  {
+                                       "x":  1599.3528975202719,
+                                       "y":  1501.307095657017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FaPf567JGRAg1MBlFj9Tk",
+                      "type":  "subtopic",
+                      "label":  "Heroku ",
+                      "position":  {
+                                       "x":  1599.3528975202719,
+                                       "y":  1607.307095657017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RDLmML_HS2c8J4D_U_KYe",
+                      "type":  "subtopic",
+                      "label":  "FTP / SFTP",
+                      "position":  {
+                                       "x":  1206.147298803803,
+                                       "y":  1057.495251276272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Vu955vdsYerCG8G6suqml",
+                      "type":  "subtopic",
+                      "label":  "DNS",
+                      "position":  {
+                                       "x":  1348.147298803803,
+                                       "y":  1057.495251276272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ke-8MeuLx7AS2XjSsPhxe",
+                      "type":  "subtopic",
+                      "label":  "HTTP",
+                      "position":  {
+                                       "x":  1206.147298803803,
+                                       "y":  1110.495251276272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AJO3jtHvIICj8YKaSXl0U",
+                      "type":  "subtopic",
+                      "label":  "HTTPS",
+                      "position":  {
+                                       "x":  1348.147298803803,
+                                       "y":  1110.495251276272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0o6ejhfpmO4S8A6djVWva",
+                      "type":  "subtopic",
+                      "label":  "SSL / TLS",
+                      "position":  {
+                                       "x":  1207.2914695545712,
+                                       "y":  1163.495251276272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wcIRMLVm3SdEJWF9RPfn7",
+                      "type":  "subtopic",
+                      "label":  "SSH",
+                      "position":  {
+                                       "x":  1349.2914695545712,
+                                       "y":  1163.495251276272
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "E-lSLGzgOPrz-25ER2Hk7",
+                      "type":  "subtopic",
+                      "label":  "White / Grey Listing",
+                      "position":  {
+                                       "x":  1205.5374764166006,
+                                       "y":  1297.964929643881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zJy9dOynWgLTDKI1iBluG",
+                      "type":  "subtopic",
+                      "label":  "SMTP",
+                      "position":  {
+                                       "x":  1206.5374764166006,
+                                       "y":  1350.964929643881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5vUKHuItQfkarp7LtACvX",
+                      "type":  "subtopic",
+                      "label":  "DMARC",
+                      "position":  {
+                                       "x":  1328.7306776209605,
+                                       "y":  1350.964929643881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WMuXqa4b5wyRuYAQKQJRj",
+                      "type":  "subtopic",
+                      "label":  "IMAP",
+                      "position":  {
+                                       "x":  1206.5374764166006,
+                                       "y":  1403.964929643881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ewcJfnDFKXN8I5TLpXEaB",
+                      "type":  "subtopic",
+                      "label":  "SPF",
+                      "position":  {
+                                       "x":  1328.7306776209605,
+                                       "y":  1403.964929643881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fzO6xVTBxliu24f3W5zaU",
+                      "type":  "subtopic",
+                      "label":  "POP3S",
+                      "position":  {
+                                       "x":  1205.5374764166006,
+                                       "y":  1456.964929643881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RYCD78msIR2BPJoIP71aj",
+                      "type":  "subtopic",
+                      "label":  "Domain Keys",
+                      "position":  {
+                                       "x":  1205.5374764166006,
+                                       "y":  1510.964929643881
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n-pIspYFAk0vpHNbLbbLz",
+                      "type":  "label",
+                      "label":  "Email Protocols",
+                      "position":  {
+                                       "x":  1274.6452398367048,
+                                       "y":  1565.4144228217488
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "QZ7bkY-MaEgxYoPDP3nma",
+                      "type":  "subtopic",
+                      "label":  "OSI Model",
+                      "position":  {
+                                       "x":  1205.5374764166006,
+                                       "y":  1219.740182887247
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w5d24Sf8GDkLDLGUPxzS9",
+                      "type":  "topic",
+                      "label":  "Networking \u0026 Protocols",
+                      "position":  {
+                                       "x":  1583.0509969897735,
+                                       "y":  1138.0187194026719
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9p_ufPj6QH9gHbWBQUmGw",
+                      "type":  "topic",
+                      "label":  "Serverless",
+                      "position":  {
+                                       "x":  1992.153929822237,
+                                       "y":  1280.9816693737002
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LZDRgDxEZ3klp2PrrJFBX",
+                      "type":  "subtopic",
+                      "label":  "Vercel",
+                      "position":  {
+                                       "x":  2010.6022029048672,
+                                       "y":  1500
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "l8VAewSEXzoyqYFhoplJj",
+                      "type":  "subtopic",
+                      "label":  "Cloudflare",
+                      "position":  {
+                                       "x":  2010.6022029048672,
+                                       "y":  1394
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "mlrlf2McMI7IBhyEdq0Nf",
+                      "type":  "subtopic",
+                      "label":  "Azure Functions",
+                      "position":  {
+                                       "x":  2010.6022029048672,
+                                       "y":  1447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UfQrIJ-uMNJt9H_VM_Q5q",
+                      "type":  "subtopic",
+                      "label":  "AWS Lambda",
+                      "position":  {
+                                       "x":  2010.6022029048672,
+                                       "y":  1341
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hCKODV2b_l2uPit0YeP1M",
+                      "type":  "subtopic",
+                      "label":  "Netlify",
+                      "position":  {
+                                       "x":  2010.6022029048672,
+                                       "y":  1553
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1oYvpFG8LKT1JD6a_9J0m",
+                      "type":  "topic",
+                      "label":  "Provisioning",
+                      "position":  {
+                                       "x":  2022.153929822237,
+                                       "y":  1749.6366924943281
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XA__697KgofsH28coQ-ma",
+                      "type":  "subtopic",
+                      "label":  "AWS CDK",
+                      "position":  {
+                                       "x":  2023.153929822237,
+                                       "y":  1837.2739894115864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TgBb4aL_9UkyU36CN4qvS",
+                      "type":  "subtopic",
+                      "label":  "CloudFormation",
+                      "position":  {
+                                       "x":  2023.153929822237,
+                                       "y":  1890.2739894115864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "O0xZ3dy2zIDbOetVrgna6",
+                      "type":  "subtopic",
+                      "label":  "Pulumi",
+                      "position":  {
+                                       "x":  2023.153929822237,
+                                       "y":  1943.2739894115864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "nUBGf1rp9GK_pbagWCP9g",
+                      "type":  "subtopic",
+                      "label":  "Terraform",
+                      "position":  {
+                                       "x":  2023.153929822237,
+                                       "y":  1997.2739894115864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V9sOxlNOyRp0Mghl7zudv",
+                      "type":  "topic",
+                      "label":  "Configuration Management",
+                      "position":  {
+                                       "x":  1696.6885970352912,
+                                       "y":  1749.6366924943281
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "h9vVPOmdUSeEGVQQaSTH5",
+                      "type":  "subtopic",
+                      "label":  "Ansible",
+                      "position":  {
+                                       "x":  1521.0509969897735,
+                                       "y":  1720.549479432437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kv508kxzUj_CjZRb-TeRv",
+                      "type":  "subtopic",
+                      "label":  "Chef",
+                      "position":  {
+                                       "x":  1402.0509969897735,
+                                       "y":  1720.549479432437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yP1y8U3eblpzbaLiCGliU",
+                      "type":  "subtopic",
+                      "label":  "Puppet",
+                      "position":  {
+                                       "x":  1521.0509969897735,
+                                       "y":  1773.549479432437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aQJaouIaxIJChM-40M3HQ",
+                      "type":  "topic",
+                      "label":  "CI / CD Tools",
+                      "position":  {
+                                       "x":  1785.8844464722006,
+                                       "y":  1971.2739894115864
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JnWVCS1HbAyfCJzGt-WOH",
+                      "type":  "subtopic",
+                      "label":  "GitHub Actions",
+                      "position":  {
+                                       "x":  1440.894041311382,
+                                       "y":  2078.0270769190474
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2KjSLLVTvl2G2KValw7S7",
+                      "type":  "subtopic",
+                      "label":  "GitLab CI",
+                      "position":  {
+                                       "x":  1439,
+                                       "y":  1972.0270769190477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dUapFp3f0Rum-rf_Vk_b-",
+                      "type":  "subtopic",
+                      "label":  "Jenkins",
+                      "position":  {
+                                       "x":  1569,
+                                       "y":  1919.0270769190477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1-JneOQeGhox-CKrdiquq",
+                      "type":  "subtopic",
+                      "label":  "Circle CI",
+                      "position":  {
+                                       "x":  1569,
+                                       "y":  1972.0270769190477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TsXFx1wWikVBVoFUUDAMx",
+                      "type":  "subtopic",
+                      "label":  "Octopus Deploy",
+                      "position":  {
+                                       "x":  1439.894041311382,
+                                       "y":  2025.0270769190477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L000AbzF3oLcn4B1eUIYX",
+                      "type":  "subtopic",
+                      "label":  "TeamCity",
+                      "position":  {
+                                       "x":  1439,
+                                       "y":  1919.0270769190477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hcrPpjFxPi_iLiMdLKJrO",
+                      "type":  "topic",
+                      "label":  "Secret Management",
+                      "position":  {
+                                       "x":  1724.6885970352912,
+                                       "y":  2195.6542746452424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZWq23Q9ZNxLNti68oltxA",
+                      "type":  "subtopic",
+                      "label":  "Sealed Secrets",
+                      "position":  {
+                                       "x":  2005.6275872741135,
+                                       "y":  2141.6542746452424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yQ4d2uiROZYr950cjYnQE",
+                      "type":  "subtopic",
+                      "label":  "Cloud Specific Tools",
+                      "position":  {
+                                       "x":  2005.6275872741135,
+                                       "y":  2249.6542746452424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "tZzvs80KzqT8aDvEyjack",
+                      "type":  "subtopic",
+                      "label":  "Vault",
+                      "position":  {
+                                       "x":  2005.6275872741135,
+                                       "y":  2195.6542746452424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GHQWHLxsO40kJ6z_YCinJ",
+                      "type":  "subtopic",
+                      "label":  "SOPs",
+                      "position":  {
+                                       "x":  2127.6275872741135,
+                                       "y":  2195.6542746452424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qqRLeTpuoW64H9LvY0U_w",
+                      "type":  "topic",
+                      "label":  "Infrastructure Monitoring",
+                      "position":  {
+                                       "x":  1437.7647088844683,
+                                       "y":  2195.6542746452424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "W9sKEoDlR8LzocQkqSv82",
+                      "type":  "subtopic",
+                      "label":  "Zabbix",
+                      "position":  {
+                                       "x":  1443.6500824678124,
+                                       "y":  2389.3422065391833
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NiVvRbCOCDpVvif48poCo",
+                      "type":  "subtopic",
+                      "label":  "Prometheus",
+                      "position":  {
+                                       "x":  1442.5,
+                                       "y":  2282.3422065391833
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bujq_C-ejtpmk-ICALByy",
+                      "type":  "subtopic",
+                      "label":  "Datadog",
+                      "position":  {
+                                       "x":  1563.6500824678124,
+                                       "y":  2389.3422065391833
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "niA_96yR7uQ0sc6S_OStf",
+                      "type":  "subtopic",
+                      "label":  "Grafana",
+                      "position":  {
+                                       "x":  1442.5,
+                                       "y":  2335.3422065391833
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gaoZjOYmU0J5aM6vtLNvN",
+                      "type":  "topic",
+                      "label":  "Logs Management",
+                      "position":  {
+                                       "x":  1186.9080590588455,
+                                       "y":  2009.6937435857144
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K_qLhK2kKN_uCq7iVjqph",
+                      "type":  "subtopic",
+                      "label":  "Elastic Stack",
+                      "position":  {
+                                       "x":  1206.9080590588455,
+                                       "y":  1847.867646144425
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "s_kss4FJ2KyZRdcKNHK2v",
+                      "type":  "subtopic",
+                      "label":  "Graylog",
+                      "position":  {
+                                       "x":  1206.9080590588455,
+                                       "y":  1900.867646144425
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dZID_Y_uRTF8JlfDCqeqs",
+                      "type":  "subtopic",
+                      "label":  "Splunk",
+                      "position":  {
+                                       "x":  1206.9080590588455,
+                                       "y":  1740.867646144425
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cjjMZdyLgakyVkImVQTza",
+                      "type":  "subtopic",
+                      "label":  "Papertrail",
+                      "position":  {
+                                       "x":  1206.9080590588455,
+                                       "y":  1687.867646144425
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Yq8kVoRf20aL_o4VZU5--",
+                      "type":  "topic",
+                      "label":  "Container Orchestration",
+                      "position":  {
+                                       "x":  1191.5919421168855,
+                                       "y":  2475.411508945109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XbrWlTyH4z8crSHkki2lp",
+                      "type":  "subtopic",
+                      "label":  "GKE / EKS / AKS",
+                      "position":  {
+                                       "x":  1191.5919421168855,
+                                       "y":  2563.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FE2h-uQy6qli3rKERci1j",
+                      "type":  "subtopic",
+                      "label":  "AWS ECS / Fargate",
+                      "position":  {
+                                       "x":  1191.5919421168855,
+                                       "y":  2616.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VD24HC9qJOC42lbpJ-swC",
+                      "type":  "subtopic",
+                      "label":  "Docker Swarm",
+                      "position":  {
+                                       "x":  1191.5919421168855,
+                                       "y":  2669.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zuBAjrqQPjj-0DHGjCaqT",
+                      "type":  "topic",
+                      "label":  "Artifact Management",
+                      "position":  {
+                                       "x":  1775.6994137533861,
+                                       "y":  2475.411508945109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "C_sFyIsIIpriZlovvcbSE",
+                      "type":  "subtopic",
+                      "label":  "Artifactory",
+                      "position":  {
+                                       "x":  1804.1994137533861,
+                                       "y":  2283.2681164764685
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ootuLJfRXarVvm3J1Ir11",
+                      "type":  "subtopic",
+                      "label":  "Nexus",
+                      "position":  {
+                                       "x":  1805.1994137533861,
+                                       "y":  2335.2681164764685
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vsmE6EpCc2DFGk1YTbkHS",
+                      "type":  "subtopic",
+                      "label":  "Cloud Smith",
+                      "position":  {
+                                       "x":  1805.6994137533861,
+                                       "y":  2387.2681164764685
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-INN1qTMLimrZgaSPCcHj",
+                      "type":  "topic",
+                      "label":  "GitOps",
+                      "position":  {
+                                       "x":  2039.880090807097,
+                                       "y":  2475.411508945109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i-DLwNXdCUUug6lfjkPSy",
+                      "type":  "subtopic",
+                      "label":  "ArgoCD",
+                      "position":  {
+                                       "x":  2039.880090807097,
+                                       "y":  2335.2924702992086
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6gVV_JUgKgwJb4C8tHZn7",
+                      "type":  "subtopic",
+                      "label":  "FluxCD",
+                      "position":  {
+                                       "x":  2039.880090807097,
+                                       "y":  2388.2924702992086
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EeWsihH9ehbFKebYoB5i9",
+                      "type":  "topic",
+                      "label":  "Service Mesh",
+                      "position":  {
+                                       "x":  2039.941514522558,
+                                       "y":  2663.211912357967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XsSnqW6k2IzvmrMmJeU6a",
+                      "type":  "subtopic",
+                      "label":  "Istio",
+                      "position":  {
+                                       "x":  1829.5489126426492,
+                                       "y":  2586.211912357967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OXOTm3nz6o44p50qd0brN",
+                      "type":  "subtopic",
+                      "label":  "Consul",
+                      "position":  {
+                                       "x":  1829.5489126426492,
+                                       "y":  2639.211912357967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hhoSe4q1u850PgK62Ubau",
+                      "type":  "subtopic",
+                      "label":  "Linkerd",
+                      "position":  {
+                                       "x":  1829.5489126426492,
+                                       "y":  2692.211912357967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "epLLYArR16HlhAS4c33b4",
+                      "type":  "subtopic",
+                      "label":  "Envoy",
+                      "position":  {
+                                       "x":  1829.5489126426492,
+                                       "y":  2745.211912357967
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Qc0MGR5bMG9eeM5Zb9PMk",
+                      "type":  "topic",
+                      "label":  "Cloud Design Patterns",
+                      "position":  {
+                                       "x":  1584.5509969897735,
+                                       "y":  2965.227757915361
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JCe3fcOf-sokTJURyX1oI",
+                      "type":  "subtopic",
+                      "label":  "Availability",
+                      "position":  {
+                                       "x":  1193,
+                                       "y":  2890
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5FN7iva4DW_lv-r1tijd8",
+                      "type":  "subtopic",
+                      "label":  "Data Management",
+                      "position":  {
+                                       "x":  1193,
+                                       "y":  2942
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1_NRXjckZ0F8EtEmgixqz",
+                      "type":  "subtopic",
+                      "label":  "Design and Implementation",
+                      "position":  {
+                                       "x":  1193,
+                                       "y":  2994
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8kby89epyullS9W7uKDrs",
+                      "type":  "subtopic",
+                      "label":  "Management and Monitoring",
+                      "position":  {
+                                       "x":  1193,
+                                       "y":  3046
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ju00mr0KLGN2BV6yEQGPt",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  1690.6885970352912,
+                                       "y":  3211.039131203956
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sVXZrBCsiSzWBBYWTm-nQ",
+                      "type":  "paragraph",
+                      "label":  "Have a look at the following relevant roadmaps",
+                      "position":  {
+                                       "x":  1212.6885970352912,
+                                       "y":  3127.016439761934
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wKYrZhmdNsv1Dw74-oAjR",
+                      "type":  "button",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  1229.1022029048668,
+                                       "y":  3183.486197134392
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "IjRWRJtJqhSsf67kh5YE6",
+                      "type":  "button",
+                      "label":  "Docker",
+                      "position":  {
+                                       "x":  1416.1022029048668,
+                                       "y":  3183.486197134392
+                                   },
+                      "href":  "https://roadmap.sh/docker",
+                      "links":  null
+                  },
+                  {
+                      "id":  "0iBhYESSf5f6WHvs_QqC5",
+                      "type":  "button",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  1603.1022029048668,
+                                       "y":  3183.486197134392
+                                   },
+                      "href":  "https://roadmap.sh/kubernetes",
+                      "links":  null
+                  },
+                  {
+                      "id":  "uSLzfLPXxS5-P7ozscvjZ",
+                      "type":  "button",
+                      "label":  "Linux",
+                      "position":  {
+                                       "x":  1790.1022029048668,
+                                       "y":  3183.486197134392
+                                   },
+                      "href":  "https://roadmap.sh/linux",
+                      "links":  null
+                  },
+                  {
+                      "id":  "MfErpYwkJ0wiWJZEUVfrb",
+                      "type":  "button",
+                      "label":  "Visit the Beginner Version",
+                      "position":  {
+                                       "x":  1195.6220092352162,
+                                       "y":  115.7961259304779
+                                   },
+                      "href":  "/devops?r=devops-beginner",
+                      "links":  null
+                  },
+                  {
+                      "id":  "w2eCgBC-ydMHSxh7LMti8",
+                      "type":  "subtopic",
+                      "label":  "Loki",
+                      "position":  {
+                                       "x":  1206.9080590588455,
+                                       "y":  1794.867646144425
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hIBeTUiAI3zwUY6NgAO-A",
+                      "type":  "subtopic",
+                      "label":  "Kubernetes",
+                      "position":  {
+                                       "x":  1191.5919421168855,
+                                       "y":  2722.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "z7rDVZZVr1C2ZoOHGxDQ_",
+                      "type":  "label",
+                      "label":  "Web Server",
+                      "position":  {
+                                       "x":  2056.211689887789,
+                                       "y":  1182.7608674321284
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "5zUf-LBQ0ByeP2hnAf9x1",
+                      "type":  "label",
+                      "label":  "Editors",
+                      "position":  {
+                                       "x":  1769.6858674228688,
+                                       "y":  676.1476021125169
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "JXsctlXUUS1ie8nNEgIk9",
+                      "type":  "subtopic",
+                      "label":  "GCP Functions",
+                      "position":  {
+                                       "x":  2010.6022029048672,
+                                       "y":  1606
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wNguM6-YEznduz3MgBCYo",
+                      "type":  "topic",
+                      "label":  "Observability",
+                      "position":  {
+                                       "x":  1491.8528975202719,
+                                       "y":  2475.411508945109
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8rd7T5ahK2I_zh5co-IF-",
+                      "type":  "subtopic",
+                      "label":  "Jaeger",
+                      "position":  {
+                                       "x":  1510.8528975202719,
+                                       "y":  2562.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pk76Us6z8LoX3f0mhnCyR",
+                      "type":  "subtopic",
+                      "label":  "New Relic",
+                      "position":  {
+                                       "x":  1510.8528975202719,
+                                       "y":  2615.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "BHny2Emf96suhAlltiEro",
+                      "type":  "subtopic",
+                      "label":  "Datadog",
+                      "position":  {
+                                       "x":  1510.8528975202719,
+                                       "y":  2668.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eOyu4wmKOrcMlhD8pUGGh",
+                      "type":  "subtopic",
+                      "label":  "Prometheus",
+                      "position":  {
+                                       "x":  1510.8528975202719,
+                                       "y":  2721.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "K81bmtgnB1gfhYdi3TB5a",
+                      "type":  "subtopic",
+                      "label":  "OpenTelemetry",
+                      "position":  {
+                                       "x":  1510.8528975202719,
+                                       "y":  2774.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  1889.6500409127607,
+                                       "y":  -22.78177169427409
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2zqZkyVgigifcRS1H7F_b",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  1902.8534153255607,
+                                       "y":  59.2037917234712
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "lUUJAEBrGJvL8dRs2n1GD",
+                      "type":  "subtopic",
+                      "label":  "ESO",
+                      "position":  {
+                                       "x":  2173.6275872741135,
+                                       "y":  2141.6542746452424
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4aJVaimsuvGIPXMZ_WjaA",
+                      "type":  "subtopic",
+                      "label":  "Dynatrace",
+                      "position":  {
+                                       "x":  1510.8528975202719,
+                                       "y":  2827.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Kumwd6XOlEMeDohDH0q9P",
+                      "type":  "subtopic",
+                      "label":  "Salt",
+                      "position":  {
+                                       "x":  1402.0509969897735,
+                                       "y":  1773.549479432437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3GryoQuI67JTHg9r3xUHO",
+                      "type":  "subtopic",
+                      "label":  "OpenShift",
+                      "position":  {
+                                       "x":  1191.5919421168855,
+                                       "y":  2775.733953859971
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YeWQnKPIWti6sfYT51WT1",
+                      "type":  "button",
+                      "label":  "Network Engineer",
+                      "position":  {
+                                       "x":  1583.0509969897735,
+                                       "y":  1191.0187194026719
+                                   },
+                      "href":  "https://roadmap.sh/network-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "hBrlgoiP-eRsxVf8xYmJZ",
+                      "type":  "button",
+                      "label":  "Network Engineer",
+                      "position":  {
+                                       "x":  1977.1022029048668,
+                                       "y":  3183.486197134392
+                                   },
+                      "href":  "https://roadmap.sh/network-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "DjDR8Yn5Q55NvoihElj7m",
+                      "type":  "subtopic",
+                      "label":  "Render",
+                      "position":  {
+                                       "x":  1713.3528975202719,
+                                       "y":  1501.307095657017
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "e0CIteRMxc0DydKEJnMhp",
+                      "type":  "subtopic",
+                      "label":  "Railway",
+                      "position":  {
+                                       "x":  1439,
+                                       "y":  1866.0270769190477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1du8Q2pRZM82ri6jBy5T7",
+                      "type":  "subtopic",
+                      "label":  "Buildkite",
+                      "position":  {
+                                       "x":  1569,
+                                       "y":  1866.0270769190477
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "reactflow__edge-fqBgeJj5fan4TT7K2E6c7x2-43OZ35TemharSqfrst0Pvw1",
+                      "source":  "fqBgeJj5fan4TT7K2E6c7",
+                      "target":  "v5FGKQc-_7NYEsWjmTEuq",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-43OZ35TemharSqfrst0Pvz2-npnMwSDEK2aLGgnuZZ4dOy1",
+                      "source":  "v5FGKQc-_7NYEsWjmTEuq",
+                      "target":  "npnMwSDEK2aLGgnuZZ4dO",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-43OZ35TemharSqfrst0Pvz2-TwVfCYMS9jSaJ6UyYmC-Ky1",
+                      "source":  "v5FGKQc-_7NYEsWjmTEuq",
+                      "target":  "TwVfCYMS9jSaJ6UyYmC-K",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-43OZ35TemharSqfrst0Pvz2-QCdemtWa2mE78poNXeqzry1",
+                      "source":  "v5FGKQc-_7NYEsWjmTEuq",
+                      "target":  "QCdemtWa2mE78poNXeqzr",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-v5FGKQc-_7NYEsWjmTEuqy2-qe84v529VbCyydl0BKFk2w1",
+                      "source":  "v5FGKQc-_7NYEsWjmTEuq",
+                      "target":  "qe84v529VbCyydl0BKFk2",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-qe84v529VbCyydl0BKFk2y2--JGe6oHUuaAdakoOjTV5uz1",
+                      "source":  "qe84v529VbCyydl0BKFk2",
+                      "target":  "UOQimp7QkM3sxmFvk5d3i",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-uyDm1SpOQdpHjq9zBAdckz1",
+                      "source":  "LvhFmlxz5uIy7k_nzx2Bv",
+                      "target":  "uyDm1SpOQdpHjq9zBAdck",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMkx2-NiVvRbCOCDpVvif48poCow1",
+                      "source":  "qqRLeTpuoW64H9LvY0U_w",
+                      "target":  "NiVvRbCOCDpVvif48poCo",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-qe84v529VbCyydl0BKFk2z2-wjJPzrFJBNYOD3SJLzW2My1",
+                      "source":  "qe84v529VbCyydl0BKFk2",
+                      "target":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wjJPzrFJBNYOD3SJLzW2My2-LvhFmlxz5uIy7k_nzx2Bvz1",
+                      "source":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "target":  "LvhFmlxz5uIy7k_nzx2Bv",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mx2-Jt8BmtLUH6fHT2pGKoJs3w2",
+                      "source":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "target":  "Jt8BmtLUH6fHT2pGKoJs3",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mw2-z6IBekR8Xl-6f8WEb05Nwx2",
+                      "source":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "target":  "z6IBekR8Xl-6f8WEb05Nw",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-x-JWvG1iw86ULL9KrQmRuy1",
+                      "source":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "target":  "x-JWvG1iw86ULL9KrQmRu",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-gIEQDgKOsoEnSv8mpEzGHy1",
+                      "source":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "target":  "gIEQDgKOsoEnSv8mpEzGH",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-OaqKLZe-XnngcDhDzCtRty1",
+                      "source":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "target":  "OaqKLZe-XnngcDhDzCtRt",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-cUifrP7v55psTb20IZndfy1",
+                      "source":  "wjJPzrFJBNYOD3SJLzW2M",
+                      "target":  "cUifrP7v55psTb20IZndf",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-h10BH3OybHcIN2iDTSGkny2-ot9I_IHdnq2yAMffrSrbNz2",
+                      "source":  "h10BH3OybHcIN2iDTSGkn",
+                      "target":  "ot9I_IHdnq2yAMffrSrbN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-h10BH3OybHcIN2iDTSGkny2-oQIB0KE0BibjIYmxrpPZSz1",
+                      "source":  "h10BH3OybHcIN2iDTSGkn",
+                      "target":  "oQIB0KE0BibjIYmxrpPZS",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-h10BH3OybHcIN2iDTSGkny2-Z7SsBWgluZWr9iWb2e9XOz1",
+                      "source":  "h10BH3OybHcIN2iDTSGkn",
+                      "target":  "Z7SsBWgluZWr9iWb2e9XO",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-h10BH3OybHcIN2iDTSGknz2-CQhUflAcv1lhBnmDY0gazy1",
+                      "source":  "h10BH3OybHcIN2iDTSGkn",
+                      "target":  "CQhUflAcv1lhBnmDY0gaz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-CQhUflAcv1lhBnmDY0gazw2-qYRJYIZsmf-inMqKECRkIx1",
+                      "source":  "CQhUflAcv1lhBnmDY0gaz",
+                      "target":  "qYRJYIZsmf-inMqKECRkI",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-CQhUflAcv1lhBnmDY0gazz2-jCWrnQNgjHKyhzd9dwOHzy1",
+                      "source":  "CQhUflAcv1lhBnmDY0gaz",
+                      "target":  "jCWrnQNgjHKyhzd9dwOHz",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-jCWrnQNgjHKyhzd9dwOHzx2-PsbYeHGMd9E1UNqcaFQOzw1",
+                      "source":  "jCWrnQNgjHKyhzd9dwOHz",
+                      "target":  "PsbYeHGMd9E1UNqcaFQOz",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-jCWrnQNgjHKyhzd9dwOHzy2-w5d24Sf8GDkLDLGUPxzS9w1",
+                      "source":  "jCWrnQNgjHKyhzd9dwOHz",
+                      "target":  "w5d24Sf8GDkLDLGUPxzS9",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-w5d24Sf8GDkLDLGUPxzS9y2-7crPw2SKw-TlsSe9kpZFQz1",
+                      "source":  "w5d24Sf8GDkLDLGUPxzS9",
+                      "target":  "7crPw2SKw-TlsSe9kpZFQ",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-2Wd9SlWGg6QtxgiUVLyZLz2-9p_ufPj6QH9gHbWBQUmGwy1",
+                      "source":  "2Wd9SlWGg6QtxgiUVLyZL",
+                      "target":  "9p_ufPj6QH9gHbWBQUmGw",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-JizyX8jse920gpWcmoSEDx2-1oYvpFG8LKT1JD6a_9J0mw1",
+                      "source":  "JizyX8jse920gpWcmoSED",
+                      "target":  "1oYvpFG8LKT1JD6a_9J0m",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-1oYvpFG8LKT1JD6a_9J0mx2-XA__697KgofsH28coQ-maw1",
+                      "source":  "1oYvpFG8LKT1JD6a_9J0m",
+                      "target":  "XA__697KgofsH28coQ-ma",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-1oYvpFG8LKT1JD6a_9J0my2-V9sOxlNOyRp0Mghl7zudvz1",
+                      "source":  "1oYvpFG8LKT1JD6a_9J0m",
+                      "target":  "V9sOxlNOyRp0Mghl7zudv",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-dUapFp3f0Rum-rf_Vk_b-z1",
+                      "source":  "aQJaouIaxIJChM-40M3HQ",
+                      "target":  "dUapFp3f0Rum-rf_Vk_b-",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-1-JneOQeGhox-CKrdiquqz1",
+                      "source":  "aQJaouIaxIJChM-40M3HQ",
+                      "target":  "1-JneOQeGhox-CKrdiquq",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-TsXFx1wWikVBVoFUUDAMxz1",
+                      "source":  "aQJaouIaxIJChM-40M3HQ",
+                      "target":  "TsXFx1wWikVBVoFUUDAMx",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-JnWVCS1HbAyfCJzGt-WOHz1",
+                      "source":  "aQJaouIaxIJChM-40M3HQ",
+                      "target":  "JnWVCS1HbAyfCJzGt-WOH",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOz2-ZWq23Q9ZNxLNti68oltxAy1",
+                      "source":  "hcrPpjFxPi_iLiMdLKJrO",
+                      "target":  "ZWq23Q9ZNxLNti68oltxA",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOz2-tZzvs80KzqT8aDvEyjacky1",
+                      "source":  "hcrPpjFxPi_iLiMdLKJrO",
+                      "target":  "tZzvs80KzqT8aDvEyjack",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOz2-yQ4d2uiROZYr950cjYnQEy1",
+                      "source":  "hcrPpjFxPi_iLiMdLKJrO",
+                      "target":  "yQ4d2uiROZYr950cjYnQE",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOy2-qqRLeTpuoW64H9LvY0U_wz2",
+                      "source":  "hcrPpjFxPi_iLiMdLKJrO",
+                      "target":  "qqRLeTpuoW64H9LvY0U_w",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-qqRLeTpuoW64H9LvY0U_wy2-gaoZjOYmU0J5aM6vtLNvNx2",
+                      "source":  "qqRLeTpuoW64H9LvY0U_w",
+                      "target":  "gaoZjOYmU0J5aM6vtLNvN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "reactflow__edge-gaoZjOYmU0J5aM6vtLNvNw2-s_kss4FJ2KyZRdcKNHK2vx1",
+                      "source":  "gaoZjOYmU0J5aM6vtLNvN",
+                      "target":  "s_kss4FJ2KyZRdcKNHK2v",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-zuBAjrqQPjj-0DHGjCaqTw2-vsmE6EpCc2DFGk1YTbkHSx2",
+                      "source":  "zuBAjrqQPjj-0DHGjCaqT",
+                      "target":  "vsmE6EpCc2DFGk1YTbkHS",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  },
+                  {
+                      "id":  "reactflow__edge--INN1qTMLimrZgaSPCcHjw2-6gVV_JUgKgwJb4C8tHZn7x1",
+                      "source":  "-INN1qTMLimrZgaSPCcHj",
+                      "target":  "6gVV_JUgKgwJb4C8tHZn7",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "reactflow__edge-zuBAjrqQPjj-0DHGjCaqTz2--INN1qTMLimrZgaSPCcHjy1",
+                      "source":  "zuBAjrqQPjj-0DHGjCaqT",
+                      "target":  "-INN1qTMLimrZgaSPCcHj",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge--INN1qTMLimrZgaSPCcHjx2-EeWsihH9ehbFKebYoB5i9w1",
+                      "source":  "-INN1qTMLimrZgaSPCcHj",
+                      "target":  "EeWsihH9ehbFKebYoB5i9",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-XsSnqW6k2IzvmrMmJeU6az2",
+                      "source":  "EeWsihH9ehbFKebYoB5i9",
+                      "target":  "XsSnqW6k2IzvmrMmJeU6a",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-hhoSe4q1u850PgK62Ubauz1",
+                      "source":  "EeWsihH9ehbFKebYoB5i9",
+                      "target":  "hhoSe4q1u850PgK62Ubau",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-epLLYArR16HlhAS4c33b4z1",
+                      "source":  "EeWsihH9ehbFKebYoB5i9",
+                      "target":  "epLLYArR16HlhAS4c33b4",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-EeWsihH9ehbFKebYoB5i9x2-Qc0MGR5bMG9eeM5Zb9PMkz2",
+                      "source":  "EeWsihH9ehbFKebYoB5i9",
+                      "target":  "Qc0MGR5bMG9eeM5Zb9PMk",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-OXOTm3nz6o44p50qd0brNz2",
+                      "source":  "EeWsihH9ehbFKebYoB5i9",
+                      "target":  "OXOTm3nz6o44p50qd0brN",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMkx2-sVXZrBCsiSzWBBYWTm-nQw1",
+                      "source":  "Qc0MGR5bMG9eeM5Zb9PMk",
+                      "target":  "sVXZrBCsiSzWBBYWTm-nQ",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-JCe3fcOf-sokTJURyX1oIz1",
+                      "source":  "Qc0MGR5bMG9eeM5Zb9PMk",
+                      "target":  "JCe3fcOf-sokTJURyX1oI",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-5FN7iva4DW_lv-r1tijd8z1",
+                      "source":  "Qc0MGR5bMG9eeM5Zb9PMk",
+                      "target":  "5FN7iva4DW_lv-r1tijd8",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-1_NRXjckZ0F8EtEmgixqzz1",
+                      "source":  "Qc0MGR5bMG9eeM5Zb9PMk",
+                      "target":  "1_NRXjckZ0F8EtEmgixqz",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-8kby89epyullS9W7uKDrsz1",
+                      "source":  "Qc0MGR5bMG9eeM5Zb9PMk",
+                      "target":  "8kby89epyullS9W7uKDrs",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "reactflow__edge-Yq8kVoRf20aL_o4VZU5--z2-wNguM6-YEznduz3MgBCYoy1",
+                      "source":  "Yq8kVoRf20aL_o4VZU5--",
+                      "target":  "wNguM6-YEznduz3MgBCYo",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wNguM6-YEznduz3MgBCYoz2-zuBAjrqQPjj-0DHGjCaqTy1",
+                      "source":  "wNguM6-YEznduz3MgBCYo",
+                      "target":  "zuBAjrqQPjj-0DHGjCaqT",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "reactflow__edge-wNguM6-YEznduz3MgBCYox2-8rd7T5ahK2I_zh5co-IF-w1",
+                      "source":  "wNguM6-YEznduz3MgBCYo",
+                      "target":  "8rd7T5ahK2I_zh5co-IF-",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__V9sOxlNOyRp0Mghl7zudvy2-h9vVPOmdUSeEGVQQaSTH5z1",
+                      "source":  "V9sOxlNOyRp0Mghl7zudv",
+                      "target":  "h9vVPOmdUSeEGVQQaSTH5",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__V9sOxlNOyRp0Mghl7zudvy2-yP1y8U3eblpzbaLiCGliUz1",
+                      "source":  "V9sOxlNOyRp0Mghl7zudv",
+                      "target":  "yP1y8U3eblpzbaLiCGliU",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__YeWQnKPIWti6sfYT51WT1x2-2Wd9SlWGg6QtxgiUVLyZLw2",
+                      "source":  "YeWQnKPIWti6sfYT51WT1",
+                      "target":  "2Wd9SlWGg6QtxgiUVLyZL",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__aQJaouIaxIJChM-40M3HQy2-1du8Q2pRZM82ri6jBy5T7z1",
+                      "source":  "aQJaouIaxIJChM-40M3HQ",
+                      "target":  "1du8Q2pRZM82ri6jBy5T7",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  }
+              ]
+}

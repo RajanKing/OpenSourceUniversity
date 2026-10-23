@@ -1,0 +1,1156 @@
+{
+    "slug":  "prompt-engineering",
+    "source":  "https://roadmap.sh/prompt-engineering",
+    "title":  "Prompt Engineering Roadmap",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-04-29T07:36:03.435Z",
+    "nodes":  [
+                  {
+                      "id":  "4XxWBlG--Jno5rp9jgKSO",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  497.88175939370524,
+                                       "y":  979.2653370945436
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Om4JhS6vA7meXZMz2db6p",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -28.454879883555236,
+                                       "y":  772.8248182141422
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1A9GZB7qdEWLUSzrHTxcE",
+                      "type":  "section",
+                      "label":  null,
+                      "position":  {
+                                       "x":  632.4295413285469,
+                                       "y":  733.4990214604736
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f30g-r_2QkuZbVKjV4QAP",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  499.22769890153216,
+                                       "y":  549.229856559481
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ydL4q2dOu6gj3S3dD8IRY",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  632.4295413285469,
+                                       "y":  571.2316904538759
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jVjMjAPHn0n1LwcdZ4ysv",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  239.35299065080562,
+                                       "y":  433.847193632089
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6A6v4832QCVhaYfvKmdf0",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -137.1968370483245,
+                                       "y":  1400.3181290435473
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fH9YBXRZk8tdO98pz3Duw",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -144.1182406062948,
+                                       "y":  997.2339852841684
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PImdr3fH3MMVHRCUdpqIe",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  150.56968076088629,
+                                       "y":  161.347193632089
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "E-hQlPvhbecgS9ZMTLw4B",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -145.95487988355524,
+                                       "y":  145.347193632089
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IQOO39FNFdFZXTMaCtdml",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  633.1608611851664,
+                                       "y":  251.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c58fcsthBlVfzfr-MHdpF",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  359.5696807608863,
+                                       "y":  -136.01175492596462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ji35JsKgUQXN4DJGEgTAC",
+                      "type":  "title",
+                      "label":  "Prompt Engineering",
+                      "position":  {
+                                       "x":  223.56968076088629,
+                                       "y":  -70.01175492596462
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wm2VPi1Tn_Y7dqPowny69",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -145.95487988355524,
+                                       "y":  -149.65280636791104
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "29I4Uf1Z74ihhM4cpfaP7",
+                                        "label":  "AI Engineer",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/ai-engineer"
+                                    },
+                                    {
+                                        "id":  "9IzkW8kJ-4TiqEuoeyteP",
+                                        "label":  "AI and Data Scientist",
+                                        "url":  "https://roadmap.sh/ai-data-scientist"
+                                    },
+                                    {
+                                        "id":  "tvB9Bt9JTO98FlPqvPZGl",
+                                        "label":  "MLOps Roadmap",
+                                        "url":  "https://roadmap.sh/mlops"
+                                    },
+                                    {
+                                        "id":  "usMWqZBoyrbkxGv-YHziv",
+                                        "label":  "AI Red Teaming",
+                                        "url":  "https://roadmap.sh/ai-red-teaming"
+                                    },
+                                    {
+                                        "id":  "BOm0mlohoZzmcooxNYPhr",
+                                        "label":  "Prompt Engineering",
+                                        "url":  "https://roadmap.sh/prompt-engineering"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "jrH1qE6EnFXL4fTyYU8gR",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  278.0696807608863,
+                                       "y":  146.847193632089
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "74JxgfJ_1qmVNZ_QRp9Ne",
+                      "type":  "subtopic",
+                      "label":  "LLMs and how they work?",
+                      "position":  {
+                                       "x":  631.6608611851664,
+                                       "y":  92.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "i4ijY3T5gLgNz0XqRipXe",
+                      "type":  "subtopic",
+                      "label":  "What is a Prompt?",
+                      "position":  {
+                                       "x":  631.6608611851664,
+                                       "y":  145.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "43drPbTwPqJQPyzwYUdBT",
+                      "type":  "subtopic",
+                      "label":  "What is Prompt Engineering?",
+                      "position":  {
+                                       "x":  631.6608611851664,
+                                       "y":  198.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LsUOBAaW4hjGRrOUqEcCD",
+                      "type":  "label",
+                      "label":  "Models offered by ____",
+                      "position":  {
+                                       "x":  668.6608611851664,
+                                       "y":  263.75601320780885
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Yb5cQiV2ETxPbBYCLOpt2",
+                      "type":  "subtopic",
+                      "label":  "OpenAI",
+                      "position":  {
+                                       "x":  656.6608611851664,
+                                       "y":  308.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "o-6UKLZ6oCRbAKgRjH2uI",
+                      "type":  "subtopic",
+                      "label":  "Google",
+                      "position":  {
+                                       "x":  770.6608611851664,
+                                       "y":  308.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "V8pDOwrRKKcHBTd4qlSsH",
+                      "type":  "subtopic",
+                      "label":  "Anthropic",
+                      "position":  {
+                                       "x":  656.6608611851664,
+                                       "y":  361.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Td2YzDFT4LPGDw8JMmQSQ",
+                      "type":  "subtopic",
+                      "label":  "Meta",
+                      "position":  {
+                                       "x":  770.6608611851664,
+                                       "y":  362.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3wshuH7_DXgbhxsLzzI4D",
+                      "type":  "subtopic",
+                      "label":  "xAI",
+                      "position":  {
+                                       "x":  656.6608611851664,
+                                       "y":  414.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B7EH5iIy1LB26wNl1SSpF",
+                      "type":  "label",
+                      "label":  "Common Terminology",
+                      "position":  {
+                                       "x":  -88.06163104475863,
+                                       "y":  158.75601320780885
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "pamV5Z8DRKk2ioZbg6QVK",
+                      "type":  "subtopic",
+                      "label":  "LLM",
+                      "position":  {
+                                       "x":  -130.06163104475863,
+                                       "y":  208.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "NPcaSEteeEA5g22wQ7nL_",
+                      "type":  "subtopic",
+                      "label":  "Tokens",
+                      "position":  {
+                                       "x":  10.93836895524143,
+                                       "y":  208.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "b-Xtkv6rt8QgzJXSShOX-",
+                      "type":  "subtopic",
+                      "label":  "Context Window",
+                      "position":  {
+                                       "x":  -130.06163104475863,
+                                       "y":  261.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SWDa3Su3VS815WQbvvNsa",
+                      "type":  "subtopic",
+                      "label":  "Hallucination",
+                      "position":  {
+                                       "x":  -130.06163104475863,
+                                       "y":  314.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yfsjW1eze8mWT0iHxv078",
+                      "type":  "subtopic",
+                      "label":  "Model Weights / Parameters",
+                      "position":  {
+                                       "x":  -130.06163104475863,
+                                       "y":  420.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ke5GT163k_ek9SzbcbBGE",
+                      "type":  "subtopic",
+                      "label":  "Fine-Tuning vs Prompt Engg.",
+                      "position":  {
+                                       "x":  -130.06163104475863,
+                                       "y":  473.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gxydtFKmnXNY9I5kpTwjP",
+                      "type":  "subtopic",
+                      "label":  "RAG",
+                      "position":  {
+                                       "x":  6.93836895524143,
+                                       "y":  526.7560132078088
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Pw5LWA9vNRY0N2M0FW16f",
+                      "type":  "subtopic",
+                      "label":  "Agents",
+                      "position":  {
+                                       "x":  9.938368955241373,
+                                       "y":  314.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6W_ONYREbXHwPigoDx1cW",
+                      "type":  "subtopic",
+                      "label":  "Prompt Injection",
+                      "position":  {
+                                       "x":  -130.06163104475863,
+                                       "y":  367.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Sj1CMZzZp8kF-LuHcd_UU",
+                      "type":  "subtopic",
+                      "label":  "AI vs AGI",
+                      "position":  {
+                                       "x":  -131.06163104475863,
+                                       "y":  526.7560132078088
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "do4ui2s0NJpVDChe9NPI1",
+                      "type":  "paragraph",
+                      "label":  "LLM Configuration",
+                      "position":  {
+                                       "x":  255.56968076088629,
+                                       "y":  273.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JgigM7HvmNOuKnp60v1Ce",
+                      "type":  "topic",
+                      "label":  "Sampling Parameters",
+                      "position":  {
+                                       "x":  237.56968076088629,
+                                       "y":  413.75601320780885
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iMwg-I76-Tg5dhu8DGO6U",
+                      "type":  "subtopic",
+                      "label":  "Temperature",
+                      "position":  {
+                                       "x":  258.0696807608863,
+                                       "y":  472.98247193496843
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FF8ai1v5GDzxXLQhpwuPj",
+                      "type":  "subtopic",
+                      "label":  "Top-K",
+                      "position":  {
+                                       "x":  259.0696807608863,
+                                       "y":  525.9824719349684
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-G1U1jDN5st1fTUtQmMl1",
+                      "type":  "subtopic",
+                      "label":  "Top-P",
+                      "position":  {
+                                       "x":  372.0696807608863,
+                                       "y":  525.9824719349684
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wSf7Zr8ZYBuKWX0GQX6J3",
+                      "type":  "topic",
+                      "label":  "Output Control",
+                      "position":  {
+                                       "x":  633.1608611851664,
+                                       "y":  534.729856559481
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "vK9Gf8dGu2UvvJJhhuHG9",
+                      "type":  "subtopic",
+                      "label":  "Max Tokens",
+                      "position":  {
+                                       "x":  652.1608611851664,
+                                       "y":  596.4616086056859
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "v3CylRlojeltcwnE76j8Q",
+                      "type":  "subtopic",
+                      "label":  "Stop Sequences",
+                      "position":  {
+                                       "x":  652.1608611851664,
+                                       "y":  649.4616086056859
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "g8ylIg4Zh567u-E3yVVY4",
+                      "type":  "topic",
+                      "label":  "Repetition Penalties",
+                      "position":  {
+                                       "x":  632.4295413285469,
+                                       "y":  711.5453718697146
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YIVNjkmTOY61VmL0md9Pj",
+                      "type":  "subtopic",
+                      "label":  "Frequency Penalty",
+                      "position":  {
+                                       "x":  652.1608611851664,
+                                       "y":  772.364897483576
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WpO8V5caudySVehOcuDvK",
+                      "type":  "subtopic",
+                      "label":  "Presence Penalty",
+                      "position":  {
+                                       "x":  652.1608611851664,
+                                       "y":  825.364897483576
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "j-PWO-ZmF9Oi9A5bwMRto",
+                      "type":  "topic",
+                      "label":  "Structured Outputs",
+                      "position":  {
+                                       "x":  237.56968076088629,
+                                       "y":  711.5453718697146
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "lIf9xR4ZKbNpY9K6Liy8I",
+                      "type":  "paragraph",
+                      "label":  "Prompting Techniques",
+                      "position":  {
+                                       "x":  -145.95487988355524,
+                                       "y":  706.0453718697146
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GRerL9UXN73TwpCW2eTIE",
+                      "type":  "subtopic",
+                      "label":  "Zero-Shot Prompting",
+                      "position":  {
+                                       "x":  -145.05259250296436,
+                                       "y":  887.8248182141422
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Iufv_LsgUNls-Alx_Btlh",
+                      "type":  "subtopic",
+                      "label":  "One-Shot / Few-Shot Prompting",
+                      "position":  {
+                                       "x":  -145.05259250296436,
+                                       "y":  940.8248182141423
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fWo39-hehRgwmx7CF36mM",
+                      "type":  "subtopic",
+                      "label":  "System Prompting",
+                      "position":  {
+                                       "x":  -127.11824060629485,
+                                       "y":  1045.2339852841683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "XHWKGaSRBYT4MsCHwV-iR",
+                      "type":  "subtopic",
+                      "label":  "Role Prompting",
+                      "position":  {
+                                       "x":  -127.11824060629485,
+                                       "y":  1098.2339852841683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5TNK1KcSzh9GTKiEJnM-y",
+                      "type":  "subtopic",
+                      "label":  "Contextual Prompting",
+                      "position":  {
+                                       "x":  -127.11824060629485,
+                                       "y":  1151.2339852841683
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3iJVcbCmnGdF39ne0U00r",
+                      "type":  "label",
+                      "label":  "System / Role / Contextual",
+                      "position":  {
+                                       "x":  -110.61824060629485,
+                                       "y":  1005.8364219987933
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "2MboHh8ugkoH8dSd9d4Mk",
+                      "type":  "subtopic",
+                      "label":  "Step-back Prompting",
+                      "position":  {
+                                       "x":  154.4753482074162,
+                                       "y":  886.4859949061911
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "weRaJxEplhKDyFWSMeoyI",
+                      "type":  "subtopic",
+                      "label":  "Chain of Thought (CoT) Prompting",
+                      "position":  {
+                                       "x":  154.4753482074162,
+                                       "y":  939.4859949061911
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1EzqCoplXPiHjp9Z-vqn-",
+                      "type":  "subtopic",
+                      "label":  "Self-Consistency Prompting",
+                      "position":  {
+                                       "x":  154.4753482074162,
+                                       "y":  992.4859949061911
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ob9D0W9B9145Da64nbi1M",
+                      "type":  "subtopic",
+                      "label":  "Tree of Thoughts (ToT) Prompting",
+                      "position":  {
+                                       "x":  154.4753482074162,
+                                       "y":  1045.485994906191
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "8Ks6txRSUfMK7VotSQ4sC",
+                      "type":  "subtopic",
+                      "label":  "ReAct Prompting",
+                      "position":  {
+                                       "x":  154.4753482074162,
+                                       "y":  1098.485994906191
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "diHNCiuKHeMVgvJ4OMwVh",
+                      "type":  "topic",
+                      "label":  "Automatic Prompt Engineering",
+                      "position":  {
+                                       "x":  621.5681603666843,
+                                       "y":  964.7653370945436
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5baiI4hKmZv6gkTHnfxH6",
+                      "type":  "label",
+                      "label":  "Use LLM to generate Prompts",
+                      "position":  {
+                                       "x":  639.5681603666843,
+                                       "y":  1022.6713992427019
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Wvu9Q_kNhH1_JlOgxAjP6",
+                      "type":  "topic",
+                      "label":  "AI Red Teaming",
+                      "position":  {
+                                       "x":  621.5681603666843,
+                                       "y":  1262.5414343981754
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZU2LDlC5UEz-Dd5GeLZ3v",
+                      "type":  "button",
+                      "label":  "AI Red Teaming Roadmap",
+                      "position":  {
+                                       "x":  621.5681603666843,
+                                       "y":  1315.4474965463337
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "a3s4_DxtLGo6v-GPpQSXp",
+                      "type":  "paragraph",
+                      "label":  "Prompting Best Practices",
+                      "position":  {
+                                       "x":  54.80316295167549,
+                                       "y":  1262.5414343981754
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-tQ7Cn4fHAfGmDkUb9bMb",
+                      "type":  "label",
+                      "label":  "— Provide few-shot examples for structure or  output style you need",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1431.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "xaAeeGwAPdo4dGyIqDDgV",
+                      "type":  "label",
+                      "label":  "—  Keep your prompts short and concise",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1469.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "31XQlT6NkkT20sAX-TkVm",
+                      "type":  "label",
+                      "label":  "— Prioritize giving clearer instructions over adding constraints",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1583.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "y9iXqGBteGkVcgvxPBb0s",
+                      "type":  "label",
+                      "label":  "— Control the maximum output length",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1621.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "tr7dmZpkguAJUmnpK_JLi",
+                      "type":  "label",
+                      "label":  "— Use variables / placeholders in your prompts for easier configuration",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1545.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "UGhqnEUD6RnDTPIMeU16Y",
+                      "type":  "label",
+                      "label":  "— Experiment with input formats and writing styles",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1659.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "iQycTLfHB2I21lZKt08YR",
+                      "type":  "label",
+                      "label":  "— Tune sampling (temperature, top-k, top-p) for determinism vs creativity",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1697.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "qg7-CD2SVsU1bvFWZJ3Zn",
+                      "type":  "label",
+                      "label":  "— Guard against prompt injection; sanitize user text",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1735.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "M71WrxOxArDF1lgM6WJgW",
+                      "type":  "label",
+                      "label":  "— Automate evaluation; integrate unit tests for outputs",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1773.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "BX6MXjBAjBj0ql2N-HM3b",
+                      "type":  "label",
+                      "label":  "— Document and track prompt versions",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1811.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "T5quDRbzzWXeEnT-F09WG",
+                      "type":  "label",
+                      "label":  "— Optimize for latency \u0026 cost in production pipelines",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1849.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "vIgk7Kc2mKigvE9PWcuX5",
+                      "type":  "label",
+                      "label":  "— Document decisions, failures, and learnings for future devs",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1887.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "jb0pTPfNUwEzlT1uAXCGx",
+                      "type":  "label",
+                      "label":  "— Delimit different sections with triple backticks or XML tags",
+                      "position":  {
+                                       "x":  -107.99512957215327,
+                                       "y":  1925.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "7RBX-apLraCu-jURtrKfp",
+                      "type":  "label",
+                      "label":  "—  Ask for structured output if it helps e.g. JSON, XML, Markdown, CSV etc",
+                      "position":  {
+                                       "x":  -107.01124579248815,
+                                       "y":  1507.5470596349128
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "0H2keZYD8iTNyBgmNVhto",
+                      "type":  "subtopic",
+                      "label":  "Prompt Debiasing",
+                      "position":  {
+                                       "x":  638.9347768180692,
+                                       "y":  1679.4608739954963
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HOqWHqAkxLX8f2ImSmZE7",
+                      "type":  "subtopic",
+                      "label":  "Prompt Ensembling",
+                      "position":  {
+                                       "x":  638.9347768180692,
+                                       "y":  1731.9608739954963
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CvV3GIvQhsTvE-TQjTpIQ",
+                      "type":  "subtopic",
+                      "label":  "LLM Self Evaluation",
+                      "position":  {
+                                       "x":  638.9347768180692,
+                                       "y":  1784.4608739954963
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "P5nDyQbME53DOEfSkcY6I",
+                      "type":  "subtopic",
+                      "label":  "Calibrating LLMs",
+                      "position":  {
+                                       "x":  638.9347768180692,
+                                       "y":  1836.9608739954963
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CwgyTJmEDzeHkC3zsw_d_",
+                      "type":  "label",
+                      "label":  "Improving Reliability",
+                      "position":  {
+                                       "x":  689.4347768180692,
+                                       "y":  1631.3921209702985
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "svCGq5RhnXjXs6VkZ_wZJ",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  513.8031629516755,
+                                       "y":  1461.5470596349128
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FjydLFdJ_L1oUR2HxFA6C",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  748.8031629516755,
+                                       "y":  1469.3921209702985
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "type":  "paragraph",
+                      "label":  "Continue learning with following roadmaps",
+                      "position":  {
+                                       "x":  43.45478147981436,
+                                       "y":  2040.5281642271166
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UloavCkIvZnD1XMFohYVT",
+                      "type":  "button",
+                      "label":  "AI Engineer Roadmap",
+                      "position":  {
+                                       "x":  58.45478147981436,
+                                       "y":  2094.673821660226
+                                   },
+                      "href":  "https://roadmap.sh/ai-engineer",
+                      "links":  null
+                  },
+                  {
+                      "id":  "RLtk1C3gofHnLJ17x3o5b",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  269.45478147981436,
+                                       "y":  2163.5281642271166
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OIcmPSbdsuWapb6HZ4BEi",
+                      "type":  "button",
+                      "label":  "AI Agents Roadmap",
+                      "position":  {
+                                       "x":  283.22769890153216,
+                                       "y":  2094.673821660226
+                                   },
+                      "href":  "https://roadmap.sh/ai-agents",
+                      "links":  null
+                  },
+                  {
+                      "id":  "TE7AkAihqIMNA-hxdw8y6",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -147.1182406062948,
+                                       "y":  852.8248182141422
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "aeErHpKYzENRqICdJGIqG",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  486.0696807608863,
+                                       "y":  864.4859949061907
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  548.9875094817702,
+                                       "y":  -146.45354709361837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  562.6120216950133,
+                                       "y":  -64.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "VjuUq6nEz3Wyx5NJWNaxr",
+                      "type":  "subtopic",
+                      "label":  "Prompt Tuning",
+                      "position":  {
+                                       "x":  154.4753482074162,
+                                       "y":  1151.485994906191
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__Ji35JsKgUQXN4DJGEgTACx2-jrH1qE6EnFXL4fTyYU8gRw1",
+                      "source":  "Ji35JsKgUQXN4DJGEgTAC",
+                      "target":  "jrH1qE6EnFXL4fTyYU8gR",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__jrH1qE6EnFXL4fTyYU8gRz2-74JxgfJ_1qmVNZ_QRp9Ney1",
+                      "source":  "jrH1qE6EnFXL4fTyYU8gR",
+                      "target":  "74JxgfJ_1qmVNZ_QRp9Ne",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jrH1qE6EnFXL4fTyYU8gRz2-i4ijY3T5gLgNz0XqRipXey1",
+                      "source":  "jrH1qE6EnFXL4fTyYU8gR",
+                      "target":  "i4ijY3T5gLgNz0XqRipXe",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__jrH1qE6EnFXL4fTyYU8gRz2-43drPbTwPqJQPyzwYUdBTy2",
+                      "source":  "jrH1qE6EnFXL4fTyYU8gR",
+                      "target":  "43drPbTwPqJQPyzwYUdBT",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__jrH1qE6EnFXL4fTyYU8gRx2-do4ui2s0NJpVDChe9NPI1w1",
+                      "source":  "jrH1qE6EnFXL4fTyYU8gR",
+                      "target":  "do4ui2s0NJpVDChe9NPI1",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__do4ui2s0NJpVDChe9NPI1x2-j-PWO-ZmF9Oi9A5bwMRtow1",
+                      "source":  "do4ui2s0NJpVDChe9NPI1",
+                      "target":  "JgigM7HvmNOuKnp60v1Ce",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__P5nDyQbME53DOEfSkcY6Ix2-0vLaVNJaJSHZ_bHli6Qzsz1",
+                      "source":  "P5nDyQbME53DOEfSkcY6I",
+                      "target":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__g8ylIg4Zh567u-E3yVVY4y2-j-PWO-ZmF9Oi9A5bwMRtoz2",
+                      "source":  "g8ylIg4Zh567u-E3yVVY4",
+                      "target":  "j-PWO-ZmF9Oi9A5bwMRto",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__j-PWO-ZmF9Oi9A5bwMRtoy2-lIf9xR4ZKbNpY9K6Liy8Iz1",
+                      "source":  "j-PWO-ZmF9Oi9A5bwMRto",
+                      "target":  "lIf9xR4ZKbNpY9K6Liy8I",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__5baiI4hKmZv6gkTHnfxH6x2-Wvu9Q_kNhH1_JlOgxAjP6w2",
+                      "source":  "5baiI4hKmZv6gkTHnfxH6",
+                      "target":  "Wvu9Q_kNhH1_JlOgxAjP6",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__Wvu9Q_kNhH1_JlOgxAjP6y2-a3s4_DxtLGo6v-GPpQSXpz1",
+                      "source":  "Wvu9Q_kNhH1_JlOgxAjP6",
+                      "target":  "a3s4_DxtLGo6v-GPpQSXp",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__a3s4_DxtLGo6v-GPpQSXpx2-6A6v4832QCVhaYfvKmdf0w1",
+                      "source":  "a3s4_DxtLGo6v-GPpQSXp",
+                      "target":  "6A6v4832QCVhaYfvKmdf0",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  }
+              ]
+}

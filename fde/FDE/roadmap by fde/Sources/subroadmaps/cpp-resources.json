@@ -1,0 +1,2978 @@
+[
+    {
+        "id":  "ofwdZm05AUqCIWmfgGHk8",
+        "label":  "Diamond Inheritance",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ofwdZm05AUqCIWmfgGHk8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Virtual Inheritance and the Diamond Problem in C++",
+                              "type":  "article",
+                              "url":  "https://medium.com/@antilogatharv/understanding-virtual-inheritance-and-the-diamond-problem-in-c-da7c63d76723"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZHjU60uzJTezADRhDTESG",
+        "label":  "Forward Declaration",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ZHjU60uzJTezADRhDTESG.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NvODRFR0DLINB0RlPSsvt",
+        "label":  "Introduction to Language",
+        "endpoint":  "https://roadmap.sh/cpp/topic@NvODRFR0DLINB0RlPSsvt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Modern Cpp Series By Mike Shah",
+                              "type":  "course",
+                              "url":  "https://courses.mshah.io/courses/cpp-programming-language"
+                          },
+                          {
+                              "title":  "Learn C++",
+                              "type":  "article",
+                              "url":  "https://www.learncpp.com/"
+                          },
+                          {
+                              "title":  "Get Started with CPP!",
+                              "type":  "article",
+                              "url":  "https://isocpp.org/get-started"
+                          },
+                          {
+                              "title":  "C++ Full Course by freeCodeCamp",
+                              "type":  "video",
+                              "url":  "https://youtu.be/vLnPwxZdW4Y"
+                          },
+                          {
+                              "title":  "C++ Programming Course - Beginner to Advanced",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=8jLOx1hD3_o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "x_28LiDVshqWns_aIBsdx",
+        "label":  "What is C++?",
+        "endpoint":  "https://roadmap.sh/cpp/topic@x_28LiDVshqWns_aIBsdx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Learn C++",
+                              "type":  "article",
+                              "url":  "https://www.learncpp.com/"
+                          },
+                          {
+                              "title":  "C++ Tutorial for Beginners - Full Course",
+                              "type":  "video",
+                              "url":  "https://youtu.be/vLnPwxZdW4Y"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tl6VCQ5IEGDVyFcgj7jDm",
+        "label":  "Why use C++",
+        "endpoint":  "https://roadmap.sh/cpp/topic@tl6VCQ5IEGDVyFcgj7jDm.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2Ag0t3LPryTF8khHLRfy-",
+        "label":  "C vs C++",
+        "endpoint":  "https://roadmap.sh/cpp/topic@2Ag0t3LPryTF8khHLRfy-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated C Programming Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/c"
+                          },
+                          {
+                              "title":  "C++ vs. C: When (and when not) to use each language",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/cpp/vs-c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Zc_TTzmM36yWsu3GvOy9x",
+        "label":  "Setting up your Environment",
+        "endpoint":  "https://roadmap.sh/cpp/topic@Zc_TTzmM36yWsu3GvOy9x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ Getting Started",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_getstarted.asp"
+                          },
+                          {
+                              "title":  "How to set up C++ in Visual Studio Code",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DMWD7wfhgNY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0J_ltQEJh2g28OE2ZEYJj",
+        "label":  "Installing C++",
+        "endpoint":  "https://roadmap.sh/cpp/topic@0J_ltQEJh2g28OE2ZEYJj.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ew0AfyadpXPRO0ZY3Z19k",
+        "label":  "Code Editors / IDEs",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ew0AfyadpXPRO0ZY3Z19k.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using C++ on Linux in VSCode",
+                              "type":  "article",
+                              "url":  "https://code.visualstudio.com/docs/cpp/config-linux"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SEq0D2Zg5WTsIDtd1hW9f",
+        "label":  "Running your First Program",
+        "endpoint":  "https://roadmap.sh/cpp/topic@SEq0D2Zg5WTsIDtd1hW9f.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Get Started With C++",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_getstarted.asp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kl2JI_Wl47c5r8SYzxvCq",
+        "label":  "Basic Operations",
+        "endpoint":  "https://roadmap.sh/cpp/topic@kl2JI_Wl47c5r8SYzxvCq.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8aOSpZLWwZv_BEYiurhyR",
+        "label":  "Arithmetic Operators",
+        "endpoint":  "https://roadmap.sh/cpp/topic@8aOSpZLWwZv_BEYiurhyR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Arithmetic Operators",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_operators_arithmetic.asp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Y9gq8WkDA_XGe68JkY2UZ",
+        "label":  "Logical Operators",
+        "endpoint":  "https://roadmap.sh/cpp/topic@Y9gq8WkDA_XGe68JkY2UZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Logical Operators",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_operators_logical.asp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zE4iPSq2KsrDSByQ0sGK_",
+        "label":  "Bitwise Operators",
+        "endpoint":  "https://roadmap.sh/cpp/topic@zE4iPSq2KsrDSByQ0sGK_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Intro to Binary and Bitwise Operators in C++",
+                              "type":  "video",
+                              "url":  "https://youtu.be/KXwRt7og0gI"
+                          },
+                          {
+                              "title":  "Bitwise AND (\u0026), OR (|), XOR (^) and NOT (~) in C++",
+                              "type":  "video",
+                              "url":  "https://youtu.be/HoQhw6_1NAA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s5Gs4yF9TPh-psYmtPzks",
+        "label":  "Control Flow \u0026 Statements",
+        "endpoint":  "https://roadmap.sh/cpp/topic@s5Gs4yF9TPh-psYmtPzks.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_IP_e1K9LhNHilYTDh7L5",
+        "label":  "for / while / do while loops",
+        "endpoint":  "https://roadmap.sh/cpp/topic@_IP_e1K9LhNHilYTDh7L5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ For Loop",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_for_loop.asp"
+                          },
+                          {
+                              "title":  "C++ While Loop",
+                              "type":  "article",
+                              "url":  "http://w3schools.com/cpp/cpp_while_loop.asp"
+                          },
+                          {
+                              "title":  "C++ Do While Loop",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_do_while_loop.asp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bjpFWxiCKGz28E-ukhZBp",
+        "label":  "if else / switch / goto",
+        "endpoint":  "https://roadmap.sh/cpp/topic@bjpFWxiCKGz28E-ukhZBp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The \u0027if-else\u0027 Statement in C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9-BjXs1vMSc"
+                          },
+                          {
+                              "title":  "Learn C++ With Me - Switch Statement",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=uOlLs1OYSSI"
+                          },
+                          {
+                              "title":  "Why is it illegal to use \"goto\"?",
+                              "type":  "video",
+                              "url":  "https://youtu.be/AKJhThyTmQw?si=gjEqAsDZVMDGVAT2"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oYi3YOc1GC2Nfp71VOkJt",
+        "label":  "Functions",
+        "endpoint":  "https://roadmap.sh/cpp/topic@oYi3YOc1GC2Nfp71VOkJt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ Functions",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_functions.asp"
+                          },
+                          {
+                              "title":  "introduction to functions in c++",
+                              "type":  "article",
+                              "url":  "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/"
+                          },
+                          {
+                              "title":  "Learn C++ With Me #20 - Functions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=C83tPpvxIJA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "obZIxRp0eMWdG7gplNIBc",
+        "label":  "Static Polymorphism",
+        "endpoint":  "https://roadmap.sh/cpp/topic@obZIxRp0eMWdG7gplNIBc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Static Polymorphism in C++",
+                              "type":  "article",
+                              "url":  "https://medium.com/@kateolenya/static-polymorphism-in-c-9e1ae27a945b"
+                          },
+                          {
+                              "title":  "Advanced C++: Static Polymorphism",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-WV9vWjhI3g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sgfqb22sdN4VRJYkhAVaf",
+        "label":  "Function Overloading",
+        "endpoint":  "https://roadmap.sh/cpp/topic@sgfqb22sdN4VRJYkhAVaf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Function Overloading - Microsoft Learn",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/cpp/cpp/function-overloading"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "llCBeut_uc9IAe2oi4KZ9",
+        "label":  "Operator Overloading",
+        "endpoint":  "https://roadmap.sh/cpp/topic@llCBeut_uc9IAe2oi4KZ9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Operator Overloading - Microsoft Learn",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/cpp/cpp/operator-overloading"
+                          },
+                          {
+                              "title":  "operator overloading - cppreference.com",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/operators"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xjiFBVe-VGqCqWfkPVGKf",
+        "label":  "Lambdas",
+        "endpoint":  "https://roadmap.sh/cpp/topic@xjiFBVe-VGqCqWfkPVGKf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lambda Expressions",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/lambda"
+                          },
+                          {
+                              "title":  "Lambdas in C++",
+                              "type":  "video",
+                              "url":  "https://youtu.be/MH8mLFqj-n8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MwznA4qfpNlv6sqSNjPZi",
+        "label":  "Data Types",
+        "endpoint":  "https://roadmap.sh/cpp/topic@MwznA4qfpNlv6sqSNjPZi.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data Types",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_data_types.asp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "f1djN0GxoeVPr_0cl6vMq",
+        "label":  "Static Typing",
+        "endpoint":  "https://roadmap.sh/cpp/topic@f1djN0GxoeVPr_0cl6vMq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type-Coversion",
+                              "type":  "article",
+                              "url":  "https://www.programiz.com/cpp-programming/type-conversion"
+                          },
+                          {
+                              "title":  "Static Vs Dynamic",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchapparchitecture/tip/Static-vs-dynamic-typing-The-details-and-differences"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i0EAFEUB-F0wBJWOtrl1A",
+        "label":  "Dynamic Typing",
+        "endpoint":  "https://roadmap.sh/cpp/topic@i0EAFEUB-F0wBJWOtrl1A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dynamic Typing in C++",
+                              "type":  "article",
+                              "url":  "https://codesignal.com/learn/courses/advanced-functional-programming-techniques/lessons/dynamic-type-declaration-in-cpp"
+                          },
+                          {
+                              "title":  "Static vs Dynamic Typing",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GqXpFycPWLE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r0yD1gfn03wTpEBi6zNsu",
+        "label":  "RTTI",
+        "endpoint":  "https://roadmap.sh/cpp/topic@r0yD1gfn03wTpEBi6zNsu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What Is Runtime Type Identification (RTTI) in C++?",
+                              "type":  "article",
+                              "url":  "https://www.codeguru.com/cplusplus/what-is-runtime-type-identification-rtti-in-c/"
+                          },
+                          {
+                              "title":  "Dynamic cast c++ Runtime Type Identification example why we use dynamic cast - RTTI",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2PXN7Zk9v80"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DWw8NxkLpIpiOSUaZZ1oA",
+        "label":  "Pointers and References",
+        "endpoint":  "https://roadmap.sh/cpp/topic@DWw8NxkLpIpiOSUaZZ1oA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ Pointers",
+                              "type":  "article",
+                              "url":  "https://www.youtube.com/watch?v=slzcWKWCMBg"
+                          },
+                          {
+                              "title":  "Function Pointer in C++",
+                              "type":  "article",
+                              "url":  "https://www.scaler.com/topics/cpp/function-pointer-cpp/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uUzRKa9wGzdUwwmAg3FWr",
+        "label":  "References",
+        "endpoint":  "https://roadmap.sh/cpp/topic@uUzRKa9wGzdUwwmAg3FWr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "References",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/reference"
+                          },
+                          {
+                              "title":  "C++ References",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_references.asp"
+                          },
+                          {
+                              "title":  "REFERENCES in C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IzoFn3dfsPA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mSFwsTYvmg-GwG4_DEIEf",
+        "label":  "Memory Model",
+        "endpoint":  "https://roadmap.sh/cpp/topic@mSFwsTYvmg-GwG4_DEIEf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Memory Segments in C/C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2htbIR2QpaM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9aA_-IfQ9WmbPgwic0mFN",
+        "label":  "Lifetime of Objects",
+        "endpoint":  "https://roadmap.sh/cpp/topic@9aA_-IfQ9WmbPgwic0mFN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Lifetime",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/lifetime.html"
+                          },
+                          {
+                              "title":  "Object Lifetime in C++ (Stack/Scope Lifetimes)",
+                              "type":  "article",
+                              "url":  "http://youtube.com/watch?v=iNuTwvD6ciI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ulvwm4rRPgkpgaqGgyH5a",
+        "label":  "Smart Pointers",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ulvwm4rRPgkpgaqGgyH5a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Smart Pointers",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/book/intro/smart_pointers"
+                          },
+                          {
+                              "title":  "SMART POINTERS in C++ (std::unique_ptr, std::shared_ptr, std::weak_ptr)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=UOB7-B2MfwA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vUwSS-uX36OWZouO0wOcy",
+        "label":  "weak_ptr",
+        "endpoint":  "https://roadmap.sh/cpp/topic@vUwSS-uX36OWZouO0wOcy.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b5jZIZD_U_CPg-_bdndjz",
+        "label":  "shared_ptr",
+        "endpoint":  "https://roadmap.sh/cpp/topic@b5jZIZD_U_CPg-_bdndjz.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "k9c5seRkhgm_yHPpiz2X0",
+        "label":  "unique_ptr",
+        "endpoint":  "https://roadmap.sh/cpp/topic@k9c5seRkhgm_yHPpiz2X0.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "std::unique_ptr - Detailed Reference",
+                              "type":  "official",
+                              "url":  "https://en.cppreference.com/w/cpp/memory/unique_ptr"
+                          },
+                          {
+                              "title":  "Smart Pointers – unique_ptr",
+                              "type":  "article",
+                              "url":  "https://www.learncpp.com/cpp-tutorial/stdunique_ptr/"
+                          },
+                          {
+                              "title":  "When should you use std::unique_ptr? - StackOverflow Discussion",
+                              "type":  "video",
+                              "url":  "https://stackoverflow.com/questions/13782051/when-should-you-use-stdunique-ptr"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "uEGEmbxegATIrvGfobJb9",
+        "label":  "Raw Pointers",
+        "endpoint":  "https://roadmap.sh/cpp/topic@uEGEmbxegATIrvGfobJb9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Raw pointers (C++)",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/cpp/cpp/raw-pointers?view=msvc-170"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Gld0nRs0sM8kRe8XmYolu",
+        "label":  "New/Delete Operators",
+        "endpoint":  "https://roadmap.sh/cpp/topic@Gld0nRs0sM8kRe8XmYolu.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6w0WExQ4lGIGgok6Thq0s",
+        "label":  "Memory Leakage",
+        "endpoint":  "https://roadmap.sh/cpp/topic@6w0WExQ4lGIGgok6Thq0s.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Zw2AOTK5uc9BoKEpY7W1C",
+        "label":  "Structuring Codebase",
+        "endpoint":  "https://roadmap.sh/cpp/topic@Zw2AOTK5uc9BoKEpY7W1C.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dKCYmxDNZubCVcR5rf8b-",
+        "label":  "Scope",
+        "endpoint":  "https://roadmap.sh/cpp/topic@dKCYmxDNZubCVcR5rf8b-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ Variable Scope",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_scope.asp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "iIdC7V8sojwyEqK1xMuHn",
+        "label":  "Namespaces",
+        "endpoint":  "https://roadmap.sh/cpp/topic@iIdC7V8sojwyEqK1xMuHn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Namespaces",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170"
+                          },
+                          {
+                              "title":  "What are C++ namespaces? 📛",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2lcIKzFHjSM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CK7yf8Bo7kfbV6x2tZTrh",
+        "label":  "Headers / CPP Files",
+        "endpoint":  "https://roadmap.sh/cpp/topic@CK7yf8Bo7kfbV6x2tZTrh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Header files (C++)",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170"
+                          },
+                          {
+                              "title":  "What are header files in C++ ( PROGRAMMING TUTORIAL for beginners)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qaGzc56Rekg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CMlWNQwpywNhO9B6Yj6Me",
+        "label":  "Structures and Classes",
+        "endpoint":  "https://roadmap.sh/cpp/topic@CMlWNQwpywNhO9B6Yj6Me.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Clases y structs (C++)",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/es-es/cpp/cpp/classes-and-structs-cpp?view=msvc-170"
+                          },
+                          {
+                              "title":  "CLASSES vs STRUCTS in C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fLgTtaqqJp0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7sdEzZCIoarzznwO4XcCv",
+        "label":  "Rule of Zero, Five, Three",
+        "endpoint":  "https://roadmap.sh/cpp/topic@7sdEzZCIoarzznwO4XcCv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The rule of three/five/zero",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/rule_of_three.html"
+                          },
+                          {
+                              "title":  "The Rule of 0/3/5",
+                              "type":  "article",
+                              "url":  "https://medium.com/@Farhan11637/the-rule-of-0-3-5-2e608a717811"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WjHpueZDK-d3oDNMVZi9w",
+        "label":  "Multiple Inheritance",
+        "endpoint":  "https://roadmap.sh/cpp/topic@WjHpueZDK-d3oDNMVZi9w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Multiple Inheritance",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_inheritance_multiple.asp"
+                          },
+                          {
+                              "title":  "Multiple Inheritance Deep Dive | C++ Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sswTE0u0r7g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "b3-QYKNcW3LYCNOza3Olf",
+        "label":  "Object Oriented Programming",
+        "endpoint":  "https://roadmap.sh/cpp/topic@b3-QYKNcW3LYCNOza3Olf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ OOP",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_oop.asp"
+                          },
+                          {
+                              "title":  "Object Oriented Programming (OOP) in C++ Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=wN0x9eZLix4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hNBErGNiegLsUJn_vgcOR",
+        "label":  "Virtual Methods",
+        "endpoint":  "https://roadmap.sh/cpp/topic@hNBErGNiegLsUJn_vgcOR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ Virtual Functions Documentation",
+                              "type":  "official",
+                              "url":  "https://en.cppreference.com/w/cpp/language/virtual"
+                          },
+                          {
+                              "title":  "Virtual Functions Explained (YouTube)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=oIV2KchSyGQ\u0026ab_channel=TheCherno"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s99ImazcwCgAESxZd8ksa",
+        "label":  "Virtual Tables",
+        "endpoint":  "https://roadmap.sh/cpp/topic@s99ImazcwCgAESxZd8ksa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Classes part 18 - Understanding the vtable (Popular interview question) | Modern Cpp Series Ep. 54",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hS7kPtVB1vI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7h1VivjCPDwriL7FirtFv",
+        "label":  "Dynamic Polymorphism",
+        "endpoint":  "https://roadmap.sh/cpp/topic@7h1VivjCPDwriL7FirtFv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Understanding Dynamic Polymorphism in C++",
+                              "type":  "article",
+                              "url":  "https://hackernoon.com/understanding-dynamic-polymorphism-in-c"
+                          },
+                          {
+                              "title":  "Dynamic Binding (Polymorphism) With The Virtual Keyword | C++ Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-FUhG98hdLI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "B2SGBENzUMl0SAjG4j91V",
+        "label":  "Exception Handling",
+        "endpoint":  "https://roadmap.sh/cpp/topic@B2SGBENzUMl0SAjG4j91V.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Exception Handling",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_exceptions.asp"
+                          },
+                          {
+                              "title":  "Exception handling in C++ (How to handle errors in your program?)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kjEhqgmEiWY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "oWygnpwHq2poXQMTTSCpl",
+        "label":  "Exit Codes",
+        "endpoint":  "https://roadmap.sh/cpp/topic@oWygnpwHq2poXQMTTSCpl.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NJud5SXBAUZ6Sr78kZ7jx",
+        "label":  "Exceptions",
+        "endpoint":  "https://roadmap.sh/cpp/topic@NJud5SXBAUZ6Sr78kZ7jx.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y4-P4UNC--rE1vni8HdTn",
+        "label":  "Access Violations",
+        "endpoint":  "https://roadmap.sh/cpp/topic@y4-P4UNC--rE1vni8HdTn.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-6fwJQOfsorgHkoQGp4T3",
+        "label":  "Language Concepts",
+        "endpoint":  "https://roadmap.sh/cpp/topic@-6fwJQOfsorgHkoQGp4T3.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CG01PTVgHtjfKvsJkJLGl",
+        "label":  "auto (Automatic Type Deduction)",
+        "endpoint":  "https://roadmap.sh/cpp/topic@CG01PTVgHtjfKvsJkJLGl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Automatic Type Deduction: auto",
+                              "type":  "article",
+                              "url":  "https://www.educative.io/courses/cpp-fundamentals-for-professionals/automatic-type-deduction-auto"
+                          },
+                          {
+                              "title":  "The \"auto\" keyword in C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=2vOPEuiGXVo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PiMhw1oP9-NZEa6I9u4lX",
+        "label":  "Type Casting",
+        "endpoint":  "https://roadmap.sh/cpp/topic@PiMhw1oP9-NZEa6I9u4lX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Type Casting",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp//cpp_type_casting.asp"
+                          },
+                          {
+                              "title":  "Casting in C++",
+                              "type":  "video",
+                              "url":  "https://youtu.be/pWZS1MtxI-A"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_XB2Imyf23-6AOeoNLhYQ",
+        "label":  "static_cast",
+        "endpoint":  "https://roadmap.sh/cpp/topic@_XB2Imyf23-6AOeoNLhYQ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5g22glc97siQOcTkHbwan",
+        "label":  "const_cast",
+        "endpoint":  "https://roadmap.sh/cpp/topic@5g22glc97siQOcTkHbwan.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4BdFcuQ5KNW94cu2jz-vE",
+        "label":  "dynamic_cast",
+        "endpoint":  "https://roadmap.sh/cpp/topic@4BdFcuQ5KNW94cu2jz-vE.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZMyFDJrpCauGrY5NZkOwg",
+        "label":  "reinterpret_cast",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ZMyFDJrpCauGrY5NZkOwg.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IDOlquv6jlfecwQoBwkGZ",
+        "label":  "Undefined Behavior (UB)",
+        "endpoint":  "https://roadmap.sh/cpp/topic@IDOlquv6jlfecwQoBwkGZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Undefined Behavior (UB)",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/ub.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YSWN7nS8vA9nMldSUrZRT",
+        "label":  "Argument Dependent Lookup (ADL)",
+        "endpoint":  "https://roadmap.sh/cpp/topic@YSWN7nS8vA9nMldSUrZRT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Argument Dependent Lookup (ADL)",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/adl.html"
+                          },
+                          {
+                              "title":  "C++ Weekly - Ep 160 - Argument Dependent Lookup (ADL)",
+                              "type":  "video",
+                              "url":  "https://backoffice.roadmap.sh/tree/cpp"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Lt7ss59KZw9Jwqj234jm2",
+        "label":  "Name Mangling",
+        "endpoint":  "https://roadmap.sh/cpp/topic@Lt7ss59KZw9Jwqj234jm2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "C++ Name Mangling",
+                              "type":  "article",
+                              "url":  "https://medium.com/@abhishek.ec/c-name-mangling-ce3d0fedf88d"
+                          },
+                          {
+                              "title":  "Name Mangling In C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=FUIle4Ghasw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zKdlfZTRHwjtmRUGW9z9-",
+        "label":  "Macros",
+        "endpoint":  "https://roadmap.sh/cpp/topic@zKdlfZTRHwjtmRUGW9z9-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Macros in C++",
+                              "type":  "article",
+                              "url":  "https://www.youtube.com/watch?v=j3mYki1SrKE"
+                          },
+                          {
+                              "title":  "C++ Macros",
+                              "type":  "video",
+                              "url":  "https://www.codecademy.com/resources/docs/cpp/macros"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DHdNBP7_ixjr6h-dIQ7g6",
+        "label":  "Standard Library + STL",
+        "endpoint":  "https://roadmap.sh/cpp/topic@DHdNBP7_ixjr6h-dIQ7g6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Mastering STL in C++23: New Features, Updates, and Best Practices",
+                              "type":  "book",
+                              "url":  "https://simplifycpp.org/books/Mastering_STL.pdf"
+                          },
+                          {
+                              "title":  "C++ Standard Template Library (STL) Short Overview",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Id6ZEb_Lg58"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Ebu8gzbyyXEeJryeE0SpG",
+        "label":  "Iterators",
+        "endpoint":  "https://roadmap.sh/cpp/topic@Ebu8gzbyyXEeJryeE0SpG.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VeVxZ230xkesQsIDig8zQ",
+        "label":  "iostream",
+        "endpoint":  "https://roadmap.sh/cpp/topic@VeVxZ230xkesQsIDig8zQ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "whyj6Z4RXFsVQYRfYYn7B",
+        "label":  "Algorithms",
+        "endpoint":  "https://roadmap.sh/cpp/topic@whyj6Z4RXFsVQYRfYYn7B.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yGvE6eHKlPMBB6rde0llR",
+        "label":  "Date / Time",
+        "endpoint":  "https://roadmap.sh/cpp/topic@yGvE6eHKlPMBB6rde0llR.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OXQUPqxzs1-giAACwl3X1",
+        "label":  "Multithreading",
+        "endpoint":  "https://roadmap.sh/cpp/topic@OXQUPqxzs1-giAACwl3X1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Build your first multithreaded application - Introduction to multithreading in modern C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xPqnoB2hjjA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1pydf-SR0QUfVNuBEyvzc",
+        "label":  "Containers",
+        "endpoint":  "https://roadmap.sh/cpp/topic@1pydf-SR0QUfVNuBEyvzc.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-6AOrbuOE7DJCmxlcgCay",
+        "label":  "Templates",
+        "endpoint":  "https://roadmap.sh/cpp/topic@-6AOrbuOE7DJCmxlcgCay.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Templates",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/templates.html"
+                          },
+                          {
+                              "title":  "C++ Templates",
+                              "type":  "article",
+                              "url":  "https://www.w3schools.com/cpp/cpp_templates.asp"
+                          },
+                          {
+                              "title":  "Templates in C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=I-hZkUa9mIs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w4EIf58KP-Pq-yc0HlGxc",
+        "label":  "Variadic Templates",
+        "endpoint":  "https://roadmap.sh/cpp/topic@w4EIf58KP-Pq-yc0HlGxc.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sObOuccY0PDeGG-9GrFDF",
+        "label":  "Template Specialization",
+        "endpoint":  "https://roadmap.sh/cpp/topic@sObOuccY0PDeGG-9GrFDF.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WptReUOwVth3C9-AVmMHF",
+        "label":  "Type Traits",
+        "endpoint":  "https://roadmap.sh/cpp/topic@WptReUOwVth3C9-AVmMHF.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3C5UfejDX-1Z8ZF6C53xD",
+        "label":  "SFINAE",
+        "endpoint":  "https://roadmap.sh/cpp/topic@3C5UfejDX-1Z8ZF6C53xD.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "6hTcmJwNnQstbWWzNCfTe",
+        "label":  "Full Template Specialization",
+        "endpoint":  "https://roadmap.sh/cpp/topic@6hTcmJwNnQstbWWzNCfTe.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1NYJtbdcdOB4-vIrnq4yX",
+        "label":  "Partial Template Specialization",
+        "endpoint":  "https://roadmap.sh/cpp/topic@1NYJtbdcdOB4-vIrnq4yX.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fb3bnfKXjSIjPAk4b95lg",
+        "label":  "Idioms",
+        "endpoint":  "https://roadmap.sh/cpp/topic@fb3bnfKXjSIjPAk4b95lg.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Idioms",
+                              "type":  "article",
+                              "url":  "https://medium.com/@amalpp42/idioms-in-c-f6b1c19fa605"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xjUaIp8gGxkN-cp8emJ2M",
+        "label":  "Non-Copyable / Non-Moveable",
+        "endpoint":  "https://roadmap.sh/cpp/topic@xjUaIp8gGxkN-cp8emJ2M.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dealing with non-copyable objects - (C++ Tutorial)",
+                              "type":  "article",
+                              "url":  "https://dev.to/dabretema/the-day-i-forbade-copy-semantics-to-an-object-nkl"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YvmjrZSAOmjhVPo05MJqN",
+        "label":  "Erase-Remove",
+        "endpoint":  "https://roadmap.sh/cpp/topic@YvmjrZSAOmjhVPo05MJqN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "std::remove, std::remove_if",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/algorithm/remove.html"
+                          },
+                          {
+                              "title":  "C++ STL algorithm - erase-remove idiom -- std::remove(_if, _copy_if) | Modern Cpp Series Ep. 154",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=btyuTSb_238"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lxAzI42jQdaofzQ5MXebG",
+        "label":  "Copy and Swap",
+        "endpoint":  "https://roadmap.sh/cpp/topic@lxAzI42jQdaofzQ5MXebG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Copying and Copy Constructors in C++",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BvR1Pgzzr38"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O2Du5gHHxFxAI2u5uO8wu",
+        "label":  "Copy on Write",
+        "endpoint":  "https://roadmap.sh/cpp/topic@O2Du5gHHxFxAI2u5uO8wu.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OmHDlLxCnH8RDdu5vx9fl",
+        "label":  "RAII",
+        "endpoint":  "https://roadmap.sh/cpp/topic@OmHDlLxCnH8RDdu5vx9fl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "RAII",
+                              "type":  "article",
+                              "url":  "https://en.cppreference.com/w/cpp/language/raii.html"
+                          },
+                          {
+                              "title":  "What is RAII (Resource Acquisition Is Initialization)?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=q6dVKMgeEkk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MEoWt8NKjPLVTeGgYf3cR",
+        "label":  "Pimpl",
+        "endpoint":  "https://roadmap.sh/cpp/topic@MEoWt8NKjPLVTeGgYf3cR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pointer To Implementation(PIMPL) Idiom By Using Smart Pointer in C++",
+                              "type":  "article",
+                              "url":  "https://cengizhanvarli.medium.com/pointer-to-implementation-pimpl-idiom-by-using-smart-pointer-in-c-07dcd535d0ce"
+                          },
+                          {
+                              "title":  "Classes Part 30 - pIMPL (pointer to implementation) - More Stable APIs| Modern Cpp Series Ep. 67",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=3mFpXNEB_AA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ttt-yeIi4BPWrgvW324W7",
+        "label":  "CRTP",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ttt-yeIi4BPWrgvW324W7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CRTP (Curiously Recurring Template Pattern) in C++",
+                              "type":  "article",
+                              "url":  "https://medium.com/@sagar.necindia/crtp-curiously-recurring-template-pattern-in-c-90981941bf38"
+                          },
+                          {
+                              "title":  "C++ Tutorial: How to use CRTP to speed up your code",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Srx4eiBdpdQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vvE1aUsWbF1OFcmMUHbJa",
+        "label":  "Standards",
+        "endpoint":  "https://roadmap.sh/cpp/topic@vvE1aUsWbF1OFcmMUHbJa.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "T6rCTv9Dxkm-tEA-l9XEv",
+        "label":  "C++ 11 / 14",
+        "endpoint":  "https://roadmap.sh/cpp/topic@T6rCTv9Dxkm-tEA-l9XEv.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R2-qWGUxsTOeSHRuUzhd2",
+        "label":  "C++ 17",
+        "endpoint":  "https://roadmap.sh/cpp/topic@R2-qWGUxsTOeSHRuUzhd2.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "o3no4a5_iMFzEAGs56-BJ",
+        "label":  "C++ 20",
+        "endpoint":  "https://roadmap.sh/cpp/topic@o3no4a5_iMFzEAGs56-BJ.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sxbbKtg7kMNbkx7fXhjR9",
+        "label":  "C++ 23",
+        "endpoint":  "https://roadmap.sh/cpp/topic@sxbbKtg7kMNbkx7fXhjR9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "The Standard",
+                              "type":  "official",
+                              "url":  "https://isocpp.org/std/the-standard"
+                          },
+                          {
+                              "title":  "C++23",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/C%2B%2B23"
+                          },
+                          {
+                              "title":  "Overview of New Features in C++23",
+                              "type":  "article",
+                              "url":  "https://medium.com/@threehappyer/overview-of-new-features-in-c-23-68c5bc668958"
+                          },
+                          {
+                              "title":  "C++23: An Overview of Almost All New and Updated Features - Marc Gregoire - CppCon 2023",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Cttb8vMuq-Y"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PPg0V5EzGBeJsysg1215V",
+        "label":  "C++ 0x",
+        "endpoint":  "https://roadmap.sh/cpp/topic@PPg0V5EzGBeJsysg1215V.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qmHs6_BzND_xpMmls5YUH",
+        "label":  "Debuggers",
+        "endpoint":  "https://roadmap.sh/cpp/topic@qmHs6_BzND_xpMmls5YUH.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VtPb8-AJKzhTB0QbMtoU4",
+        "label":  "Understanding Debugger Messages",
+        "endpoint":  "https://roadmap.sh/cpp/topic@VtPb8-AJKzhTB0QbMtoU4.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sR_FxGZHoMCV9Iv7z2_SX",
+        "label":  "Debugging Symbols",
+        "endpoint":  "https://roadmap.sh/cpp/topic@sR_FxGZHoMCV9Iv7z2_SX.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "y8VCbGDUco9bzGRfIBD8R",
+        "label":  "WinDBg",
+        "endpoint":  "https://roadmap.sh/cpp/topic@y8VCbGDUco9bzGRfIBD8R.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Debugging C/C++ Programs from Scratch with WinDbg: A Beginner\u0027s Guide",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=AgtgZDsADUI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BmWsoL9c_Aag5nVlMsKm2",
+        "label":  "GDB",
+        "endpoint":  "https://roadmap.sh/cpp/topic@BmWsoL9c_Aag5nVlMsKm2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GDB is REALLY easy! Find Bugs in Your Code with Only A Few Commands",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Dq8l1_-QgAc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FTMHsUiE8isD_OVZr62Xc",
+        "label":  "Compilers",
+        "endpoint":  "https://roadmap.sh/cpp/topic@FTMHsUiE8isD_OVZr62Xc.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DVckzBUMgk_lWThVkLyAT",
+        "label":  "Compiler Stages",
+        "endpoint":  "https://roadmap.sh/cpp/topic@DVckzBUMgk_lWThVkLyAT.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hSG6Aux39X0cXi6ADy2al",
+        "label":  "Compilers and Features",
+        "endpoint":  "https://roadmap.sh/cpp/topic@hSG6Aux39X0cXi6ADy2al.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jVXFCo6puMxJ_ifn_uwim",
+        "label":  "Build Systems",
+        "endpoint":  "https://roadmap.sh/cpp/topic@jVXFCo6puMxJ_ifn_uwim.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ysnXvSHGBMMozBJyXpHl5",
+        "label":  "CMAKE",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ysnXvSHGBMMozBJyXpHl5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CMAKE Tutorial",
+                              "type":  "article",
+                              "url":  "https://cmake.org/cmake/help/latest/guide/tutorial/index.html"
+                          },
+                          {
+                              "title":  "CMake, How it Works (At Three Different Levels)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=SDX0oYqdv_g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "t6rZLH7l8JQm99ax_fEJ9",
+        "label":  "Makefile",
+        "endpoint":  "https://roadmap.sh/cpp/topic@t6rZLH7l8JQm99ax_fEJ9.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HkUCD5A_M9bJxJRElkK0x",
+        "label":  "Ninja",
+        "endpoint":  "https://roadmap.sh/cpp/topic@HkUCD5A_M9bJxJRElkK0x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ninja",
+                              "type":  "official",
+                              "url":  "https://ninja-build.org/manual.html"
+                          },
+                          {
+                              "title":  "CMake vs Ninja - a real-life comparison with actual code",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=AkGt0fsQ17o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "h29eJG1hWHa7vMhSqtfV2",
+        "label":  "Package Managers",
+        "endpoint":  "https://roadmap.sh/cpp/topic@h29eJG1hWHa7vMhSqtfV2.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PKG5pACLfRS2ogfzBX47_",
+        "label":  "vcpkg",
+        "endpoint":  "https://roadmap.sh/cpp/topic@PKG5pACLfRS2ogfzBX47_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "vcpkg Docs",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-gb/vcpkg/"
+                          },
+                          {
+                              "title":  "vcpkg Crash Course | Visual Studio 2022 | C++ libraries simplified!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0h1lC3QHLHU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "g0s0F4mLV16eNvMBflN2e",
+        "label":  "NuGet",
+        "endpoint":  "https://roadmap.sh/cpp/topic@g0s0F4mLV16eNvMBflN2e.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Creating Cross-Platform NuGet Package To Wrap Native C++ Libraries",
+                              "type":  "article",
+                              "url":  "https://medium.com/@yooonatan/creating-cross-platform-nuget-package-to-wrap-native-c-libraries-b2ee71c34164"
+                          },
+                          {
+                              "title":  "What is NuGet? | Nuget 101 [1 of 5]",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=WW3bO1lNDmo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ky_UqizToTZHC_b77qFi2",
+        "label":  "Conan",
+        "endpoint":  "https://roadmap.sh/cpp/topic@ky_UqizToTZHC_b77qFi2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "conan",
+                              "type":  "opensource",
+                              "url":  "https://github.com/conan-io/conan"
+                          },
+                          {
+                              "title":  "A Beginner’s Guide to Conan 2: C and C++ Package Manager",
+                              "type":  "article",
+                              "url":  "https://medium.com/@milan.pultar/a-beginners-guide-to-conan-2-c-and-c-package-manager-b0cbc1f99175"
+                          },
+                          {
+                              "title":  "Introduction to Conan 2 - The Best C++ Package Manager?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=U-_RbUqDSTc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3ehBc2sKVlPj7dn4RVZCH",
+        "label":  "Spack",
+        "endpoint":  "https://roadmap.sh/cpp/topic@3ehBc2sKVlPj7dn4RVZCH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Spack",
+                              "type":  "official",
+                              "url":  "https://spack.io/"
+                          },
+                          {
+                              "title":  "spack",
+                              "type":  "opensource",
+                              "url":  "https://github.com/spack/spack"
+                          },
+                          {
+                              "title":  "Tutorials 2025: Spack, Part 1 (Basics, Environments, Configuration)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Uoi3-_xMPtk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4kkX5g_-plX9zVqr0ZoiR",
+        "label":  "Working with Libraries",
+        "endpoint":  "https://roadmap.sh/cpp/topic@4kkX5g_-plX9zVqr0ZoiR.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5mNqH_AEiLxUmgurNW1Fq",
+        "label":  "Library Inclusion",
+        "endpoint":  "https://roadmap.sh/cpp/topic@5mNqH_AEiLxUmgurNW1Fq.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "sLVs95EOeHZldoKY0L_dH",
+        "label":  "Licensing",
+        "endpoint":  "https://roadmap.sh/cpp/topic@sLVs95EOeHZldoKY0L_dH.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1d7h5P1Q0RVHryKPVogQy",
+        "label":  "Boost",
+        "endpoint":  "https://roadmap.sh/cpp/topic@1d7h5P1Q0RVHryKPVogQy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Boost Libraries",
+                              "type":  "official",
+                              "url":  "https://www.boost.org/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Eq3TKSFJ2F2mrTHAaU2J4",
+        "label":  "OpenCV",
+        "endpoint":  "https://roadmap.sh/cpp/topic@Eq3TKSFJ2F2mrTHAaU2J4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenCV",
+                              "type":  "official",
+                              "url":  "https://opencv.org/"
+                          },
+                          {
+                              "title":  "Setup OpenCV in Visual Studio 2022 for C/C++ Development",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=unSce_GPwto"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nOkniNXfXwPPlOEJHJoGl",
+        "label":  "POCO",
+        "endpoint":  "https://roadmap.sh/cpp/topic@nOkniNXfXwPPlOEJHJoGl.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "POCO Docs",
+                              "type":  "official",
+                              "url":  "https://pocoproject.org/documentation.html"
+                          },
+                          {
+                              "title":  "Writing a Network Client with POCO",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rRR9RTUEn4k"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jpMCIWQko7p3ndezYHL4D",
+        "label":  "protobuf",
+        "endpoint":  "https://roadmap.sh/cpp/topic@jpMCIWQko7p3ndezYHL4D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "protobuf",
+                              "type":  "opensource",
+                              "url":  "https://github.com/protocolbuffers/protobuf"
+                          },
+                          {
+                              "title":  "Protocol Buffer Basics: C++",
+                              "type":  "article",
+                              "url":  "https://protobuf.dev/getting-started/cpptutorial/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "621J9W4xCofumNZGo4TZT",
+        "label":  "gRPC",
+        "endpoint":  "https://roadmap.sh/cpp/topic@621J9W4xCofumNZGo4TZT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Quick start",
+                              "type":  "official",
+                              "url":  "https://grpc.io/docs/languages/cpp/quickstart/"
+                          },
+                          {
+                              "title":  "Basic Tutorial",
+                              "type":  "official",
+                              "url":  "https://grpc.io/docs/languages/cpp/basics/"
+                          },
+                          {
+                              "title":  "grpc",
+                              "type":  "opensource",
+                              "url":  "https://github.com/grpc/grpc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "j_eNHhs0J08Dt7HVbo4Q2",
+        "label":  "Tensorflow",
+        "endpoint":  "https://roadmap.sh/cpp/topic@j_eNHhs0J08Dt7HVbo4Q2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tensor Flow",
+                              "type":  "opensource",
+                              "url":  "https://github.com/tensorflow/tensorflow"
+                          },
+                          {
+                              "title":  "How to Deploy Tensorflow Models in C++ in 3 different ways",
+                              "type":  "article",
+                              "url":  "https://towardsdatascience.com/how-to-deploy-tensorflow-models-in-c-in-3-different-ways-f7e25046be29/?utm_source=roadmap\u0026utm_medium=Referral\u0026utm_campaign=TDS+roadmap+integration"
+                          },
+                          {
+                              "title":  "TensorFlow in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=i8NETqtGHms"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tEkvlJPAkD5fji-MMODL7",
+        "label":  "pybind11",
+        "endpoint":  "https://roadmap.sh/cpp/topic@tEkvlJPAkD5fji-MMODL7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "pybind11",
+                              "type":  "opensource",
+                              "url":  "https://github.com/pybind/pybind11"
+                          },
+                          {
+                              "title":  "Pybind11 Tutorial: Binding C++ Code to Python",
+                              "type":  "article",
+                              "url":  "https://medium.com/@ahmedfgad/pybind11-tutorial-binding-c-code-to-python-337da23685dc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q64qFxoCrR38RPsN2lC8x",
+        "label":  "spdlog",
+        "endpoint":  "https://roadmap.sh/cpp/topic@q64qFxoCrR38RPsN2lC8x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "spdlog",
+                              "type":  "opensource",
+                              "url":  "https://github.com/gabime/spdlog"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GGZJaYpRENaqloJzt0VtY",
+        "label":  "opencl",
+        "endpoint":  "https://roadmap.sh/cpp/topic@GGZJaYpRENaqloJzt0VtY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Introduction",
+                              "type":  "official",
+                              "url":  "https://github.khronos.org/OpenCL-CLHPP/"
+                          },
+                          {
+                              "title":  "Basic examples of OpenCL with the C++ API",
+                              "type":  "opensource",
+                              "url":  "https://github.com/Dakkers/OpenCL-examples"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1CqQgmHDeo1HlPdpUJS7H",
+        "label":  "fmt",
+        "endpoint":  "https://roadmap.sh/cpp/topic@1CqQgmHDeo1HlPdpUJS7H.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "fmt",
+                              "type":  "official",
+                              "url":  "https://fmt.dev/12.0/"
+                          },
+                          {
+                              "title":  "fmt",
+                              "type":  "opensource",
+                              "url":  "https://github.com/fmtlib/fmt"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "et-dXKPYuyVW6eV2K3CM8",
+        "label":  "ranges_v3",
+        "endpoint":  "https://roadmap.sh/cpp/topic@et-dXKPYuyVW6eV2K3CM8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "range-v3",
+                              "type":  "opensource",
+                              "url":  "https://github.com/ericniebler/range-v3"
+                          },
+                          {
+                              "title":  "A GentleIntroductiontoRangesv3",
+                              "type":  "article",
+                              "url":  "https://www.daixtrose.de/talks/gentle-intro-to-ranges/talk/A%20Gentle%20Introduction%20to%20Ranges%20v3.pdf"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "MrAM-viRaF8DSxB6sVdD9",
+        "label":  "gtest / gmock",
+        "endpoint":  "https://roadmap.sh/cpp/topic@MrAM-viRaF8DSxB6sVdD9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Google test github pages",
+                              "type":  "official",
+                              "url":  "https://google.github.io/googletest/"
+                          },
+                          {
+                              "title":  "Google C++ Testing, GTest, GMock Framework playlist",
+                              "type":  "video",
+                              "url":  "https://youtube.com/playlist?list=PL_dsdStdDXbo-zApdWB5XiF2aWpsqzV55\u0026si=TR8ESbH1-epTl6VM"
+                          },
+                          {
+                              "title":  "Back to Basics: Unit Testing in C++ - Dave Steffen - CppCon 2024",
+                              "type":  "video",
+                              "url":  "https://youtu.be/MwoAM3sznS0?si=pumn99IobfU4AZ1I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gAZ9Dqgj1_UkaLzVgzx1t",
+        "label":  "Qt",
+        "endpoint":  "https://roadmap.sh/cpp/topic@gAZ9Dqgj1_UkaLzVgzx1t.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Qt for Beginners",
+                              "type":  "official",
+                              "url":  "https://wiki.qt.io/Qt_for_Beginners"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s13jQuaC6gw0Lab3Cbyy6",
+        "label":  "Catch2",
+        "endpoint":  "https://roadmap.sh/cpp/topic@s13jQuaC6gw0Lab3Cbyy6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Catch2",
+                              "type":  "official",
+                              "url":  "https://catch2.org/"
+                          },
+                          {
+                              "title":  "Catch2",
+                              "type":  "opensource",
+                              "url":  "https://github.com/catchorg/Catch2"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O0lVEMTAV1pq9sYCKQvh_",
+        "label":  "Orbit Profiler",
+        "endpoint":  "https://roadmap.sh/cpp/topic@O0lVEMTAV1pq9sYCKQvh_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ORBIT PROFILER",
+                              "type":  "official",
+                              "url":  "https://orbitprofiler.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "88pr5aN7cctZfDVVo-2ns",
+        "label":  "PyTorch C++",
+        "endpoint":  "https://roadmap.sh/cpp/topic@88pr5aN7cctZfDVVo-2ns.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PyTorch C++ API",
+                              "type":  "official",
+                              "url":  "https://docs.pytorch.org/cppdocs/"
+                          },
+                          {
+                              "title":  "LibTorch: The C++ Powerhouse Driving PyTorch",
+                              "type":  "article",
+                              "url":  "https://medium.com/@pouyahallaj/libtorch-the-c-powerhouse-driving-pytorch-ee0d4f7b8743"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

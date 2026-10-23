@@ -1,0 +1,2729 @@
+[
+    {
+        "id":  "y7KjVfSI6CAduyHd4mBFT",
+        "label":  "Introduction",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@y7KjVfSI6CAduyHd4mBFT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/"
+                          },
+                          {
+                              "title":  "Introduction of Kubernetes",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes"
+                          },
+                          {
+                              "title":  "Kubernetes Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=X48VuDVv0do"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qLeEEwBvlGt1fP5Qcreah",
+        "label":  "Overview of Kubernetes",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@qLeEEwBvlGt1fP5Qcreah.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Overview of Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/overview/"
+                          },
+                          {
+                              "title":  "What is Kubernetes?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/containers/what-is-kubernetes"
+                          },
+                          {
+                              "title":  "Kubernetes Overview \u0026 Essential Reading",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes/"
+                          },
+                          {
+                              "title":  "Tutorial - Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VnvRFRk_51k\u0026t=1sn"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "q-Ky0ietZGpyUcBQfh-BJ",
+        "label":  "Why use Kubernetes?",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@q-Ky0ietZGpyUcBQfh-BJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Why you need Kubernetes and what it can do",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/overview/#why-you-need-kubernetes-and-what-can-it-do"
+                          },
+                          {
+                              "title":  "Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9oo2fxTM2_p0VYPBroqxa",
+        "label":  "Key Concepts and Terminologies",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@9oo2fxTM2_p0VYPBroqxa.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Concepts of Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/"
+                          },
+                          {
+                              "title":  "Understand Kubernetes terminology",
+                              "type":  "article",
+                              "url":  "https://about.gitlab.com/blog/2020/07/30/kubernetes-terminology/"
+                          },
+                          {
+                              "title":  "What Is Kubernetes?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=QJ4fODH6DXI"
+                          },
+                          {
+                              "title":  "Kubernetes Explained by Experts in 2 Minutes",
+                              "type":  "video",
+                              "url":  "https://youtu.be/XfBrtNZ2OCw"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3fzuXKH7az_LVnmnoXB1p",
+        "label":  "Kubernetes Alternatives",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@3fzuXKH7az_LVnmnoXB1p.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Compare Apache Mesos vs. Kubernetes",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchitoperations/tip/Compare-container-orchestrators-Apache-Mesos-vs-Kubernetes"
+                          },
+                          {
+                              "title":  "Docker Swarm, a User-Friendly Alternative to Kubernetes",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/docker-swarm-a-user-friendly-alternative-to-kubernetes/"
+                          },
+                          {
+                              "title":  "Can You Live without Kubernetes?",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/can-you-live-without-kubernetes/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "HGmeYvRf7_XusZl_K4x9k",
+        "label":  "Containers",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@HGmeYvRf7_XusZl_K4x9k.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Official Docker Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.docker.com/101-tutorial/"
+                          },
+                          {
+                              "title":  "Docker Curriculum",
+                              "type":  "article",
+                              "url":  "https://docker-curriculum.com/"
+                          },
+                          {
+                              "title":  "Docker in 100 Seconds (video)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Gjnup-PuquQ"
+                          },
+                          {
+                              "title":  "Free 3 Hour Video Course on Docker for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=3c-iBn73dDE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3OpGaQhyNtk1n1MLp-tlb",
+        "label":  "Setting up Kubernetes",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@3OpGaQhyNtk1n1MLp-tlb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using kubectl to Create a Deployment",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/"
+                          },
+                          {
+                              "title":  "Deploying An Application On Kubernetes From A to Z",
+                              "type":  "article",
+                              "url":  "https://web.archive.org/web/20230326150953/https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z"
+                          },
+                          {
+                              "title":  "Kubernetes 101: Deploy Your First Application with MicroK8s",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-101-deploy-your-first-application-with-microk8s/"
+                          },
+                          {
+                              "title":  "Kubernetes Tutorial | Your First Kubernetes Application",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Vj6EFnav5Mg"
+                          },
+                          {
+                              "title":  "Kubernetes 101: Deploying Your First Application",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XltFOyGanYE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zrbSJa3k7a3TE0aYbWi9c",
+        "label":  "Deploying your First Application",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@zrbSJa3k7a3TE0aYbWi9c.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes Deployment Hands-on Lab",
+                              "type":  "course",
+                              "url":  "https://kodekloud.com/studio/labs/kubernetes/deployments-stable"
+                          },
+                          {
+                              "title":  "Using kubectl to Create a Deployment",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/"
+                          },
+                          {
+                              "title":  "Deploying An Application On Kubernetes From A to Z",
+                              "type":  "article",
+                              "url":  "https://web.archive.org/web/20230326150953/https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z"
+                          },
+                          {
+                              "title":  "Kubernetes 101: Deploy Your First Application with MicroK8s",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-101-deploy-your-first-application-with-microk8s/"
+                          },
+                          {
+                              "title":  "Kubernetes Tutorial | Your First Kubernetes Application",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Vj6EFnav5Mg"
+                          },
+                          {
+                              "title":  "Kubernetes 101: Deploying Your First Application",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XltFOyGanYE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qSatCdBTDXPu-IFWzUI99",
+        "label":  "Choosing a Managed Provider",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@qSatCdBTDXPu-IFWzUI99.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Choosing a Managed Kubernetes Provider",
+                              "type":  "article",
+                              "url":  "https://containerjournal.com/features/choosing-a-managed-kubernetes-provider/"
+                          },
+                          {
+                              "title":  "Amazon Web Services Gears Elastic Kubernetes Service for Batch Work",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/amazon-web-services-gears-elastic-kubernetes-service-for-batch-jobs/"
+                          },
+                          {
+                              "title":  "How to Build The Right Platform for Kubernetes",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes/kubernetes-infrastructure-architecture/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YaIs8lquWIe1D7RCUBZmC",
+        "label":  "Installing a Local Cluster",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@YaIs8lquWIe1D7RCUBZmC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "How to Install a Kubernetes Cluster on CentOS 7",
+                              "type":  "article",
+                              "url":  "https://www.tecmint.com/install-kubernetes-cluster-on-centos-7/"
+                          },
+                          {
+                              "title":  "How To Create a Kubernetes Cluster Using on Ubuntu",
+                              "type":  "article",
+                              "url":  "https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-20-04"
+                          },
+                          {
+                              "title":  "Deploy a Kubernetes Cluster on Ubuntu Server with Microk8s",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/deploy-a-kubernetes-cluster-on-ubuntu-server-with-microk8s/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1MdrzhktCWjpmxiYYBdz7",
+        "label":  "Running Applications",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@1MdrzhktCWjpmxiYYBdz7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Run Applications",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/run-application/"
+                          },
+                          {
+                              "title":  "Deploying an Application on Kubernetes: A Complete Guide!",
+                              "type":  "article",
+                              "url":  "https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6"
+                          },
+                          {
+                              "title":  "How Do Applications Run on Kubernetes?",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/how-do-applications-run-on-kubernetes/"
+                          },
+                          {
+                              "title":  "Kubernetes 101: Deploying Your First Application!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=XltFOyGanYE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-d2PIXm0V_Iehe8cws8zK",
+        "label":  "Pods",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@-d2PIXm0V_Iehe8cws8zK.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pods Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/workloads/pods/"
+                          },
+                          {
+                              "title":  "The Kubernetes Way: Pods and Services",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-way-part-one/"
+                          },
+                          {
+                              "title":  "5 Best Practices for Configuring Kubernetes Pods Running in Production",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/5-best-practices-for-configuring-kubernetes-pods-running-in-production/"
+                          },
+                          {
+                              "title":  "What is a Pod in kubernetes ? Why do you need it ?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=k0fzMZgpp14"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "IF09l0-pryGpMbDt__ocr",
+        "label":  "ReplicaSets",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@IF09l0-pryGpMbDt__ocr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ReplicaSet Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/"
+                          },
+                          {
+                              "title":  "Strategies for Running Stateful Workloads in Kubernetes: Pet Sets",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/strategies-running-stateful-applications-kubernetes-pet-sets/"
+                          },
+                          {
+                              "title":  "ReplicaSet in Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1WM-LsH6tKc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TUGQX7y1gs-aKPge2F1NU",
+        "label":  "Deployments",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@TUGQX7y1gs-aKPge2F1NU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Deployments Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/"
+                          },
+                          {
+                              "title":  "Kubernetes Deployment: From Basic Strategies to Progressive Delivery\n",
+                              "type":  "article",
+                              "url":  "https://codefresh.io/learn/kubernetes-deployment/"
+                          },
+                          {
+                              "title":  "Kubernetes Deployments | Deployment Strategies",
+                              "type":  "video",
+                              "url":  "https://youtu.be/lxc4EXZOOvE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AJiRBEaKU8qYEm0fqN389",
+        "label":  "StatefulSets",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@AJiRBEaKU8qYEm0fqN389.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "StatefulSets Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/"
+                          },
+                          {
+                              "title":  "Different Approaches for Building Stateful Kubernetes Applications",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/different-approaches-for-building-stateful-kubernetes-applications/"
+                          },
+                          {
+                              "title":  "Kubernetes StatefulSet | Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pPQKAR1pA9U"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "r3fzAN5DzratAKnnT8hzb",
+        "label":  "Jobs",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@r3fzAN5DzratAKnnT8hzb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Jobs Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/workloads/controllers/job/"
+                          },
+                          {
+                              "title":  "How Kubernetes Is Transforming into a Universal Scheduler",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/how-kubernetes-is-transforming-into-a-universal-scheduler/"
+                          },
+                          {
+                              "title":  "Tutorial | Jobs in Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=j1EnBbxSz64"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aUJ_w2L8nxNq3DfAW97Gd",
+        "label":  "Services and Networking",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@aUJ_w2L8nxNq3DfAW97Gd.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cluster Networking - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/cluster-administration/networking/"
+                          },
+                          {
+                              "title":  "Job with Pod-to-Pod Communication",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/job/job-with-pod-to-pod-communication/"
+                          },
+                          {
+                              "title":  "How Kubernetes Provides Networking and Storage to Applications",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/how-kubernetes-provides-networking-and-storage-to-applications/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jUOlITLqnIvSu97I_3nBz",
+        "label":  "External Access to Services",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@jUOlITLqnIvSu97I_3nBz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ingress - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/services-networking/ingress/"
+                          },
+                          {
+                              "title":  "Kubernetes Ingress for Beginners",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-ingress-for-beginners/"
+                          },
+                          {
+                              "title":  "How do I provide external access to Kubernetes services",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=iBYTFpoXx24"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Qelo1YvAcUoX5PA-RYbNp",
+        "label":  "Load Balancing",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@Qelo1YvAcUoX5PA-RYbNp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Load Balancing - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/services-networking/ingress/#load-balancing"
+                          },
+                          {
+                              "title":  "Ingress Controllers: The Swiss Army Knife of Kubernetes",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/ingress-controllers-the-swiss-army-knife-of-kubernetes/"
+                          },
+                          {
+                              "title":  "Tutorial | Load Balancing Service in Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xCsz9IOt-fs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "44rhdieUCWsGFC_1__9kk",
+        "label":  "Networking \u0026 Pod-to-Pod Communication",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@44rhdieUCWsGFC_1__9kk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cluster Networking - Kubernetes Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/cluster-administration/networking/"
+                          },
+                          {
+                              "title":  "Network Policies - Kubernetes Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/services-networking/network-policies/"
+                          },
+                          {
+                              "title":  "Kubernetes Networking Explained",
+                              "type":  "article",
+                              "url":  "https://www.tigera.io/learn/guides/kubernetes-networking/"
+                          },
+                          {
+                              "title":  "Kubernetes Networking Deep Dive",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=t98ekMiz0hQ"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dj7Tb2XTX4kxRUYiTjlhM",
+        "label":  "Configuration Management",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@dj7Tb2XTX4kxRUYiTjlhM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Documentation - Secrets",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/configuration/secret/"
+                          },
+                          {
+                              "title":  "Kubernetes Secrets Management: 3 Approaches, 9 Best Practices",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-secrets-management-3-approaches-9-best-practices/"
+                          },
+                          {
+                              "title":  "Kubernetes Secrets in 5 Minutes!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cQAEK9PBY8U"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "u24UlZKI86vaguj_VpMv1",
+        "label":  "Injecting Pod Config with ConfigMaps",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@u24UlZKI86vaguj_VpMv1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "ConfigMaps Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/configuration/configmap/"
+                          },
+                          {
+                              "title":  "Kubernetes CRDs: What They Are and Why They Are Useful",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-crds-what-they-are-and-why-they-are-useful/"
+                          },
+                          {
+                              "title":  "Tutorial - ConfigMap in Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BPrC_lgmcHQ"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "S0CwGC2gMG-SqnLNldqBD",
+        "label":  "Using Secrets for Sensitive Data",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@S0CwGC2gMG-SqnLNldqBD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Documentation - Secrets",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/configuration/secret/"
+                          },
+                          {
+                              "title":  "Kubernetes Secrets Management: 3 Approaches, 9 Best Practices",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-secrets-management-3-approaches-9-best-practices/"
+                          },
+                          {
+                              "title":  "Kubernetes Secrets in 5 Minutes!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cQAEK9PBY8U"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eWKkdiBhD5x2sGYajmHEs",
+        "label":  "Resource Management",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@eWKkdiBhD5x2sGYajmHEs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tools for Monitoring Resources - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-usage-monitoring/"
+                          },
+                          {
+                              "title":  "Kubernetes Resource Optimization: Just The Basics",
+                              "type":  "article",
+                              "url":  "https://sequoia.makes.software/kubernetes-resource-optimization-just-the-basics/"
+                          },
+                          {
+                              "title":  "How to Choose the Right Kubernetes Monitoring Tool ",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/how-to-choose-the-right-kubernetes-monitoring-tool/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8RLR6gRjIyTn6GCugEfgk",
+        "label":  "Setting Resource Requests and Limits",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@8RLR6gRjIyTn6GCugEfgk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Requests and limits - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#requests-and-limits"
+                          },
+                          {
+                              "title":  "Motivation for default memory limits and requests",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace/#motivation-for-default-memory-limits-and-requests"
+                          },
+                          {
+                              "title":  "Understanding Kubernetes Resource Types",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/understanding-kubernetes-resource-types/"
+                          },
+                          {
+                              "title":  "Kubernetes Requests and Limits Demystified ",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-requests-and-limits-demystified/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OHz4QMmA3lqL_C7aWL8Ga",
+        "label":  "Assigning Quotas to Namespaces",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@OHz4QMmA3lqL_C7aWL8Ga.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Resource Quotas - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/policy/resource-quotas/"
+                          },
+                          {
+                              "title":  "Leveraging Namespaces for Cost Optimization with Kubernetes",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/leveraging-namespaces-for-cost-optimization-with-kubernetes/"
+                          },
+                          {
+                              "title":  "Kubernetes Namespaces Explained in 15 mins",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=K3jNo4z5Jx8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PP4ld_vvjpY3QltBBsXKD",
+        "label":  "Monitoring \u0026 Optimizing Resource Usage",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@PP4ld_vvjpY3QltBBsXKD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Monitoring Resources in Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/"
+                          },
+                          {
+                              "title":  "Metrics Server",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/#metrics-server"
+                          },
+                          {
+                              "title":  "Horizontal Pod Autoscaling",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/"
+                          },
+                          {
+                              "title":  "Kubernetes Resource Monitoring: Best Practices",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/blog/kubernetes-resource-monitoring-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "SG3wtV2rt9nmLEkgrp_zP",
+        "label":  "Security",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@SG3wtV2rt9nmLEkgrp_zP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "8+ open-source Kubernetes vulnerability scanners",
+                              "type":  "article",
+                              "url":  "https://techbeacon.com/security/8-open-source-kubernetes-vulnerability-scanners-consider"
+                          },
+                          {
+                              "title":  "7 Kubernetes Security Scanners",
+                              "type":  "article",
+                              "url":  "https://thechief.io/c/editorial/7-kubernetes-security-scanners-to-use-in-your-devsecops-pipeline/"
+                          },
+                          {
+                              "title":  "Improve Security With Automated Image Scanning Through CI/CD",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/improve-security-with-automated-image-scanning-through-ci-cd/"
+                          },
+                          {
+                              "title":  "Starboard: Putting all the Kubernetes Security Pieces into One Place",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/starboard-putting-all-the-kubernetes-security-pieces-into-one-place/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jOq0WwLrq8tlmOgo64QDc",
+        "label":  "Role Based Access Control (RBAC)",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@jOq0WwLrq8tlmOgo64QDc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Role Based Access Control Good Practices",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/security/rbac-good-practices/"
+                          },
+                          {
+                              "title":  "A Primer on Kubernetes Access Control",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/a-primer-on-kubernetes-access-control/"
+                          },
+                          {
+                              "title":  "A Practical Approach to Understanding Kubernetes Authorization",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/a-practical-approach-to-understanding-kubernetes-authorization/"
+                          },
+                          {
+                              "title":  "3 Realistic Approaches to Kubernetes RBAC",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/three-realistic-approaches-to-kubernetes-rbac/"
+                          },
+                          {
+                              "title":  "Role-Based Access Control: Five Common Authorization Patterns",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/role-based-access-control-five-common-authorization-patterns/"
+                          },
+                          {
+                              "title":  "Securing Kubernetes and Other Resources at Scale Using RBAC",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/securing-kubernetes-and-other-resources-at-scale-using-rbac/"
+                          },
+                          {
+                              "title":  "Understand Role Based Access Control in Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=G3R24JSlGjY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s0gHg8CqwrSylpSPu8arA",
+        "label":  "Network Security",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@s0gHg8CqwrSylpSPu8arA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Network Policies - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/services-networking/network-policies/"
+                          },
+                          {
+                              "title":  "6 Kubernetes Security Best Practices",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/6-kubernetes-security-best-practices/"
+                          },
+                          {
+                              "title":  "The Kubernetes Network Security Effect",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/the-kubernetes-network-security-effect/"
+                          },
+                          {
+                              "title":  "Kubernetes Security Best Practices to Keep You out of the News",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-security-best-practices-to-keep-you-out-of-the-news/"
+                          },
+                          {
+                              "title":  "Kubernetes Security Best Practices",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=oBf5lrmquYI"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Nja7IFWcFTLsPcqbvRNm9",
+        "label":  "Container and Pod Security",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@Nja7IFWcFTLsPcqbvRNm9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Configure a Security Context for a Pod or Container",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/configure-pod-container/security-context/"
+                          },
+                          {
+                              "title":  "Tutorial: Create a Kubernetes Pod Security Policy",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/tutorial-create-a-kubernetes-pod-security-policy/"
+                          },
+                          {
+                              "title":  "6 Overlooked Yet Important Kubernetes Features to Secure",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/6-overlooked-yet-important-kubernetes-features-to-secure/"
+                          },
+                          {
+                              "title":  "Kubernetes Security - Security Context for a Pod or Container",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=i8wfvoVf2xs"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AgsQnQjyTLUFhFpRdcE13",
+        "label":  "Monitoring and Logging",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@AgsQnQjyTLUFhFpRdcE13.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "K8sGPT - AI scanner for Kubernetes problems",
+                              "type":  "opensource",
+                              "url":  "https://github.com/k8sgpt-ai/k8sgpt"
+                          },
+                          {
+                              "title":  "HolmesGPT - AIOps Platform for investigating Kubernetes problems and Prometheus alerts",
+                              "type":  "opensource",
+                              "url":  "https://github.com/robusta-dev/holmesgpt/"
+                          },
+                          {
+                              "title":  "Kubernetes Observability 101: Tools, Best Practices, And More",
+                              "type":  "article",
+                              "url":  "https://www.cloudzero.com/blog/kubernetes-observability"
+                          },
+                          {
+                              "title":  "Kubernetes Observability in KubeSphere",
+                              "type":  "article",
+                              "url":  "https://kubesphere.io/observability/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-XxQtiLDAkXs7IFM_Ddw6",
+        "label":  "Logs",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@-XxQtiLDAkXs7IFM_Ddw6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "System Logs",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/cluster-administration/system-logs/"
+                          },
+                          {
+                              "title":  "Kubernetes: Log collection explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=6kmHvXdAzIM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nqUBHBFUYFdYqCKZvfXBR",
+        "label":  "Metrics",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@nqUBHBFUYFdYqCKZvfXBR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Node Metrics Data",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/reference/instrumentation/node-metrics/"
+                          },
+                          {
+                              "title":  "How to collect metrics in K8s?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=JQrk6HwlN78"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ldYTEPt_hI4PXxr3tgJi5",
+        "label":  "Traces",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@ldYTEPt_hI4PXxr3tgJi5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Traces For Kubernetes System Components",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/cluster-administration/system-traces/"
+                          },
+                          {
+                              "title":  "Introduction to Tracing",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=idDu_jXqf4E"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pDjNsK5vI9FmKZbQm0lDP",
+        "label":  "Resource Health",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@pDjNsK5vI9FmKZbQm0lDP.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dashboards with Grafana and Prometheus",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fzny5uUaAeY"
+                          },
+                          {
+                              "title":  "How to Monitor a Kubernetes Cluster with Prometheus \u0026 Grafana",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=YDtuwlNTzRc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FANswgUhUb5Iuah2fni3L",
+        "label":  "Observability Engines",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@FANswgUhUb5Iuah2fni3L.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "K8sGPT - AI scanner for Kubernetes problems",
+                              "type":  "opensource",
+                              "url":  "https://github.com/k8sgpt-ai/k8sgpt"
+                          },
+                          {
+                              "title":  "HolmesGPT - AIOps Platform for investigating Kubernetes problems and Prometheus alerts",
+                              "type":  "opensource",
+                              "url":  "https://github.com/robusta-dev/holmesgpt/"
+                          },
+                          {
+                              "title":  "Kubernetes Observability 101: Tools, Best Practices, And More",
+                              "type":  "article",
+                              "url":  "https://www.cloudzero.com/blog/kubernetes-observability"
+                          },
+                          {
+                              "title":  "Kubernetes Observability in KubeSphere",
+                              "type":  "article",
+                              "url":  "https://kubesphere.io/observability/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "03mGA5AyL7mpF6y3EMW7A",
+        "label":  "Autoscaling",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@03mGA5AyL7mpF6y3EMW7A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Autoscaling in Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/"
+                          },
+                          {
+                              "title":  "Kubernetes cluster autoscaling for beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jM36M39MA3I"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "044IUUCgZP4oQ9UxUG2iy",
+        "label":  "Horizontal Pod Autoscaler (HPA)",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@044IUUCgZP4oQ9UxUG2iy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Horizontal Pod Autoscaling - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "c1KVczGRjh9bhMpbPP6sA",
+        "label":  "Vertical Pod Autoscaler (VPA)",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@c1KVczGRjh9bhMpbPP6sA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Kubernetes VPA?",
+                              "type":  "article",
+                              "url":  "https://www.kubecost.com/kubernetes-autoscaling/kubernetes-vpa/"
+                          },
+                          {
+                              "title":  "Vertical Pod Autoscaling: Example",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=3h-vDDTZrm8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RC5MoYtG2rom-d4FW5qD2",
+        "label":  "Cluster Autoscaling",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@RC5MoYtG2rom-d4FW5qD2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Autoscaling in Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/"
+                          },
+                          {
+                              "title":  "Kubernetes cluster autoscaling for beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jM36M39MA3I"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "xZDXM_8qb4VL15tNGG0ws",
+        "label":  "Scheduling",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@xZDXM_8qb4VL15tNGG0ws.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes Scheduler",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/"
+                          },
+                          {
+                              "title":  "Scheduling Framework",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "70lTSIVh0AD6M8fMMuWzY",
+        "label":  "Basics",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@70lTSIVh0AD6M8fMMuWzY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes Scheduler",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/"
+                          },
+                          {
+                              "title":  "How Scheduling in Kubernetes Works",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0FvQR-0tK54"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zXUsHAI1HFhcY2BFAcypv",
+        "label":  "Taints and Tolerations",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@zXUsHAI1HFhcY2BFAcypv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Taints and Tolerations",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/"
+                          },
+                          {
+                              "title":  "Kubernetes For Beginners: Taints \u0026 Tolerations",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=mo2UrkjA7FE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CL0hKTcml40InmyVUXpY2",
+        "label":  "Topology Spread Constraints",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@CL0hKTcml40InmyVUXpY2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Topology Spread Constraints",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/"
+                          },
+                          {
+                              "title":  "Kubernetes | Topology Spread Constraints",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=joRrWJ6bwvE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "_Gva1eGcYqpmZNPyV03lt",
+        "label":  "Pod Priorities",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@_Gva1eGcYqpmZNPyV03lt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pod priority - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/pod-priority-preemption/#pod-priority"
+                          },
+                          {
+                              "title":  "Kubernetes Pod Priority (Examples)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sR_Zmvme3-0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TRKzlDW2PQN9bWTyz3NWL",
+        "label":  "Evictions",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@TRKzlDW2PQN9bWTyz3NWL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Node-pressure Eviction",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/node-pressure-eviction/"
+                          },
+                          {
+                              "title":  "API-initiated Eviction",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/scheduling-eviction/api-eviction/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "URnYf9jMprFz-o26fbU2P",
+        "label":  "Storage and Volumes",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@URnYf9jMprFz-o26fbU2P.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Container Storage Interface (CSI) for Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/"
+                          },
+                          {
+                              "title":  "CSI in Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=brXPQ1Qwjl4"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "55RV9psPCmcg8G_P_zQo9",
+        "label":  "CSI Drivers",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@55RV9psPCmcg8G_P_zQo9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Container Storage Interface (CSI) for Kubernetes",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/"
+                          },
+                          {
+                              "title":  "Kubernetes CSI Developer Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes-csi.github.io/docs/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LJUJ1NIUsajb1AUdvJjqW",
+        "label":  "Stateful Applications",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@LJUJ1NIUsajb1AUdvJjqW.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Stateful Applications",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tutorials/stateful-application/"
+                          },
+                          {
+                              "title":  "The basics of stateful applications in Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GieXzb91I40"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0l0xpsabglvs_t6oAP-XG",
+        "label":  "Deployment Patterns",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@0l0xpsabglvs_t6oAP-XG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes - Blue/Green Deployments",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jxhpTGQ484Y"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Pymc9H-lRHVPy7M9eSaPD",
+        "label":  "CI / CD Integration",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@Pymc9H-lRHVPy7M9eSaPD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes CI/CD Pipelines – 8 Best Practices and Tools",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/kubernetes-ci-cd"
+                          },
+                          {
+                              "title":  "8 Kubernetes CI/CD tools every developer should know",
+                              "type":  "article",
+                              "url":  "https://octopus.com/devops/kubernetes-deployments/kubernetes-ci-cd-tools-for-developers/"
+                          },
+                          {
+                              "title":  "Deploy to Kubernetes with Octopus Deploy",
+                              "type":  "article",
+                              "url":  "https://octopus.com/use-case/kubernetes?utm_source=roadmap\u0026utm_medium=link\u0026utm_campaign=kubernetes-ci-cd-integration"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dATdEyNWlpDNKjedCXLyb",
+        "label":  "GitOps",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@dATdEyNWlpDNKjedCXLyb.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using GitOps with a Kubernetes cluster",
+                              "type":  "article",
+                              "url":  "https://docs.gitlab.com/ee/user/clusters/agent/gitops.html"
+                          },
+                          {
+                              "title":  "DevOps and GitOps for Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=PFLimPh5-wo"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "FAEFOhLdp7xrmctHFxiOM",
+        "label":  "Helm Charts",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@FAEFOhLdp7xrmctHFxiOM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Helm Docs",
+                              "type":  "official",
+                              "url":  "https://helm.sh/docs/"
+                          },
+                          {
+                              "title":  "What is Helm in Kubernetes? Helm and Helm Charts explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-ykwb1d0DXU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "88IGeC3dAopHLGtLozxdY",
+        "label":  "Canary Deployments",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@88IGeC3dAopHLGtLozxdY.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Canary deployment for K8s deployments",
+                              "type":  "article",
+                              "url":  "https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/kubernetes/canary-demo?view=azure-devops\u0026tabs=yaml"
+                          },
+                          {
+                              "title":  "Kubernetes canary deployments Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sCevTD_GtvU"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yMSXdwDO36CLtp2TBC7aB",
+        "label":  "Rolling Updates / Rollbacks",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@yMSXdwDO36CLtp2TBC7aB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Performing a Rolling Update",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/"
+                          },
+                          {
+                              "title":  "How do you rollback deployments in Kubernetes?",
+                              "type":  "article",
+                              "url":  "https://learnkube.com/kubernetes-rollbacks"
+                          },
+                          {
+                              "title":  "Kubernetes Deployments: A Guide to the Rolling Update Deployment Strategy",
+                              "type":  "video",
+                              "url":  "https://semaphore.io/blog/kubernetes-rolling-update-deployment"
+                          },
+                          {
+                              "title":  "Kubernetes Rollbacks Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9hK11Ov74U4"
+                          },
+                          {
+                              "title":  "Kubernetes Deployment strategies | Rolling Update Deployment | Argo rollout | ADAM",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cy3KXqgJOrE"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "t8SJbGVXsUDECxePLDk_w",
+        "label":  "Advanced Topics",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@t8SJbGVXsUDECxePLDk_w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes Production Best Practices",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/setup/production-environment/"
+                          },
+                          {
+                              "title":  "Top Kubernetes design patterns",
+                              "type":  "article",
+                              "url":  "https://www.wallarm.com/what/top-kubernetes-design-patterns"
+                          },
+                          {
+                              "title":  "The Role of Kubernetes in DevOps",
+                              "type":  "article",
+                              "url":  "https://spacelift.io/blog/kubernetes-devops"
+                          },
+                          {
+                              "title":  "Kubernetes for Docker Users",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=keNQ6V_W4VE\u0026ab_channel=Rancher"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L9rVPEEXFwisQOwT_LQ4v",
+        "label":  "Creating Custom Controllers",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@L9rVPEEXFwisQOwT_LQ4v.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Custom Controllers",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#custom-controllers"
+                          },
+                          {
+                              "title":  "Extending Kubernetes with Custom Controllers",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/results?search_query=Custom+controllers+in+k8s"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1-Nb8rCMJEZrYm20sEcRJ",
+        "label":  "Custom Schedulers and Extenders",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@1-Nb8rCMJEZrYm20sEcRJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Create a custom Kubernetes scheduler",
+                              "type":  "article",
+                              "url":  "https://developer.ibm.com/articles/creating-a-custom-kube-scheduler/"
+                          },
+                          {
+                              "title":  "Custom Scheduler Kubernetes | Multiple Schedulers Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NiB7sjXmiZc"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9P7l-RBOkUxs3Z_UpKQO-",
+        "label":  "Custom Resource Definitions (CRDs)",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@9P7l-RBOkUxs3Z_UpKQO-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Custom Resources - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/"
+                          },
+                          {
+                              "title":  "Custom Resource Definition (CRD) Explained with Demo",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=u1X5Rf7fWwM"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UeJcKv3jhenjNzHM-0R86",
+        "label":  "Kubernetes Extensions and APIs",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@UeJcKv3jhenjNzHM-0R86.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Extensions - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/extend-kubernetes/#extensions"
+                          },
+                          {
+                              "title":  "The Kubernetes API - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/overview/kubernetes-api/"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZrVhYTw63aVVIFAEJDG5r",
+        "label":  "Should you manage your own Cluster?",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@ZrVhYTw63aVVIFAEJDG5r.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Creating a cluster with kubeadm",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/"
+                          },
+                          {
+                              "title":  "KUBERNETES | Install Kubernetes Cluster",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Ro2qeYeisZQ"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "M-iTb_7EWZIJ3JpdViICx",
+        "label":  "Installing the Control Plane",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@M-iTb_7EWZIJ3JpdViICx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Initializing your control-plane node - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#initializing-your-control-plane-node"
+                          },
+                          {
+                              "title":  "Tutorial - Install Control Plane Components",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IUwuyZ5ReF0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2cQKTxln3dIk5IjX2UZdM",
+        "label":  "Adding and Managing Worker Nodes",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@2cQKTxln3dIk5IjX2UZdM.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Node Management",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/architecture/nodes/#management"
+                          },
+                          {
+                              "title":  "Kubernetes 101: Nodes Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xhwi3zIVR-8"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "auZgEQ6FC3nUjuyx0zANh",
+        "label":  "Multi-Cluster Management",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@auZgEQ6FC3nUjuyx0zANh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Configure Access to Multiple Clusters - Documentation",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/"
+                          },
+                          {
+                              "title":  "Kubernetes Cluster Management Strategies",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=966TJ6mlOYY"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9-oaTlzKmcxTfaRycz1w3",
+        "label":  "Blue-Green Deployments",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@9-oaTlzKmcxTfaRycz1w3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Kubernetes - Blue/Green Deployments",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=jxhpTGQ484Y"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Introduction to Kubernetes",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D14R"
+                              },
+                              {
+                                  "title":  "DataCamp - Containerization and Virtualization",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/n4g6RM"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "rgHgNU_aLUibLhl_Cyw3F",
+        "label":  "Gateway API",
+        "endpoint":  "https://roadmap.sh/kubernetes/topic@rgHgNU_aLUibLhl_Cyw3F.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Gateway API",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/docs/concepts/services-networking/gateway/"
+                          },
+                          {
+                              "title":  "Introduction to Gateway API",
+                              "type":  "article",
+                              "url":  "https://gateway-api.sigs.k8s.io/docs/introduction/"
+                          },
+                          {
+                              "title":  "Gateway API or Ingress: A Developer’s Guide to Kubernetes Routing",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/gateway-api-or-ingress-a-developers-guide-to-kubernetes-routing/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]

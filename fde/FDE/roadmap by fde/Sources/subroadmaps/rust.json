@@ -1,0 +1,2237 @@
+{
+    "slug":  "rust",
+    "source":  "https://roadmap.sh/rust",
+    "title":  "Rust Developer",
+    "retrieved":  "2026-10-23",
+    "upstreamUpdated":  "2026-08-05T10:29:08.098Z",
+    "nodes":  [
+                  {
+                      "id":  "rUrQuzfx0d3m8ikW8zqYW",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  259.08542331133776,
+                                       "y":  2989.863187593087
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KoqpyorKd1eaw1oaJFDOl",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  122.58542331133776,
+                                       "y":  2989.863187593087
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Ox1rQuCaV-vAnC00DDOgc",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  263.8018811735381,
+                                       "y":  2599.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "9gAM0HHc7BjiI_57YohcR",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  112.64941537716832,
+                                       "y":  2599.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "MI-EBA-E6XSFHvcwTGVSX",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -248.54738164776302,
+                                       "y":  2612.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OSwj7Vb5wZ0NYRbwyv9Fa",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -121.0205479375233,
+                                       "y":  2612.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "g_55QGdPXDqpegvW-Ory8",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -665.6322659713495,
+                                       "y":  2685.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zGOEt71ky7va_Wsd-Z0DI",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -568.2748410324898,
+                                       "y":  2681.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "DYCWEBzyai0biBdJNKpcb",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -475.1322659713495,
+                                       "y":  2680.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "djbcwu0u-S1s-6KsItcVb",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -476.91948266035604,
+                                       "y":  2445.7871651675737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AQLvE8HuoruqfQaWUmUbA",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -662.2748410324898,
+                                       "y":  2462.255858255128
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_BUGCGhl3YZmYwMFjF8EQ",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -124.1381872719935,
+                                       "y":  2318.50200658478
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZyzVpBl6GnmYA9D8jw0RZ",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -249.7748410324898,
+                                       "y":  2318.50200658478
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dtTAH6laZUBK5Dz1YLSFp",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  87.58542331133775,
+                                       "y":  2328.50200658478
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QBQtHQmySwZy2ZCdpTzly",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  187.58542331133776,
+                                       "y":  2328.50200658478
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FGUbNtBQHC9af26mD5gAv",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  289.58542331133776,
+                                       "y":  2328.50200658478
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jW6BXzMs6fb7cDnEZtg4n",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  283.8018811735381,
+                                       "y":  2041.550309464411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TMjwWmqqaJLGk3dM4wUCm",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  162.3018811735381,
+                                       "y":  2041.550309464411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6elkyME3Q_vTtjnmBJIZJ",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  74.61996452082155,
+                                       "y":  2041.550309464411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4SufzURM37h3CKmPcQhgu",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -106.6381872719935,
+                                       "y":  2143.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7WUhiHKUnamVl-J-qZcI8",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -186.81180589576024,
+                                       "y":  2143.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZwAjxTmMGbDF6A5v_o8HV",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -277.52995834089336,
+                                       "y":  2143.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Lty8FW95Qw4eaQwrvgFft",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -553.2748410324898,
+                                       "y":  2143.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "--B8QrLgIH-l67iomugbW",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -450.6768832445764,
+                                       "y":  2143.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "IrJJ-xM83ltSp4meGT6Gm",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -654.1322659713495,
+                                       "y":  2143.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3nPTKH467-g4N0YBW0zpb",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -506.45066814637346,
+                                       "y":  1648.7461547010141
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oMiptPao4a2q92LjCy2NC",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -189.45066814637346,
+                                       "y":  1628.7461547010141
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gJbwBCJ4gnRTxZBI70WdQ",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -196.81180589576024,
+                                       "y":  1473.339181586816
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p3pDkuT1eGPgzMjrvXPh_",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  205.11996452082155,
+                                       "y":  1648.7461547010141
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "utVj1oJEgIbwc21I6L0u5",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  210.93775495655632,
+                                       "y":  1130.0353435831921
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cq9nRpKmmRHuXHs2xBWJl",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -216.8175069304428,
+                                       "y":  876.3984712635258
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "CnTH2dKlQCHe2otZjB_rt",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -216.8175069304428,
+                                       "y":  699.6235753518292
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "1qgNC-F2wRmAE-UbQ1tzZ",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -356.7748410324898,
+                                       "y":  321.40454436142437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Agwu9c_rJzdNjV4DUaFx",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  -709.7748410324898,
+                                       "y":  68.7294762338152
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w33P_0jGA6CV8uKi_d-bt",
+                      "type":  "horizontal",
+                      "label":  "horizontal node",
+                      "position":  {
+                                       "x":  -161.6381872719935,
+                                       "y":  150.9393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "xMeeAFhcYrR_hjli3QOam",
+                      "type":  "section",
+                      "label":  "",
+                      "position":  {
+                                       "x":  9.04933185362654,
+                                       "y":  138.4642163827375
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HU7wZWiES3m3xl1-NYP6F",
+                      "type":  "title",
+                      "label":  "Rust",
+                      "position":  {
+                                       "x":  -255.8175069304428,
+                                       "y":  -38.879087788307686
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uqyE79OItPOX33E5FoGel",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -216.8175069304428,
+                                       "y":  -133.0992517776511
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "4U-HZQGH7kaWCB94Xy8Mh",
+                      "type":  "topic",
+                      "label":  "Introduction",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  136.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "cMfsRtvzvDZZJ0TqeUOxm",
+                      "type":  "subtopic",
+                      "label":  "What is Rust?",
+                      "position":  {
+                                       "x":  9.861812728006498,
+                                       "y":  83.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ef-jFKMs8jw3Ti94jem96",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -187.22896441825404,
+                                       "y":  3284.899845583502
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "type":  "paragraph",
+                      "label":  "Continue learning with following roadmaps",
+                      "position":  {
+                                       "x":  -415.228964418254,
+                                       "y":  3181.7541881503926
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "StxLh1r3qXqyRSqfJGird",
+                      "type":  "button",
+                      "label":  "Backend",
+                      "position":  {
+                                       "x":  -403.62298223659093,
+                                       "y":  3235.899845583502
+                                   },
+                      "href":  "https://roadmap.sh/backend",
+                      "links":  null
+                  },
+                  {
+                      "id":  "OIcmPSbdsuWapb6HZ4BEi",
+                      "type":  "button",
+                      "label":  "DevOps",
+                      "position":  {
+                                       "x":  -167.6229822365909,
+                                       "y":  3235.899845583502
+                                   },
+                      "href":  "https://roadmap.sh/devops",
+                      "links":  null
+                  },
+                  {
+                      "id":  "VhSEH_RoWFt1z2lial7xZ",
+                      "type":  "subtopic",
+                      "label":  "Why use Rust?",
+                      "position":  {
+                                       "x":  173.04933185362654,
+                                       "y":  83.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "OSaXhs52pEviq0EpWXxVX",
+                      "type":  "label",
+                      "label":  "Environment Setup",
+                      "position":  {
+                                       "x":  100.54933185362654,
+                                       "y":  149.90454436142437
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "-IqA02ObYvXPW1ot6t_b9",
+                      "type":  "subtopic",
+                      "label":  "Installing Rust and Cargo",
+                      "position":  {
+                                       "x":  28.54933185362654,
+                                       "y":  192.90454436142437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "oyP1ZyOgDC4nYEQXHwdVQ",
+                      "type":  "subtopic",
+                      "label":  "IDEs and Rust Toolchains",
+                      "position":  {
+                                       "x":  28.54933185362654,
+                                       "y":  246.90454436142437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eYCNYtwXBjZwcPUe7QYZ-",
+                      "type":  "subtopic",
+                      "label":  "Rust REPL (Rust Playground)",
+                      "position":  {
+                                       "x":  28.54933185362654,
+                                       "y":  300.90454436142437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fqzj-7vQ3Chj0HlamBI2-",
+                      "type":  "vertical",
+                      "label":  "vertical node",
+                      "position":  {
+                                       "x":  -16.638187271993502,
+                                       "y":  83.4393516042962
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6E4pGifNfSAq6SbzfzFNT",
+                      "type":  "topic",
+                      "label":  "Language Basics",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  306.90454436142437
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fJH8kw4_0b2BDI1vozwY7",
+                      "type":  "label",
+                      "label":  "Syntax and Semantics",
+                      "position":  {
+                                       "x":  -624.9579568300146,
+                                       "y":  82.0310613003135
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "Gw5E21W5zis-RUIgNSEV2",
+                      "type":  "subtopic",
+                      "label":  "Variables, DataTypes and Constants",
+                      "position":  {
+                                       "x":  -692.9579568300146,
+                                       "y":  135.0310613003135
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "u2wlnmE1uLaTqWw35UF0a",
+                      "type":  "subtopic",
+                      "label":  "Control Flow and Constructs",
+                      "position":  {
+                                       "x":  -692.9579568300146,
+                                       "y":  192.03106130031347
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "5hKJaMKpeFEUi3S1Hpiyk",
+                      "type":  "subtopic",
+                      "label":  "Functions and Method Syntax",
+                      "position":  {
+                                       "x":  -692.9579568300146,
+                                       "y":  249.03106130031352
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yqp3UePmSlGyOYpxITis4",
+                      "type":  "subtopic",
+                      "label":  "Pattern Matching \u0026 Destructuring",
+                      "position":  {
+                                       "x":  -692.9579568300146,
+                                       "y":  306.0310613003135
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ok-T33GCsTCkB9ABDzCDG",
+                      "type":  "label",
+                      "label":  "Constructs",
+                      "position":  {
+                                       "x":  -585.2748410324898,
+                                       "y":  375.43935160429623
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "FswpjWqqt8-BzUTsDDjel",
+                      "type":  "subtopic",
+                      "label":  "Enums",
+                      "position":  {
+                                       "x":  -699.1322659713495,
+                                       "y":  425.88556487375047
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Mi9mQ-8gyDPd8Mbu1zuHt",
+                      "type":  "subtopic",
+                      "label":  "Structs",
+                      "position":  {
+                                       "x":  -469.1322659713495,
+                                       "y":  425.88556487375047
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SJMuIEuHp8X6nfLb0k0TU",
+                      "type":  "subtopic",
+                      "label":  "Traits",
+                      "position":  {
+                                       "x":  -593.1322659713495,
+                                       "y":  425.88556487375047
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HzWHDQZjA9OgVZEWrmhKf",
+                      "type":  "subtopic",
+                      "label":  "Impl Blocks",
+                      "position":  {
+                                       "x":  -699.1322659713495,
+                                       "y":  480.45434714576345
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LwSdC6ojcHe6z5TbudE4v",
+                      "type":  "label",
+                      "label":  "Data Structures",
+                      "position":  {
+                                       "x":  -603.7748410324898,
+                                       "y":  542.940529972459
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "FHZSxSiOZYNBEz6tu8wuF",
+                      "type":  "subtopic",
+                      "label":  "Integers",
+                      "position":  {
+                                       "x":  -697.9579568300147,
+                                       "y":  590.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bjwJCGMx5ZfrH7vz3eLS7",
+                      "type":  "subtopic",
+                      "label":  "Boolean",
+                      "position":  {
+                                       "x":  -467.1322659713495,
+                                       "y":  590.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "rNHHp1GgmRnKIYlZayi59",
+                      "type":  "subtopic",
+                      "label":  "Floats",
+                      "position":  {
+                                       "x":  -580.9579568300147,
+                                       "y":  590.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "dXMJb2wDmmh2jie1AnPoK",
+                      "type":  "subtopic",
+                      "label":  "Character",
+                      "position":  {
+                                       "x":  -697.9579568300147,
+                                       "y":  643.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "81_J7CwtUUjYPvKV_prg3",
+                      "type":  "subtopic",
+                      "label":  "Tuple",
+                      "position":  {
+                                       "x":  -467.1322659713495,
+                                       "y":  643.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Hu1jf46OpX44nam_UvYqc",
+                      "type":  "subtopic",
+                      "label":  "String",
+                      "position":  {
+                                       "x":  -575.9579568300147,
+                                       "y":  643.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2DbdHCjFzGHwCUETakaGh",
+                      "type":  "subtopic",
+                      "label":  "Array",
+                      "position":  {
+                                       "x":  -696.7836476886799,
+                                       "y":  696.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "JAgjrf5WDXiorZ6gFRzTc",
+                      "type":  "subtopic",
+                      "label":  "Hashmap",
+                      "position":  {
+                                       "x":  -485.1322659713495,
+                                       "y":  696.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PskCueCc9pSxfnSzfdX-u",
+                      "type":  "subtopic",
+                      "label":  "Vector",
+                      "position":  {
+                                       "x":  -592.7836476886799,
+                                       "y":  696.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "b1iYy4Hvkj47Q13V2HE4i",
+                      "type":  "subtopic",
+                      "label":  "Hashset",
+                      "position":  {
+                                       "x":  -696.7836476886799,
+                                       "y":  749.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iR0ewc2yURqS7bfMWfoBi",
+                      "type":  "subtopic",
+                      "label":  "LinkedList",
+                      "position":  {
+                                       "x":  -592.1322659713495,
+                                       "y":  749.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "B-S1hE-ofNTutnkc2hJBf",
+                      "type":  "subtopic",
+                      "label":  "Stack",
+                      "position":  {
+                                       "x":  -473.1322659713495,
+                                       "y":  749.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fq2NMV-QV9ayJl82ZWzov",
+                      "type":  "subtopic",
+                      "label":  "Queue",
+                      "position":  {
+                                       "x":  -696.7836476886799,
+                                       "y":  803.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jdndHBzmdgI6uYql6bO4W",
+                      "type":  "subtopic",
+                      "label":  "Binary Heap",
+                      "position":  {
+                                       "x":  -592.1322659713495,
+                                       "y":  803.2888446606187
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "jfdA_UG-Fm_3nQzrAbVv2",
+                      "type":  "label",
+                      "label":  "Ownsership System",
+                      "position":  {
+                                       "x":  -617.2748410324898,
+                                       "y":  869.3984712635258
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "2UQ3AuGkDbT0-54l0rOGM",
+                      "type":  "subtopic",
+                      "label":  "Ownsership Rules \u0026 Memory Safety",
+                      "position":  {
+                                       "x":  -698.2748410324898,
+                                       "y":  912.3984712635258
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-onH5vPffdcZFjjVcnEpk",
+                      "type":  "subtopic",
+                      "label":  "Borrowing, References and Slices",
+                      "position":  {
+                                       "x":  -698.2748410324898,
+                                       "y":  965.8111648956035
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UdXq0H8599cDTKXaIlPqt",
+                      "type":  "subtopic",
+                      "label":  "Deep Dive: Stack vs Heap",
+                      "position":  {
+                                       "x":  -698.2748410324898,
+                                       "y":  1018.9210950930203
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HpItJIkCXXiVOXO58si4G",
+                      "type":  "label",
+                      "label":  "Advanced Topics",
+                      "position":  {
+                                       "x":  -604.7748410324898,
+                                       "y":  1086.6456624104587
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "LWgaZWTJVWLDes3HzflRh",
+                      "type":  "subtopic",
+                      "label":  "BTreeMap",
+                      "position":  {
+                                       "x":  -697.9579568300147,
+                                       "y":  1130.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "FsyLYRQP_rs4qL7IAj9Mo",
+                      "type":  "subtopic",
+                      "label":  "BTreeSet",
+                      "position":  {
+                                       "x":  -588.9579568300147,
+                                       "y":  1130.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "U9Bd-GO0QwYVLvESR4PTb",
+                      "type":  "subtopic",
+                      "label":  "RC",
+                      "position":  {
+                                       "x":  -698.3544650366164,
+                                       "y":  1236.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yYmV5qkldu0FkDhOhWOXs",
+                      "type":  "subtopic",
+                      "label":  "Arc",
+                      "position":  {
+                                       "x":  -589.3544650366164,
+                                       "y":  1236.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GbbeV3r27IBEKHyiyLqs6",
+                      "type":  "subtopic",
+                      "label":  "Mutex",
+                      "position":  {
+                                       "x":  -479.9579568300147,
+                                       "y":  1130.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WzGl4DkANjUu7VC1AIWI-",
+                      "type":  "subtopic",
+                      "label":  "RwLock",
+                      "position":  {
+                                       "x":  -698.3544650366164,
+                                       "y":  1183.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3nXJg5Y4SUug_dEAj0eQm",
+                      "type":  "subtopic",
+                      "label":  "Channels",
+                      "position":  {
+                                       "x":  -536.3544650366164,
+                                       "y":  1183.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "X2gB0m-ZKSC4TJyIcwsMx",
+                      "type":  "topic",
+                      "label":  "Error Handling",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  458.9114782175309
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "wQHkBydWsiGEOZMdKmz40",
+                      "type":  "subtopic",
+                      "label":  "Option and Result Enumerations",
+                      "position":  {
+                                       "x":  12.937754956556319,
+                                       "y":  405.9114782175308
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pTC1ucmErVnMbNFnYLJK7",
+                      "type":  "subtopic",
+                      "label":  "Propagating Errors and `?` Operator",
+                      "position":  {
+                                       "x":  12.937754956556319,
+                                       "y":  458.9114782175309
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LwqOxYY9E9MUDgz2M40uV",
+                      "type":  "subtopic",
+                      "label":  "Custom Error Types and Traits",
+                      "position":  {
+                                       "x":  12.937754956556319,
+                                       "y":  511.9114782175309
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Zpowr_NGd-E2DC3g-oW9h",
+                      "type":  "topic",
+                      "label":  "Modules \u0026 Crates",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  650.6235753518292
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "c_SdccEXEJyh4ymWzvCeX",
+                      "type":  "subtopic",
+                      "label":  "Code Organization \u0026 Namespacing",
+                      "position":  {
+                                       "x":  12.937754956556319,
+                                       "y":  597.6235753518292
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "PkePVzV-b1pgFJP5xID5_",
+                      "type":  "subtopic",
+                      "label":  "Dependency Management with Cargo",
+                      "position":  {
+                                       "x":  12.937754956556319,
+                                       "y":  650.6235753518292
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Op0-bdMV3kE9Be6Ot1aC6",
+                      "type":  "subtopic",
+                      "label":  "Publishing on Crates.io",
+                      "position":  {
+                                       "x":  12.937754956556319,
+                                       "y":  703.6235753518292
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pehYc_xLrs6BFUbcpPTiJ",
+                      "type":  "topic",
+                      "label":  "Concurrency \u0026 Parallelism",
+                      "position":  {
+                                       "x":  93.93775495655632,
+                                       "y":  1099.8111648956035
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pJN260pWQVO0gHxi1-_3U",
+                      "type":  "subtopic",
+                      "label":  "Threads, Channels and Message Passing",
+                      "position":  {
+                                       "x":  -15.19003022483139,
+                                       "y":  1185.0353435831921
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n1Epl_nBuoXW2OE0IKYVR",
+                      "type":  "subtopic",
+                      "label":  "Atomic Operations \u0026 Memory Barriers",
+                      "position":  {
+                                       "x":  -15.19003022483139,
+                                       "y":  1238.0353435831921
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "kVfBbsOHoixvqb4dYTG3Q",
+                      "type":  "subtopic",
+                      "label":  "Futures and Async/Await Paradigm",
+                      "position":  {
+                                       "x":  -15.19003022483139,
+                                       "y":  1291.0353435831921
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "08qKtgnhJ3tlb5JKfTDf5",
+                      "type":  "topic",
+                      "label":  "Testing",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  859.0473987256978
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w9coeW9-crDxu0KC-9gEU",
+                      "type":  "subtopic",
+                      "label":  "Unit \u0026 Integration Testing",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  947.7024216855308
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "HEqfA6An6ZeT3z4R610en",
+                      "type":  "subtopic",
+                      "label":  "Mocking \u0026 Property Based Testing",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  1005.7024216855308
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "zLKbYX0nnbfD5n3P_JRaS",
+                      "type":  "topic",
+                      "label":  "Traits \u0026 Generics",
+                      "position":  {
+                                       "x":  -278.81180589576024,
+                                       "y":  1430.339181586816
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_EicstELZcdesHiXFWJGu",
+                      "type":  "subtopic",
+                      "label":  "Trait Definitions \u0026 Implementations",
+                      "position":  {
+                                       "x":  -15.19003022483139,
+                                       "y":  1377.339181586816
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "pRDgDtRIVpNM2CdhSOS3Q",
+                      "type":  "subtopic",
+                      "label":  "Trait Bounds and Associated Types",
+                      "position":  {
+                                       "x":  -15.19003022483139,
+                                       "y":  1430.339181586816
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_hxwo_iAdOwlWBltv7i6i",
+                      "type":  "subtopic",
+                      "label":  "Generics \u0026 Type-Level Programming",
+                      "position":  {
+                                       "x":  -15.19003022483139,
+                                       "y":  1483.339181586816
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UZ56NKloehcxUFNuSeO19",
+                      "type":  "topic",
+                      "label":  "Lifetimes \u0026 Borrow Checker",
+                      "position":  {
+                                       "x":  84.61996452082155,
+                                       "y":  1622.0231760223057
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "R5HIVS-lyCp9b46aXqx2m",
+                      "type":  "subtopic",
+                      "label":  "Explicit Lifetime Annotations",
+                      "position":  {
+                                       "x":  -7.380035479178417,
+                                       "y":  1718.8152557429603
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qJI8GObmsxyc_tTtUEOAd",
+                      "type":  "subtopic",
+                      "label":  "Lifetime Elision Rules",
+                      "position":  {
+                                       "x":  -7.380035479178417,
+                                       "y":  1771.8152557429603
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7yVvMnvCvLbFa51pESx0j",
+                      "type":  "subtopic",
+                      "label":  "Covariant \u0026 Contravariant Lifetimes",
+                      "position":  {
+                                       "x":  -7.380035479178417,
+                                       "y":  1824.8152557429603
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "eTpZXd8E2jVBmk_aSLZYV",
+                      "type":  "topic",
+                      "label":  "Macros \u0026 Metaprogramming",
+                      "position":  {
+                                       "x":  -685.2748410324898,
+                                       "y":  1634.2461547010141
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AXWXXsww7Xkl3BYgtThNe",
+                      "type":  "subtopic",
+                      "label":  "Declarative Macros with macro_rules!",
+                      "position":  {
+                                       "x":  -709.7748410324898,
+                                       "y":  1417.8063556289276
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "bkVM1OIbv4XUpY6FQb8x_",
+                      "type":  "subtopic",
+                      "label":  "Procedural Macros \u0026 Custom Derive",
+                      "position":  {
+                                       "x":  -709.7748410324898,
+                                       "y":  1474.8063556289276
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Kb7KF7JCMaWFz-GuaQmQV",
+                      "type":  "subtopic",
+                      "label":  "Domain Specific Languages (DSLs)",
+                      "position":  {
+                                       "x":  -709.7748410324898,
+                                       "y":  1533.339181586816
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "KomYBYxj0FTrJDYB3nU5B",
+                      "type":  "topic",
+                      "label":  "Web Development",
+                      "position":  {
+                                       "x":  -685.2748410324898,
+                                       "y":  1904.2497741109262
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "VLKEl_NCu9JEA9qAQYm_a",
+                      "type":  "label",
+                      "label":  "Ecosystem and Libraries",
+                      "position":  {
+                                       "x":  -662.7748410324898,
+                                       "y":  1767.8152557429603
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "duQ1RO1lqq793mfb5w31P",
+                      "type":  "subtopic",
+                      "label":  "Axum",
+                      "position":  {
+                                       "x":  -298.047381647763,
+                                       "y":  1850.289316122862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3Y90v2ysoMcyjDL24H7mC",
+                      "type":  "subtopic",
+                      "label":  "Actix",
+                      "position":  {
+                                       "x":  -174.20827066407475,
+                                       "y":  1850.289316122862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "n5t3MUqmvrcr36VIIOw0u",
+                      "type":  "subtopic",
+                      "label":  "Leptos",
+                      "position":  {
+                                       "x":  -298.047381647763,
+                                       "y":  1903.289316122862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "GnSBtZoN9mAehRf5Eczng",
+                      "type":  "subtopic",
+                      "label":  "Loco",
+                      "position":  {
+                                       "x":  -174.20827066407475,
+                                       "y":  1903.289316122862
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ApjwY_70OGG_dNIC85oBD",
+                      "type":  "subtopic",
+                      "label":  "Rocket",
+                      "position":  {
+                                       "x":  -298.047381647763,
+                                       "y":  1956.2893161228621
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "yu0f5gALho0e8wzV10yow",
+                      "type":  "topic",
+                      "label":  "Asynchronous Programming",
+                      "position":  {
+                                       "x":  -685.2748410324898,
+                                       "y":  2119.550309464411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "H0mctp3Bj2OYfIGFDWGfz",
+                      "type":  "subtopic",
+                      "label":  "Tokio",
+                      "position":  {
+                                       "x":  -684.3727988204032,
+                                       "y":  2200.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_2uQInXPdOY-DpYTO1Prt",
+                      "type":  "subtopic",
+                      "label":  "async-std",
+                      "position":  {
+                                       "x":  -603.7748410324898,
+                                       "y":  2200.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "3C9gCBAq3OQVb583S72D4",
+                      "type":  "subtopic",
+                      "label":  "smol",
+                      "position":  {
+                                       "x":  -478.1768832445764,
+                                       "y":  2200.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "0pcBebcTENRVf9F-ClydB",
+                      "type":  "label",
+                      "label":  "Personal recommendation: Axum",
+                      "position":  {
+                                       "x":  -310.547381647763,
+                                       "y":  2011.550309464411
+                                   },
+                      "href":  "",
+                      "links":  null
+                  },
+                  {
+                      "id":  "3pL0ARqk8uRNimopHSalW",
+                      "type":  "topic",
+                      "label":  "Networking",
+                      "position":  {
+                                       "x":  -310.6381872719935,
+                                       "y":  2119.550309464411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TtajUXZpyNx9AmdUawm-8",
+                      "type":  "subtopic",
+                      "label":  "reqwest",
+                      "position":  {
+                                       "x":  -310.6381872719935,
+                                       "y":  2200.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "-MiN5ytI43EjgmWV55BhU",
+                      "type":  "subtopic",
+                      "label":  "hyper",
+                      "position":  {
+                                       "x":  -214.81180589576024,
+                                       "y":  2200.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qi1pmsY8bPk8nbHiBIGha",
+                      "type":  "subtopic",
+                      "label":  "quinn",
+                      "position":  {
+                                       "x":  -134.1381872719935,
+                                       "y":  2200.559081382036
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "gcmKSLWfBqx4aPZOmyQsg",
+                      "type":  "topic",
+                      "label":  "Serialization / Deserialization",
+                      "position":  {
+                                       "x":  44.58542331133776,
+                                       "y":  2119.550309464411
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EHErECEYws05oi59OsZpC",
+                      "type":  "subtopic",
+                      "label":  "Serde",
+                      "position":  {
+                                       "x":  43.80188117353809,
+                                       "y":  2036.4195482899893
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ZXMKY0f7mqqlsvyH9u-LM",
+                      "type":  "subtopic",
+                      "label":  "json-rust",
+                      "position":  {
+                                       "x":  117.80188117353809,
+                                       "y":  2036.4195482899893
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LmFog_qXrS9e5ARhV6OD_",
+                      "type":  "subtopic",
+                      "label":  "toml-rust",
+                      "position":  {
+                                       "x":  234.8018811735381,
+                                       "y":  2036.4195482899893
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_n7emeqzf5UTxVB5-385G",
+                      "type":  "topic",
+                      "label":  "Database and ORM",
+                      "position":  {
+                                       "x":  47.08542331133776,
+                                       "y":  2307.7971773974164
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UAXpBK3lfnq0Q4RcBehZ1",
+                      "type":  "subtopic",
+                      "label":  "Diesel",
+                      "position":  {
+                                       "x":  52.58542331133775,
+                                       "y":  2389.2245540941813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "r2KembNZ2WIzLe87EB91K",
+                      "type":  "subtopic",
+                      "label":  "sqlx",
+                      "position":  {
+                                       "x":  147.58542331133776,
+                                       "y":  2389.2245540941813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "a2MLN7f-FvsgdmvP9ixlv",
+                      "type":  "subtopic",
+                      "label":  "rusqlite",
+                      "position":  {
+                                       "x":  252.58542331133776,
+                                       "y":  2389.2245540941813
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Rv_Z-rbtELPZ1Nv0PZQmV",
+                      "type":  "topic",
+                      "label":  "Cryptography",
+                      "position":  {
+                                       "x":  -300.6381872719935,
+                                       "y":  2307.7971773974164
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "f68x7r-qzaQfrzXnjOI2q",
+                      "type":  "subtopic",
+                      "label":  "rust-crypto",
+                      "position":  {
+                                       "x":  -176.5205479375233,
+                                       "y":  2392.7871651675737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "hzzRFb5cyXkgUdLZxaozB",
+                      "type":  "subtopic",
+                      "label":  "sodiumoxide",
+                      "position":  {
+                                       "x":  -300.6381872719935,
+                                       "y":  2445.7871651675737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w8nxQDxmfoUHkFV66TKiq",
+                      "type":  "subtopic",
+                      "label":  "ring",
+                      "position":  {
+                                       "x":  -298.8175069304428,
+                                       "y":  2392.7871651675737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Zyyf9q_CxmOW-z2pipL8",
+                      "type":  "topic",
+                      "label":  "CLI Utilities",
+                      "position":  {
+                                       "x":  -707.7748410324898,
+                                       "y":  2515.491272000084
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "AId80IokM7NvGBVutmuGC",
+                      "type":  "subtopic",
+                      "label":  "clap",
+                      "position":  {
+                                       "x":  -506.45066814637346,
+                                       "y":  2424.1458411437447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "_43912wPdXgLL8v-IMHX_",
+                      "type":  "subtopic",
+                      "label":  "structopt",
+                      "position":  {
+                                       "x":  -712.1322659713495,
+                                       "y":  2428.1458411437447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "YS0igALDqSanGDWva_vls",
+                      "type":  "subtopic",
+                      "label":  "termion",
+                      "position":  {
+                                       "x":  -712.1322659713495,
+                                       "y":  2375.1458411437447
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uG-EmZVZ-jc3mswOT4-7l",
+                      "type":  "topic",
+                      "label":  "Game Development",
+                      "position":  {
+                                       "x":  -707.7748410324898,
+                                       "y":  2662.047621690988
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "uyrGki0jB7DXQ0HJe2-vY",
+                      "type":  "subtopic",
+                      "label":  "bevy",
+                      "position":  {
+                                       "x":  -711.2922976896841,
+                                       "y":  2743.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "x9bmK_cLYpX0ebwjZUn4R",
+                      "type":  "subtopic",
+                      "label":  "fyrox",
+                      "position":  {
+                                       "x":  -616.9348727508243,
+                                       "y":  2743.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "qquYnrrzUlyd8738jzj1D",
+                      "type":  "subtopic",
+                      "label":  "ggez",
+                      "position":  {
+                                       "x":  -512.5774478119645,
+                                       "y":  2743.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "EtKhe3lgK3NoiBOjXRb2O",
+                      "type":  "subtopic",
+                      "label":  "macroquad",
+                      "position":  {
+                                       "x":  -712.1322659713495,
+                                       "y":  2797.530453988514
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "6wGShK9WEnXiby_Jm8sTO",
+                      "type":  "subtopic",
+                      "label":  "wgpu-rs",
+                      "position":  {
+                                       "x":  -555.6322659713495,
+                                       "y":  2797.530453988514
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "T1LlJz5m5wnwBvKAEuGnP",
+                      "type":  "topic",
+                      "label":  "GUI Development",
+                      "position":  {
+                                       "x":  -300.6381872719935,
+                                       "y":  2662.047621690988
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "Q71MnFDQBkZF1c2hj13pU",
+                      "type":  "subtopic",
+                      "label":  "tauri",
+                      "position":  {
+                                       "x":  -299.0874712538206,
+                                       "y":  2526.215607689768
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "2Zp3m3Y7j6R1hK3DIVdkH",
+                      "type":  "subtopic",
+                      "label":  "gtk-rs",
+                      "position":  {
+                                       "x":  -176.08747125382058,
+                                       "y":  2526.215607689768
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "QbdGnUoTLgMHO1NCQINIi",
+                      "type":  "subtopic",
+                      "label":  "Iced",
+                      "position":  {
+                                       "x":  -298.047381647763,
+                                       "y":  2579.215607689768
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "RKXljexmLAceMYwg4D_uP",
+                      "type":  "topic",
+                      "label":  "Embedded and Systems",
+                      "position":  {
+                                       "x":  51.58542331133775,
+                                       "y":  2662.047621690988
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "LzaO2cpDajXERqEYDjMl_",
+                      "type":  "subtopic",
+                      "label":  "embedded-hal",
+                      "position":  {
+                                       "x":  53.80188117353809,
+                                       "y":  2524.7871651675737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "L01rVq2_H4rWzlKygW5kA",
+                      "type":  "subtopic",
+                      "label":  "rppal",
+                      "position":  {
+                                       "x":  53.649415377168324,
+                                       "y":  2577.7871651675737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ETYrk0s5Wn80XyntNG_t1",
+                      "type":  "subtopic",
+                      "label":  "nrf-hal",
+                      "position":  {
+                                       "x":  195.58542331133776,
+                                       "y":  2577.7871651675737
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "fusu4ZHH4-cjoouLr4F9U",
+                      "type":  "topic",
+                      "label":  "WebAssembly (WASM)",
+                      "position":  {
+                                       "x":  51.58542331133776,
+                                       "y":  2817.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "SUtBBqqDeR_yAkr669ZvE",
+                      "type":  "subtopic",
+                      "label":  "wasm-bindgen",
+                      "position":  {
+                                       "x":  -212.20827066407475,
+                                       "y":  2870.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "TSlj7mMUB5CDTy8uMFzKV",
+                      "type":  "subtopic",
+                      "label":  "wasm-pack",
+                      "position":  {
+                                       "x":  -212.20827066407475,
+                                       "y":  2764.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "iyFHvZj_ntr_dX6WlL4E1",
+                      "type":  "subtopic",
+                      "label":  "wasmer",
+                      "position":  {
+                                       "x":  -212.20827066407475,
+                                       "y":  2817.435641912534
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "7YKWYxogJq6X35IAUwcZF",
+                      "type":  "topic",
+                      "label":  "Debugging",
+                      "position":  {
+                                       "x":  51.58542331133776,
+                                       "y":  2977.8309893419987
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "UkHXsAolmbk-MsJFfqObC",
+                      "type":  "subtopic",
+                      "label":  "rust-gdb",
+                      "position":  {
+                                       "x":  53.649415377168324,
+                                       "y":  3052.599323692896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "p1w1iljGABgHoJjIRJYLY",
+                      "type":  "subtopic",
+                      "label":  "rust-lldb",
+                      "position":  {
+                                       "x":  190.58542331133776,
+                                       "y":  3052.599323692896
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "65nbahPj9qAb9y8dF8Jnd",
+                      "type":  "topic",
+                      "label":  "Documenting with `rustdoc`",
+                      "position":  {
+                                       "x":  -304.228964418254,
+                                       "y":  2977.8309893419987
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "WduD9VIcYSs_JTnuMNyxk",
+                      "type":  "topic",
+                      "label":  "Performance and Profiling",
+                      "position":  {
+                                       "x":  -691.4506681463735,
+                                       "y":  2977.8309893419987
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "clQ26LFV_9AdQ4evnaxUK",
+                      "type":  "subtopic",
+                      "label":  "Criterion.rs",
+                      "position":  {
+                                       "x":  -636.9506681463735,
+                                       "y":  2887.6225810425703
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "w_rUaBorHFOY74S0JiEwM",
+                      "type":  "linksgroup",
+                      "label":  "Related Roadmaps",
+                      "position":  {
+                                       "x":  -710.4579568300146,
+                                       "y":  -148.2948532825934
+                                   },
+                      "href":  null,
+                      "links":  [
+                                    {
+                                        "id":  "CVNNr97eZmGVFZyNVmR9b",
+                                        "label":  "Backend Roadmap",
+                                        "href":  "",
+                                        "url":  "https://roadmap.sh/backend"
+                                    },
+                                    {
+                                        "id":  "GoM0EsaFMzWViwio3BucA",
+                                        "label":  "DevOps Roadmap",
+                                        "url":  "https://roadmap.sh/devops"
+                                    },
+                                    {
+                                        "id":  "EW8A9X-9ELclN0pdvRE1G",
+                                        "label":  "Go Roadmap",
+                                        "url":  "https://roadmap.sh/golang"
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "yHmHXymPNWwu8p1vvqD3o",
+                      "type":  "paragraph",
+                      "label":  "Find the detailed version of this roadmap along with other similar roadmaps",
+                      "position":  {
+                                       "x":  -12.012490518229754,
+                                       "y":  -142.45354709361837
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "ktU7bNX3hu-_hTFE1CjrM",
+                      "type":  "button",
+                      "label":  "roadmap.sh",
+                      "position":  {
+                                       "x":  1.6120216950133681,
+                                       "y":  -60.83998521803062
+                                   },
+                      "href":  "https://roadmap.sh",
+                      "links":  null
+                  },
+                  {
+                      "id":  "WjpkWH7f38y-bHUJ6ruGG",
+                      "type":  "subtopic",
+                      "label":  "Box",
+                      "position":  {
+                                       "x":  -480.3544650366164,
+                                       "y":  1236.2144446824718
+                                   },
+                      "href":  null,
+                      "links":  null
+                  },
+                  {
+                      "id":  "sK2pHK0iTvL3KdTTFCr0Y",
+                      "type":  "subtopic",
+                      "label":  "GPUI",
+                      "position":  {
+                                       "x":  -175.04738164776302,
+                                       "y":  2579.215607689768
+                                   },
+                      "href":  null,
+                      "links":  null
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "xy-edge__HU7wZWiES3m3xl1-NYP6Fx2-08qKtgnhJ3tlb5JKfTDf5w1",
+                      "source":  "HU7wZWiES3m3xl1-NYP6F",
+                      "target":  "4U-HZQGH7kaWCB94Xy8Mh",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__4U-HZQGH7kaWCB94Xy8Mhx2-08qKtgnhJ3tlb5JKfTDf5w2",
+                      "source":  "4U-HZQGH7kaWCB94Xy8Mh",
+                      "target":  "6E4pGifNfSAq6SbzfzFNT",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__6E4pGifNfSAq6SbzfzFNTx2-08qKtgnhJ3tlb5JKfTDf5w2",
+                      "source":  "6E4pGifNfSAq6SbzfzFNT",
+                      "target":  "X2gB0m-ZKSC4TJyIcwsMx",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__08qKtgnhJ3tlb5JKfTDf5z2-pTC1ucmErVnMbNFnYLJK7y1",
+                      "source":  "X2gB0m-ZKSC4TJyIcwsMx",
+                      "target":  "pTC1ucmErVnMbNFnYLJK7",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__08qKtgnhJ3tlb5JKfTDf5z2-LwqOxYY9E9MUDgz2M40uVy1",
+                      "source":  "X2gB0m-ZKSC4TJyIcwsMx",
+                      "target":  "LwqOxYY9E9MUDgz2M40uV",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__08qKtgnhJ3tlb5JKfTDf5z2-wQHkBydWsiGEOZMdKmz40y1",
+                      "source":  "X2gB0m-ZKSC4TJyIcwsMx",
+                      "target":  "wQHkBydWsiGEOZMdKmz40",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__X2gB0m-ZKSC4TJyIcwsMxx2-08qKtgnhJ3tlb5JKfTDf5w2",
+                      "source":  "X2gB0m-ZKSC4TJyIcwsMx",
+                      "target":  "Zpowr_NGd-E2DC3g-oW9h",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__08qKtgnhJ3tlb5JKfTDf5z2-PkePVzV-b1pgFJP5xID5_y2",
+                      "source":  "Zpowr_NGd-E2DC3g-oW9h",
+                      "target":  "PkePVzV-b1pgFJP5xID5_",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__08qKtgnhJ3tlb5JKfTDf5z2-c_SdccEXEJyh4ymWzvCeXy1",
+                      "source":  "Zpowr_NGd-E2DC3g-oW9h",
+                      "target":  "c_SdccEXEJyh4ymWzvCeX",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__08qKtgnhJ3tlb5JKfTDf5z2-Op0-bdMV3kE9Be6Ot1aC6y1",
+                      "source":  "Zpowr_NGd-E2DC3g-oW9h",
+                      "target":  "Op0-bdMV3kE9Be6Ot1aC6",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__08qKtgnhJ3tlb5JKfTDf5z2-eTpZXd8E2jVBmk_aSLZYVw1",
+                      "source":  "08qKtgnhJ3tlb5JKfTDf5",
+                      "target":  "pehYc_xLrs6BFUbcpPTiJ",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__pehYc_xLrs6BFUbcpPTiJy2-eTpZXd8E2jVBmk_aSLZYVw1",
+                      "source":  "pehYc_xLrs6BFUbcpPTiJ",
+                      "target":  "zLKbYX0nnbfD5n3P_JRaS",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__zLKbYX0nnbfD5n3P_JRaSz2-pRDgDtRIVpNM2CdhSOS3Qy2",
+                      "source":  "zLKbYX0nnbfD5n3P_JRaS",
+                      "target":  "pRDgDtRIVpNM2CdhSOS3Q",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__zLKbYX0nnbfD5n3P_JRaSz2-_EicstELZcdesHiXFWJGuy1",
+                      "source":  "zLKbYX0nnbfD5n3P_JRaS",
+                      "target":  "_EicstELZcdesHiXFWJGu",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__zLKbYX0nnbfD5n3P_JRaSz2-_hxwo_iAdOwlWBltv7i6iy1",
+                      "source":  "zLKbYX0nnbfD5n3P_JRaS",
+                      "target":  "_hxwo_iAdOwlWBltv7i6i",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__eTpZXd8E2jVBmk_aSLZYVw2-Kb7KF7JCMaWFz-GuaQmQVx1",
+                      "source":  "eTpZXd8E2jVBmk_aSLZYV",
+                      "target":  "Kb7KF7JCMaWFz-GuaQmQV",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__WduD9VIcYSs_JTnuMNyxkz2-n5t3MUqmvrcr36VIIOw0uy2",
+                      "source":  "KomYBYxj0FTrJDYB3nU5B",
+                      "target":  "n5t3MUqmvrcr36VIIOw0u",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y2"
+                  },
+                  {
+                      "id":  "xy-edge__WduD9VIcYSs_JTnuMNyxkz2-duQ1RO1lqq793mfb5w31Py1",
+                      "source":  "KomYBYxj0FTrJDYB3nU5B",
+                      "target":  "duQ1RO1lqq793mfb5w31P",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__WduD9VIcYSs_JTnuMNyxkz2-ApjwY_70OGG_dNIC85oBDy1",
+                      "source":  "KomYBYxj0FTrJDYB3nU5B",
+                      "target":  "ApjwY_70OGG_dNIC85oBD",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__KomYBYxj0FTrJDYB3nU5Bx2-WduD9VIcYSs_JTnuMNyxkw2",
+                      "source":  "KomYBYxj0FTrJDYB3nU5B",
+                      "target":  "yu0f5gALho0e8wzV10yow",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__yu0f5gALho0e8wzV10yowz2-WduD9VIcYSs_JTnuMNyxky1",
+                      "source":  "yu0f5gALho0e8wzV10yow",
+                      "target":  "3pL0ARqk8uRNimopHSalW",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__3pL0ARqk8uRNimopHSalWz2-WduD9VIcYSs_JTnuMNyxky1",
+                      "source":  "3pL0ARqk8uRNimopHSalW",
+                      "target":  "gcmKSLWfBqx4aPZOmyQsg",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__gcmKSLWfBqx4aPZOmyQsgx2-WduD9VIcYSs_JTnuMNyxkw1",
+                      "source":  "gcmKSLWfBqx4aPZOmyQsg",
+                      "target":  "_n7emeqzf5UTxVB5-385G",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge___n7emeqzf5UTxVB5-385Gy2-WduD9VIcYSs_JTnuMNyxkz1",
+                      "source":  "_n7emeqzf5UTxVB5-385G",
+                      "target":  "Rv_Z-rbtELPZ1Nv0PZQmV",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__Rv_Z-rbtELPZ1Nv0PZQmVy2-WduD9VIcYSs_JTnuMNyxkw1",
+                      "source":  "Rv_Z-rbtELPZ1Nv0PZQmV",
+                      "target":  "2Zyyf9q_CxmOW-z2pipL8",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__2Zyyf9q_CxmOW-z2pipL8x2-WduD9VIcYSs_JTnuMNyxkw2",
+                      "source":  "2Zyyf9q_CxmOW-z2pipL8",
+                      "target":  "uG-EmZVZ-jc3mswOT4-7l",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__uG-EmZVZ-jc3mswOT4-7lz2-WduD9VIcYSs_JTnuMNyxky1",
+                      "source":  "uG-EmZVZ-jc3mswOT4-7l",
+                      "target":  "T1LlJz5m5wnwBvKAEuGnP",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__T1LlJz5m5wnwBvKAEuGnPz2-WduD9VIcYSs_JTnuMNyxky1",
+                      "source":  "T1LlJz5m5wnwBvKAEuGnP",
+                      "target":  "RKXljexmLAceMYwg4D_uP",
+                      "sourceHandle":  "z2",
+                      "targetHandle":  "y1"
+                  },
+                  {
+                      "id":  "xy-edge__RKXljexmLAceMYwg4D_uPx2-WduD9VIcYSs_JTnuMNyxkw1",
+                      "source":  "RKXljexmLAceMYwg4D_uP",
+                      "target":  "fusu4ZHH4-cjoouLr4F9U",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__WduD9VIcYSs_JTnuMNyxky2-iyFHvZj_ntr_dX6WlL4E1z1",
+                      "source":  "fusu4ZHH4-cjoouLr4F9U",
+                      "target":  "iyFHvZj_ntr_dX6WlL4E1",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__WduD9VIcYSs_JTnuMNyxky2-TSlj7mMUB5CDTy8uMFzKVz2",
+                      "source":  "fusu4ZHH4-cjoouLr4F9U",
+                      "target":  "TSlj7mMUB5CDTy8uMFzKV",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z2"
+                  },
+                  {
+                      "id":  "xy-edge__WduD9VIcYSs_JTnuMNyxky2-SUtBBqqDeR_yAkr669ZvEz1",
+                      "source":  "fusu4ZHH4-cjoouLr4F9U",
+                      "target":  "SUtBBqqDeR_yAkr669ZvE",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__fusu4ZHH4-cjoouLr4F9Ux2-WduD9VIcYSs_JTnuMNyxkw2",
+                      "source":  "fusu4ZHH4-cjoouLr4F9U",
+                      "target":  "7YKWYxogJq6X35IAUwcZF",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w2"
+                  },
+                  {
+                      "id":  "xy-edge__7YKWYxogJq6X35IAUwcZFy2-WduD9VIcYSs_JTnuMNyxkz1",
+                      "source":  "7YKWYxogJq6X35IAUwcZF",
+                      "target":  "65nbahPj9qAb9y8dF8Jnd",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__65nbahPj9qAb9y8dF8Jndy2-WduD9VIcYSs_JTnuMNyxkz1",
+                      "source":  "65nbahPj9qAb9y8dF8Jnd",
+                      "target":  "WduD9VIcYSs_JTnuMNyxk",
+                      "sourceHandle":  "y2",
+                      "targetHandle":  "z1"
+                  },
+                  {
+                      "id":  "xy-edge__WduD9VIcYSs_JTnuMNyxkw2-clQ26LFV_9AdQ4evnaxUKx1",
+                      "source":  "WduD9VIcYSs_JTnuMNyxk",
+                      "target":  "clQ26LFV_9AdQ4evnaxUK",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x1"
+                  },
+                  {
+                      "id":  "xy-edge__65nbahPj9qAb9y8dF8Jndx2-0vLaVNJaJSHZ_bHli6Qzsw1",
+                      "source":  "65nbahPj9qAb9y8dF8Jnd",
+                      "target":  "0vLaVNJaJSHZ_bHli6Qzs",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__eTpZXd8E2jVBmk_aSLZYVx2-VLKEl_NCu9JEA9qAQYm_aw1",
+                      "source":  "eTpZXd8E2jVBmk_aSLZYV",
+                      "target":  "VLKEl_NCu9JEA9qAQYm_a",
+                      "sourceHandle":  "x2",
+                      "targetHandle":  "w1"
+                  },
+                  {
+                      "id":  "xy-edge__KomYBYxj0FTrJDYB3nU5Bw2-VLKEl_NCu9JEA9qAQYm_ax2",
+                      "source":  "KomYBYxj0FTrJDYB3nU5B",
+                      "target":  "VLKEl_NCu9JEA9qAQYm_a",
+                      "sourceHandle":  "w2",
+                      "targetHandle":  "x2"
+                  }
+              ]
+}

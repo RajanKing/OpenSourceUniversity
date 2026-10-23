@@ -1,0 +1,4791 @@
+[
+    {
+        "id":  "v5FGKQc-_7NYEsWjmTEuq",
+        "label":  "Learn a Programming Language",
+        "endpoint":  "https://roadmap.sh/devops/topic@v5FGKQc-_7NYEsWjmTEuq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Guide to Picking a Language for DevOps",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/programming-language-for-devops"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TwVfCYMS9jSaJ6UyYmC-K",
+        "label":  "Python",
+        "endpoint":  "https://roadmap.sh/devops/topic@TwVfCYMS9jSaJ6UyYmC-K.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Python Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/python"
+                          },
+                          {
+                              "title":  "Python Website",
+                              "type":  "official",
+                              "url":  "https://www.python.org/"
+                          },
+                          {
+                              "title":  "Python Crash Course",
+                              "type":  "article",
+                              "url":  "https://ehmatthes.github.io/pcc_3e/"
+                          },
+                          {
+                              "title":  "Python Full Course for free",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ix9cRaBkVe0"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Python Programming Fundamentals",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/R0D1JR"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PuXAPYA0bsMgwcnlwJxQn",
+        "label":  "Ruby",
+        "endpoint":  "https://roadmap.sh/devops/topic@PuXAPYA0bsMgwcnlwJxQn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Ruby Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/ruby"
+                          },
+                          {
+                              "title":  "Ruby Website",
+                              "type":  "official",
+                              "url":  "https://www.ruby-lang.org/en/"
+                          },
+                          {
+                              "title":  "Learn Ruby in 20 minutes",
+                              "type":  "official",
+                              "url":  "https://www.ruby-lang.org/en/documentation/quickstart/"
+                          },
+                          {
+                              "title":  "Ruby Programming Crash Course",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=w9yNsTAp-Mg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "npnMwSDEK2aLGgnuZZ4dO",
+        "label":  "Go",
+        "endpoint":  "https://roadmap.sh/devops/topic@npnMwSDEK2aLGgnuZZ4dO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Go Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/golang"
+                          },
+                          {
+                              "title":  "A Tour of Go – Go Basics",
+                              "type":  "official",
+                              "url":  "https://go.dev/tour/welcome/1"
+                          },
+                          {
+                              "title":  "Go Reference Documentation",
+                              "type":  "official",
+                              "url":  "https://go.dev/doc/"
+                          },
+                          {
+                              "title":  "Go by Example - annotated example programs",
+                              "type":  "article",
+                              "url":  "https://gobyexample.com/"
+                          },
+                          {
+                              "title":  "Making a RESTful JSON API in Go",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/make-a-restful-json-api-go/"
+                          },
+                          {
+                              "title":  "Go in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=446E-r0rXHI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eL62bKAoJCMsu7zPlgyhy",
+        "label":  "Rust",
+        "endpoint":  "https://roadmap.sh/devops/topic@eL62bKAoJCMsu7zPlgyhy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Rust Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/rust"
+                          },
+                          {
+                              "title":  "Rust by Practice - Interactive Rust Course",
+                              "type":  "course",
+                              "url":  "https://practice.course.rs/"
+                          },
+                          {
+                              "title":  "The Rust Programming Language - Online Book",
+                              "type":  "official",
+                              "url":  "https://doc.rust-lang.org/book/"
+                          },
+                          {
+                              "title":  "Full Crash Rust Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=R33h77nrMqc\u0026list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QCdemtWa2mE78poNXeqzr",
+        "label":  "JavaScript / Node.js",
+        "endpoint":  "https://roadmap.sh/devops/topic@QCdemtWa2mE78poNXeqzr.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated JavaScript Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/javascript"
+                          },
+                          {
+                              "title":  "The Modern JavaScript Tutorial",
+                              "type":  "article",
+                              "url":  "https://javascript.info/"
+                          },
+                          {
+                              "title":  "JavaScript Crash Course for Beginners",
+                              "type":  "video",
+                              "url":  "https://youtu.be/hdI2bqOjy3c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6a2aca8ed5b55a91aab11124",
+                                "title":  "JavaScript Foundations",
+                                "slug":  "javascript-foundations",
+                                "description":  "The JavaScript you need before Node.js, frontend frameworks, APIs, and CLI apps.",
+                                "lessonIds":  [
+                                                  "6a27367ad5b55a91aab0e0cc",
+                                                  "6a273f65d5b55a91aab0e124",
+                                                  "6a27f0dad5b55a91aab0e2a9",
+                                                  "6a27ff2ed5b55a91aab0e378",
+                                                  "6a280307d5b55a91aab0e3df",
+                                                  "6a281cbfd5b55a91aab0e47b",
+                                                  "6a2889f2d5b55a91aab0e7b2",
+                                                  "6a294dfed5b55a91aab0e974",
+                                                  "6a2965e0d5b55a91aab0f351",
+                                                  "6a296e77d5b55a91aab0f382",
+                                                  "6a2976e4d5b55a91aab0f66a",
+                                                  "6a297985d5b55a91aab0f90c",
+                                                  "6a297c52d5b55a91aab0fc67",
+                                                  "6a29cb66d5b55a91aab10c0c",
+                                                  "6a2ac002d5b55a91aab10e48"
+                                              ],
+                                "projectIds":  [
+                                                   "6a2c214a2204ffbc59e58d7b",
+                                                   "6a2c214b2204ffbc59e58d85",
+                                                   "6a2c214c2204ffbc59e58d8f",
+                                                   "6a2c214d2204ffbc59e58d99",
+                                                   "6a2c214e2204ffbc59e58da3",
+                                                   "6a2c214f2204ffbc59e58dad",
+                                                   "6a2c21502204ffbc59e58db7",
+                                                   "6a2c21512204ffbc59e58dc1",
+                                                   "6a2c21532204ffbc59e58dcb",
+                                                   "6a2c21542204ffbc59e58dd5",
+                                                   "6a2c21552204ffbc59e58ddf",
+                                                   "6a2c21562204ffbc59e58de9",
+                                                   "6a2c21572204ffbc59e58df3",
+                                                   "6a2c21582204ffbc59e58dfd",
+                                                   "6a2c215a2204ffbc59e58e07"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  118,
+                                "lessonCount":  15,
+                                "quizCount":  0,
+                                "projectCount":  15
+                            },
+                            {
+                                "_id":  "6a43b8c73121943999cfb3be",
+                                "title":  "Build CLI Apps with Node.js",
+                                "slug":  "build-cli-apps-with-nodejs",
+                                "description":  "Learn how to build practical CLI apps with Node.js and npm",
+                                "lessonIds":  [
+                                                  "6a32bbf543b548b57e937f4e",
+                                                  "6a39ac8fb1fa196058c95e74",
+                                                  "6a39b5c5b1fa196058c95efc",
+                                                  "6a3a79bdb1fa196058c9600e",
+                                                  "6a3a7d85b1fa196058c96044",
+                                                  "6a3abf1fb1fa196058c96207",
+                                                  "6a3bbb84b1fa196058c96468",
+                                                  "6a3bc345b1fa196058c96532",
+                                                  "6a3bcacab1fa196058c9659b",
+                                                  "6a3bceceb1fa196058c965ee",
+                                                  "6a3bd0b5b1fa196058c9660c",
+                                                  "6a3bd373b1fa196058c96637",
+                                                  "6a3bdb4fb1fa196058c96694",
+                                                  "6a3be8c2b1fa196058c966ce",
+                                                  "6a3bf173b1fa196058c96792",
+                                                  "6a3bf683b1fa196058c967fd",
+                                                  "6a3bfc82b1fa196058c9688a",
+                                                  "6a3d37f9b1fa196058c97213",
+                                                  "6a3d3cc0b1fa196058c97532",
+                                                  "6a3d42ecb096345546c4a0a5",
+                                                  "6a3d4dc7b096345546c4a0dc"
+                                              ],
+                                "projectIds":  [
+                                                   "6a43f19e3121943999cfb5ab",
+                                                   "6a43f19f3121943999cfb5b0",
+                                                   "6a43f19f3121943999cfb5b5",
+                                                   "6a43f1a03121943999cfb5ba",
+                                                   "6a43f1a03121943999cfb5bf",
+                                                   "68b7185fffbff9183d772b25",
+                                                   "68b7185fffbff9183d772b27",
+                                                   "68b7185fffbff9183d772b2f",
+                                                   "68b7185fffbff9183d772b37"
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  164,
+                                "lessonCount":  21,
+                                "quizCount":  0,
+                                "projectCount":  9
+                            }
+                        ]
+    },
+    {
+        "id":  "qe84v529VbCyydl0BKFk2",
+        "label":  "Operating System",
+        "endpoint":  "https://roadmap.sh/devops/topic@qe84v529VbCyydl0BKFk2.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Operating Systems - Wiki",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Operating_system"
+                          },
+                          {
+                              "title":  "Learn Operating Systems",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/operating_system/os_overview.htm"
+                          },
+                          {
+                              "title":  "What are Operating Systems?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pVzRTmdd9j0"
+                          },
+                          {
+                              "title":  "Operating Systems",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vBURTt97EkA\u0026list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cTqVab0VbVcn3W7i0wBrX",
+        "label":  "Ubuntu / Debian",
+        "endpoint":  "https://roadmap.sh/devops/topic@cTqVab0VbVcn3W7i0wBrX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Practice Linux Commands with Hands-on Labs\"",
+                              "type":  "course",
+                              "url":  "https://labex.io/courses/linux-basic-commands-practice-online"
+                          },
+                          {
+                              "title":  "Debian Website",
+                              "type":  "official",
+                              "url":  "https://www.debian.org/"
+                          },
+                          {
+                              "title":  "Ubuntu Website",
+                              "type":  "official",
+                              "url":  "https://ubuntu.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zhNUK953p6tjREndk3yQZ",
+        "label":  "SUSE Linux",
+        "endpoint":  "https://roadmap.sh/devops/topic@zhNUK953p6tjREndk3yQZ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "openSUSE Linux Website",
+                              "type":  "official",
+                              "url":  "https://www.opensuse.org/"
+                          },
+                          {
+                              "title":  "openSUSE Documentation",
+                              "type":  "official",
+                              "url":  "https://en.opensuse.org/Main_Page"
+                          },
+                          {
+                              "title":  "Unofficial openSUSE Getting Started Guide",
+                              "type":  "article",
+                              "url":  "https://opensuse-guide.org/"
+                          },
+                          {
+                              "title":  "OpenSuSE - You Should Try It",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CZwAgf3f8CM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "7mS6Y_BOAHNgM3OjyFtZ9",
+        "label":  "RHEL / Derivatives",
+        "endpoint":  "https://roadmap.sh/devops/topic@7mS6Y_BOAHNgM3OjyFtZ9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Red Hat Enterprise Linux Website",
+                              "type":  "official",
+                              "url":  "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
+                          },
+                          {
+                              "title":  "RHEL Documentation",
+                              "type":  "official",
+                              "url":  "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/"
+                          },
+                          {
+                              "title":  "Learn Linux 101",
+                              "type":  "article",
+                              "url":  "https://developer.ibm.com/series/learn-linux-101/"
+                          },
+                          {
+                              "title":  "What is Red Hat Enterprise Linux?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=HEBvdSI0wGQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "PiPHFimToormOPl1EtEe8",
+        "label":  "FreeBSD",
+        "endpoint":  "https://roadmap.sh/devops/topic@PiPHFimToormOPl1EtEe8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "FreeBSD",
+                              "type":  "official",
+                              "url":  "https://www.freebsd.org/"
+                          },
+                          {
+                              "title":  "FreeBSD Resources for Newbies",
+                              "type":  "official",
+                              "url":  "https://www.freebsd.org/projects/newbies/"
+                          },
+                          {
+                              "title":  "FreeBSD Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.freebsd.org/en/"
+                          },
+                          {
+                              "title":  "FreeBSD in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NKHzcXwTdB4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "97cJYKqv7CPPUXkKNwM4x",
+        "label":  "OpenBSD",
+        "endpoint":  "https://roadmap.sh/devops/topic@97cJYKqv7CPPUXkKNwM4x.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenBSD",
+                              "type":  "official",
+                              "url":  "https://www.openbsd.org/"
+                          },
+                          {
+                              "title":  "Installing OpenBSD on the Fastest iMac G3",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=-7gSMEsF3Q0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "haiYSwNt3rjiiwCDszPk1",
+        "label":  "NetBSD",
+        "endpoint":  "https://roadmap.sh/devops/topic@haiYSwNt3rjiiwCDszPk1.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "NetBSD Website",
+                              "type":  "official",
+                              "url":  "https://netbsd.org/"
+                          },
+                          {
+                              "title":  "Official NetBSD Documentation",
+                              "type":  "official",
+                              "url":  "https://netbsd.org/docs/"
+                          },
+                          {
+                              "title":  "NetBSD Guide",
+                              "type":  "official",
+                              "url":  "https://netbsd.org/docs/guide/en/index.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UOQimp7QkM3sxmFvk5d3i",
+        "label":  "Windows",
+        "endpoint":  "https://roadmap.sh/devops/topic@UOQimp7QkM3sxmFvk5d3i.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Microsoft Windows",
+                              "type":  "official",
+                              "url":  "http://microsoft.com/windows"
+                          },
+                          {
+                              "title":  "Windows Documentation for Developers",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/windows/"
+                          },
+                          {
+                              "title":  "40 Windows Commands you NEED to know",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Jfvg3CS1X3A\u0026"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wjJPzrFJBNYOD3SJLzW2M",
+        "label":  "Terminal Knowledge",
+        "endpoint":  "https://roadmap.sh/devops/topic@wjJPzrFJBNYOD3SJLzW2M.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Bash/Shell Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/shell-bash"
+                          },
+                          {
+                              "title":  "What is CLI?",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Command-line_interface"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "x-JWvG1iw86ULL9KrQmRu",
+        "label":  "Process Monitoring",
+        "endpoint":  "https://roadmap.sh/devops/topic@x-JWvG1iw86ULL9KrQmRu.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "lsof Cheat Sheet",
+                              "type":  "article",
+                              "url":  "https://neverendingsecurity.wordpress.com/2015/04/13/lsof-commands-cheatsheet/"
+                          },
+                          {
+                              "title":  "lsof Documentation",
+                              "type":  "article",
+                              "url":  "https://man7.org/linux/man-pages/man8/lsof.8.html"
+                          },
+                          {
+                              "title":  "Linux Crash Course - The lsof Command",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=n9nZ1ellaV0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gIEQDgKOsoEnSv8mpEzGH",
+        "label":  "Performance Monitoring",
+        "endpoint":  "https://roadmap.sh/devops/topic@gIEQDgKOsoEnSv8mpEzGH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Linux Commands: Exploring Virtual Memory with vmstat",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/sysadmin/linux-commands-vmstat"
+                          },
+                          {
+                              "title":  "VMstat Man Page",
+                              "type":  "article",
+                              "url":  "https://man7.org/linux/man-pages/man8/vmstat.8.html"
+                          },
+                          {
+                              "title":  "vmstat tutorial",
+                              "type":  "article",
+                              "url":  "https://phoenixnap.com/kb/vmstat-command"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OaqKLZe-XnngcDhDzCtRt",
+        "label":  "Networking Tools",
+        "endpoint":  "https://roadmap.sh/devops/topic@OaqKLZe-XnngcDhDzCtRt.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "10 SCP command examples",
+                              "type":  "article",
+                              "url":  "https://www.tecmint.com/scp-commands-examples/"
+                          },
+                          {
+                              "title":  "SCP command explained",
+                              "type":  "article",
+                              "url":  "https://phoenixnap.com/kb/linux-scp-command"
+                          },
+                          {
+                              "title":  "Top 5 Linux Networking Commands",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=MT85eMsMN6o"
+                          },
+                          {
+                              "title":  "60 Linux Commands you NEED to know",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gd7BXuUQ91w"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cUifrP7v55psTb20IZndf",
+        "label":  "Text Manipulation",
+        "endpoint":  "https://roadmap.sh/devops/topic@cUifrP7v55psTb20IZndf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Bash/Shell Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/shell-bash"
+                          },
+                          {
+                              "title":  "Linux Text Processing Command",
+                              "type":  "article",
+                              "url":  "https://earthly.dev/blog/linux-text-processing-commands/"
+                          },
+                          {
+                              "title":  "Learning Awk Is Essential For Linux Users",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9YOZmI-zWok"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "syBIAL1mHbJLnTBoSxXI7",
+        "label":  "Bash",
+        "endpoint":  "https://roadmap.sh/devops/topic@syBIAL1mHbJLnTBoSxXI7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Bash/Shell Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/shell-bash"
+                          },
+                          {
+                              "title":  "Bash Scripting Tutorial for Beginners",
+                              "type":  "course",
+                              "url":  "https://www.youtube.com/watch?v=tK9Oc6AEnR4"
+                          },
+                          {
+                              "title":  "Interactive Shell Scripting Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.learnshell.org/en/Welcome"
+                          },
+                          {
+                              "title":  "Bash in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=I4EWvMFj37g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "z6IBekR8Xl-6f8WEb05Nw",
+        "label":  "Power Shell",
+        "endpoint":  "https://roadmap.sh/devops/topic@z6IBekR8Xl-6f8WEb05Nw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "PowerShell Documentation",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/powershell/"
+                          },
+                          {
+                              "title":  "Learn PowerShell in Less Than 2 Hours",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ZOoCaWyifmI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Jt8BmtLUH6fHT2pGKoJs3",
+        "label":  "Vim / Nano /  Emacs",
+        "endpoint":  "https://roadmap.sh/devops/topic@Jt8BmtLUH6fHT2pGKoJs3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Practical Vim 2nd Edition",
+                              "type":  "book",
+                              "url":  "https://dokumen.pub/practical-vim-2nd-edition-2nd-edition-9781680501278.html"
+                          },
+                          {
+                              "title":  "Vim",
+                              "type":  "official",
+                              "url":  "https://www.vim.org"
+                          },
+                          {
+                              "title":  "GNU Nano",
+                              "type":  "official",
+                              "url":  "https://www.nano-editor.org/"
+                          },
+                          {
+                              "title":  "GNU Emacs",
+                              "type":  "official",
+                              "url":  "https://www.gnu.org/software/emacs/"
+                          },
+                          {
+                              "title":  "Vim Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RZ4p-saaQkc"
+                          },
+                          {
+                              "title":  "Linux Crash Course - nano",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=DLeATFgGM-A"
+                          },
+                          {
+                              "title":  "The Absolute Beginner\u0027s Guide to Emacs",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=48JlgiBpw_I"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LvhFmlxz5uIy7k_nzx2Bv",
+        "label":  "Version Control Systems",
+        "endpoint":  "https://roadmap.sh/devops/topic@LvhFmlxz5uIy7k_nzx2Bv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Git \u0026 GitHub Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/git-github"
+                          },
+                          {
+                              "title":  "Why version control? (Interactive Lesson)",
+                              "type":  "course",
+                              "url":  "https://inter-git.com/lessons/introduction"
+                          },
+                          {
+                              "title":  "What is Version Control?",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/git/tutorials/what-is-version-control"
+                          },
+                          {
+                              "title":  "Version Control System (VCS)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=SVkuliabq4g"
+                          },
+                          {
+                              "title":  "What is a Version Control System and why you should always use it",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IeXhYROClZk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "uyDm1SpOQdpHjq9zBAdck",
+        "label":  "Git",
+        "endpoint":  "https://roadmap.sh/devops/topic@uyDm1SpOQdpHjq9zBAdck.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Git \u0026 GitHub Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/git-github"
+                          },
+                          {
+                              "title":  "Why use Git? (Interactive Lesson)",
+                              "type":  "course",
+                              "url":  "https://inter-git.com/lessons/introduction"
+                          },
+                          {
+                              "title":  "Git by Example - Learn Version Control with Bite-sized Lessons",
+                              "type":  "article",
+                              "url":  "https://antonz.org/git-by-example/"
+                          },
+                          {
+                              "title":  "Git \u0026 GitHub Crash Course For Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vA5TTz6BXhY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "h10BH3OybHcIN2iDTSGkn",
+        "label":  "VCS Hosting",
+        "endpoint":  "https://roadmap.sh/devops/topic@h10BH3OybHcIN2iDTSGkn.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub",
+                              "type":  "official",
+                              "url":  "https://github.com"
+                          },
+                          {
+                              "title":  "GitLab",
+                              "type":  "official",
+                              "url":  "https://about.gitlab.com/"
+                          },
+                          {
+                              "title":  "BitBucket",
+                              "type":  "official",
+                              "url":  "https://bitbucket.org/product/guides/getting-started/overview"
+                          },
+                          {
+                              "title":  "GitHub vs GitLab vs Bitbucket - Which Is Better?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=FQGXIIqziQg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ot9I_IHdnq2yAMffrSrbN",
+        "label":  "GitHub",
+        "endpoint":  "https://roadmap.sh/devops/topic@ot9I_IHdnq2yAMffrSrbN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Git \u0026 GitHub Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/git-github"
+                          },
+                          {
+                              "title":  "GitHub",
+                              "type":  "official",
+                              "url":  "https://github.com"
+                          },
+                          {
+                              "title":  "How to Use Git in a Professional Dev Team",
+                              "type":  "article",
+                              "url":  "https://ooloo.io/project/github-flow"
+                          },
+                          {
+                              "title":  "What is GitHub?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=pBy1zgt0XPc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "oQIB0KE0BibjIYmxrpPZS",
+        "label":  "GitLab",
+        "endpoint":  "https://roadmap.sh/devops/topic@oQIB0KE0BibjIYmxrpPZS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitLab Website",
+                              "type":  "official",
+                              "url":  "https://gitlab.com/"
+                          },
+                          {
+                              "title":  "GitLab Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.gitlab.com/"
+                          },
+                          {
+                              "title":  "GitLab Explained: What is GitLab and Why Use It?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=bnF7f1zGpo4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "Z7SsBWgluZWr9iWb2e9XO",
+        "label":  "Bitbucket",
+        "endpoint":  "https://roadmap.sh/devops/topic@Z7SsBWgluZWr9iWb2e9XO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Bitbucket Website",
+                              "type":  "official",
+                              "url":  "https://bitbucket.org"
+                          },
+                          {
+                              "title":  "Bitbucket Overview",
+                              "type":  "official",
+                              "url":  "https://bitbucket.org/product/guides/getting-started/overview"
+                          },
+                          {
+                              "title":  "Bitbucket Tutorial | How to use Bitbucket Cloud",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=M44nEyd_5To"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "jCWrnQNgjHKyhzd9dwOHz",
+        "label":  "What is and how to setup X ?",
+        "endpoint":  "https://roadmap.sh/devops/topic@jCWrnQNgjHKyhzd9dwOHz.json",
+        "status":  "retrieved",
+        "resources":  [
+
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "F93XnRj0BLswJkzyRggLS",
+        "label":  "Forward Proxy",
+        "endpoint":  "https://roadmap.sh/devops/topic@F93XnRj0BLswJkzyRggLS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Forward Proxy?",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/proxy-server"
+                          },
+                          {
+                              "title":  "Forward vs Reverse Proxy",
+                              "type":  "article",
+                              "url":  "https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy"
+                          },
+                          {
+                              "title":  "Understanding Proxy, Forward Proxy, and Reverse Proxy",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=HrG0MHkSsCA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "f3tM2uo6LLSOmyeFfLc7h",
+        "label":  "Firewall",
+        "endpoint":  "https://roadmap.sh/devops/topic@f3tM2uo6LLSOmyeFfLc7h.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Firewall?",
+                              "type":  "article",
+                              "url":  "https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/"
+                          },
+                          {
+                              "title":  "Types of Firewall",
+                              "type":  "article",
+                              "url":  "https://www.cisco.com/c/en_in/products/security/firewalls/what-is-a-firewall.html"
+                          },
+                          {
+                              "title":  "Why do we need Firewalls?",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/what-is-a-firewall-and-why-do-you-need-one"
+                          },
+                          {
+                              "title":  "Firewalls and Network Security - SimpliLearn",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9GZlVOafYTg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ukOrSeyK1ElOt9tTjCkfO",
+        "label":  "Nginx",
+        "endpoint":  "https://roadmap.sh/devops/topic@ukOrSeyK1ElOt9tTjCkfO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Nginx",
+                              "type":  "official",
+                              "url":  "https://nginx.org/"
+                          },
+                          {
+                              "title":  "Basic NGINX Setup on Ubuntu: Guide to a Functional and Secure Website Serving",
+                              "type":  "article",
+                              "url":  "https://swissmade.host/en/blog/basic-nginx-setup-ubuntu-guide-to-a-functional-and-secure-website-serving"
+                          },
+                          {
+                              "title":  "NGINX Explained in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=JKxlsvZXG7c"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dF3otkMMN09tgCzci8Jyv",
+        "label":  "Tomcat",
+        "endpoint":  "https://roadmap.sh/devops/topic@dF3otkMMN09tgCzci8Jyv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Tomcat Website",
+                              "type":  "official",
+                              "url":  "https://tomcat.apache.org/"
+                          },
+                          {
+                              "title":  "Tomcat Documentation",
+                              "type":  "official",
+                              "url":  "https://tomcat.apache.org/tomcat-10.0-doc/index.html"
+                          },
+                          {
+                              "title":  "Apache Tomcat Full Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=rElJIPRw5iM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0_GMTcMeZv3A8dYkHRoW7",
+        "label":  "Apache",
+        "endpoint":  "https://roadmap.sh/devops/topic@0_GMTcMeZv3A8dYkHRoW7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Apache Server Website",
+                              "type":  "official",
+                              "url":  "https://httpd.apache.org/"
+                          },
+                          {
+                              "title":  "What is Apache Web Server?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=kaaenHXO4t4"
+                          },
+                          {
+                              "title":  "Apache Web Server Setup on Ubuntu 22.04 (with SSL)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VXSgEvZKp-8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "54UZNO2q8M5FiA_XbcU_D",
+        "label":  "Caddy",
+        "endpoint":  "https://roadmap.sh/devops/topic@54UZNO2q8M5FiA_XbcU_D.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Caddy Website",
+                              "type":  "official",
+                              "url":  "https://caddyserver.com/"
+                          },
+                          {
+                              "title":  "caddyserver/caddy",
+                              "type":  "opensource",
+                              "url":  "https://github.com/caddyserver/caddy"
+                          },
+                          {
+                              "title":  "Exploring Caddy, An Open Source Web Server",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tqXL5QLvPRQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5iJOE1QxMvf8BQ_8ssiI8",
+        "label":  "IIS",
+        "endpoint":  "https://roadmap.sh/devops/topic@5iJOE1QxMvf8BQ_8ssiI8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Microsoft IIS",
+                              "type":  "official",
+                              "url":  "https://www.iis.net/"
+                          },
+                          {
+                              "title":  "Learn Windows Web Server IIS",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1VdxPWwtISA"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "ASP.NET",
+                                "type":  "inline",
+                                "url":  "http://ASP.NET"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "R4XSY4TSjU1M7cW66zUqJ",
+        "label":  "Caching Server",
+        "endpoint":  "https://roadmap.sh/devops/topic@R4XSY4TSjU1M7cW66zUqJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Caching?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/cdn/what-is-caching/"
+                          },
+                          {
+                              "title":  "What is Cache Server?",
+                              "type":  "article",
+                              "url":  "https://networkencyclopedia.com/cache-server/"
+                          },
+                          {
+                              "title":  "Site Cache vs Browser Cache vs Server Cache",
+                              "type":  "article",
+                              "url":  "https://nordvpn.com/cybersecurity/glossary/caching-server/"
+                          },
+                          {
+                              "title":  "Cache Systems Every Developer Should Know",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dGAgxozNWFE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "i8Sd9maB_BeFurULrHXNq",
+        "label":  "Load Balancer",
+        "endpoint":  "https://roadmap.sh/devops/topic@i8Sd9maB_BeFurULrHXNq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Load Balancing?",
+                              "type":  "article",
+                              "url":  "https://www.nginx.com/resources/glossary/load-balancing/"
+                          },
+                          {
+                              "title":  "Load Balancing concepts and algorithms",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/"
+                          },
+                          {
+                              "title":  "NGINX Reverse Proxy and Load Balancing",
+                              "type":  "article",
+                              "url":  "https://dzone.com/articles/nginx-reverse-proxy-and-load-balancing"
+                          },
+                          {
+                              "title":  "What is a Load Balancer?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sCR3SAVdyCc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eGF7iyigl57myx2ejpmNC",
+        "label":  "Reverse Proxy",
+        "endpoint":  "https://roadmap.sh/devops/topic@eGF7iyigl57myx2ejpmNC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Reverse Proxy?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/"
+                          },
+                          {
+                              "title":  "NGINX Documentation",
+                              "type":  "article",
+                              "url":  "https://www.nginx.com/resources/glossary/reverse-proxy-server/"
+                          },
+                          {
+                              "title":  "Understanding NGINX as a Reverse Proxy",
+                              "type":  "article",
+                              "url":  "https://medium.com/globant/understanding-nginx-as-a-reverse-proxy-564f76e856b2"
+                          },
+                          {
+                              "title":  "Proxy vs Reverse Proxy (Real-world Examples)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=4NB0NDtOwIQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "CQhUflAcv1lhBnmDY0gaz",
+        "label":  "Containers",
+        "endpoint":  "https://roadmap.sh/devops/topic@CQhUflAcv1lhBnmDY0gaz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Containers?",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/learn/what-are-containers"
+                          },
+                          {
+                              "title":  "What is a Container?",
+                              "type":  "article",
+                              "url":  "https://www.docker.com/resources/what-container/"
+                          },
+                          {
+                              "title":  "What are Containers?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "P0acFNZ413MSKElHqCxr3",
+        "label":  "Docker",
+        "endpoint":  "https://roadmap.sh/devops/topic@P0acFNZ413MSKElHqCxr3.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Docker Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/docker"
+                          },
+                          {
+                              "title":  "DevOps with Docker",
+                              "type":  "course",
+                              "url":  "https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker"
+                          },
+                          {
+                              "title":  "Docker Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/"
+                          },
+                          {
+                              "title":  "Docker Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RqTEHSBrYFw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qYRJYIZsmf-inMqKECRkI",
+        "label":  "LXC",
+        "endpoint":  "https://roadmap.sh/devops/topic@qYRJYIZsmf-inMqKECRkI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "LXC Documentation",
+                              "type":  "official",
+                              "url":  "https://linuxcontainers.org/lxc/documentation/"
+                          },
+                          {
+                              "title":  "Getting started with LXC containers",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CWmkSj_B-wo"
+                          },
+                          {
+                              "title":  "LXC - Guide to building a LXC Lab",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cqOtksmsxfg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "2Wd9SlWGg6QtxgiUVLyZL",
+        "label":  "Cloud Providers",
+        "endpoint":  "https://roadmap.sh/devops/topic@2Wd9SlWGg6QtxgiUVLyZL.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cloud Service Provider",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider"
+                          },
+                          {
+                              "title":  "What are Cloud Providers?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/NGXq3v"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1ieK6B_oqW8qOC6bdmiJe",
+        "label":  "AWS",
+        "endpoint":  "https://roadmap.sh/devops/topic@1ieK6B_oqW8qOC6bdmiJe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated AWS Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/aws"
+                          },
+                          {
+                              "title":  "100 hour AWS Complete Course 2024",
+                              "type":  "course",
+                              "url":  "https://www.youtube.com/watch?v=zA8guDqfv40"
+                          },
+                          {
+                              "title":  "AWS Cloud Essentials",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/getting-started/cloud-essentials/"
+                          },
+                          {
+                              "title":  "Overview of Amazon Web Services",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - AWS Cloud Practitioner (CLF-C02)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/NGXq3v"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ctor79Vd7EXDMdrLyUcu_",
+        "label":  "Azure",
+        "endpoint":  "https://roadmap.sh/devops/topic@ctor79Vd7EXDMdrLyUcu_.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Azure Website",
+                              "type":  "official",
+                              "url":  "https://azure.microsoft.com/en-us/"
+                          },
+                          {
+                              "title":  "Microsoft Azure Fundamentals Certification Course (AZ-900)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5abffC-K40c"
+                          }
+                      ],
+        "paidResources":  [
+                              {
+                                  "title":  "DataCamp - Microsoft Azure Fundamentals (AZ-900)",
+                                  "type":  "course",
+                                  "url":  "https://datacamp.pxf.io/9VBAvj"
+                              }
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zYrOxFQkl3KSe67fh3smD",
+        "label":  "Google Cloud",
+        "endpoint":  "https://roadmap.sh/devops/topic@zYrOxFQkl3KSe67fh3smD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Google Cloud",
+                              "type":  "official",
+                              "url":  "https://cloud.google.com/"
+                          },
+                          {
+                              "title":  "5 Tips to Become a Google Cloud Certified Professional Architect",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/"
+                          },
+                          {
+                              "title":  "Google Cloud Platform Full Course 2023",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fZOz13joN0o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-h-kNVDNzZYnQAR_4lfXc",
+        "label":  "Digital Ocean",
+        "endpoint":  "https://roadmap.sh/devops/topic@-h-kNVDNzZYnQAR_4lfXc.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DigitalOcean",
+                              "type":  "official",
+                              "url":  "https://www.digitalocean.com/"
+                          },
+                          {
+                              "title":  "Getting Started With Kubernetes on DigitalOcean",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=cJKdo-glRD0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "YUJf-6ccHvYjL_RzufQ-G",
+        "label":  "Alibaba Cloud",
+        "endpoint":  "https://roadmap.sh/devops/topic@YUJf-6ccHvYjL_RzufQ-G.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Alibaba Cloud",
+                              "type":  "official",
+                              "url":  "https://www.alibabacloud.com/"
+                          },
+                          {
+                              "title":  "Getting Started with Alibaba Cloud",
+                              "type":  "official",
+                              "url":  "https://www.alibabacloud.com/getting-started"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "I327qPYGMcdayRR5WT0Ek",
+        "label":  "Hetzner",
+        "endpoint":  "https://roadmap.sh/devops/topic@I327qPYGMcdayRR5WT0Ek.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Hetzner Website",
+                              "type":  "official",
+                              "url":  "https://www.hetzner.com/"
+                          },
+                          {
+                              "title":  "How To Setup Hetzner Cloud Server To Host Your Websites",
+                              "type":  "article",
+                              "url":  "https://runcloud.io/blog/hetzner"
+                          },
+                          {
+                              "title":  "Coolify Crash Course | Self Host 101",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=taJlPG82Ucw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FaPf567JGRAg1MBlFj9Tk",
+        "label":  "Heroku ",
+        "endpoint":  "https://roadmap.sh/devops/topic@FaPf567JGRAg1MBlFj9Tk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Heroku Website",
+                              "type":  "official",
+                              "url":  "https://www.heroku.com/"
+                          },
+                          {
+                              "title":  "What is Heroku?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IB0V8wWsCsc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RDLmML_HS2c8J4D_U_KYe",
+        "label":  "FTP / SFTP",
+        "endpoint":  "https://roadmap.sh/devops/topic@RDLmML_HS2c8J4D_U_KYe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "FTP vs SFTP vs FTPS",
+                              "type":  "article",
+                              "url":  "https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning"
+                          },
+                          {
+                              "title":  "What is SFTP?",
+                              "type":  "article",
+                              "url":  "https://www.kiteworks.com/risk-compliance-glossary/sftp/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Vu955vdsYerCG8G6suqml",
+        "label":  "DNS",
+        "endpoint":  "https://roadmap.sh/devops/topic@Vu955vdsYerCG8G6suqml.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is DNS?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+                          },
+                          {
+                              "title":  "How DNS Works (comic)",
+                              "type":  "article",
+                              "url":  "https://howdns.works/"
+                          },
+                          {
+                              "title":  "DNS and How does it Work?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+                            {
+                                "title":  "www.example.com",
+                                "type":  "inline",
+                                "url":  "http://www.example.com"
+                            }
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ke-8MeuLx7AS2XjSsPhxe",
+        "label":  "HTTP",
+        "endpoint":  "https://roadmap.sh/devops/topic@ke-8MeuLx7AS2XjSsPhxe.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Everything you need to know about HTTP",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/http-in-depth"
+                          },
+                          {
+                              "title":  "What is HTTP?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+                          },
+                          {
+                              "title":  "An overview of HTTP",
+                              "type":  "article",
+                              "url":  "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+                          },
+                          {
+                              "title":  "HTTP Crash Course \u0026 Exploration",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=iYM2zFP3Zn0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "AJO3jtHvIICj8YKaSXl0U",
+        "label":  "HTTPS",
+        "endpoint":  "https://roadmap.sh/devops/topic@AJO3jtHvIICj8YKaSXl0U.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is HTTPS?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/"
+                          },
+                          {
+                              "title":  "Why HTTPS Matters",
+                              "type":  "article",
+                              "url":  "https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https"
+                          },
+                          {
+                              "title":  "Does HTTPS REALLY Keep You Safe?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=25mXesOV9-8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "0o6ejhfpmO4S8A6djVWva",
+        "label":  "SSL / TLS",
+        "endpoint":  "https://roadmap.sh/devops/topic@0o6ejhfpmO4S8A6djVWva.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cloudflare - What is SSL?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/ssl/what-is-ssl/"
+                          },
+                          {
+                              "title":  "Cloudflare - What is TLS?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/"
+                          },
+                          {
+                              "title":  "SSH vs SSL vs TLS",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=k3rFFLmQCuY"
+                          },
+                          {
+                              "title":  "SSL/TLS Explained in 7 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=67Kfsmy_frM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wcIRMLVm3SdEJWF9RPfn7",
+        "label":  "SSH",
+        "endpoint":  "https://roadmap.sh/devops/topic@wcIRMLVm3SdEJWF9RPfn7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is SSH?",
+                              "type":  "official",
+                              "url":  "https://www.ssh.com/academy/ssh/protocol"
+                          },
+                          {
+                              "title":  "SSH Intro",
+                              "type":  "article",
+                              "url":  "https://www.baeldung.com/cs/ssh-intro"
+                          },
+                          {
+                              "title":  "How SSH Works",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5JvLV2-ngCI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "E-lSLGzgOPrz-25ER2Hk7",
+        "label":  "White / Grey Listing",
+        "endpoint":  "https://roadmap.sh/devops/topic@E-lSLGzgOPrz-25ER2Hk7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Detailed Introduction to greylisting",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Greylisting_%28email%29"
+                          },
+                          {
+                              "title":  "Greylisting",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ljtU6I0sIiw"
+                          },
+                          {
+                              "title":  "How to Whitelist an Email Address?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=NqQIBtY7ySw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zJy9dOynWgLTDKI1iBluG",
+        "label":  "SMTP",
+        "endpoint":  "https://roadmap.sh/devops/topic@zJy9dOynWgLTDKI1iBluG.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is SMTP? - Cloudflare",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/email-security/what-is-smtp"
+                          },
+                          {
+                              "title":  "SMTP - Wikipedia",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol"
+                          },
+                          {
+                              "title":  "What is SMTP and how does it work?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=iUhDT3ZtWS0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5vUKHuItQfkarp7LtACvX",
+        "label":  "DMARC",
+        "endpoint":  "https://roadmap.sh/devops/topic@5vUKHuItQfkarp7LtACvX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DMARC",
+                              "type":  "official",
+                              "url":  "https://dmarc.org/"
+                          },
+                          {
+                              "title":  "What is DMARC: Email Security You Need to Know About",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zLxJLKf-ua8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "WMuXqa4b5wyRuYAQKQJRj",
+        "label":  "IMAP",
+        "endpoint":  "https://roadmap.sh/devops/topic@WMuXqa4b5wyRuYAQKQJRj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Internet Message Access Protocol",
+                              "type":  "article",
+                              "url":  "https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol"
+                          },
+                          {
+                              "title":  "What are POP3, IMAP, and SMTP?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gLNOVbcyWbI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ewcJfnDFKXN8I5TLpXEaB",
+        "label":  "SPF",
+        "endpoint":  "https://roadmap.sh/devops/topic@ewcJfnDFKXN8I5TLpXEaB.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is a DNS SPF record?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/learning/dns/dns-records/dns-spf-record/"
+                          },
+                          {
+                              "title":  "What is SPF? Sender Policy Framework Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=5HG8xJ2lWuc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "fzO6xVTBxliu24f3W5zaU",
+        "label":  "POP3S",
+        "endpoint":  "https://roadmap.sh/devops/topic@fzO6xVTBxliu24f3W5zaU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is POP3?",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/whatis/definition/POP3-Post-Office-Protocol-3"
+                          },
+                          {
+                              "title":  "What are POP3, IMAP, and SMTP?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gLNOVbcyWbI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "RYCD78msIR2BPJoIP71aj",
+        "label":  "Domain Keys",
+        "endpoint":  "https://roadmap.sh/devops/topic@RYCD78msIR2BPJoIP71aj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "DomainKeys Identified Mail",
+                              "type":  "article",
+                              "url":  "https://www.brainkart.com/article/DomainKeys-Identified-Mail_8493/"
+                          },
+                          {
+                              "title":  "What is DKIM? DomainKeys Identified Mail",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=IBhO0akhMlQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "QZ7bkY-MaEgxYoPDP3nma",
+        "label":  "OSI Model",
+        "endpoint":  "https://roadmap.sh/devops/topic@QZ7bkY-MaEgxYoPDP3nma.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is OSI Model?",
+                              "type":  "article",
+                              "url":  "https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/"
+                          },
+                          {
+                              "title":  "OSI Model",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=dV8mjZd1OtU"
+                          },
+                          {
+                              "title":  "OSI vs TCP/IP Model",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=F5rni9fr1yE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w5d24Sf8GDkLDLGUPxzS9",
+        "label":  "Networking \u0026 Protocols",
+        "endpoint":  "https://roadmap.sh/devops/topic@w5d24Sf8GDkLDLGUPxzS9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Network Engineer Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/network-engineer"
+                          },
+                          {
+                              "title":  "DNS and How does it Work?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+                          },
+                          {
+                              "title":  "SSH vs SSL vs TLS",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=k3rFFLmQCuY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "9p_ufPj6QH9gHbWBQUmGw",
+        "label":  "Serverless",
+        "endpoint":  "https://roadmap.sh/devops/topic@9p_ufPj6QH9gHbWBQUmGw.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Serverless?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless"
+                          },
+                          {
+                              "title":  "What is Serverless?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=vxJobGtqKVM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "LZDRgDxEZ3klp2PrrJFBX",
+        "label":  "Vercel",
+        "endpoint":  "https://roadmap.sh/devops/topic@LZDRgDxEZ3klp2PrrJFBX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Vercel",
+                              "type":  "official",
+                              "url":  "https://vercel.com/"
+                          },
+                          {
+                              "title":  "Vercel Docs",
+                              "type":  "official",
+                              "url":  "https://vercel.com/docs"
+                          },
+                          {
+                              "title":  "Vercel: Product Walkthrough",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=sPmat30SE4k"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "l8VAewSEXzoyqYFhoplJj",
+        "label":  "Cloudflare",
+        "endpoint":  "https://roadmap.sh/devops/topic@l8VAewSEXzoyqYFhoplJj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Cloudflare Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/cloudflare"
+                          },
+                          {
+                              "title":  "Cloudflare",
+                              "type":  "official",
+                              "url":  "https://cloudflare.com/"
+                          },
+                          {
+                              "title":  "Introduction to Cloudflare",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=24cml1rKGBs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "mlrlf2McMI7IBhyEdq0Nf",
+        "label":  "Azure Functions",
+        "endpoint":  "https://roadmap.sh/devops/topic@mlrlf2McMI7IBhyEdq0Nf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Azure Functions - Serverless Computing",
+                              "type":  "official",
+                              "url":  "https://azure.microsoft.com/en-in/products/functions"
+                          },
+                          {
+                              "title":  "Azure Functions Overview",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview"
+                          },
+                          {
+                              "title":  "Getting Started With Azure Functions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=l3beXs3o-0w"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "UfQrIJ-uMNJt9H_VM_Q5q",
+        "label":  "AWS Lambda",
+        "endpoint":  "https://roadmap.sh/devops/topic@UfQrIJ-uMNJt9H_VM_Q5q.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Lambda Introduction",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html"
+                          },
+                          {
+                              "title":  "AWS Lambda Tutorial: Getting Started with Serverless Computing",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=RtiWU1DrMaM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hCKODV2b_l2uPit0YeP1M",
+        "label":  "Netlify",
+        "endpoint":  "https://roadmap.sh/devops/topic@hCKODV2b_l2uPit0YeP1M.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Netlify Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.netlify.com/platform/primitives/#functions"
+                          },
+                          {
+                              "title":  "Introducing Netlify Functions 2.0",
+                              "type":  "article",
+                              "url":  "https://www.netlify.com/blog/introducing-netlify-functions-2-0/"
+                          },
+                          {
+                              "title":  "How to Deploy a Website on Netlify",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=0P53S34zm44"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1oYvpFG8LKT1JD6a_9J0m",
+        "label":  "Provisioning",
+        "endpoint":  "https://roadmap.sh/devops/topic@1oYvpFG8LKT1JD6a_9J0m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is provisioning? - RedHat",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/automation/what-is-provisioning"
+                          },
+                          {
+                              "title":  "What is provisioning? - IBM",
+                              "type":  "article",
+                              "url":  "https://www.ibm.com/topics/provisioning"
+                          },
+                          {
+                              "title":  "Open Answers: What is provisioning?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hWvDlmhASpk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XA__697KgofsH28coQ-ma",
+        "label":  "AWS CDK",
+        "endpoint":  "https://roadmap.sh/devops/topic@XA__697KgofsH28coQ-ma.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS CDK Crash Course for Beginners",
+                              "type":  "course",
+                              "url":  "https://www.youtube.com/watch?v=D4Asp5g4fp8"
+                          },
+                          {
+                              "title":  "AWS CDK",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/cdk/"
+                          },
+                          {
+                              "title":  "AWS CDK Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/cdk/index.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TgBb4aL_9UkyU36CN4qvS",
+        "label":  "CloudFormation",
+        "endpoint":  "https://roadmap.sh/devops/topic@TgBb4aL_9UkyU36CN4qvS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS CloudFormation",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/cloudformation/"
+                          },
+                          {
+                              "title":  "Create and Delete an AWS CloudFormation Stack",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=fmDG-W5TFp4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "O0xZ3dy2zIDbOetVrgna6",
+        "label":  "Pulumi",
+        "endpoint":  "https://roadmap.sh/devops/topic@O0xZ3dy2zIDbOetVrgna6.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Pulumi Website",
+                              "type":  "official",
+                              "url":  "https://www.pulumi.com/"
+                          },
+                          {
+                              "title":  "Pulumi in Three Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Q8tw6YTD3ac"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "nUBGf1rp9GK_pbagWCP9g",
+        "label":  "Terraform",
+        "endpoint":  "https://roadmap.sh/devops/topic@nUBGf1rp9GK_pbagWCP9g.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Terraform Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/terraform"
+                          },
+                          {
+                              "title":  "Complete Terraform Course",
+                              "type":  "course",
+                              "url":  "https://www.youtube.com/watch?v=7xngnjfIlK4"
+                          },
+                          {
+                              "title":  "Terraform Documentation",
+                              "type":  "official",
+                              "url":  "https://www.terraform.io/docs"
+                          },
+                          {
+                              "title":  "Terraform Backend: How it Works and How to Configure it",
+                              "type":  "article",
+                              "url":  "https://roadmap.sh/terraform/backend"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "V9sOxlNOyRp0Mghl7zudv",
+        "label":  "Configuration Management",
+        "endpoint":  "https://roadmap.sh/devops/topic@V9sOxlNOyRp0Mghl7zudv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Configuration Management?",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/microservices/microservices-architecture/configuration-management"
+                          },
+                          {
+                              "title":  "What is configuration management? - RedHat",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/automation/what-is-configuration-management"
+                          },
+                          {
+                              "title":  "Why You Need to Learn Configuration Management",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9In7ysQJGBs"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "h9vVPOmdUSeEGVQQaSTH5",
+        "label":  "Ansible",
+        "endpoint":  "https://roadmap.sh/devops/topic@h9vVPOmdUSeEGVQQaSTH5.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Ansible Full Course for Beginners",
+                              "type":  "course",
+                              "url":  "https://www.youtube.com/watch?v=9Ua2b06oAr4"
+                          },
+                          {
+                              "title":  "Ansible Website",
+                              "type":  "official",
+                              "url":  "https://www.ansible.com/"
+                          },
+                          {
+                              "title":  "Ansible in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=xRMPKQweySE"
+                          },
+                          {
+                              "title":  "Ansible Full Course to Zero to Hero",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=GROqwFFLl3s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "kv508kxzUj_CjZRb-TeRv",
+        "label":  "Chef",
+        "endpoint":  "https://roadmap.sh/devops/topic@kv508kxzUj_CjZRb-TeRv.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Chef Website",
+                              "type":  "official",
+                              "url":  "https://www.chef.io/products/chef-infra"
+                          },
+                          {
+                              "title":  "Chef",
+                              "type":  "opensource",
+                              "url":  "https://github.com/chef/chef"
+                          },
+                          {
+                              "title":  "Chef Tutorial",
+                              "type":  "article",
+                              "url":  "https://www.tutorialspoint.com/chef/index.htm"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yP1y8U3eblpzbaLiCGliU",
+        "label":  "Puppet",
+        "endpoint":  "https://roadmap.sh/devops/topic@yP1y8U3eblpzbaLiCGliU.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Puppet Full Course | Learn Puppet Training",
+                              "type":  "course",
+                              "url":  "https://www.youtube.com/watch?v=Ns_tRKD20c4"
+                          },
+                          {
+                              "title":  "Puppet Website",
+                              "type":  "official",
+                              "url":  "https://puppet.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "aQJaouIaxIJChM-40M3HQ",
+        "label":  "CI / CD Tools",
+        "endpoint":  "https://roadmap.sh/devops/topic@aQJaouIaxIJChM-40M3HQ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CI vs CD",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment"
+                          },
+                          {
+                              "title":  "What is CI/CD?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/devops/what-is-ci-cd"
+                          },
+                          {
+                              "title":  "DevOps CI/CD Explained in 100 Seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=scEDHsr3APg"
+                          },
+                          {
+                              "title":  "CI/CD In 5 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=42UP1fxi2SY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JnWVCS1HbAyfCJzGt-WOH",
+        "label":  "GitHub Actions",
+        "endpoint":  "https://roadmap.sh/devops/topic@JnWVCS1HbAyfCJzGt-WOH.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitHub Actions Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.github.com/en/actions"
+                          },
+                          {
+                              "title":  "GitHub Actions Guide",
+                              "type":  "article",
+                              "url":  "https://octopus.com/devops/github-actions/?utm_source=roadmap\u0026utm_medium=link\u0026utm_campaign=devops-ci-cd-github-actions"
+                          },
+                          {
+                              "title":  "What is GitHub Actions?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=URmeTqglS58"
+                          },
+                          {
+                              "title":  "Automate your Workflow with GitHub Actions",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nyKZTKQS_EQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "2KjSLLVTvl2G2KValw7S7",
+        "label":  "GitLab CI",
+        "endpoint":  "https://roadmap.sh/devops/topic@2KjSLLVTvl2G2KValw7S7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GitLab Website",
+                              "type":  "official",
+                              "url":  "https://gitlab.com/"
+                          },
+                          {
+                              "title":  "GitLab Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.gitlab.com/"
+                          },
+                          {
+                              "title":  "GitLab CI/CD Pipeline Tutorial",
+                              "type":  "article",
+                              "url":  "https://octopus.com/devops/gitlab/gitlab-cicd-tutorial/?utm_source=roadmap\u0026utm_medium=link\u0026utm_campaign=devops-ci-cd-gitlab-ci"
+                          },
+                          {
+                              "title":  "GitLab CI/CD Pipeline Tutorial for Beginners (2024)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=z7nLsJvEyMY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dUapFp3f0Rum-rf_Vk_b-",
+        "label":  "Jenkins",
+        "endpoint":  "https://roadmap.sh/devops/topic@dUapFp3f0Rum-rf_Vk_b-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Jenkins Website",
+                              "type":  "official",
+                              "url":  "https://www.jenkins.io/"
+                          },
+                          {
+                              "title":  "Jenkins Getting Started Guide",
+                              "type":  "official",
+                              "url":  "https://www.jenkins.io/doc/pipeline/tour/getting-started/"
+                          },
+                          {
+                              "title":  "Jenkins Tutorial",
+                              "type":  "article",
+                              "url":  "https://octopus.com/devops/jenkins/jenkins-tutorial/?utm_source=roadmap\u0026utm_medium=link\u0026utm_campaign=devops-ci-cd-gitlab-ci"
+                          },
+                          {
+                              "title":  "Learn Jenkins! Complete Jenkins Course - Zero to Hero",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=6YZvp2GwT0A"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1-JneOQeGhox-CKrdiquq",
+        "label":  "Circle CI",
+        "endpoint":  "https://roadmap.sh/devops/topic@1-JneOQeGhox-CKrdiquq.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CircleCI Website",
+                              "type":  "official",
+                              "url":  "https://circleci.com/"
+                          },
+                          {
+                              "title":  "CircleCI Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=_XaYv9zvHUk"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "TsXFx1wWikVBVoFUUDAMx",
+        "label":  "Octopus Deploy",
+        "endpoint":  "https://roadmap.sh/devops/topic@TsXFx1wWikVBVoFUUDAMx.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Octopus Deploy Docs",
+                              "type":  "official",
+                              "url":  "https://octopus.com/docs"
+                          },
+                          {
+                              "title":  "Getting Started",
+                              "type":  "official",
+                              "url":  "https://octopus.com/docs/getting-started"
+                          },
+                          {
+                              "title":  "Octopus Deploy Fundamentals",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VnX3NAtKauI\u0026list=PLAGskdGvlaw268i2ZTPC1ZrxwFjjKIdKH"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "L000AbzF3oLcn4B1eUIYX",
+        "label":  "TeamCity",
+        "endpoint":  "https://roadmap.sh/devops/topic@L000AbzF3oLcn4B1eUIYX.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "TeamCity Documentation",
+                              "type":  "official",
+                              "url":  "https://www.jetbrains.com/help/teamcity/teamcity-documentation.html"
+                          },
+                          {
+                              "title":  "TeamCity Tutorials",
+                              "type":  "official",
+                              "url":  "https://www.jetbrains.com/teamcity/tutorials/"
+                          },
+                          {
+                              "title":  "CI/CD with JetBrains TeamCity",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=zqi4fDF-S60"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hcrPpjFxPi_iLiMdLKJrO",
+        "label":  "Secret Management",
+        "endpoint":  "https://roadmap.sh/devops/topic@hcrPpjFxPi_iLiMdLKJrO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "CI/CD Secret Exposure: Hands-on Exercise",
+                              "type":  "course",
+                              "url":  "https://ransomleak.com/exercises/cicd-secret-exposure/"
+                          },
+                          {
+                              "title":  "How to Manage Secrets in Web Applications?",
+                              "type":  "article",
+                              "url":  "https://cs.fyi/guide/secret-management-best-practices"
+                          },
+                          {
+                              "title":  "Why DevSecOps Teams Need Secrets Management",
+                              "type":  "article",
+                              "url":  "https://www.keepersecurity.com/blog/2023/01/26/why-devsecops-teams-need-secrets-management/"
+                          },
+                          {
+                              "title":  "DevOps Tricks for Managing Secrets in Production",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=u_L-f7Th_7o"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ZWq23Q9ZNxLNti68oltxA",
+        "label":  "Sealed Secrets",
+        "endpoint":  "https://roadmap.sh/devops/topic@ZWq23Q9ZNxLNti68oltxA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "bitnami/sealed-secrets",
+                              "type":  "opensource",
+                              "url":  "https://github.com/bitnami-labs/sealed-secrets"
+                          },
+                          {
+                              "title":  "Sealed Secrets",
+                              "type":  "article",
+                              "url":  "https://fluxcd.io/flux/guides/sealed-secrets/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "yQ4d2uiROZYr950cjYnQE",
+        "label":  "Cloud Specific Tools",
+        "endpoint":  "https://roadmap.sh/devops/topic@yQ4d2uiROZYr950cjYnQE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS Secrets Manager - Amazon Web Services",
+                              "type":  "article",
+                              "url":  "https://aws.amazon.com/secrets-manager/"
+                          },
+                          {
+                              "title":  "Google Cloud Secret Manager - Google Cloud",
+                              "type":  "article",
+                              "url":  "https://cloud.google.com/secret-manager"
+                          },
+                          {
+                              "title":  "Azure Key Vault - Microsoft Azure",
+                              "type":  "article",
+                              "url":  "https://azure.microsoft.com/en-us/services/key-vault/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "tZzvs80KzqT8aDvEyjack",
+        "label":  "Vault",
+        "endpoint":  "https://roadmap.sh/devops/topic@tZzvs80KzqT8aDvEyjack.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "HashiCorp Vault",
+                              "type":  "official",
+                              "url":  "https://www.vaultproject.io/"
+                          },
+                          {
+                              "title":  "hashicorp/vault",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/vault"
+                          },
+                          {
+                              "title":  "HashiCorp Vault Explained in 180 seconds",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=nG8fCdWkLzc"
+                          },
+                          {
+                              "title":  "HashiCorp Vault Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ae72pKpXe-s"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "GHQWHLxsO40kJ6z_YCinJ",
+        "label":  "SOPs",
+        "endpoint":  "https://roadmap.sh/devops/topic@GHQWHLxsO40kJ6z_YCinJ.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "SOPs Website",
+                              "type":  "official",
+                              "url":  "https://getsops.io"
+                          },
+                          {
+                              "title":  "getsops/sops",
+                              "type":  "opensource",
+                              "url":  "https://github.com/getsops/sops"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "qqRLeTpuoW64H9LvY0U_w",
+        "label":  "Infrastructure Monitoring",
+        "endpoint":  "https://roadmap.sh/devops/topic@qqRLeTpuoW64H9LvY0U_w.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Best Practices to Optimize Infrastructure Monitoring within DevOps Teams",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/best-practices-to-optimize-infrastructure-monitoring-within-devops-teams/"
+                          },
+                          {
+                              "title":  "Seven Steps to Effective Cloud Native Infrastructure Monitoring",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/seven-steps-to-effective-cloud-native-infrastructure-monitoring/"
+                          },
+                          {
+                              "title":  "Infrastructure Monitoring Basics with Telegraf, Grafana and InfluxDB",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ESub4SAKouI"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "W9sKEoDlR8LzocQkqSv82",
+        "label":  "Zabbix",
+        "endpoint":  "https://roadmap.sh/devops/topic@W9sKEoDlR8LzocQkqSv82.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Zabbix Website",
+                              "type":  "official",
+                              "url":  "https://www.zabbix.com/"
+                          },
+                          {
+                              "title":  "Zabbix Documentation",
+                              "type":  "official",
+                              "url":  "https://www.zabbix.com/manuals"
+                          },
+                          {
+                              "title":  "How to Monitor EVERYTHING in your HomeLab for free - Zabbix Overview",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=R_EQzBkz4sE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "NiVvRbCOCDpVvif48poCo",
+        "label":  "Prometheus",
+        "endpoint":  "https://roadmap.sh/devops/topic@NiVvRbCOCDpVvif48poCo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prometheus Website",
+                              "type":  "official",
+                              "url":  "https://prometheus.io/"
+                          },
+                          {
+                              "title":  "Introduction to the Prometheus Monitoring System | Key Concepts and Features",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=STVMGrYIlfg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "bujq_C-ejtpmk-ICALByy",
+        "label":  "Datadog",
+        "endpoint":  "https://roadmap.sh/devops/topic@bujq_C-ejtpmk-ICALByy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Datadog Website",
+                              "type":  "official",
+                              "url":  "https://www.datadoghq.com/"
+                          },
+                          {
+                              "title":  "Datadog Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.datadoghq.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "niA_96yR7uQ0sc6S_OStf",
+        "label":  "Grafana",
+        "endpoint":  "https://roadmap.sh/devops/topic@niA_96yR7uQ0sc6S_OStf.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Grafana",
+                              "type":  "official",
+                              "url":  "https://grafana.com/"
+                          },
+                          {
+                              "title":  "Grafana Webinars and Videos",
+                              "type":  "official",
+                              "url":  "https://grafana.com/videos/"
+                          },
+                          {
+                              "title":  "Server Monitoring // Prometheus and Grafana Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=9TJx7QTrTyo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "gaoZjOYmU0J5aM6vtLNvN",
+        "label":  "Logs Management",
+        "endpoint":  "https://roadmap.sh/devops/topic@gaoZjOYmU0J5aM6vtLNvN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Log Management: What DevOps Teams Need to Know",
+                              "type":  "official",
+                              "url":  "https://devops.com/log-management-what-devops-teams-need-to-know/"
+                          },
+                          {
+                              "title":  "Introduction to Logs Management",
+                              "type":  "article",
+                              "url":  "https://sematext.com/guides/log-management"
+                          },
+                          {
+                              "title":  "Logging for Kubernetes: What to Log and How to Log It",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/logging-for-kubernetes-what-to-log-and-how-to-log-it/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K_qLhK2kKN_uCq7iVjqph",
+        "label":  "Elastic Stack",
+        "endpoint":  "https://roadmap.sh/devops/topic@K_qLhK2kKN_uCq7iVjqph.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit the Dedicated Elasticsearch Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/elasticsearch"
+                          },
+                          {
+                              "title":  "Elastic Stack",
+                              "type":  "official",
+                              "url":  "https://www.elastic.co/elastic-stack/"
+                          },
+                          {
+                              "title":  "Logstash vs Fluentd",
+                              "type":  "article",
+                              "url":  "https://logz.io/blog/fluentd-logstash/"
+                          },
+                          {
+                              "title":  "Master the Elastic Stack: Elastic Stack Overview",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=CfCTWVAwFbQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "s_kss4FJ2KyZRdcKNHK2v",
+        "label":  "Graylog",
+        "endpoint":  "https://roadmap.sh/devops/topic@s_kss4FJ2KyZRdcKNHK2v.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Graylog Website",
+                              "type":  "official",
+                              "url":  "https://www.graylog.org/"
+                          },
+                          {
+                              "title":  "Product Videos",
+                              "type":  "official",
+                              "url":  "https://www.graylog.org/resources-videos"
+                          },
+                          {
+                              "title":  "Graylog2/graylog2-server",
+                              "type":  "opensource",
+                              "url":  "https://github.com/Graylog2/graylog2-server"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "dZID_Y_uRTF8JlfDCqeqs",
+        "label":  "Splunk",
+        "endpoint":  "https://roadmap.sh/devops/topic@dZID_Y_uRTF8JlfDCqeqs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Splunk Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.splunk.com/Documentation"
+                          },
+                          {
+                              "title":  "Splunk Videos",
+                              "type":  "official",
+                              "url":  "https://www.splunk.com/en_us/resources/videos.html"
+                          },
+                          {
+                              "title":  "Splunk Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=3CiRs6WaWaU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "cjjMZdyLgakyVkImVQTza",
+        "label":  "Papertrail",
+        "endpoint":  "https://roadmap.sh/devops/topic@cjjMZdyLgakyVkImVQTza.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Papertrail Guides",
+                              "type":  "official",
+                              "url":  "https://www.papertrail.com/solution/guides/"
+                          },
+                          {
+                              "title":  "Papertrail Blog",
+                              "type":  "official",
+                              "url":  "https://www.papertrail.com/blog/"
+                          },
+                          {
+                              "title":  "SolarWinds Papertrail Overview",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=lx3UyNSn8AQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Yq8kVoRf20aL_o4VZU5--",
+        "label":  "Container Orchestration",
+        "endpoint":  "https://roadmap.sh/devops/topic@Yq8kVoRf20aL_o4VZU5--.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Container Orchestration?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/containers/what-is-container-orchestration"
+                          },
+                          {
+                              "title":  "What is Kubernetes?",
+                              "type":  "article",
+                              "url":  "https://kubernetes.io/docs/tutorials/kubernetes-basics/"
+                          },
+                          {
+                              "title":  "Docker Swarm",
+                              "type":  "article",
+                              "url":  "https://docs.docker.com/engine/swarm/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XbrWlTyH4z8crSHkki2lp",
+        "label":  "GKE / EKS / AKS",
+        "endpoint":  "https://roadmap.sh/devops/topic@XbrWlTyH4z8crSHkki2lp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GKE",
+                              "type":  "official",
+                              "url":  "https://cloud.google.com/kubernetes-engine"
+                          },
+                          {
+                              "title":  "EKS",
+                              "type":  "official",
+                              "url":  "https://aws.amazon.com/eks/"
+                          },
+                          {
+                              "title":  "AKS",
+                              "type":  "official",
+                              "url":  "https://azure.microsoft.com/en-us/products/kubernetes-service/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "FE2h-uQy6qli3rKERci1j",
+        "label":  "AWS ECS / Fargate",
+        "endpoint":  "https://roadmap.sh/devops/topic@FE2h-uQy6qli3rKERci1j.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "AWS - Fargate Docs",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html"
+                          },
+                          {
+                              "title":  "AWS - ECS Docs",
+                              "type":  "official",
+                              "url":  "https://docs.aws.amazon.com/ecs/"
+                          },
+                          {
+                              "title":  "Amazon ECS: AWS Fargate Overview",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=yi22xrvPnPk"
+                          },
+                          {
+                              "title":  "AWS ECS Tutorial",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=esISkPlnxL0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "VD24HC9qJOC42lbpJ-swC",
+        "label":  "Docker Swarm",
+        "endpoint":  "https://roadmap.sh/devops/topic@VD24HC9qJOC42lbpJ-swC.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Docker Swarm Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.docker.com/engine/swarm/"
+                          },
+                          {
+                              "title":  "Tutorial: Manage Docker Swarm with Portainer",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/tutorial-manage-docker-swarm-with-portainer/"
+                          },
+                          {
+                              "title":  "Tutorial: Create a Docker Swarm with Persistent Storage Using GlusterFS",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/tutorial-create-a-docker-swarm-with-persistent-storage-using-glusterfs/"
+                          },
+                          {
+                              "title":  "Docker Swarm | Introduction | Step By Step Examples",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=Xaea-XnJTJU"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "zuBAjrqQPjj-0DHGjCaqT",
+        "label":  "Artifact Management",
+        "endpoint":  "https://roadmap.sh/devops/topic@zuBAjrqQPjj-0DHGjCaqT.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What are Artifacts - Oracle",
+                              "type":  "article",
+                              "url":  "https://docs.oracle.com/en-us/iaas/Content/devops/using/artifacts.htm"
+                          },
+                          {
+                              "title":  "What is an Artifact - Atlassian",
+                              "type":  "article",
+                              "url":  "https://support.atlassian.com/bitbucket-cloud/docs/use-artifacts-in-steps/"
+                          },
+                          {
+                              "title":  "Learn about GitLab Artifacts and Cache",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=gEfsCU-Sj1g"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "C_sFyIsIIpriZlovvcbSE",
+        "label":  "Artifactory",
+        "endpoint":  "https://roadmap.sh/devops/topic@C_sFyIsIIpriZlovvcbSE.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Artifactory Website",
+                              "type":  "official",
+                              "url":  "https://jfrog.com/artifactory/"
+                          },
+                          {
+                              "title":  "Key Features of JFrog Artifactory in 5 Minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=LoTyOSCssvM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "ootuLJfRXarVvm3J1Ir11",
+        "label":  "Nexus",
+        "endpoint":  "https://roadmap.sh/devops/topic@ootuLJfRXarVvm3J1Ir11.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Using Nexus Repository",
+                              "type":  "article",
+                              "url":  "https://help.sonatype.com/en/using-nexus-repository.html"
+                          },
+                          {
+                              "title":  "Nexus Best Practices",
+                              "type":  "article",
+                              "url":  "https://help.sonatype.com/repomanager3/nexus-repository-best-practices"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "vsmE6EpCc2DFGk1YTbkHS",
+        "label":  "Cloud Smith",
+        "endpoint":  "https://roadmap.sh/devops/topic@vsmE6EpCc2DFGk1YTbkHS.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Cloud Smith",
+                              "type":  "official",
+                              "url":  "https://cloudsmith.com/"
+                          },
+                          {
+                              "title":  "Cloud Smith Product Overview",
+                              "type":  "official",
+                              "url":  "https://cloudsmith.com/product/"
+                          },
+                          {
+                              "title":  "Intro to Cloud Smith",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=wVtRfpjKqBM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "-INN1qTMLimrZgaSPCcHj",
+        "label":  "GitOps",
+        "endpoint":  "https://roadmap.sh/devops/topic@-INN1qTMLimrZgaSPCcHj.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is GitOps",
+                              "type":  "article",
+                              "url":  "https://octopus.com/devops/gitops/?utm_source=roadmap\u0026utm_medium=link\u0026utm_campaign=devops-gitops"
+                          },
+                          {
+                              "title":  "GitOps Interactive Benefits Diagram",
+                              "type":  "article",
+                              "url":  "https://octopus.com/devops/gitops/interactive-diagrams/?utm_source=roadmap\u0026utm_medium=link\u0026utm_campaign=devops-gitops"
+                          },
+                          {
+                              "title":  "GitOps Maturity Model",
+                              "type":  "article",
+                              "url":  "https://octopus.com/devops/gitops/gitops-maturity-model/?utm_source=roadmap\u0026utm_medium=link\u0026utm_campaign=devops-gitops"
+                          },
+                          {
+                              "title":  "What is GitOps, How GitOps works and Why it\u0027s so useful",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=f5EpcWp0THw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "i-DLwNXdCUUug6lfjkPSy",
+        "label":  "ArgoCD",
+        "endpoint":  "https://roadmap.sh/devops/topic@i-DLwNXdCUUug6lfjkPSy.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Argo CD - Argo Project",
+                              "type":  "official",
+                              "url":  "https://argo-cd.readthedocs.io/en/stable/"
+                          },
+                          {
+                              "title":  "ArgoCD Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=MeU5_k9ssrs"
+                          },
+                          {
+                              "title":  "What is ArgoCD",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=p-kAqxuJNik"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "6gVV_JUgKgwJb4C8tHZn7",
+        "label":  "FluxCD",
+        "endpoint":  "https://roadmap.sh/devops/topic@6gVV_JUgKgwJb4C8tHZn7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Flux CD",
+                              "type":  "official",
+                              "url":  "https://fluxcd.io/flux/"
+                          },
+                          {
+                              "title":  "Introduction to Flux CD on Kubernetes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=X5W_706-jSY"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+                            {
+                                "_id":  "6aa85301aca636c6b9ea3812",
+                                "title":  "Git Fundamentals",
+                                "slug":  "git",
+                                "description":  "Learn enough Git to work confidently on real projects with a team.",
+                                "lessonIds":  [
+                                                  "6a625327effd34ff20f8a208",
+                                                  "6a717778c84807390820f0f8",
+                                                  "6a72085bc84807390820f4b1",
+                                                  "6a722356c84807390820f5d6",
+                                                  "6a722e52c84807390820f619",
+                                                  "6a72368fc84807390820f68f",
+                                                  "6a723d13c84807390820f6bf",
+                                                  "6a7249acc84807390820f71d",
+                                                  "6a724cd1c84807390820f778",
+                                                  "6a724fa2c84807390820f794",
+                                                  "6a72536fc84807390820f7b6",
+                                                  "6a7258f6c84807390820f7cc",
+                                                  "6a725cd0c84807390820f7e2",
+                                                  "6a7260e1c84807390820f80a"
+                                              ],
+                                "projectIds":  [
+
+                                               ],
+                                "featuredImage":  "",
+                                "readingTime":  138,
+                                "lessonCount":  14,
+                                "quizCount":  0,
+                                "projectCount":  0
+                            }
+                        ]
+    },
+    {
+        "id":  "EeWsihH9ehbFKebYoB5i9",
+        "label":  "Service Mesh",
+        "endpoint":  "https://roadmap.sh/devops/topic@EeWsihH9ehbFKebYoB5i9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What\u0027s a Service Mesh?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh"
+                          },
+                          {
+                              "title":  "The Latest News About Service Mesh (TNS)",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/category/service-mesh/"
+                          },
+                          {
+                              "title":  "Istio \u0026 Service Mesh - Simply Explained in 15 mins",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=16fgzklcF7Y"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "XsSnqW6k2IzvmrMmJeU6a",
+        "label":  "Istio",
+        "endpoint":  "https://roadmap.sh/devops/topic@XsSnqW6k2IzvmrMmJeU6a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Istio?",
+                              "type":  "article",
+                              "url":  "https://www.redhat.com/en/topics/microservices/what-is-istio"
+                          },
+                          {
+                              "title":  "Istio Service Mesh Explained",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=6zDrLvpfCK4"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "OXOTm3nz6o44p50qd0brN",
+        "label":  "Consul",
+        "endpoint":  "https://roadmap.sh/devops/topic@OXOTm3nz6o44p50qd0brN.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "What is Consul?",
+                              "type":  "official",
+                              "url":  "https://www.consul.io/docs/intro"
+                          },
+                          {
+                              "title":  "Consul Guides",
+                              "type":  "opensource",
+                              "url":  "https://github.com/hashicorp/consul-guides"
+                          },
+                          {
+                              "title":  "Consul Service Mesh Tutorial for Beginners",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=s3I1kKKfjtQ"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hhoSe4q1u850PgK62Ubau",
+        "label":  "Linkerd",
+        "endpoint":  "https://roadmap.sh/devops/topic@hhoSe4q1u850PgK62Ubau.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Linkerd Website",
+                              "type":  "official",
+                              "url":  "https://linkerd.io/"
+                          },
+                          {
+                              "title":  "What is Linkerd?",
+                              "type":  "article",
+                              "url":  "https://www.techtarget.com/searchitoperations/definition/Linkerd"
+                          },
+                          {
+                              "title":  "What is the Linkerd service mesh?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=up3fKwXdEgc"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "epLLYArR16HlhAS4c33b4",
+        "label":  "Envoy",
+        "endpoint":  "https://roadmap.sh/devops/topic@epLLYArR16HlhAS4c33b4.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Envoy",
+                              "type":  "official",
+                              "url":  "https://www.envoyproxy.io/"
+                          },
+                          {
+                              "title":  "envoyproxy/envoy",
+                              "type":  "opensource",
+                              "url":  "https://github.com/envoyproxy/envoy"
+                          },
+                          {
+                              "title":  "What is Envoy?",
+                              "type":  "article",
+                              "url":  "https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Qc0MGR5bMG9eeM5Zb9PMk",
+        "label":  "Cloud Design Patterns",
+        "endpoint":  "https://roadmap.sh/devops/topic@Qc0MGR5bMG9eeM5Zb9PMk.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "30 Cloud Design Patterns in depth",
+                              "type":  "course",
+                              "url":  "https://www.youtube.com/watch?v=cxYHugyNTP0"
+                          },
+                          {
+                              "title":  "Cloud Design Patterns",
+                              "type":  "official",
+                              "url":  "https://learn.microsoft.com/en-us/azure/architecture/patterns/"
+                          },
+                          {
+                              "title":  "Cloud design patterns, architectures, and implementations",
+                              "type":  "article",
+                              "url":  "https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JCe3fcOf-sokTJURyX1oI",
+        "label":  "Availability",
+        "endpoint":  "https://roadmap.sh/devops/topic@JCe3fcOf-sokTJURyX1oI.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Defining Availability, Maintainability and Reliability in SRE",
+                              "type":  "article",
+                              "url":  "https://devops.com/defining-availability-maintainability-and-reliability-in-sre/"
+                          },
+                          {
+                              "title":  "Techniques for Achieving High Availability",
+                              "type":  "article",
+                              "url":  "https://www.sqlservercentral.com/articles/cloud-computing-basics-achieving-high-availability-2"
+                          },
+                          {
+                              "title":  "SLIs, SLOs, SLAs, oh my! (class SRE implements DevOps)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=tEylFyxbDLE"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "5FN7iva4DW_lv-r1tijd8",
+        "label":  "Data Management",
+        "endpoint":  "https://roadmap.sh/devops/topic@5FN7iva4DW_lv-r1tijd8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Data management patterns",
+                              "type":  "article",
+                              "url":  "https://docs.microsoft.com/en-us/azure/architecture/patterns/category/data-management"
+                          },
+                          {
+                              "title":  "What is Master Data Management",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=l83bkKJh1wM"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1_NRXjckZ0F8EtEmgixqz",
+        "label":  "Design and Implementation",
+        "endpoint":  "https://roadmap.sh/devops/topic@1_NRXjckZ0F8EtEmgixqz.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Design and Implementation Patterns",
+                              "type":  "article",
+                              "url":  "https://docs.microsoft.com/en-us/azure/architecture/patterns/category/design-implementation"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8kby89epyullS9W7uKDrs",
+        "label":  "Management and Monitoring",
+        "endpoint":  "https://roadmap.sh/devops/topic@8kby89epyullS9W7uKDrs.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Management and Monitoring Get Started Guide",
+                              "type":  "article",
+                              "url":  "https://www.atlassian.com/devops/devops-tools/devops-monitoring"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "w2eCgBC-ydMHSxh7LMti8",
+        "label":  "Loki",
+        "endpoint":  "https://roadmap.sh/devops/topic@w2eCgBC-ydMHSxh7LMti8.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Loki",
+                              "type":  "official",
+                              "url":  "https://grafana.com/oss/loki/"
+                          },
+                          {
+                              "title":  "Loki Documentation",
+                              "type":  "official",
+                              "url":  "https://grafana.com/docs/loki/latest/?pg=oss-loki\u0026plcmt=quick-links"
+                          },
+                          {
+                              "title":  "Meet Grafana LOKI, a Log Aggregation System for EVERYTHING",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=h_GGd7HfKQ8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "hIBeTUiAI3zwUY6NgAO-A",
+        "label":  "Kubernetes",
+        "endpoint":  "https://roadmap.sh/devops/topic@hIBeTUiAI3zwUY6NgAO-A.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Visit Dedicated Kubernetes Roadmap",
+                              "type":  "roadmap",
+                              "url":  "https://roadmap.sh/kubernetes"
+                          },
+                          {
+                              "title":  "Kubernetes Website",
+                              "type":  "official",
+                              "url":  "https://kubernetes.io/"
+                          },
+                          {
+                              "title":  "kubernetes/kubernetes",
+                              "type":  "opensource",
+                              "url":  "https://github.com/kubernetes/kubernetes"
+                          },
+                          {
+                              "title":  "Kubernetes: An Overview",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/kubernetes-an-overview/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "JXsctlXUUS1ie8nNEgIk9",
+        "label":  "GCP Functions",
+        "endpoint":  "https://roadmap.sh/devops/topic@JXsctlXUUS1ie8nNEgIk9.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "GCP Cloud Functions Overview",
+                              "type":  "official",
+                              "url":  "https://cloud.google.com/functions/docs/concepts/overview"
+                          },
+                          {
+                              "title":  "GCP Cloud Functions Tutorial",
+                              "type":  "article",
+                              "url":  "https://antonputra.com/google/google-cloud-functions-tutorial/"
+                          },
+                          {
+                              "title":  "Cloud Functions in a minute",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=BL4ZlPEamDo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "wNguM6-YEznduz3MgBCYo",
+        "label":  "Observability",
+        "endpoint":  "https://roadmap.sh/devops/topic@wNguM6-YEznduz3MgBCYo.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Applying Basic vs. Advanced Monitoring Techniques",
+                              "type":  "article",
+                              "url":  "https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/"
+                          },
+                          {
+                              "title":  "Application Monitoring - 4 Golden Signals",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=PHcnmTdVPT0"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "8rd7T5ahK2I_zh5co-IF-",
+        "label":  "Jaeger",
+        "endpoint":  "https://roadmap.sh/devops/topic@8rd7T5ahK2I_zh5co-IF-.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Jaeger",
+                              "type":  "official",
+                              "url":  "https://www.jaegertracing.io/"
+                          },
+                          {
+                              "title":  "Jaeger Documentation",
+                              "type":  "official",
+                              "url":  "https://www.jaegertracing.io/docs/latest"
+                          },
+                          {
+                              "title":  "jaegertracing/jaeger",
+                              "type":  "opensource",
+                              "url":  "https://github.com/jaegertracing/jaeger"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "pk76Us6z8LoX3f0mhnCyR",
+        "label":  "New Relic",
+        "endpoint":  "https://roadmap.sh/devops/topic@pk76Us6z8LoX3f0mhnCyR.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "New Relic",
+                              "type":  "official",
+                              "url":  "https://newrelic.com/"
+                          },
+                          {
+                              "title":  "New Relic Platform Demo",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=8kx7nRGVJRg"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "BHny2Emf96suhAlltiEro",
+        "label":  "Datadog",
+        "endpoint":  "https://roadmap.sh/devops/topic@BHny2Emf96suhAlltiEro.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Datadog Website",
+                              "type":  "official",
+                              "url":  "https://www.datadoghq.com/"
+                          },
+                          {
+                              "title":  "Datadog Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.datadoghq.com/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "eOyu4wmKOrcMlhD8pUGGh",
+        "label":  "Prometheus",
+        "endpoint":  "https://roadmap.sh/devops/topic@eOyu4wmKOrcMlhD8pUGGh.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Prometheus Website",
+                              "type":  "official",
+                              "url":  "https://prometheus.io/"
+                          },
+                          {
+                              "title":  "Prometheus Documentation",
+                              "type":  "official",
+                              "url":  "https://prometheus.io/docs/introduction/overview/"
+                          },
+                          {
+                              "title":  "Getting Started with Prometheus",
+                              "type":  "official",
+                              "url":  "https://prometheus.io/docs/tutorials/getting_started/"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "K81bmtgnB1gfhYdi3TB5a",
+        "label":  "OpenTelemetry",
+        "endpoint":  "https://roadmap.sh/devops/topic@K81bmtgnB1gfhYdi3TB5a.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "OpenTelemetry Website",
+                              "type":  "official",
+                              "url":  "https://opentelemetry.io/"
+                          },
+                          {
+                              "title":  "OpenTelemetry Documentation",
+                              "type":  "official",
+                              "url":  "https://opentelemetry.io/docs/"
+                          },
+                          {
+                              "title":  "What is OpenTelemetry?",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=mUA-uzk94ro"
+                          },
+                          {
+                              "title":  "OpenTelemetry Course - Understand Software Performance",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=r8UvWSX3KA8"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "lUUJAEBrGJvL8dRs2n1GD",
+        "label":  "ESO",
+        "endpoint":  "https://roadmap.sh/devops/topic@lUUJAEBrGJvL8dRs2n1GD.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "External Secrets Operator",
+                              "type":  "official",
+                              "url":  "https://external-secrets.io/latest/"
+                          },
+                          {
+                              "title":  "External Secrets Operator",
+                              "type":  "opensource",
+                              "url":  "https://github.com/external-secrets/external-secrets"
+                          },
+                          {
+                              "title":  "External Secrets Operator Tutorial for Kubernetes Secret Management (2025)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=1mjgLcQgSCo"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "4aJVaimsuvGIPXMZ_WjaA",
+        "label":  "Dynatrace",
+        "endpoint":  "https://roadmap.sh/devops/topic@4aJVaimsuvGIPXMZ_WjaA.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Dynatrace Documentation",
+                              "type":  "official",
+                              "url":  "https://docs.dynatrace.com/docs"
+                          },
+                          {
+                              "title":  "What is Dynatrace in 15 minutes",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=qo6vjyE-Ak0"
+                          },
+                          {
+                              "title":  "Dynatrace Fundamental Tutorials",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=F2PvOaM5Iws\u0026list=PLDhScTEBdP8yAgvshsI_TwWvH2FCiOtd5"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "Kumwd6XOlEMeDohDH0q9P",
+        "label":  "Salt",
+        "endpoint":  "https://roadmap.sh/devops/topic@Kumwd6XOlEMeDohDH0q9P.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Salt Docs",
+                              "type":  "official",
+                              "url":  "https://docs.saltproject.io/salt/install-guide/en/latest/"
+                          },
+                          {
+                              "title":  "Salt in 10 Minutes",
+                              "type":  "official",
+                              "url":  "https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html"
+                          },
+                          {
+                              "title":  "Salt",
+                              "type":  "opensource",
+                              "url":  "https://github.com/saltstack/salt"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "3GryoQuI67JTHg9r3xUHO",
+        "label":  "OpenShift",
+        "endpoint":  "https://roadmap.sh/devops/topic@3GryoQuI67JTHg9r3xUHO.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Red Hat OpenShift",
+                              "type":  "official",
+                              "url":  "https://www.redhat.com/en/technologies/cloud-computing/openshift"
+                          },
+                          {
+                              "title":  "Getting Started with Red Hat OpenShift in 2025!",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=hnYDrVl-Mzw"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "DjDR8Yn5Q55NvoihElj7m",
+        "label":  "Render",
+        "endpoint":  "https://roadmap.sh/devops/topic@DjDR8Yn5Q55NvoihElj7m.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Render Docs",
+                              "type":  "official",
+                              "url":  "https://render.com/docs"
+                          },
+                          {
+                              "title":  "Quickstarts",
+                              "type":  "official",
+                              "url":  "https://render.com/docs#quickstarts"
+                          },
+                          {
+                              "title":  "From GitHub to Production in Minutes with Render",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=VyxA3mlvo84"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "e0CIteRMxc0DydKEJnMhp",
+        "label":  "Railway",
+        "endpoint":  "https://roadmap.sh/devops/topic@e0CIteRMxc0DydKEJnMhp.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Railway Docs",
+                              "type":  "article",
+                              "url":  "https://docs.railway.com/"
+                          },
+                          {
+                              "title":  "CI/CD for Modern Deployment: From Manual Deploys to PR Environments",
+                              "type":  "article",
+                              "url":  "https://blog.railway.com/p/cicd-for-modern-deployment-from-manual-deploys-to-pr-environments"
+                          },
+                          {
+                              "title":  "Automatic CI/CD pipeline by Railway APP. (On git merge)",
+                              "type":  "video",
+                              "url":  "https://www.youtube.com/watch?v=ISnObP7-k04"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    },
+    {
+        "id":  "1du8Q2pRZM82ri6jBy5T7",
+        "label":  "Buildkite",
+        "endpoint":  "https://roadmap.sh/devops/topic@1du8Q2pRZM82ri6jBy5T7.json",
+        "status":  "retrieved",
+        "resources":  [
+                          {
+                              "title":  "Buildkite Docs",
+                              "type":  "official",
+                              "url":  "https://buildkite.com/docs"
+                          },
+                          {
+                              "title":  "Getting Started with Buildkite",
+                              "type":  "official",
+                              "url":  "https://buildkite.com/docs/tutorials/getting-started"
+                          }
+                      ],
+        "paidResources":  [
+
+                          ],
+        "inlineLinks":  [
+
+                        ],
+        "lessonPacks":  [
+
+                        ]
+    }
+]
