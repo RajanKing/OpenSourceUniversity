@@ -83,6 +83,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 001 — Introduction|Day 001 chapter]] · Sunny Desk v0.1.0 (quest-log CLI, 7 tests executed — [[fde by onepiece/06 Sunny Desk/README|repo]]) · [[fde by onepiece/08 Cheat Sheets/CS-001 — Introduction|CS-001 cheat sheet]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/Post 001 — What Is a Forward Deployed Engineer|Post 001 (LinkedIn)]]
+- Observed result: all 4 syllabus concepts taught in the chapter's Coverage Ledger (✅ 4/4); adoption metric instrument live — 3 quests villager-logged, 0 crew-logged at first reading; Sunny Desk tests executed 2026-10-25 (7/7 → now 12/12 suite).
+- Remaining gap: learner's own engagement brief (chapter's Assignment Orders) still open; mastery checkboxes unticked pending learner artifacts.

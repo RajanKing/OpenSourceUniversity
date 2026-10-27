@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "next_id": 4,
+  "quests": [
+    {
+      "id": 1,
+      "title": "Figurehead cracked in the storm",
+      "requester": "Makino",
+      "status": "open",
+      "created_at": "2026-10-26T18:09:57+00:00",
+      "impact": "Shop sign falls on customers in the next storm"
+    },
+    {
+      "id": 2,
+      "title": "Supply shed door off its hinges",
+      "requester": "Mayor Woop Slap",
+      "status": "open",
+      "created_at": "2026-10-26T18:09:57+00:00",
+      "impact": "Shed cannot lock overnight; tools walk away",
+      "tag": "door"
+    },
+    {
+      "id": 3,
+      "title": "Well rope frayed near the square",
+      "requester": "Makino",
+      "status": "open",
+      "created_at": "2026-10-26T18:09:57+00:00",
+      "impact": "Village loses its only square well if it snaps",
+      "tag": "well"
+    }
+  ]
+}

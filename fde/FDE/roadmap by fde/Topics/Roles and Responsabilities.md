@@ -77,6 +77,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 003 — Roles and Responsabilities|Day 003 chapter]] · [[fde by onepiece/06 Sunny Desk/RESPONSIBILITIES|RESPONSIBILITIES.md]] (signed six-row matrix + prototype clause) · v0.1.2 named-closure feature · [[fde by onepiece/08 Cheat Sheets/CS-003 — Roles and Responsabilities|CS-003 cheat sheet]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V003 — Roles and Responsibilities|Post V003 (LinkedIn)]]
+- Observed result: all 5 syllabus concepts taught (Coverage Ledger ✅ 5/5); the applied exercise shipped as a real signed artifact; 12/12 tests executed 2026-10-25 incl. closure refusals (unknown id, double-close).
+- Remaining gap: Makino's silence test (unaided restart) scheduled but not yet run — handover movement "introduced", not "demonstrated"; matrix's unannounced-owner test pending.

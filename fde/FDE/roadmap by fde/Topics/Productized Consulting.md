@@ -77,6 +77,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 009 — Productized Consulting|Day 009 chapter]] · [[fde by onepiece/06 Sunny Desk/OFFERING|OFFERING.md]] (the page, signed by Foosha's mayor) · Sunny Desk v0.1.8 (`demo` seed — the engagement repeatable in one command, 26/26 tests executed) · [[fde by onepiece/06 Sunny Desk/DELTA_LEDGER|D-002 filed]] (two harbors, third-harbor tripwire) · [[fde by onepiece/08 Cheat Sheets/CS-009 — Productized Consulting|CS-009]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V009 — Productized Consulting|Post V009 (LinkedIn)]]
+- Observed result: all 5 syllabus concepts taught (Coverage Ledger ✅ 5/5) and shipped as the page + crate + ledger entry; the Applied Exercise (audit design) is the chapter's assignment with rubric; Evidence of Mastery enacted — the engagement repeats (demo seed) with consistent artifacts (the crate) and explicit exceptions (the exclusions page).
+- Remaining gap: learner's own audit design open; Foosha's delivery is contracted (post-festival) — the second *run* of the method, which is what proves the page; kit config tooling deferred to Saga 2.

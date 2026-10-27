@@ -77,6 +77,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 002 — From X to FDE|Day 002 chapter]] · [[fde by onepiece/06 Sunny Desk/SKILLS_AUDIT|SKILLS_AUDIT.md]] + [[fde by onepiece/06 Sunny Desk/CASE_STUDY|CASE_STUDY.md]] (evidence-based audit + first case study) · [[fde by onepiece/08 Cheat Sheets/CS-002 — From X to FDE|CS-002 cheat sheet]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V002 — From X to FDE|Post V002 (LinkedIn)]]
+- Observed result: all 5 syllabus concepts taught (Coverage Ledger ✅ 5/5); v0.1.1 impact feature shipped with 9/9 tests executed (now 12/12 suite); the applied exercise demonstrated via the crew's own case study of Days 1–2.
+- Remaining gap: learner's own past-project case study (Assignment Orders) open; JD triage practiced on live postings but not yet archived as artifacts.

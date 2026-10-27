@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627" role="img" aria-label="Post header template: series label, post number, and title lines over a navy background with a gold route line">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f3a"/>
+      <stop offset="1" stop-color="#123156"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="627" fill="url(#bg)"/>
+  <!-- EDIT: route line position per post family if desired -->
+  <path d="M 0 560 C 300 480, 700 600, 1200 470" fill="none" stroke="#e8b64c" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 14" opacity="0.8"/>
+  <!-- series label chip -->
+  <rect x="80" y="96" width="360" height="52" rx="26" fill="none" stroke="#e8b64c" stroke-width="2.5"/>
+  <text x="110" y="130" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#e8b64c">FDE SERIES · PART 000</text>
+  <!-- EDIT: title lines (max ~9 words per line) -->
+  <text x="80" y="260" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="bold" fill="#ffffff">Title line one goes here,</text>
+  <text x="80" y="345" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="bold" fill="#ffffff">title line two goes here</text>
+  <!-- EDIT: one-line subtitle -->
+  <text x="80" y="425" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#c9d6e8">One-sentence promise of the post goes here</text>
+  <rect x="80" y="455" width="120" height="4" fill="#e8b64c"/>
+</svg>

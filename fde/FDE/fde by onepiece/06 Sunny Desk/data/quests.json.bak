@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "next_id": 5,
+  "quests": [
+    {
+      "id": 1,
+      "title": "Figurehead cracked in the storm",
+      "requester": "Makino",
+      "status": "done",
+      "created_at": "2026-10-25T18:02:43+00:00",
+      "closed_at": "2026-10-25T18:28:59+00:00",
+      "closed_by": "Makino",
+      "close_note": "Carpenter fixed the figurehead; inspected the mount"
+    },
+    {
+      "id": 2,
+      "title": "Supply shed door off its hinges",
+      "requester": "Mayor Woop Slap",
+      "status": "open",
+      "created_at": "2026-10-25T18:02:43+00:00"
+    },
+    {
+      "id": 3,
+      "title": "Well rope frayed near the square",
+      "requester": "Makino",
+      "impact": "Village loses its only square well if it snaps; ~40 villagers carry water from the far spring",
+      "status": "open",
+      "created_at": "2026-10-25T18:16:42+00:00"
+    },
+    {
+      "id": 4,
+      "title": "Duplicate quest: rope near square reported again",
+      "requester": "Smithy",
+      "status": "open",
+      "created_at": "2026-10-25T19:13:43+00:00",
+      "impact": "Crew fixes the same job twice; villagers stop trusting the board",
+      "tag": "duplicate"
+    }
+  ]
+}

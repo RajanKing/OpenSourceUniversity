@@ -73,6 +73,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 005 — Delta|Day 005 chapter]] · [[fde by onepiece/06 Sunny Desk/DELTA_LEDGER|DELTA_LEDGER.md]] (D-001 filed + four-sense glossary annex, stamped) · Sunny Desk v0.1.4 (tags + top_tags, 15/15 tests executed) · [[fde by onepiece/08 Cheat Sheets/CS-005 — Delta|CS-005]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V005 — Delta|Post V005 (LinkedIn)]]
+- Observed result: all 4 syllabus concepts taught (Coverage Ledger ✅ 4/4); the Applied Exercise (glossary entry) demonstrated as the annex and assigned with tiers; first field delta filed with instrument live.
+- Remaining gap: learner's own glossary entry + one real sense-verification open; D-001 awaits its third independent site (Sunday-read follow-up).

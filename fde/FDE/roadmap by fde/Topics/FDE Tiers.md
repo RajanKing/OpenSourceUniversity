@@ -77,6 +77,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 004 — FDE Tiers|Day 004 chapter]] · Sunny Desk v0.1.3 (`stats` — evidence read automated, pure `summarize()`, 14/14 tests executed) · [[fde by onepiece/08 Cheat Sheets/CS-004 — FDE Tiers|CS-004 cheat sheet]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V004 — FDE Tiers|Post V004 (LinkedIn)]]
+- Observed result: all 5 syllabus concepts taught (Coverage Ledger ✅ 5/5); the applied exercise (3-JD comparison) runs as the chapter's Assignment Orders with rubric; tests executed 2026-10-25.
+- Remaining gap: learner's own three-posting comparison artifact open; crew's own tier placement is honest-T1 ("Tier 1 crew with Tier 3 paperwork") pending the adjacent-domain hop ("second village") planned post-saga.

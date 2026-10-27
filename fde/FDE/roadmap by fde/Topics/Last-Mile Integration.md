@@ -77,6 +77,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 007 — Last-Mile Integration|Day 007 chapter]] · [[fde by onepiece/06 Sunny Desk/SHED_LINK|SHED_LINK.md]] (the five-artifact treaty, signed by the *user of the other system*: Chief T./Makino/Mayor) · Sunny Desk v0.1.6 (`export` shed board, 19/19 tests executed) · [[fde by onepiece/08 Cheat Sheets/CS-007 — Last-Mile Integration|CS-007]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V007 — Last-Mile Integration|Post V007 (LinkedIn)]]
+- Observed result: all 5 syllabus concepts taught (Coverage Ledger ✅ 5/5) and shipped as the treaty's five artifacts; the Applied Exercise (sandbox + tenant identity + approval-before-update) is the chapter's assignment with an auto-fail condition; Evidence of Mastery enacted — Chief T. completes the real task in his own workflow (he pins the board).
+- Remaining gap: learner's own sandbox exercise open; reconciliation is live but manual by design (first festival-eve full pass pending); B-2 (role separation) still filed with trigger.

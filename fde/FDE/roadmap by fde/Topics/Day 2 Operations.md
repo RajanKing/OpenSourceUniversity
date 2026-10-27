@@ -75,6 +75,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 008 — Day 2 Operations|Day 008 chapter]] · [[fde by onepiece/06 Sunny Desk/RUNBOOK|RUNBOOK.md v3]] (four playbooks + roster + rehearsal log + escalation line) · Sunny Desk v0.1.7 (`doctor`, 23/23 tests executed incl. staged corruption) · [[fde by onepiece/08 Cheat Sheets/CS-008 — Day-2 Operations|CS-008]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V008 — Day 2 Operations|Post V008 (LinkedIn)]]
+- Observed result: all 6 syllabus concepts taught (Coverage Ledger ✅ 6/6); the Applied Exercise rehearsed for real — four staged incidents (6/9/7/5 min) run **unaided by a non-builder** (the silence test, thread open since Day 3, closed); restore drilled with independent verification (RPO=1 day, RTO=11 min); the operator's gap-finding authored the escalation line.
+- Remaining gap: learner's own four-playbook rehearsal open; final full rehearsal scheduled Day 10 (festival version); offsite backup envelope queued post-festival.

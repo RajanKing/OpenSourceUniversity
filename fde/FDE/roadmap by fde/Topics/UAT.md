@@ -77,6 +77,6 @@ The following are additional local study connections, separate from the original
 
 ### My Evidence
 
-- Artifact:
-- Observed result:
-- Remaining gap:
+- Artifact: [[fde by onepiece/02 Voyage Log/Day 006 — UAT|Day 006 chapter]] · [[fde by onepiece/06 Sunny Desk/UAT_SESSION|UAT_SESSION.md]] (four blocks, 8 criteria, 4 dispositioned blockers, tri-signed with festival conditions) · Sunny Desk v0.1.5 (`show`, 17/17 tests executed) · [[fde by onepiece/08 Cheat Sheets/CS-006 — UAT|CS-006]] · [[fde by onepiece/07 LinkedIn Blog/10 Posts/V006 — UAT|Post V006 (LinkedIn)]]
+- Observed result: all 5 syllabus concepts taught (Coverage Ledger ✅ 5/5); the Applied Exercise (five cases × three roles) demonstrated as the Makino session with recorded outcomes and escalations; Evidence of Mastery shipped as the signed sheet.
+- Remaining gap: learner's own five-case session open; Makino's post-festival re-review + pre-festival re-test conditions pending; truth/siege courts declared but not yet convened (later islands).

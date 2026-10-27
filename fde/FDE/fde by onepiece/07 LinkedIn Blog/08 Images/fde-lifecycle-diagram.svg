@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="The four-phase FDE lifecycle: Discovery produces an engagement brief, Implementation produces a tested working increment, Deployment runs where the work happens and is observed, Handover transfers ownership with a runbook and named owner; lessons feed back to the product team throughout">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1f3a"/>
+      <stop offset="1" stop-color="#123156"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="600" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="40" font-weight="bold" fill="#ffffff">The FDE owns the whole lifecycle</text>
+  <text x="600" y="110" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#c9d6e8">An outcome, not a task list — each phase leaves a checkable artifact</text>
+
+  <!-- four phase cards -->
+  <g>
+    <rect x="70" y="170" width="240" height="330" rx="14" fill="#152f52" stroke="#e8b64c" stroke-width="2.5"/>
+    <text x="190" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#e8b64c">1</text>
+    <text x="190" y="275" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">Discovery</text>
+    <text x="190" y="325" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">Learn the real</text>
+    <text x="190" y="352" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">workflow &amp; its</text>
+    <text x="190" y="379" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">bottleneck</text>
+    <rect x="110" y="420" width="160" height="46" rx="8" fill="#e8b64c"/>
+    <text x="190" y="450" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#0b1f3a" font-weight="bold">Artifact: brief</text>
+  </g>
+  <g>
+    <rect x="360" y="170" width="240" height="330" rx="14" fill="#152f52" stroke="#e8b64c" stroke-width="2.5"/>
+    <text x="480" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#e8b64c">2</text>
+    <text x="480" y="275" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">Implementation</text>
+    <text x="480" y="325" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">Smallest system</text>
+    <text x="480" y="352" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">that changes the</text>
+    <text x="480" y="379" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">workflow</text>
+    <rect x="400" y="420" width="160" height="46" rx="8" fill="#e8b64c"/>
+    <text x="480" y="450" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#0b1f3a" font-weight="bold">Artifact: code+tests</text>
+  </g>
+  <g>
+    <rect x="650" y="170" width="240" height="330" rx="14" fill="#152f52" stroke="#e8b64c" stroke-width="2.5"/>
+    <text x="770" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#e8b64c">3</text>
+    <text x="770" y="275" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">Deployment</text>
+    <text x="770" y="325" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">Running where</text>
+    <text x="770" y="352" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">the work happens,</text>
+    <text x="770" y="379" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">observed in use</text>
+    <rect x="690" y="420" width="160" height="46" rx="8" fill="#e8b64c"/>
+    <text x="770" y="450" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#0b1f3a" font-weight="bold">Artifact: system live</text>
+  </g>
+  <g>
+    <rect x="940" y="170" width="240" height="330" rx="14" fill="#152f52" stroke="#e8b64c" stroke-width="2.5"/>
+    <text x="1060" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#e8b64c">4</text>
+    <text x="1060" y="275" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">Handover</text>
+    <text x="1060" y="325" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">They run it</text>
+    <text x="1060" y="352" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">without you —</text>
+    <text x="1060" y="379" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#c9d6e8">and want to</text>
+    <rect x="980" y="420" width="160" height="46" rx="8" fill="#e8b64c"/>
+    <text x="1060" y="450" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#0b1f3a" font-weight="bold">Artifact: runbook+owner</text>
+  </g>
+
+  <!-- arrows between cards -->
+  <g stroke="#f4d47c" stroke-width="4" fill="none">
+    <path d="M 310 335 L 360 335"/>
+    <path d="M 600 335 L 650 335"/>
+    <path d="M 890 335 L 940 335"/>
+  </g>
+
+  <!-- feedback loop -->
+  <path d="M 1060 500 C 1060 640, 400 700, 190 520" fill="none" stroke="#e8b64c" stroke-width="3.5" stroke-dasharray="8 10"/>
+  <text x="625" y="660" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#f4d47c">Lessons feed the product — the field is the product team's best sensor</text>
+
+  <!-- failure banner -->
+  <rect x="120" y="720" width="960" height="110" rx="14" fill="#3a1520" stroke="#ff7b6b" stroke-width="2.5"/>
+  <text x="600" y="765" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#ff9d90">The classic failure: an impressive demo</text>
+  <text x="600" y="800" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#ff9d90">that never changed a real workflow</text>
+</svg>
